@@ -34,12 +34,12 @@ Wenn Sie Substance 3D Sampler nicht starten können, können Sie die Protokollda
 
 Adobe-Version:
 
-* **Windows**: C:\Users\** Benutzername**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
+* **Windows**: C:\Users\**&#x200B; Benutzername**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
 * **Mac OS**: Macintosh > Benutzer > **Benutzername** > Library > Application Support > Adobe > Adobe Substance 3D Sampler > log.txt
 
 Substance3D-Version:
 
-* **Windows**: C:\Users\** Benutzername**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
+* **Windows**: C:\Users\**&#x200B; Benutzername**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
 * **Mac OS**: Macintosh > Benutzer > **Benutzername** > Library > Application Support > Allegorithmic > Adobe Substance 3D Sampler > log.txt
 * **Linux**: /home/**Benutzername**/.local/share/Allegorithmic/Adobe Substance 3D Sampler/log.txt
 

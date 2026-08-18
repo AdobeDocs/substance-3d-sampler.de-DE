@@ -34,7 +34,7 @@ Wir verfügen über integrierte Funktionen für Photogrammmetrie. Die Fotogramme
 
 Alles, was du brauchst, ist eine Fotoreihe, die die sichtbaren Oberflächen eines Objekts einfängt - ein Smartphone oder eine DLSR-Kamera funktionieren hervorragend.
 
-Entdecken Sie hier ](../features-and-workflows/3d-capture.md) den Arbeitsablauf mit schrittweiser Anleitung [.
+Entdecken Sie hier [&#128279;](../features-and-workflows/3d-capture.md) den Arbeitsablauf mit schrittweiser Anleitung .
 
 ## Lichter
 

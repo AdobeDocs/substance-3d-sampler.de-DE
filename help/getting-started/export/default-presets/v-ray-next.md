@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **Diffus ****Raueit****Metalität ****Normal****Versatz****Selbstdarstellung** **Deckkraft** |
+| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **Diffus &#x200B;**&#x200B;**Raueit**&#x200B;**Metalität &#x200B;**&#x200B;**Normal**&#x200B;**Versatz**&#x200B;**Selbstdarstellung** **Deckkraft** |

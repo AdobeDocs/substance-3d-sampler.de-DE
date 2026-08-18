@@ -42,7 +42,7 @@ Bei der Aufnahme von 360 Panoramen hast du möglicherweise nicht die Kontrolle �
 
 Die Bearbeitung von Umgebungslichtern und 360-Grad-Bildern kann schwierig sein, wenn sie als normale Bilder angezeigt werden. Alle Elemente sind verzerrt, sodass eine Bearbeitung fast unmöglich ist. Mit der neuen sphärische Projektion können Sie in 360° navigieren und mit speziellen Tools wie Nadir Patch, inhaltsbasierter Füllung und allen Prozedurlichtern ohne Verzerrung bearbeiten. So ist es jetzt z. B. einfacher, gerade Linien zu bearbeiten oder zu bereinigen, das Stativ der Kamera zu entfernen und die Linienbeleuchtung perfekt zu platzieren.
 
-Sehen Sie sich dieses neue Tutorial an, um [Umgebungslichter ](https://www.youtube.com/watch?v=cfW9IyoTXQ8) mit diesem neuen Modus zu erstellen.
+Sehen Sie sich dieses neue Tutorial an, um [Umgebungslichter &#x200B;](https://www.youtube.com/watch?v=cfW9IyoTXQ8) mit diesem neuen Modus zu erstellen.
 
 ### Belichtungsregler
 

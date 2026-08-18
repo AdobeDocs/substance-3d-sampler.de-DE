@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **Diffuse ****ReflRoughness****Metalness ****Normal****Versatz ****Emission****Opacity** |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **Diffuse &#x200B;**&#x200B;**ReflRoughness**&#x200B;**Metalness &#x200B;**&#x200B;**Normal**&#x200B;**Versatz &#x200B;**&#x200B;**Emission**&#x200B;**Opacity** |
