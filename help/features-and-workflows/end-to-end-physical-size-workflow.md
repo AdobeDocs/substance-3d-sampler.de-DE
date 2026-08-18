@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
 breadcrumb-title: ''
 description: Lernen Sie, wie Sie mit Substance 3D Sampler nahtlose Physische Größen erstellen, die realitätsgetreu skaliert werden.
 helpx_creative_field: ""

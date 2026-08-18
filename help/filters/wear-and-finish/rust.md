@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: Mit dem Rost-Filter in Substance 3D Sampler lassen sich realistische Rost- und Korrosionseffekte auf Metallmaterialien und -oberflächen erzeugen.
 helpx_creative_field: ""

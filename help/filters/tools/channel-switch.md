@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channel-switch.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Kanalwechsel-Werkzeug in Substance 3D Sampler, um Farbkanäle in Texturmaps zur Materialerstellung neu anzuordnen und zu tauschen.
 helpx_creative_field: ""

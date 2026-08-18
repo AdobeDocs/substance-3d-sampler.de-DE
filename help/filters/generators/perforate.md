@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/perforate.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/perforate.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Perforate-Generator in Substance 3D Sampler, um perforierte Muster und Locharrays in Materialien und Texturen zu erstellen.
 helpx_creative_field: ""

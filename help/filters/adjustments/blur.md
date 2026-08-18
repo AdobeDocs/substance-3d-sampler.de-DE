@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Weichzeichnungsfilter in Substance 3D Sampler, um Weichzeichnungseffekte anzuwenden und die Bildschärfe in Texturen und Materialebenen zu reduzieren.
 helpx_creative_field: ""

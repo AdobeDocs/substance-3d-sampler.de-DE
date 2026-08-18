@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Generator für Sammelflächen-Nähte in Substance 3D Sampler, um Muster aus gesteppten Stoffen und Nähstrukturen für Materialien zu erstellen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/invert.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Umkehrfilter in Substance 3D Sampler, um Farbwerte umzukehren und negative Bildeffekte in Texturen und Materialien zu erzeugen.
 helpx_creative_field: ""

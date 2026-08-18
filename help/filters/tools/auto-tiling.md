@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/auto-tiling.html"
 breadcrumb-title: ''
 description: Nutze das Kachelwerkzeug in Substance 3D Sampler, um mithilfe von KI-Technologie automatisch nahtlose Kachelmuster aus Texturen zu erstellen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/moss.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/moss.html"
 breadcrumb-title: ''
 description: Mit dem Moosfilter in Substance 3D Sampler lassen sich realistische Moosblüten und organische Oberflächeneffekte erzeugen.
 helpx_creative_field: ""

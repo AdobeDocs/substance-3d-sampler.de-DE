@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/clone-stamp.html"
 breadcrumb-title: ''
 description: Mit dem Kopierstempel in Substance 3D Sampler können Sie Strukturbereiche klonen und malen, um Material nahtlos zu bearbeiten und zu reparieren.
 helpx_creative_field: ""

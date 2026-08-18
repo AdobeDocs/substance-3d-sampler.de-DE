@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/match.html"
 breadcrumb-title: ''
 description: Mit dem Abgleich-Werkzeug von Substance 3D Sampler kannst du Farben, Farbtöne und Lichter verschiedener Texturen und Materialebenen aufeinander abstimmen.
 helpx_creative_field: ""

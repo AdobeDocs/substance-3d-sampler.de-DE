@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie die Funktion "Als Bitmap verwenden" in Substance 3D Sampler verwenden, um Ebenen für eine effiziente Materialbearbeitung in das Bitmapformat zu konvertieren.
 helpx_creative_field: ""

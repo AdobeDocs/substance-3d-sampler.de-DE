@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie in Substance 3D Sampler mithilfe von Texturgeneratoren prozedurale Texturen und Muster für die Materialerstellung erstellen.
 helpx_creative_field: ""

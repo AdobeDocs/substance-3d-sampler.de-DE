@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/warp.html"
 breadcrumb-title: ''
 description: Mit dem Verformen-Werkzeug in Substance 3D Sampler können Sie Texturen und Materialebenen mit Effekten für gerichtete Verkrümmung und Verzerrung versehen.
 helpx_creative_field: ""

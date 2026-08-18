@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish.html"
 breadcrumb-title: ''
 description: Lerne, wie du in Substance 3D Sampler mit den Filtern "Abnutzung" und "Finish" Verwitterung, Alterung und Oberflächeneffekte in deine Materialien einfügst.
 helpx_creative_field: ""

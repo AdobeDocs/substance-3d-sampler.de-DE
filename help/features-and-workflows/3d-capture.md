@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/3d-capture.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/3d-capture.html"
 breadcrumb-title: ''
 description: Lerne, wie du mithilfe von 3D-Erfassungen in Substance 3D Sampler fotogrammetrische Materialien aus realen Objekten erstellst.
 helpx_creative_field: ""
@@ -40,7 +40,7 @@ Wir empfehlen:
 * 16 GB RAM. Idealerweise 32 GB und 64 GB.
 * Mindestens 10 GB Festplattenspeicher
 
-[Linux-Konfiguration](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/3d-capture-set-up-on-linux-255426606.html)
+[Linux-Konfiguration](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sadoc/3d-capture-set-up-on-linux-255426606.html)
 
 Mac
 

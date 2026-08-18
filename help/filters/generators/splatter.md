@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/splatter.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
 description: Verwende den Farbspritzer-Generator in Substance 3D Sampler, um Farbspritzer und zufällige Mustereffekte für Materialtexturen zu erstellen.
 helpx_creative_field: ""

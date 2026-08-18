@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/equalize.html"
 breadcrumb-title: ''
 description: Mit dem Filter "Tonwertangleichung" in Substance 3D Sampler lassen sich Helligkeitswerte automatisch verteilen und der Bildkontrast erhöhen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embossing.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/embossing.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Prägegenerator in Substance 3D Sampler, um geprägte Relief und erhöhte Oberflächeneffekte in Materialien zu erzeugen.
 helpx_creative_field: ""

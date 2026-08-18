@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Panorama-Ausbessern-Werkzeug in Substance 3D Sampler, um Bereiche in Panorama-HDRI-Umgebungsbildern auszubessern und zu reparieren.
 helpx_creative_field: ""

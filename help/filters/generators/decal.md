@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Aufklebergenerator in Substance 3D Sampler, um Aufklebermuster und Überlagerungstexturen für Materialoberflächen zu erstellen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
 description: Mit dem Falten-Entferner in Substance 3D Sampler können Sie Falten und Falten aus Gewebestrukturen für saubere Materialoberflächen entfernen.
 helpx_creative_field: ""

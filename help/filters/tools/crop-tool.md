@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/crop-tool.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/crop-tool.html"
 breadcrumb-title: ''
 description: Mit dem Freistellungswerkzeug in Substance 3D Sampler kannst du Texturen und Materialebenen zuschneiden und ihre Größe ändern, ohne die Abmessungen zu ändern.
 helpx_creative_field: ""

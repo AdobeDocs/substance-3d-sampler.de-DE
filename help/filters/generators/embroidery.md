@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embroidery.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/embroidery.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Stickereigenerator in Substance 3D Sampler, um gestickte Stoffmuster und Nähtexturen für Materialien zu erstellen.
 helpx_creative_field: ""

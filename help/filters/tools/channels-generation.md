@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channels-generation.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/channels-generation.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Werkzeug "Kanalliste" in Substance 3D Sampler, um Texturkanäle aus vorhandenen Maps für die Materialerstellung zu generieren.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/sharpen.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/sharpen.html"
 breadcrumb-title: ''
 description: Mit dem Scharfzeichnungsfilter in Substance 3D Sampler können Sie die Bildschärfe und Detailschärfe von Texturen und Materialebenen erhöhen.
 helpx_creative_field: ""

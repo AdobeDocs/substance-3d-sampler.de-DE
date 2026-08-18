@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Filter "Metalloberfläche" in Substance 3D Sampler, um verschiedene Metalloberflächen und Texturen auf Ihre Materialien anzuwenden.
 helpx_creative_field: ""

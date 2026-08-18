@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
 description: Verwende das Mehrwinkel zu Material-Werkzeug in Substance 3D Sampler, um Materialien aus mehreren Winkelaufnahmen einer Oberfläche zu erstellen.
 helpx_creative_field: ""

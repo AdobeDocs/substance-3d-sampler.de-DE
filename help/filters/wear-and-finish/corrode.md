@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/corrode.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/corrode.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Korrosionsfilter in Substance 3D Sampler, um Korrosion und chemische Abbaueffekte zu Metallmaterialien hinzuzufügen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Kachelwerkzeug in Substance 3D Sampler, um aus nicht kachelbaren Texturen automatisch nahtlose Kachelmuster zu erstellen.
 helpx_creative_field: ""

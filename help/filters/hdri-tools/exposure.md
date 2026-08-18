@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/exposure.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Belichtungswerkzeug in Substance 3D Sampler, um die Belichtungsstufen in HDRI-Umgebungsbildern für eine korrekte Beleuchtungsbalance anzupassen.
 helpx_creative_field: ""
