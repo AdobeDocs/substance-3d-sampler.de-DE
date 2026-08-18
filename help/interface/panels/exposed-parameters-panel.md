@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie den Bedienfeld „Veröffentlichte Parameter“ in Substance 3D Sampler verwenden, um Filterparameter für die externe Bearbeitung anzuzeigen.
 helpx_creative_field: ""

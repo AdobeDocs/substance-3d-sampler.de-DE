@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler Version 2019.1, um mehr über Projektmanagement, Verbesserungen bei Ebenenstapeln und angenehmere Updates zu erfahren.
 helpx_creative_field: ""
@@ -73,7 +73,7 @@ Der Ebenenstapel wurde von Grund auf neu erstellt, um seine Möglichkeiten und A
 
 ![](../../assets/sa-notes-viewport.jpg)
 
-Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des Viewports verbessern. Auf diese neuen Einstellungen kann im Bereich &quot;[Viewer-Einstellungen&quot; zugegriffen werden.](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
+Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des Viewports verbessern. Auf diese neuen Einstellungen kann im Bereich &quot;[Viewer-Einstellungen&quot; zugegriffen werden.](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
 
 * **Kameramodus**\
   Im Kameraprojektionsmodus können Sie zwischen Perspektive und Orthografie wählen.

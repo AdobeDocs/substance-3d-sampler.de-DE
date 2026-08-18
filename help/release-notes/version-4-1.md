@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-1.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/version-4-1.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 4.1, um mehr über den Paint Warp-Filter, die Aktualisierung des Stickfilters und die Verbesserung der 3D-Erfassung zu erfahren.
 helpx_creative_field: ""

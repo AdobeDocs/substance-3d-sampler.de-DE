@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support.html"
 breadcrumb-title: ''
 description: Greifen Sie auf technische Supportressourcen für Substance 3D Sampler zu, um Antworten auf häufig gestellte Fragen und Anleitungen zur Fehlerbehebung zu erhalten.
 helpx_creative_field: ""

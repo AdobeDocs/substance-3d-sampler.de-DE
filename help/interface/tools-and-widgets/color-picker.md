@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
 breadcrumb-title: ''
 description: Lerne, wie du mit dem Farbwähler in Substance 3D Sampler Farben für Materialien, Filter und Strukturen auswählst.
 helpx_creative_field: ""

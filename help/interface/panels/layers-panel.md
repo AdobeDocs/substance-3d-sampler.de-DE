@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Bedienfeld "Ebenen" in Substance 3D Sampler verwenden, um Filterebenen zu verwalten und komplexe Materialstapel zu erstellen.
 helpx_creative_field: ""

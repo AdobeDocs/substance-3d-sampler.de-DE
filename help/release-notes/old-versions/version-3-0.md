@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 3.0, um mehr über die Überarbeitung der Benutzeroberfläche, Umgebungslichter, Filter und die Creative Cloud-Integration zu erfahren.
 helpx_creative_field: ""
@@ -87,7 +87,7 @@ Sampler kann jetzt mit Substance 3D Painter und Stager mit nur einem Klick [Mate
 ### Neue Echtzeit-Rendering-Engine
 
 * Unterstützung von ASM-Materialien, die konsistente Looks zwischen Anwendungen mit mehr Materialkanälen ermöglichen.
-* Wechseln zwischen 2 [Echtzeit-Engines](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
+* Wechseln zwischen 2 [Echtzeit-Engines](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
 * Möglichkeit zum Steuern von Standardtexturen in einem Gitter
 
 ### Allgemeine Verbesserungen

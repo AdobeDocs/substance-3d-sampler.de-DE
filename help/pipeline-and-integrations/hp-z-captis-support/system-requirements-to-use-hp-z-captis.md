@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.html"
 breadcrumb-title: ''
 description: Prüfen Sie die Systemanforderungen für die Verwendung von HP Z Captis mit Substance 3D Sampler, um die Hardware- und Softwarekompatibilität sicherzustellen.
 helpx_creative_field: ""

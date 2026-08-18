@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Bedienfeld "Kanaleinstellungen" in Substance 3D Sampler verwenden, um Materialkanäle zu verwalten und die Kanalsichtbarkeit zu steuern.
 helpx_creative_field: ""

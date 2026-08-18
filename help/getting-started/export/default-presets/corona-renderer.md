@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/corona-renderer.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/corona-renderer.html"
 breadcrumb-title: ''
 description: Lerne, wie du in Substance 3D Sampler Materialien mithilfe des Renderers "Corona" für Workflows zur Visualisierung von Architekturen exportieren kannst.
 helpx_creative_field: ""

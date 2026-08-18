@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/sidebars.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über die linken und rechten Seitenleisten in der Benutzeroberfläche von Substance 3D Sampler, um zu Werkzeugen, Bedienfeldern und Anwendungsfunktionen zu navigieren.
 helpx_creative_field: ""

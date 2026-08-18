@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/importing-resources.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/importing-resources.html"
 breadcrumb-title: ''
 description: Erfahre, wie du Ressourcen wie Bilder und Substance-Dateien in Substance 3D Sampler importierst, um deine Workflows zur Materialerstellung zu verbessern.
 helpx_creative_field: ""

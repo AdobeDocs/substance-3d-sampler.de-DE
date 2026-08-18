@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-visual-artefacts.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-visual-artefacts.html"
 breadcrumb-title: ''
 description: Erfahre, wie du in Substance 3D Sampler visuelle Artefakte in "Bild zu Material" korrigieren kannst, um Farb- und Qualitätsprobleme zu beheben.
 helpx_creative_field: ""

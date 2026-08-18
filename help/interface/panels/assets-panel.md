@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Bedienfeld "Elemente" in Substance 3D Sampler verwenden, um Ihre Materialelemente und Ressourcen zu durchsuchen, zu organisieren und darauf zuzugreifen.
 helpx_creative_field: ""

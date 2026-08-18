@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export.html"
 breadcrumb-title: ''
 description: Lerne, wie du Substance 3D Sampler-Materialien in verschiedenen Formaten und Vorgaben exportieren kannst, um sie in anderen Programmen und Engines zu verwenden.
 helpx_creative_field: ""
@@ -45,5 +45,5 @@ Erfahren Sie mehr über das Exportieren und Verwalten von Exportvorgaben:
 
 * [Exportfenster](../../getting-started/export/export-window/export-window.md)
 * [Standardvorgaben](../../getting-started/export/default-presets/default-presets.md)
-* [Verwalten benutzerdefinierter Vorgaben](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
+* [Verwalten benutzerdefinierter Vorgaben](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
 * [Verwalten von Vorgaben](managing-presets.md)
