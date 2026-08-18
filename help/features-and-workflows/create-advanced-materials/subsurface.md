@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Kanäle unter der Oberfläche eignen sich für undurchsichtige, aber lichtdurchlässige Materialien, die den Effekt der Lichtstreuung unter der Oberfläche des Materials nachahmen. Dieser Effekt tritt häufig bei Materialien wie Haut, Blättern und vielen Kunststoffen auf. Sehen Sie sich das folgende Video an, um mehr über die Parameter der Untergrundfläche zu erfahren und sie zu verwenden, um ein Harzmaterial zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483521)
+>[!VIDEO](https://video.tv.adobe.com/v/3483552?captions=ger)

@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Wie der Name schon sagt, können Sie mit Beschichtungskanälen Ihrem Material eine Beschichtung hinzufügen. Beschichtungen können einen eigenen Rauhigkeitswert aufweisen, der die Grundrauhigkeit des Materials beeinflusst und so zu Effekten wie einer lackierten oder polierten Oberfläche beiträgt. Sehen Sie sich das folgende Video an, um zu erfahren, wie Sie den Beschichtungskanal in Sampler verwenden, um ein lackiertes Parkettbodenmaterial von Grund auf neu zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483521)
+>[!VIDEO](https://video.tv.adobe.com/v/3483552?captions=ger)
