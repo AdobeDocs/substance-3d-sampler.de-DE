@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **BaseColor ****Raueit****Metalität****Normal** (OpenGL)**Versatz ****Emissiv**** Deckkraft** |
+| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **BaseColor &#x200B;**&#x200B;**Raueit**&#x200B;**Metalität**&#x200B;**Normal** (OpenGL)**Versatz &#x200B;**&#x200B;**Emissiv**&#x200B;**&#x200B; Deckkraft** |

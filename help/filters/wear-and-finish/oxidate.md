@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Fügen Sie eine Oxidationsschicht auf der Oberseite Ihres Materials hinzu.*Auf eine zerknitterte Oberfläche wird der **Oxidationsfilter**angewendet.*
+Fügen Sie eine Oxidationsschicht auf der Oberseite Ihres Materials hinzu.*Auf eine zerknitterte Oberfläche wird der **Oxidationsfilter**&#x200B;angewendet.*
 
 <table>
 <tr style="border: 0;">

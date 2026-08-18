@@ -141,6 +141,6 @@ Drücken Sie Strg + Klicken in der 2D-Ansicht, um eine neue Quelle hinzuzufügen
 
 | Aktion | Windows + Linux | MacOS |
 | --- | --- | --- |
-| Pinselgröße vergrößern | ] oder Strg + Mausrad | ] oder Befehl + Mausrad |
-| Pinselgröße verkleinern | [ oder Strg + Mausrad | [ oder Befehl + Mausrad |
+| Pinselgröße vergrößern | &rbrack; oder Strg + Mausrad | &rbrack; oder Befehl + Mausrad |
+| Pinselgröße verkleinern | &lbrack; oder Strg + Mausrad | &lbrack; oder Befehl + Mausrad |
 | Quelle festlegen. | Strg + Linksklick | Cmd + Linksklick |

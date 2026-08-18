@@ -28,7 +28,7 @@ ht-degree: 0%
 
 <b>Die Blende</b> ist die komplexeste Kameraeinstellung. Daher erläutern wir sie in diesem Benutzerhandbuch in der Tiefe.
 
-Sie möchten sich diesen Leitfaden lieber als Video-Tutorial ansehen? Sie finden ihn hier [](https://youtu.be/kFZ71ZWuap0?si=MDuvyO9w96rFpsQ9 "Blende und Fokus in der 3D-Erfassung").
+Sie möchten sich diesen Leitfaden lieber als Video-Tutorial ansehen? Sie finden ihn hier [&#128279;](https://youtu.be/kFZ71ZWuap0?si=MDuvyO9w96rFpsQ9 "Blende und Fokus in der 3D-Erfassung").
 
 ![](../assets/focus-manually-3d-capture.png)
 

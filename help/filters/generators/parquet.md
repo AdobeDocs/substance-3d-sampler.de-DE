@@ -35,7 +35,7 @@ ht-degree: 0%
 
 Wandle dein Material in einen Parkettboden um.
 
-*Ein Holzmaterial, das mit dem **Parkettfilter**in ein Parkettmuster konvertiert wurde.*
+*Ein Holzmaterial, das mit dem **Parkettfilter**&#x200B;in ein Parkettmuster konvertiert wurde.*
 
 <table>
 <tr style="border: 0;">
