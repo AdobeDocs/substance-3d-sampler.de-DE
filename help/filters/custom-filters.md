@@ -40,7 +40,7 @@ Exportieren Sie den Filter als Substance-Archivdatei (.SBSAR)
 
 >[!NOTE]
 >
-> Sie können Filterparameter verfügbar machen, um den Filter direkt in Sampler zu steuern. Weitere Informationen zu [hier](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> Sie können Filterparameter verfügbar machen, um den Filter direkt in Sampler zu steuern. Weitere Informationen zu [hier](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
 
 #### Erstellen von Filtern zum Ändern von Bildern
 

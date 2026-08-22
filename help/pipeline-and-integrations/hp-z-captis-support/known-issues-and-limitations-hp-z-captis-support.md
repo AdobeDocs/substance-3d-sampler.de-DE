@@ -29,5 +29,5 @@ ht-degree: 0%
 * Wenn Sie das Fenster während einer Aufnahme schließen, gehen die ausgefüllten Metadaten verloren.
 * Wenn Sie während der Übertragung der Daten von Captis über USB auf eine der Schaltflächen &quot;Inhalt durchsuchen&quot; oder &quot;Herunterfahren&quot; klicken, wird die Übertragung beendet.
 
-* Wenn Sie TDR-Probleme haben, lesen Sie bitte [diese Dokumentationsseite](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash) von Substance Painter, die Ihnen bei der Behebung helfen sollte.
+* Wenn Sie TDR-Probleme haben, lesen Sie bitte [diese Dokumentationsseite](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash) von Substance Painter, die Ihnen bei der Behebung helfen sollte.
 * Wenn der Schritt &quot;Vorschau&quot; vollständig schwarz ist, anstatt den Live-Feed im Gerät anzuzeigen, stellen Sie sicher, dass Sie die Objektivkappe vom Inneren des Gerätekegels entfernt haben.
