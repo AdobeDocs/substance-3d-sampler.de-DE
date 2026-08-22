@@ -95,7 +95,7 @@ Im Folgenden finden Sie eine Liste der von der Anwendung unterstützten Hardware
 
 Im Folgenden finden Sie eine Liste der erforderlichen Mindestversionen von GPU-Treibern, damit die Anwendung problemlos ausgeführt werden kann. Diese Liste kann sich mit der Veröffentlichung neuer Versionen ändern.
 
-Informationen zum Herunterladen neuer Treiber finden Sie unter: [GPU hat veraltete Treiber](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
+Informationen zum Herunterladen neuer Treiber finden Sie unter: [GPU hat veraltete Treiber](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
 
 | Betriebssystem | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |
