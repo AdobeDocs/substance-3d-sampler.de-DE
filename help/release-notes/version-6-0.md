@@ -4,10 +4,10 @@ description: Lesen Sie die Versionshinweise für Substance 3D Sampler 6.0, um me
 title: Version 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: fe26cb37891204d5b93265643c23d8e717b3d524
+source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
 workflow-type: tm+mt
-source-wordcount: '1357'
-ht-degree: 2%
+source-wordcount: '1627'
+ht-degree: 1%
 
 ---
 
@@ -60,9 +60,49 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 
 ## V6.0 - Versionshinweise
 
+### **6.0.3**
+
+*(Freigegeben: 24. August 2026)*
+
+**Fest:**
+
+[Rendern] Stellen Sie einen temporären Workaround für fehlerhafte NVIDIA-Treiber wieder her.
+
+### **6.0.2**
+
+*(Freigegeben: 25. Juni 2026)*
+
+**Hinzugefügt:**
+
+* &lbrack;Assets&rbrack; Überprüfen Sie die sbsar-Version und warnen Sie Benutzer ist die Engine zu alt, um sie zu lesen
+* &lbrack;Captis&rbrack; Option &quot;Zurück&quot; hinzufügen, um die Kapitelphotometrie in den Voreinstellungen zu speichern
+
+**Fest:**
+
+* &lbrack;2D Ansicht&rbrack; Nicht mit physischem Verhältnis anzeigen, wenn Physische Größe deaktiviert ist
+* &lbrack;Analyse&rbrack; Fehlende Analyseereignisse
+* &lbrack;Analyse&rbrack; Verhindern Sie Abstürze, um einen Absturz auf vk-Geräten zu meldenListe
+* &lbrack;Anwendung&rbrack; Zerstören Sie keine vkdevices beim Beenden, um einen Absturz des nvidia-Treibers zu vermeiden
+* &lbrack;Anwendung&rbrack; Verknüpfte Sammlungs-Watcher-Ausgang + Kanal-Manager reparieren
+* &lbrack;Anwendung&rbrack; Absturz beim Beenden verhindern
+* &lbrack;Inhalt&rbrack; Filter &quot;Metal-Finish&quot; wirkt sich nicht auf die Metallisierung aus
+* &lbrack;Inhalt&rbrack; Physische Größe zu dynamischen Filtern hinzufügen, wenn sie fehlt
+* &lbrack;Filter&rbrack; Entfernen des inhaltsbasierten Füllens aus der Liste &quot;Ausgeblendete Elemente&quot;
+* &lbrack;Layers&rbrack; Durch Klicken auf &quot;Alle Einstellungen zurücksetzen&quot; wird die Dropdown-Liste &quot;Betrifft&quot; nicht zurückgesetzt
+* &lbrack;Layers&rbrack; Minimale und maximale Anpassung für Positions-Widget
+* &lbrack;Layers&rbrack; Filter richtig aktualisieren
+* &lbrack;Physische Größe&rbrack; Sorgen Sie mit dynamischen Filtern dafür, dass die physische Skalierung überall funktioniert, und machen Sie die physische Größe ok.
+* &lbrack;Projekt&rbrack; Sicherstellen, dass die Standardauflösung für Assets (2K x 2K) beim Erstellen eines neuen Assets festgelegt ist
+* &lbrack;Projekt&rbrack; Aktuelles Projekt, mit dem die vorherige Version geöffnet wurde, erneut öffnen
+* &lbrack;Projekt&rbrack; Sampler bietet nicht mehr an, eine Sicherung beschädigter Projekte wiederherzustellen.
+* &lbrack;Rendering&rbrack; Miniaturansicht des Materials mit einer maximalen Auflösung von 2k rendern
+* &lbrack;UI&rbrack; Defensiver Code zur Vermeidung von Abstürzen, wenn der Benutzer schneller als die Benutzeroberfläche ist
+
+### **6.0.1**
+
 *(Freigegeben: 16. April 2026)*
 
-## Hinzugefügt:
+**Hinzugefügt:**
 
 * [3D-Ansicht] Stellen Standardgitter im USD-Format bereit.
 * [Anwendung] Erkennen von Verwendungen in einem Material, das im aktuellen Materialmodell nicht verfügbar ist
@@ -110,7 +150,7 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 * [UI] Suchimplementierung in der Ausgabe der Kanalliste
 * [UI] Beim Speichern eines Snapshots in einer Datei eine Benachrichtigung anzeigen
 
-## Fest:
+**Fest:**
 
 * [2D-Ansicht] Ordnen Sie die 2D-Ansicht gemäß dem Ergebnisverwendungsindex in der Spezifikation an
 * [Anwendung] Beheben eines Absturzes beim Start
@@ -194,7 +234,7 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 * [UI] Kanaleinstellungen beim Anpassen der Verwendung eines Bildes aktualisieren
 * [UI] Aktualisieren der Formulierung im Popup-Fenster zur Materialmodell-Konvertierung
 
-## Entfernt:
+## Entfernt
 
 * [UI] Menüelement &quot;3D-Erfassung entfernen&quot;
 * [UI] Generatives AI-Bedienfeld entfernen
