@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.html"
 breadcrumb-title: ''
 description: Hier erfahren Sie, wie Sie Probleme mit der Benutzeroberflächenverzögerung in Substance 3D Sampler beheben, die durch alte Wacom-Treiber oder andere Kompatibilitätsprobleme verursacht werden.
 helpx_creative_field: ""

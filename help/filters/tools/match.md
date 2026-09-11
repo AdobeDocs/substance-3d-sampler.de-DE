@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/match.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
 breadcrumb-title: ''
-description: Mit dem Abgleich-Werkzeug von Substance 3D Sampler kannst du Farben, Farbtöne und Lichter verschiedener Texturen und Materialebenen aufeinander abstimmen.
+description: Mit dem Anpassen-Werkzeug von Substance 3D Sampler kannst du Farben, Farbtöne und Lichtebenen von einem Material auf das andere oder von einer Textur auf eine andere abgleichen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Match
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Mit dem **Match-Filter** können Sie die Farbe und Raueit Ihres Materials mit ausgewählten Parametern oder einem anderen Material abgleichen.
+Mit dem **Match-Filter** können Sie die Farbe und Rauheit Ihres Materials mit ausgewählten Parametern oder einem anderen Material abgleichen.
 
-Die folgenden Bilder zeigen den **Match-Filter**, der verwendet wird, um ein Kohlenstofffasermaterial durch Anpassen der Grundfarbe in gemustertes Gold zu konvertieren.
+Die folgenden Bilder zeigen den **Übereinstimmungsfilter**, der verwendet wird, um ein Kohlenstoffaser-Material durch Anpassen der Grundfarbe in gemustertes Gold zu konvertieren.
 
 <table>
 <tr style="border: 0;">
@@ -61,25 +61,25 @@ Die folgenden Bilder zeigen den **Match-Filter**, der verwendet wird, um ein Koh
 **Basisparameter**
 
 * **Zielmodus**:\
-  Wählen Sie, ob Sie ein Eingabematerial oder benutzerdefinierte Parameter verwenden möchten. Verfügbare Parameter hängen davon ab, welcher **Zielmodus** ausgewählt ist.
+  Wählen Sie aus, ob die Eingabe mit einem Material oder benutzerdefinierten Parametern übereinstimmen soll. Verfügbare Parameter hängen davon ab, welcher **Zielmodus** ausgewählt ist.
   * **Eingabe**
     * **Radius**: 0-50\
       Anpassen des Radius des abgeglichenen Bereichs
     * **Vorgaben**:\
-      Wählen Sie aus, ob nur die Farbe oder sowohl die Farbe als auch die Raueit angepasst werden sollen. Durch diese Auswahl wird geändert, welche Optionen in **Erweiterte Parameter** verfügbar sind.
+      Wählen Sie aus, ob nur die Farbe oder sowohl die Farbe als auch die Rauheit übereinstimmen sollen. Durch diese Auswahl wird geändert, welche Optionen in **Erweiterte Parameter** verfügbar sind.
   * **Parameter**
     * **Vorgaben**:\
-      Wählen Sie aus, ob nur die Farbe oder sowohl die Farbe als auch die Raueit angepasst werden sollen. Durch diese Auswahl wird geändert, welche Optionen in **Erweiterte Parameter** verfügbar sind.
+      Wählen Sie aus, ob nur die Farbe oder sowohl die Farbe als auch die Rauheit übereinstimmen sollen. Durch diese Auswahl wird geändert, welche Optionen in **Erweiterte Parameter** verfügbar sind.
     * **Grundfarbe**: Farbauswahl\
       Passende Farbe auswählen.
     * **Raueit**: 0-1\
-      Anpassen der Raueit
+      Rauheit anpassen.
 
 **Erweiterte Parameter**
 
 * **Eingabetabelle**: Knebel\
   Aktivieren Sie diese Option, wenn die Eingabekacheln die Übereinstimmung an den Rändern des Materials verbessern sollen.
 * **Grundfarbe - Ziel abgleichen**: 0-1\
-  Stärke der Grundfarbenanpassung anpassen
-* **Raueit - Übereinstimmendes Ziel**: 0-1\
-  Stärke der Raueitsanpassung anpassen.
+  Anpassen der Stärke der Grundfarbenanpassung
+* **Rauheit - Übereinstimmendes Ziel**: 0-1\
+  Anpassen der Stärke der Rauheit

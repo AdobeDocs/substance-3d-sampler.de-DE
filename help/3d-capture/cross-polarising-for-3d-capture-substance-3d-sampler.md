@@ -32,7 +32,7 @@ Sie möchten mehr über dieses Thema in einem Video-Tutorial erfahren? Finden Si
 
 ![](../assets/polarized-lens-3d-capture.png)
 
-Trifft Licht auf eine Oberfläche, wird es in der Regel diffus reflektiert, springt gleichmäßig und verleiht der Oberfläche ihren farblichen Look. Je nach Oberflächenrauhigkeit kann jedoch etwas Licht direkt auf dein Auge oder deine Kamera reflektiert werden. Diese <b>Specular-Reflexion</b> ändert sich je nach Betrachtungswinkel.
+Trifft Licht auf eine Oberfläche, wird es in der Regel diffus reflektiert, springt gleichmäßig und verleiht der Oberfläche ihren farblichen Look. Je nach Rauheit der Wasseroberfläche kann jedoch etwas Licht direkt in Richtung des Auges oder der Kamera reflektiert werden. Diese <b>Specular-Reflexion</b> ändert sich je nach Betrachtungswinkel.
 
 Bei der Photogrammmetrie werden visuelle Muster und Elemente zwischen Fotos ausgerichtet. Es wird davon ausgegangen, dass sich das Aussehen eines Objekts nicht bei jedem aufeinander folgenden Foto ändert. Also, Specular-Reflexion ist hier ein unerwünschter Effekt. Ein Lightcase-Objekt hat vielleicht nur eine reflektierende Beschichtung, aber bei Objekten, die aus Metall bestehen, kann es viel schwieriger sein und es kann mehr Aufwand erfordern, sie zu lösen. Dieses Benutzerhandbuch befasst sich mit diesem milden Fall. Wir müssen nur eine perfekte Grundfarbe einfangen, unberührt von Specular-Highlights. Wenn du den Reflexionsgrad nach der Aufnahme wieder in 3D zeichnest, kannst du ihn leicht hinzufügen.
 
@@ -42,7 +42,7 @@ Die Polarisation beeinflusst meistens das Specular-Licht, da es sich um fokussie
 
 Du polarisierst Licht mit einem Polarisationsfilter, einer speziellen transparenten Folie, die die Wellen filtert. Es gibt sie in vielen Varianten. Wir werden angeschraubte Glasfilter für deine Objektive verwenden, sowie polarisierende Folien im Do-it-Yourself-Stil
 
-Die Grundidee besteht darin, <b>Ihrem Licht einen Filter </b> und <b>Ihrem Objektiv</b> hinzuzufügen und diese so einzurichten, dass sie <b> senkrecht zueinander stehen</b>. Das bedeutet, dass Sie die Filterausrichtung durch Drehen anpassen müssen. Sobald sie eingerichtet sind, werden die Specular-Reflexionen aus diesem Licht unsichtbar. Das Besondere an dieser Technik ist, dass durch Verdrehen der Filter plötzlich alle Blendeffekte in einem polarisierten Licht vollständig eliminiert werden.
+Die Grundidee besteht darin, <b>Ihrem Licht einen Filter </b> und <b>Ihrem Objektiv</b> hinzuzufügen und diese so einzurichten, dass sie <b> senkrecht zueinander stehen</b>. Das bedeutet, dass Sie die Filterausrichtung durch Drehen anpassen müssen. Sobald sie eingerichtet sind, werden die Specular-Reflexionen aus diesem Licht unsichtbar. Das Besondere an dieser Aufnahme ist, dass durch Verdrehen der Filter plötzlich der gesamte Blendeffekt des polarisierten Lichts vollständig eliminiert wird.
 
 ![](../assets/polarizing-before-after-3d-capture.png)
 
@@ -54,12 +54,12 @@ Stellen Sie sicher, dass Sie <b>den Polarisator nach allen Diffusoren hinzufüge
 
 Die meisten billigeren Ringblitze verschrauben sich in Ihren Filterschlitz und lassen Sie möglicherweise keinen Objektivfilter mehr anbringen. Es gibt auch keine Möglichkeit, Polarisationsfilter am Blitzlicht anzubringen. Du musst also selbst einen solchen Filter erstellen. Nur Modelle der obersten Ebene unterstützen dies ordnungsgemäß.
 
-<b>Das Drehen und Abgleichen von Polarisatoren über Ihre Einrichtung muss ständig erfolgen</b>. Dein Objektivfilter muss vollständig senkrecht zu all deinen Lichtern stehen. Die einzige Möglichkeit dazu ist, auf dein Kameradisplay zu schauen und Dinge anzupassen. Ich möchte zuerst ein einzelnes Blatt auf mein Blitzlicht kleben und dann den Linsenfilter anpassen, um die Reflexionen des Blitzes zu blockieren. Das geht nur, wenn du ein Foto machst oder den Blitz trocken feuerst. Es ist ein bisschen aufwändig: Du kannst die richtige Ausrichtung auf deinem Objektivfilter mit einer Marke markieren und dann versuchen, das Objektiv und den Blitzfilter nicht mehr zu berühren.
+<b>Das Drehen und Abgleichen von Polarisatoren über Ihre Einrichtung muss ständig erfolgen</b>. Dein Objektivfilter muss vollständig senkrecht zu all deinen Kameras stehen. Die einzige Möglichkeit dazu ist, auf dein Kameradisplay zu schauen und Einstellungen vorzunehmen. Ich möchte zuerst ein einzelnes Blatt auf mein Blitzlicht kleben und dann den Linsenfilter anpassen, um die Reflexionen des Blitzes zu blockieren. Das geht nur, wenn du ein Foto machst oder den Blitz trocken feuerst. Es ist ein bisschen aufwändig: Du kannst die richtige Ausrichtung auf deinem Objektivfilter mit einer Marke markieren und dann versuchen, das Objektiv und den Blitzfilter nicht mehr zu berühren.
 
-Die Polarisierung an den Videolichtern anzupassen ist anders, aber einfacher. Du musst deine Lichter ständig anpassen, während du sie bewegst oder wenn du das Kamera-Height anpasst. <b>Drehen Sie das Blatt einfach, bis es auf Ihrem Kameradisplay richtig angezeigt wird</b>.
+Die Polarisierung an den Videolichtern anzupassen ist anders, aber einfacher. Du musst deine Lichter ständig anpassen, während du sie bewegst oder wenn du das Height der Kamera anpasst. <b>Drehen Sie das Blatt einfach, bis es auf Ihrem Kamera-Display gut aussieht</b>.
 
 <b>Jede einzelne Lichtquelle, die in Reflexionen auftaucht, muss polarisiert sein</b>, sodass Sie möglicherweise Fenster schließen oder Bildschirme ausschalten müssen.
 
-Bei der richtigen Einrichtung solltest du in der Lage sein, ein Objekt so einzufangen, als wäre es vollständig matt, ohne Reflexionen und sogar Beleuchtung. So wie du dein Gitter nur mit der angewendeten Grundfarbstruktur siehst, kannst du schwierige reflektierende Objekte einfangen.
+Bei der richtigen Einrichtung solltest du in der Lage sein, ein Objekt so einzufangen, als wäre es vollständig matt, ohne Reflexionen und sogar Beleuchtung. So wie Sie Ihren Mesh sehen, auf den nur die Textur der Grundfarbe angewendet wurde, können Sie auch schwierige reflektierende Objekte einfangen.
 
 Erfahren Sie jetzt mehr über [wie Sie Ihre 3D-Erfassungen mit Substance 3D Sampler verarbeiten](processing-advanced-3d-captures.md)!

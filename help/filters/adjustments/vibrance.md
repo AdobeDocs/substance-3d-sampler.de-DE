@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/vibrance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Dynamikfilter in Substance 3D Sampler, um die Farbsättigung und die Dynamik in Texturen zu verbessern und gleichzeitig Hauttöne beizubehalten.
+description: Verwenden Sie den Dynamikfilter in Substance 3D Sampler, um die Farbsättigung und Dynamik in Texturen zu verbessern und gleichzeitig Hauttöne beizubehalten.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Vibrance
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Mit dem Dynamik-Filter können Sie schnell die Dynamik der Grundfarbe oder Diffus-Kanäle Ihres Materials anpassen.
+Mit dem Dynamik-Filter können Sie schnell die Dynamik der Grundfarbe- oder Diffuse-Kanäle Ihres Materials anpassen.
 
 Dynamik und Sättigung funktionieren ähnlich, da sie die Intensität der Farben erhöhen. Während die Sättigung die Intensität aller Farben im Bild erhöht, erhöht die Dynamik in erster Linie die Intensität matter oder gedämpfter Töne.
 
@@ -53,7 +53,7 @@ Dynamik und Sättigung funktionieren ähnlich, da sie die Intensität der Farben
 * **Benutzerdefinierte Maske verwenden**: Knebel\
   Aktivieren oder Deaktivieren der Verwendung einer benutzerdefinierten Maske. Wenn aktiviert, werden die folgenden Parameter angezeigt:
   * **Maske**: Bild/Pinsel\
-    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder malen Sie mit dem Pinsel eine benutzerdefinierte Maske direkt in der 2D-Ansicht.
+    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um eine benutzerdefinierte Maske direkt in die 2D-Ansicht Malen
   * **Benutzerdefinierte Maske - Weichzeichnen**: 0-1\
     Weichzeichnen der Maske
   * **Benutzerdefinierte Maske - Umkehren**: Knebel\

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/interface-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues.html"
 breadcrumb-title: ''
 description: Greifen Sie auf Anleitungen zur Fehlerbehebung für Probleme mit der Substance 3D Sampler-Benutzeroberfläche zu, um Anzeigeprobleme und Fehler beim Rendern der Benutzeroberfläche zu lösen.
 helpx_creative_field: ""

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/3d-capture/equipment.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/equipment.html"
 breadcrumb-title: ''
-description: Erfahre, welche Substance 3D Sampler-3D-Erfassungen zur Digitalisierung hochwertiger Materialien und Objekte empfiehlt.
+description: Erfahre, welche Substance 3D Sampler-3D-Erfassungen zur Digitalisierung von Materialien und Objekten empfohlen werden.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 In diesem Benutzerhandbuch werden wir uns mit den erweiterten Methoden für Fotos befassen, die im Workflow für die Photogrammmetrie in Substance 3D Sampler verwendet werden können.
 
-Sie möchten sich diesen Inhalt als Video-Tutorial ansehen? Sie finden ihn hier [&#128279;](https://youtu.be/f8iCtZ3Gmzs?si=Q353ZDCScO1YnHJT "Anleitung für 3D-Erfassung-Basisgeräte").
+Sie möchten sich diesen Inhalt als Video-Tutorial ansehen? Sie finden ihn hier [](https://youtu.be/f8iCtZ3Gmzs?si=Q353ZDCScO1YnHJT "Anleitung für 3D-Erfassung-Basisgeräte").
 
 Der Fokus liegt auf kleineren Objekten in Innenräumen, in einer kontrollierten Umgebung, mit Zugang zu etwas fortgeschrittenerem Equipment. Es wird keinen Fokus auf bestimmte Marken und Produkte geben, da das Ziel darin besteht, die Erklärungen so allgemein zu halten, dass sie auf verschiedene Geräte angewendet werden können.
 
@@ -36,19 +36,19 @@ Der Fokus liegt auf kleineren Objekten in Innenräumen, in einer kontrollierten 
 
 ## Kamera
 
-Bezüglich Ihrer Kamera ist eine <b>DSLR-Kamera</b> unerlässlich, um die Qualität zu verbessern und mehr Kontrolle über die Fotos zu haben. Einige High-End-Smartphones kommen vielleicht schon sehr nah, aber es ist schwierig, sie zu erweitern und mit anderen Fotoausrüstung zu verbinden.
+Hinsichtlich Ihrer Kamera ist eine <b>DSLR-Kamera</b> unerlässlich, um die Qualität zu verbessern und mehr Kontrolle über die Fotos zu haben. Einige High-End-Smartphones kommen vielleicht schon sehr nah, aber es ist schwierig, sie zu erweitern und mit anderen Fotoausrüstung zu verbinden.
 
 Jeder DSLR, der den <b>manuellen Modus</b> unterstützt, austauschbare Objektive, kann einen <b>externen Flash</b> unterstützen und hat eine Auflösung von <b>12Mp oder mehr</b>, ist eine gute Wahl.
 
 ## Stativ
 
-Für Aufnahmen kleinerer Motive ist es ideal, die Kamera an einer bestimmten Position zu halten und das Objekt zu drehen. Dazu werden ein Stativ und ein Produkt-Drehtisch benötigt. Der große Vorteil eines solchen statischen Aufbaus besteht darin, dass es möglich ist, ein kleineres Objekt auf den Kopf zu stellen und auch die Unterseite zu erfassen.
+Für Aufnahmen kleinerer Motive ist es ideal, die Kamera an einer festgelegten Position zu halten und das Objekt zu drehen. Dazu werden ein Stativ und ein Produkt-Drehtisch benötigt. Der große Vorteil eines solchen statischen Aufbaus besteht darin, dass es möglich ist, ein kleineres Objekt auf den Kopf zu stellen und auch die Unterseite zu erfassen.
 
 Ein Stativ ist notwendig, und obwohl es nicht kompliziert sein muss, könnten die billigen Plastikelemente die Dinge komplizierter machen, wenn sie oft angepasst werden müssen. Ein großes, schweres Studiostativ ist übertrieben für eine fotogrammetrische Einrichtung, sodass ein Metallstativ mittlerer Reichweite, <b>leicht im Height einstellbar</b>, mit einem<b> guten Metallkopf</b>, ideal sein könnte.
 
 ## Drehscheibe
 
-Was den Drehtisch angeht, wird ein einfacher, manueller für viele Fälle ausreichen, aber ein automatisierter Drehtisch, der deine Kamera automatisch auslösen kann, kann die Dinge einfacher und schneller machen. Manuelle Turntables sind sehr billig, und sind praktisch, wenn auf einem Budget. Motorisierte Kameras machen es einfacher, präzise Drehungen wiederholbar durchzuführen, und wenn der Drehteller die Kamera auslösen kann, kann er um ein Vielfaches schneller zu bedienen sein als ein manueller.
+Was den Drehteller angeht, so wird ein einfacher, manueller für viele Fälle ausreichen, aber ein automatisierter Drehteller, der Ihre Kamera automatisch auslösen kann, kann die Dinge einfacher und schneller machen. Manuelle Turntables sind sehr billig, und sind praktisch, wenn auf einem Budget. Motorisierte Drehungen machen es leichter, präzise Drehungen wiederholbar zu machen, und wenn der Drehteller die Kamera auslösen kann, kann er um ein Vielfaches schneller zu bedienen sein als ein manueller.
 
 ## Licht und Hintergrund
 

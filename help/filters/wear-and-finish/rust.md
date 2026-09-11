@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
-description: Mit dem Rost-Filter in Substance 3D Sampler lassen sich realistische Rost- und Korrosionseffekte auf Metallmaterialien und -oberflächen erzeugen.
+description: Verwenden Sie den Rost-Filter in Substance 3D Sampler, um Materialien und Flächen aus Metall realistische Rost- und Korrosionseffekte zu verleihen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Rust
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Verwenden Sie den **Materialfilter**, um Ihrem Rost eine Oxidationsmetallschicht hinzuzufügen.
+Verwenden Sie den **Rost-Filter**, um Ihrem Material eine Oxidationsmetallschicht hinzuzufügen.
 
 In den folgenden Abbildungen sehen Sie ein Metallmaterial vor und nach dem Hinzufügen des **Rost-Filters**.
 
@@ -56,14 +56,14 @@ In den folgenden Abbildungen sehen Sie ein Metallmaterial vor und nach dem Hinzu
 * **Spread-Smoothness**: 0-1\
   Erhöhen Sie diesen Wert, um die verrosteten Bereiche blubbiger zu machen, oder verringern Sie ihn, um sie detaillierter zu machen.
 * **Nur Metall betreffen**: Knebel\
-  Wenn diese Option aktiviert ist, wirkt sich der **Rost-Filter** nur auf Bereiche aus, deren metallischer Wert größer als 0 ist.
+  Wenn diese Option aktiviert ist, wirkt sich der **Rost-Filter** nur auf Bereiche aus, deren metallic Wert größer als 0 ist.
 
 **Rost**
 
 * **Rost Shape**:\
   Ändern Sie das Muster, auf dem der Rost basiert.
 * **Rost-Intensität**: 0-1\
-  Ändere die Stärke des Effekts &quot;Rost&quot;. Wenn Sie diesen Wert erhöhen, wird der Rost älter und stärker.
+  Ändern Sie die Stärke des Effekts &quot;Rost&quot;. Wenn Sie diesen Wert erhöhen, wird der Rost älter und stärker.
 
 **Peel**
 
@@ -72,7 +72,7 @@ In den folgenden Abbildungen sehen Sie ein Metallmaterial vor und nach dem Hinzu
 * **Normalintensität schälen**: 0-1\
   Passen Sie die Sichtbarkeit der Schälnormale an.
 * **Peel-Height-Intensität**: 0-1\
-  Passen Sie die Auswirkung der Schalen auf die Karte des Heights an.
+  Passen Sie die Wirkung der Peels auf dem Höhen-Map an.
 
 **Treiber**
 

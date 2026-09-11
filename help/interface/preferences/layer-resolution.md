@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
-description: Erfahre, wie du in Substance 3D Sampler die Ebenenauflösung änderst, um die Auflösung einzelner Ebenen in deinem Materialstapel zu steuern.
+description: Erfahre, wie du die Ebenenauflösung in Substance 3D Sampler so konfigurierst, dass die Auflösung der einzelnen Ebenen in deinem Material-Stapel gesteuert wird.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -28,6 +28,6 @@ Auf diese Weise können Sie die Qualität Ihrer Materialien steigern, aber beach
 
 ![Ebenenbedienfeld und Eigenschaftenbedienfeld mit Ebenenauflösung](../../assets/LayersPanelAndPropertiesPanel.png)
 
-Mit nur einem Klick wechseln Sie von der Arbeitsauflösung zu einer höheren Auflösung, um das finale Material zu visualisieren, das exportiert werden kann.
+Mit nur einem Klick wechseln Sie von der Arbeitsauflösung zu einer höheren Auflösung, um das fertige Material zu präsentieren, das exportiert werden kann.
 
 ![Alle Ebenenauflösung wechseln](../../assets/Switch_All_Resolution.gif)

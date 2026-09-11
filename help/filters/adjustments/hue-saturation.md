@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/hue-saturation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/hue-saturation.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Filter "Farbton/Sättigung" in Substance 3D Sampler, um die Werte für Farbton, Sättigung und Helligkeit in Texturen und Materialien anzupassen.
 helpx_creative_field: ""
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Mit dem Filter &quot;Farbton/Sättigung&quot; können Sie die Farbe Ihrer Grundfarbe und Ihrer diffusen Kanäle anpassen. Sie können auch eine Maske verwenden, um die Farben nur für Teile Ihres Bildes gezielt zu ändern.
+Mit dem Filter &quot;Farbton/Sättigung&quot; können Sie die Farbe Ihrer Grundfarbe anpassen und die Kanäle diffus darstellen. Sie können auch eine Maske verwenden, um die Farben nur für Teile Ihres Bildes gezielt zu ändern.
 
-Die folgenden Bilder zeigen den **Filter &quot;Farbton/Sättigung&quot;**, der zum Anpassen des Farbtons eines Kachelmaterials verwendet wird.
+Die folgenden Bilder zeigen den **Filter &quot;Farbton/Sättigung&quot;**, der zum Anpassen des Farbtons eines Kachel-Materials verwendet wird.
 
 <table>
 <tr style="border: 0;">
@@ -61,20 +61,20 @@ Die folgenden Bilder zeigen den **Filter &quot;Farbton/Sättigung&quot;**, der z
 **Basisparameter**
 
 * **Farbton**: -1 bis 1\
-  Farbton des Bildes anpassen - dies ist nützlich, um Farben im Workflow &quot;Bild zu Material&quot; zu korrigieren.
+  Farbton des Bildes anpassen - dies ist nützlich für die Farbkorrektur im Arbeitsablauf &quot;Bild zu Material&quot;.
 * **Sättigung**: -1 bis 1\
   Passe die Sättigung an, um Farben intensiver wirken zu lassen oder die Farbintensität zu reduzieren.
 * **Helligkeit**: -1 bis 1\
-  Ändere die Helligkeit der Farben.
+  Ändern Sie die Helligkeit Ihrer Farben.
 * **Einfärben**: Knebel\
-  Bei deaktivierter Funktion passt der Filter die bereits vorhandenen Farben an. Wenn diese Option aktiviert ist, ersetzt der Filter die Farben basierend auf den Reglern &quot;Farbton&quot;, &quot;Sättigung&quot; und &quot;Helligkeit&quot;, während die Details beibehalten werden.
+  Bei deaktivierter Funktion passt der Filter die bereits vorhandenen Farben an. Wenn diese Option aktiviert ist, ersetzt der Filter die Farben basierend auf den Reglern &quot;Farbton&quot;, &quot;Sättigung&quot; und &quot;Helligkeit&quot;, wobei die Detailgenauigkeit erhalten bleibt.
 
 **Maske**
 
 * **Benutzerdefinierte Maske verwenden**: Knebel\
   Aktivieren oder Deaktivieren der Verwendung einer benutzerdefinierten Maske. Wenn aktiviert, werden die folgenden Parameter angezeigt:
   * **Maske**: Bild/Pinsel\
-    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder malen Sie mit dem Pinsel eine benutzerdefinierte Maske direkt in der 2D-Ansicht.
+    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um eine benutzerdefinierte Maske direkt in die 2D-Ansicht Malen
   * **Benutzerdefinierte Maske - Weichzeichnen**: 0-1\
     Weichzeichnen der Maske
   * **Benutzerdefinierte Maske - Umkehren**: Knebel\

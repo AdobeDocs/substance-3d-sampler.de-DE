@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/home.html"
 breadcrumb-title: ''
 description: Erste Schritte mit Substance 3D Sampler zum Erstellen von Materialien aus Bildern, Bearbeiten von Umgebungsbeleuchtungen und Erstellen von Materialbibliotheken.
 helpx_creative_field: ""
@@ -26,9 +26,9 @@ ht-degree: 12%
 
 Mit <b>Substance 3D Sampler </b> können Sie digitale Zwillinge Ihrer physischen Elemente erstellen.
 
-Mit dieser zugänglichen <b>All-in-One-Digitalisierungssoftware</b> können Sie Ihre Materialien, Modelle und Lichter mit leistungsstarken Tools erfassen, verarbeiten und ergänzen.
+Mit dieser barrierefreien <b>All-in-One-Digitalisierungssoftware</b> können Sie Ihre Materialien, Modelle und Lichter mit leistungsstarken Tools erfassen, verarbeiten und ergänzen.
 
-Kombiniere verschiedene Technologien und Erstellungsmethoden, um präzise digitale Materialien zu erstellen. Exportiere die Materialien, um sie auf anderen Substance oder in 3D-Anwendungen von Drittanbietern zu verwenden.
+Kombiniere verschiedene Technologien und Erstellungsmethoden, um präzise digitale Materialien zu erstellen. Exportiere die Fotos, um sie auf anderen Substance oder in 3D-Anwendungen von Drittanbietern zu verwenden.
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/pattern.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Mustergenerator in Substance 3D Sampler, um prozedurale Muster und sich wiederholende Designs für Materialtexturen zu erstellen.
+description: Verwenden Sie den Mustergenerator in Substance 3D Sampler, um prozedurale Muster und sich wiederholende Designs für Material-Texturen zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Pattern
 helpx_experience_level: ""
@@ -63,9 +63,9 @@ Fügen Sie Ihrem Material ein Muster aus einer der verfügbaren Optionen hinzu o
 * <b>Zufallsparameter</b>: 0-1\
   Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
 * <b>Muster </b>: Bildauswahl und/oder -bemalung\
-  Ein Muster im Texturgenerator auswählen oder importieren.
-* <b>Farbmodusauswahl </b>: Nur Material oder Farbe\
-  Der Modus <b>Material</b> beeinflusst alle *PBR-Kanäle* und der Modus <b>Nur Farbe</b> beeinflusst nur die *BaseColor* des Materials.
+  Ein Muster im Mustergenerator auswählen oder eine Textur importieren.
+* <b>Farbmodusauswahl </b>: Material oder Nur Farbe\
+  Der Modus <b>Material</b> beeinflusst alle *PBR-Kanäle* und der Modus <b>Nur Farbe</b> nur die *BaseColor* des Materials.
 * <b>Farbmenge </b>: 1-10\
   Wählen Sie die Menge der aktiven Farbe aus dem Muster aus
 * <b>Farbton</b>: 0-1\
@@ -75,14 +75,14 @@ Fügen Sie Ihrem Material ein Muster aus einer der verfügbaren Optionen hinzu o
 * <b>Farbe ersetzen: </b>umschalten\
   Ausgewählte Farbe ersetzen, abhängig vom <b>Farbumfang</b>
 * <b>Raueit</b>: 0-1\
-  Festlegen der Raueit der ausgewählten Farbe, abhängig vom <b>Farbumfang</b>
+  Legen Sie die Rauheit der ausgewählten Farbe fest, abhängig vom <b>Farbbetrag</b>
 * <b>Metallisch</b>: 0-1\
-  Festlegen der Raueit der ausgewählten Farbe, abhängig vom <b>Farbumfang</b>
+  Legen Sie die Rauheit der ausgewählten Farbe fest, abhängig vom <b>Farbbetrag</b>
 * <b>Relief-Modus</b>: Knebel\
-  Wählen Sie die Richtung des Reliefs der ausgewählten Farbe, abhängig vom <b> Farbumfang</b>
-* <b>Reliefintensität: </b>0-1<b>\
+  Wählen Sie die Richtung des Reliefs der ausgewählten Farbe, abhängig von der <b> Farbmenge</b>.
+* <b>Relief-Intensität: </b>0-1<b>\
   </b>Die Stärke der Prägung der ausgewählten Farbe anpassen, hängt von der <b> Farbmenge ab</b>
-* <b>Relief-Abstand: </b>0-1\
-  Dehnen und Glätten der Prägezone der ausgewählten Farbe, abhängig vom <b> Farbumfang</b>
-* <b>Gravurkorn: </b>0-1\
+* <b>Relief-Entfernung: </b>0-1\
+  Die Prägezone der ausgewählten Farbe wird gedehnt und geglättet. Dies hängt vom <b>-Farbumfang</b> ab.
+* <b>Relief-Körnung: </b>0-1\
   Hinzufügen von Körnung in der ausgewählten Farbe, abhängig vom <b>Farbbetrag</b>

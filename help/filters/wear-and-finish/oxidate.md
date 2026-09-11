@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Oxidationsfilter in Substance 3D Sampler, um Metallmaterialien für gealterte Erscheinungsbilder mit Oxidations- und Anschmutzungseffekten zu versehen.
+description: Verwenden Sie den Oxidationsfilter in Substance 3D Sampler, um metallische Materialien zu oxidieren und für gealterte Erscheinungsbilder aufzuhellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Oxidate
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Fügen Sie eine Oxidationsschicht auf der Oberseite Ihres Materials hinzu.*Auf eine zerknitterte Oberfläche wird der **Oxidationsfilter**&#x200B;angewendet.*
+Fügen Sie eine Oxidationsschicht über der Oberseite Ihres Materials hinzu.*Auf eine zerknitterte Oberfläche wurde der **Oxidationsfilter**angewendet.*
 
 <table>
 <tr style="border: 0;">
@@ -62,12 +62,12 @@ Fügen Sie eine Oxidationsschicht auf der Oberseite Ihres Materials hinzu.*Auf e
   Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
 * **Zielbereiche**: Knebel\
   Aktivieren Sie diese Option, um festzulegen, wie der Oxidationseffekt auf das Material angewendet wird. Wenn diese Option aktiviert ist, wird das folgende Steuerelement angezeigt:
-  * **Stärke für Zielbereiche**: 0-1\
+  * **Stärke der Zielbereiche**: 0-1\
     Passen Sie die Verteilung des Effekts &quot;Zielbereiche&quot; an.
   * **Verteilung**: 0-1\
     Passen Sie an, wie weit sich die oxidierende Wirkung ausbreitet.
 * **Farbe**: Farbauswahl\
-  Wählen Sie die Grundfarbe des Filters aus. Die Grundfarben ändern den Farbton aller Farben, aus denen der oxidierende Effekt besteht.
+  Wählen Sie die Grundfarbe des Filters aus. Die Grundfarben modifizieren den Farbton aller Farben, aus denen die oxidierende Wirkung besteht.
 * **Farbvariationen**: 0-1\
   Passen Sie die Skalierung des Effekts &quot;Farbvariation&quot; an.
 * **Dichte**: 0-1\
@@ -77,14 +77,14 @@ Fügen Sie eine Oxidationsschicht auf der Oberseite Ihres Materials hinzu.*Auf e
 * **Patches**: 0-1\
   Dies ist ein separates Steuerelement zum Ändern der Maske zwischen oxidierten und nicht oxidierten Bereichen. Kombinieren Sie sie mit der Dichte und anderen Steuerelementen, um die Kanten der oxidierten Bereiche zu optimieren.
 * **Chipping**: 0-1\
-  Späne im oxidierten Bereich ab, um das darunter liegende Material zu zeigen.
+  Schneiden Sie den oxidierten Bereich ab, um das darunter liegende Material zum Vorschein zu bringen.
 * **Stains**: 0-1\
   Passen Sie die Stärke der Farbüberlagerung auf dem Material an.
-* **Raueit der Korrosion**: 0-1\
-  Passen Sie die Raueit der oxidierten Bereiche an.
-* **Korrosionsmetall**: 0-1\
-  Passen Sie die metallischen Werte der oxidierten Bereiche an.
-* **Rauschstärke**: 0-1
+* **Korrosions-Rauheit**: 0-1\
+  Passen Sie die Rauheit der oxidierten Bereiche an.
+* **Metallic Korrosion**: 0-1\
+  Passen Sie die metallic Werte der oxidierten Bereiche an.
+* **Rauschen Stärke**: 0-1
 
 **Maske**
 
@@ -110,4 +110,4 @@ Mit den folgenden Parametern können Sie den benannten Wert für das gesamte Mat
 * **Normalintensität**: 0-1
 * **Height-Bereich**: 0-1
 * **Height-Position**: 0-1
-* **Umgebungsintensität der Verdeckung**: 0-1
+* **Ambient occlusion-Intensität**: 0-1

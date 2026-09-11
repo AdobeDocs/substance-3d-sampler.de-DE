@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Kugellicht-Werkzeug in Substance 3D Sampler, um HDRI-Umgebungen kugelförmige Lichtquellen für Punktlichteffekte hinzuzufügen.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ Fügen Sie Ihrer Umgebung ein Kugellicht hinzu.
       Wähle die Farbe des Lichts aus.
   * **Image-Eingabe**
     * **Shape Image Input**: Bild/Pinsel\
-      Importieren Sie ein Bild, das als Farbe verwendet werden soll. Sie können das Pinselwerkzeug verwenden, um direkt in der **2D-Ansicht** zu malen, dies kann jedoch zu unvorhersehbaren Ergebnissen mit diesem Filter führen.
+      Importieren Sie ein Bild, das als Farbe verwendet werden soll. Sie können das Pinselwerkzeug verwenden, um direkt in der **2D-Ansicht** zu Malen. Dies kann jedoch zu unvorhersehbaren Ergebnissen mit diesem Filter führen.
   * **Beispielhintergrund**
     * Der Beispielhintergrund stellt keine neuen Parameter zur Verfügung - stattdessen basiert die Lichtfarbe auf den Hintergrundwerten.
 * **Exposition (EV)**: 0-10\
@@ -69,8 +69,8 @@ Verfügbare Parameter hängen von der Auswahl ab, die für **Basisparameter > Po
 
 * **Abstand zum Ursprung**: 0-20\
   Passe den Abstand zwischen Licht und Kamera an.
-* **Kameraposition**: 0-1\
-  Passen Sie die relative Position der Kamera zum Licht in der X-, Y- und Z-Achse an.
+* **Position der Kamera**: 0-1\
+  Passen Sie die relative Position der Kamera zur Lichtquelle in der X-, Y- und Z-Achse an.
 
 Wenn **Weltposition** ausgewählt ist, sind die folgenden Parameter verfügbar:
 
@@ -80,8 +80,8 @@ Wenn **Weltposition** ausgewählt ist, sind die folgenden Parameter verfügbar:
   Passen Sie die Position des Kugellichts in der X-, Y- und Z-Achse an.
 * **Abstand zum Ursprung**: 0-20\
   Passe den Abstand zwischen Licht und Kamera an.
-* **Kameraposition**: 0-1\
-  Passen Sie die relative Position der Kamera zum Licht in der X-, Y- und Z-Achse an.
+* **Position der Kamera**: 0-1\
+  Passen Sie die relative Position der Kamera zur Lichtquelle in der X-, Y- und Z-Achse an.
 
 **Form**
 

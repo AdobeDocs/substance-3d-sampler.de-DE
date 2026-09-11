@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
 breadcrumb-title: ''
 description: Hier erfahren Sie, wie Sie installierte Plug-ins und Skripte in Substance 3D Sampler verwalten, um benutzerdefinierte Erweiterungen zu installieren, zu ändern und zu entfernen.
 helpx_creative_field: ""
@@ -36,7 +36,7 @@ Skripte lassen dieses Maß an Flexibilität nicht zu, führen aber stattdessen e
 
 ## Plug-ins verwalten
 
-Standardmäßig ist die einzige verfügbare Option &quot;Plug-in hinzufügen&quot;. Daraufhin wird ein Datei-Explorer geöffnet, in dem Sie eine zu ladende PY-Datei auswählen können.
+Standardmäßig ist die einzige verfügbare Option &quot;Plug-in hinzufügen&quot;. Daraufhin wird ein Explorer geöffnet, in dem Sie eine zu ladende PY-Datei auswählen können.
 
 ![](../assets/manageplugins.png)
 

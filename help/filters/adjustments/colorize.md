@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/colorize.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Filter "Färben" in Substance 3D Sampler, um Strukturen und Materialien mit Farbtönen und monochromen Einfärbeeffekten zu versehen.
+description: Verwenden Sie den Filter "Färben" in Substance 3D Sampler, um Texturen und Materials mit Farbtönen und monochromen Einfärbeeffekten zu versehen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Colorize
 helpx_experience_level: ""
@@ -37,7 +37,7 @@ Mit der Option &quot;Färben&quot; können Sie einer Auswahl von Kanälen Farbe 
 
 >[!NOTE]
 >
-> Mit dem Filter &quot;Färben&quot; kannst du den normalen Kanal zwar ändern, aber du solltest dies nicht tun, es sei denn, du verstehst gut, wie der normale Kanal funktioniert und wie sich der Effekt auf dein Material auswirkt. Dies ist eine erweiterte Funktion, die im Allgemeinen nur unter bestimmten Umständen benötigt werden sollte.
+> Mit dem Filter &quot;Färben&quot; (Colorize) können Sie den normalen Kanal ändern. Es ist jedoch nicht empfehlenswert, dies zu tun, es sei denn, Sie wissen genau, wie der normale Kanal funktioniert und wie sich dies auf Ihr Material auswirkt. Dies ist eine erweiterte Funktion, die im Allgemeinen nur unter bestimmten Umständen benötigt werden sollte.
 
 In diesen Bildern wurde der **Colorize-Filter** verwendet, um die Grundfarbe anzupassen, um ein viel reichhaltigeres Holzmaterial zu erzeugen.
 
@@ -67,8 +67,8 @@ In diesen Bildern wurde der **Colorize-Filter** verwendet, um die Grundfarbe anz
 Die in diesem Abschnitt verfügbaren Parameter ändern sich basierend auf **Kanalauswahl**.
 
 * **Kanalauswahl**:\
-  Wählen Sie den Kanal aus, auf den sich der Filter auswirken wird. Es empfiehlt sich, den ausgewählten Kanal in der 2D-Ansicht anzuzeigen, um die Ergebnisse des Filters direkt anzuzeigen.
-  * ***Grundfarbe/Emissionsoptionen***
+  Wählen Sie den Kanal aus, auf den sich der Filter auswirken wird. Es empfiehlt sich, den ausgewählten Kanal in der 2D-Ansicht anzuzeigen, um die Filterergebnisse direkt anzuzeigen.
+  * ***Grundfarbe/Emissive-Optionen***
     * ***Kanalname*** **- Farbe**: Farbauswahl\
       Wählen Sie die Farbe aus, die zum Kolorieren des Kanals verwendet wird.
     * ***Kanalname*** **- Luminanz beibehalten**: Knebel\
@@ -79,7 +79,7 @@ Die in diesem Abschnitt verfügbaren Parameter ändern sich basierend auf **Kana
     * **Normal - Steigung**: 0-90\
       Verlauf der Normalen ändern
     * **Normal - Richtung**: 0-360\
-      Anpassen der Richtung der normalen Flächen
+      Flächen der Normalrichtung anpassen.
     * **Normal - Luminanz beibehalten**: Knebel\
       Wenn diese Option aktiviert ist, wird die Luminanz der ursprünglichen Normalen beibehalten.
     * **Normal - Intensität**: 0-1\
@@ -87,7 +87,7 @@ Die in diesem Abschnitt verfügbaren Parameter ändern sich basierend auf **Kana
 * **Benutzerdefinierte Maske**: Knebel\
   Aktivieren oder Deaktivieren der Verwendung einer benutzerdefinierten Maske. Wenn aktiviert, werden die folgenden Parameter angezeigt:
   * **Maske**: Bild/Pinsel\
-    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder malen Sie mit dem Pinsel eine benutzerdefinierte Maske direkt in der 2D-Ansicht.
+    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um eine benutzerdefinierte Maske direkt in die 2D-Ansicht Malen
   * **Benutzerdefinierte Maske - Weichzeichnen**: 0-1\
     Weichzeichnen der Maske
   * **Benutzerdefinierte Maske - Umkehren**: Knebel\

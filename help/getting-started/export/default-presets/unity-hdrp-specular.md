@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-specular.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-specular.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie Materialien aus Substance 3D Sampler mithilfe der Unity HDRP Specular-Vorgabe für die High Definition Render Pipeline exportieren.
+description: Erfahren Sie, wie Sie Materials aus Substance 3D Sampler mithilfe der Unity HDRP Specular-Vorgabe für die High Definition Render Pipeline exportieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Unity HDRP Specular
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 3%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Unity HRDP Specular | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li><li data-preserve-html="true">PBR Specular/Glanz</li></ul> | **BaseColor:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Grundfarbe</li><li data-preserve-html="true"><strong>A</strong>: Deckkraft</li></ul>**MaskMap:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>G</strong>: Umgebungs-Verdeckung</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**Specular**&#x200B;**Normal** (OpenGL)**Emissionsfähig** |
+| Unity HRDP Specular | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li><li data-preserve-html="true">PBR Specular/Glanz</li></ul> | **BaseColor:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Grundfarbe</li><li data-preserve-html="true"><strong>A</strong>: Deckkraft</li></ul>**MaskMap:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>G</strong>: Umgebungs-Verdeckung</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**Specular****Normal** (OpenGL)**Emissive** |

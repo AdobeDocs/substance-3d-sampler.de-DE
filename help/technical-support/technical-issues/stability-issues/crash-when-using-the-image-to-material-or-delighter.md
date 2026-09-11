@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie Abstürze beheben, wenn Sie die Filter "Bild zu Material" oder "Delighter" in Substance 3D Sampler aufgrund von zu wenig VRAM verwenden.
+description: Erfahren Sie, wie Sie Absturz beheben, wenn Sie die Filter "Bild zu Material" oder "Delighter" in Substance 3D Sampler aufgrund unzureichender VRAM verwenden.
 helpx_creative_field: ""
 helpx_description: Sampler > Technical Support > Technical Issues > Stability issues > Crash when using the Image to Material or Delighter
 helpx_experience_level: ""
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Absturz bei Verwendung des Bildes zum Material oder Delighter
 
-Die **Filter &quot;Bild zu Material&quot; (KI-gestützt)** und **Delighter** erfordern einen großen verfügbaren VRAM (mindestens 1 GB).
+Die Filter **Image To Material (KI-gestützt)** und **Delighter** erfordern viele verfügbare VRAM (mindestens 1 GB).
 
-Wenn Sie eine GPU-Karte mit nur 2 GB VRAM haben und mit einer Auflösung von 2K/4K arbeiten, können wir nicht genügend Speicher zuweisen, um den Filter auszuführen, und es kann zu einem Absturz kommen.
+Wenn Sie über eine GPU-Karte mit nur 2 GB VRAM verfügen und mit einer Auflösung von 2K/4K arbeiten, können wir nicht genügend Speicher zuweisen, um den Filter auszuführen, und es kann ein Absturz auftreten.

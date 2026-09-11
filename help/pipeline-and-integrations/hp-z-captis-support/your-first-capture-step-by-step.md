@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Ihre ersten 3D-Erfassungen mit HP Z Captis in Substance 3D Sampler durchführen.
 helpx_creative_field: ""
@@ -59,9 +59,9 @@ Sie haben jetzt die Möglichkeit, die Aufnahme mit einem Klick zu starten: Sampl
 * einen Standardnamen zu definieren,
 * automatisch den Fokusbereich- (ROI)/Zuschneidebereich mit der Hintergrundbeleuchtung definieren,
 * den Schwerpunkt auf den vollen ROI zu legen und
-* ändern Sie die Intensitätseinstellung in eine Einstellung, die an Ihr Material angepasst ist.
+* ändern Sie die Intensitätseinstellung auf eine, die an Ihr Material angepasst ist.
 
-Wenn Sie zuvor Aufnahmen gemacht haben, sind die Materialkategorie, die Ausgänge und die ausgewählte Aufnahmeauflösung dieselben wie bei Ihrer vorherigen Aufnahme.
+Wenn Sie zuvor Aufnahmen gemacht haben, sind die Material-Kategorie, die Ausgaben und die ausgewählte Aufnahmeauflösung dieselben wie bei Ihrer vorherigen Aufnahme.
 
 #### Manueller Modus
 
@@ -75,8 +75,8 @@ Sie können einen Projektnamen der Aufnahme definieren und definieren, welche Ar
 
 *Ausgaben*
 
-* Standardmäßig werden nur die PBR-Materialkanäle (Grundfarbe, Normal, Height und Deckkraft) gespeichert.\
-  Sie können den Ausgabetyp zwischen LDR (Low Dynamic Range) und HDR (High Dynamic Range) wählen.
+* Standardmäßig werden nur die PBR-Kanäle des Materials (Grundfarbe, Normal, Height und Deckkraft) gespeichert.\
+  Sie haben die Möglichkeit, den Ausgabetyp zwischen LDR (Low Dynamic Range) und HDR (High Dynamic Range) zu wählen.
 
 
 *Aufnahmelösung*
@@ -90,12 +90,12 @@ Hinweis: In Sampler werden nur PBR-Kanäle geladen.\
 Die Standardordneraufnahmen werden in gespeichert und können in den Voreinstellungen geändert werden.
 
 
-<b>Materialkategorie</b>
+<b>Material-Kategorie</b>
 
-Legen Sie hier den Materialtyp fest, der für die Kartengenerierung gescannt werden soll, und passen Sie ihn an das jeweilige Material an.\
-Die ausgewählte Standardkategorie ist &quot;Fabric&quot;. So kannst du das Ergebnis des Kanals für die Raueit optimieren.
+Legen Sie hier den Typ des Materials fest, das Sie nach einer auf Ihr Material abgestimmten Kartengenerierung suchen.\
+Die ausgewählte Standardkategorie ist &quot;Fabric&quot;. So können Sie das Ergebnis Ihrer Rauheit optimieren.
 
-Wenn das gescannte Material mehrere Arten von Materialien enthält, wählen Sie bitte die Kategorie des größten Materials aus.
+Wenn das gescannte Bild mehrere Typen von Materialien enthält, wählen Sie die Kategorie des größten Fotos aus.
 
 <b>Zuschneiden</b>
 
@@ -103,17 +103,17 @@ Der Zuschnitt kann automatisch oder manuell erfolgen.
 
 ![Potenzielle Kulturen des Interessenbereichs zwischen Physische Größe und Pizellgröße](../../assets/captis-51-crop.png)
 
-Beim automatischen Zuschneiden wird die Hintergrundbeleuchtung verwendet, um die Kontur des Materials zu definieren, und der Fokusbereich (ROI) wird um ihn herum platziert. Sie wird nicht angepasst, wenn mehrere Materialproben gleichzeitig digitalisiert werden oder wenn das Material sehr transparent ist.
+Beim automatischen Zuschneiden wird die Hintergrundbeleuchtung verwendet, um die Umrisse des Materials zu definieren, und der Fokusbereich (ROI) wird um das Bild herum platziert. Sie wird nicht angepasst, wenn mehrere Material-Samples gleichzeitig digitalisiert werden oder wenn das Material sehr transparent ist.
 In diesem Fall kann der ROI durch Ziehen der Ecken des Zuschneide-Widgets in der Vorschau oder durch Festlegen einer definierten Auflösung oder Physische Größe definiert werden.
 
-<b>Kameraeinstellungen </b>
+<b>Kamera </b>
 
-* Intensität: Passe die Belichtung der Kamera an.\
-  Wenn Sie auf &quot;Auto&quot; klicken, wird das Zentrum des ROI verwendet, um die beste Intensität für das Material zu definieren.
+* Intensität: Die Belichtung der Kamera anpassen.\
+  Wenn Sie auf &quot;Automatisch&quot; klicken, wird der ROI-Center verwendet, um die beste Intensität für das Material zu definieren.
 
-* Fokus: Dadurch wird der Kamerafokus angepasst.\
+* Fokus: Dadurch wird der Fokus der Kamera angepasst.\
   Wenn Sie auf &quot;Automatisch&quot; klicken, wird der ideale Fokus unter Verwendung des vollen ROI definiert.
-  Dieser neue Fokusalgorithmus, bei dem der Fokus nicht mehr auf einem einzigen Punkt liegt, ermöglicht einen einheitlicheren Fokus auf das digitalisierte Material, was zu qualitativ hochwertigeren Scans führt, die leichter kachelbar sind.
+  Dieser neue Fokusalgorithmus, bei dem der Fokus nicht mehr auf einem einzigen Punkt liegt, ermöglicht eine gleichmäßigere Fokussierung auf das digitalisierte Material, was zu qualitativ hochwertigeren Scans führt, die leichter kachelbar sind.
 
 Sie können beide von Hand einstellen, wenn Sie möchten.
 
@@ -125,7 +125,7 @@ Andere Einstellungsarten <b> müssen nur bei Anlass </b> geändert werden: die F
 
 * Farbkalibrierung
 
-Kalibrieren Sie die Farbe der Grundfarbkarte mithilfe der technischen Bereiche des HP Z Captis. \
+Kalibrieren Sie die Grundfarbe der Farbkarte mithilfe der technischen Bereiche des HP Z Captis. \
 Das Ergebnis ist, dass das endgültige Material exakt dieselbe Farbe hat wie die Probe, die Sie im HP Z Captis-Fach hinzugefügt haben.\
 Die technischen Bereiche mit den Farbfeldern werden automatisch erkannt und für die Kalibrierung verwendet. Sie müssen an ihren jeweiligen Stellen auf jeder Seite der Probe platziert werden.
 
@@ -168,18 +168,18 @@ Während der Verarbeitung werden Sie sehen, dass das Ergebnis Kachel für Kachel
 
 In diesem Schritt können Sie die Ergebnisse des Scans überprüfen. Alle erstellten Kanäle werden angezeigt (im Explorer-Modus wird keine Deckkraft erstellt, da der Explorer-Ring keine Hintergrundbeleuchtung hat).
 
-Sie können Material an Sampler senden, es Ihrem Projekt hinzufügen und mit der Verarbeitung beginnen.
+Sie können festlegen, dass Ihr Material an Sampler gesendet wird, um es Ihrem Projekt hinzuzufügen und mit der Verarbeitung zu beginnen.
 Sie können auch direkt eine neue Aufnahme starten, ohne sie dem Projekt hinzuzufügen.
 In beiden Fällen finden Sie Ihre gescannten Karten in dem entsprechenden Ordner auf Ihrem Computer: C:\Users\username\Documents\Adobe\Adobe Substance 3D Sampler\Captis\Material
 
-## Materialausgabe
+## Material Edition
 
-Nach dem Beenden des Fensters &quot;HP Z-Kapazität&quot; werden die Kanäle (Grundfarbe, Normal, Height, Raueit und Deckkraft, falls zutreffend) als Ebene im Ebenenbedienfeld hinzugefügt.
+Nach dem Beenden des Fensters &quot;HP Z-Kapazität&quot; werden die Kanäle (Grundfarbe, Normal, Height, Rauheit und Deckkraft, falls zutreffend) als Ebene im Ebenenbedienfeld hinzugefügt.
 
 ![Alternativtext](../../../help/assets/sampler_captis-imported-material.png)
 
 
-Verwenden Sie Sampler-Filter (Ausgleichen, Perspektivisches Freistellen, Kacheln, ...), um Ihr Material zu verarbeiten und zu reinigen.
+Verwenden Sie Sampler-Filter (Ausgleichen, Perspektive zuschneiden, Kachelung ...), um Ihr Material zu verarbeiten und zu bereinigen.
 
 Wenn Sie fertig sind, können Sie:
 

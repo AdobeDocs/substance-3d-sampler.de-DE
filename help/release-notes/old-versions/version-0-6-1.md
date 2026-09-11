@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 0.6.1, um mehr über Updates, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ Hinzugefügt:
 
 * [Engine] Substance Engine-Update für Kompatibilität mit der neuesten Substance Designer-Version
 * [Lizenz] Lizenzordner für erste Installationen aktualisieren
-* [Ebenen] Laden Sie den Ebenenstapel jederzeit neu, um Ihre benutzerdefinierten Filter zu aktualisieren
+* [Ebenen] Laden Sie den Ebenenstapel jederzeit neu, um Ihre benutzerdefinierten Filter zu aktualisieren.
 
 Fest:
 

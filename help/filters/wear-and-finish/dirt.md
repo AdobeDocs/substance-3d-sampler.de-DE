@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/dirt.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dirt.html"
 breadcrumb-title: ''
-description: Mit dem Filter "Dirt" in Substance 3D Sampler lassen sich realistische Dirt-Akkumulation und Schmutz-Effekte auf Materialien und Strukturen anwenden.
+description: Mit dem Filter "Dirt" in Substance 3D Sampler lassen sich Materials und Texturen durch realistische Akkumulation von Dirt und Grime-Effekte aufwerten.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Dirt
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Verwenden Sie den **Materialfilter**, um Dirt auf einem Material hinzuzufügen. Der **Materialfilter** eignet sich hervorragend, um Dirte älter und ungepflegt erscheinen zu lassen.
+Verwenden Sie den **Dirt-Filter**, um Dirt über einem Material hinzuzufügen. Der **Dirt-Filter** eignet sich hervorragend, um Materialien älter und ungepflegt erscheinen zu lassen.
 
 ![](../../assets/dirt-filter-ceramic-mozaic-tiles-before-tra.png)
 
@@ -56,31 +56,31 @@ Vergleichen Sie die obigen sauberen Kacheln mit dem Dirt-Filter, der unten auf s
   Steuert die Ausdehnung der vom Dirt abgedeckten Oberfläche
 
 * <b>Spread des obersten Dirts</b>: 0-1\
-  Steuert die obere Fläche, die mit Dirt bedeckt ist, ohne die Falten des Materials zu fokussieren.
+  Steuert die obere Fläche, die von Dirt bedeckt ist, ohne die Falten des Materials zu fokussieren.
 
 * <b>Kontrast des Dirts</b>: 0-1 \
-  Passen Sie den Kontrast zwischen den verschiedenen Dirt-Flecken an, um zu steuern, wie sich der Dirt mit dem darunterliegenden Material vermischt.
+  Passen Sie den Kontrast zwischen den verschiedenen Dirt-Flecken an, um zu steuern, wie sich der Dirt mit dem darunter liegenden Material vermischt.
 
 * <b>Deckkraft des Dirts</b>: 0-1 \
-  Steuert den Transparenzgrad des Dirts im Grundfarbkanal. 1 ist vollständig deckend.
+  Steuert den Transparenzgrad des Dirts im Grundfarbe-Kanal. 1 ist vollständig deckend.
 
 * <b>Farbe des Dirts</b>: 0-1 \
   Wählen Sie die Farbe des Dirts aus.
 
-* <b>Raueit des Dirts</b>: 0-1 \
-  Passen Sie an, wie leichte Streuungen über die Materialoberfläche verlaufen.
+* <b>Dirt-Rauheit</b>: 0-1 \
+  Anpassen, wie helle Streuungen auf der Oberfläche des Materials
 
 * <b>Dirt Metallic</b>: 0-1 \
   Definieren Sie, wie reflektierend die Oberfläche des Dirts ist.
 
 * <b>Dirt-Height</b>: 0-1 \
-  Steuert die Auswirkungen des Dirts auf die Karte des Heights
+  Steuert die Auswirkungen des Dirts auf den Höhen-Map
 
 * <b>Normalintensität des Dirts</b>: 0-1 \
-  Steuert, wie stark sich der Dirt auf die Normalmap auswirkt
+  Steuert, wie stark sich der Dirt auf den Normalen-Map auswirkt
 
 * <b>Oberflächenfehler verwenden</b>: Knebel \
   Aktivieren oder deaktivieren Sie die Verwendung einer Oberflächenunvollkommenheit. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
 
   <b>Oberflächenstörungen</b>: Bild \
-  Importieren Sie ein Bild, um es als Oberflächenunvollkommenheit zu verwenden, oder verwenden Sie einen der Texturgeneratoren, die standardmäßig in der Sampler-Elementbibliothek verfügbar sind, z. B. &quot;Färben&quot; oder &quot;Schöne Flecken&quot;
+  Importieren Sie ein Bild, um es als Oberflächenunvollkommenheit zu verwenden, oder verwenden Sie einen der Bildgeneratoren, die standardmäßig in der Sampler-Elementbibliothek verfügbar sind, z. B. &quot;Textur&quot; oder &quot;Schönheitsfehler&quot;

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie HDRI-Werkzeuge in Substance 3D Sampler verwenden, um High Dynamic Range-Umgebungsbilder zu bearbeiten, zu verbessern und zu erstellen.
 helpx_creative_field: ""
@@ -24,9 +24,9 @@ ht-degree: 4%
 >
 > Künftiger Wandel
 > 
-> Die Unterstützung für Umgebungslichter und Meshes wird mit der Veröffentlichung von Sampler V5.2 entfernt. Zum Entfernen von Umgebungslichtern gehört auch das Entfernen von HDRI-Werkzeugen und Filtern.
+> Die Unterstützung für Umgebungslicht und Mesh wird mit der Veröffentlichung von Sampler 5.2 entfernt. Zum Entfernen von Umgebungslichtern gehört auch das Entfernen von HDRI-Werkzeugen und Filtern.
 
-Filter im Bereich &quot;HDRI-Werkzeuge&quot; sind Werkzeuge speziell für die Arbeit mit Umgebungsbeleuchtungen. HDRI steht für &quot;High Dynamic Range Image&quot;, bezeichnet aber häufig Panoramabilder für Umgebungslichter. Das Ändern von Panoramabildern mit herkömmlicher Software kann ziemlich aufwändig sein, da kugelförmige 3D-Informationen einer 2D-Bilddatei zugeordnet werden müssen. Bei der Planung der HDRI-Werkzeuge in Sampler wurde diese Überlegung berücksichtigt. Das Patchen und Hinzufügen von Lichtern zu HDR-Bildern ist also viel einfacher.
+Filter im Bereich &quot;HDRI-Werkzeuge&quot; sind Werkzeuge speziell für die Arbeit mit Umgebungslichtern. HDRI steht für &quot;High Dynamic Range Image&quot;, bezeichnet aber häufig Panoramabilder, die zum Erstellen von Umgebungslichts verwendet werden. Das Ändern von Panoramabildern mit herkömmlicher Software kann ziemlich aufwändig sein, da kugelförmige 3D-Informationen einer 2D-Bilddatei zugeordnet werden müssen. Bei der Planung der HDRI-Werkzeuge in Sampler wurde diese Überlegung berücksichtigt. Das Patchen und Hinzufügen von Lichtern zu HDR-Bildern ist also viel einfacher.
 
 Die folgenden Filter sind HDRI-Werkzeuge:
 

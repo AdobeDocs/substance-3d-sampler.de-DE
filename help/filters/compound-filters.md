@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/de/substance-3d-sampler/filters/compound-filters.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html'
 breadcrumb-title: ''
 description: Erfahre, wie du in Substance 3D Sampler zusammengesetzte Filter erstellst und verwendest, um mehrere Filter zu einer einzigen wiederverwendbaren Ebene zu kombinieren.
 helpx_creative_field: ''
@@ -38,7 +38,7 @@ Ein zusammengesetzter Filter ist eine **.ssafilter**-Datei, die ein komprimierte
 ### Inhalt der Beschreibungsdatei
 
 * Name: Bezeichnung des zusammengesetzten Filters, die in der Benutzeroberfläche angezeigt wird
-* ID: Eindeutiger Bezeichner des zusammengesetzten Filters
+* ID: Eindeutige Identifizierung des Verbundfilters
 * Kategorie: Kategorie des zusammengesetzten Filters, der im Bedienfeld &quot;Elemente&quot; verwendet wird, wenn Sie Elemente nach Kategorie gruppieren
 * Version: Inkrementelle Zahl zum Definieren der Version des Verbundfilters.
 * Knoten: Liste der zu verwendenden Knoten
@@ -104,11 +104,11 @@ Ein zusammengesetzter Filter ist eine **.ssafilter**-Datei, die ein komprimierte
 
 ### Version
 
-Mithilfe einer Versionsnummer können Sie Ihre verschiedenen Iterationen verfolgen. Wenn Sie einen Ebenenstapel mit einer früheren Version Ihres zusammengesetzten Filters geöffnet haben, wird eine Benachrichtigung angezeigt, in der Sie aufgefordert werden, auf die neueste Version zu aktualisieren.
+Mithilfe einer Versionsnummer können Sie Ihre verschiedenen Iterationen verfolgen. Wenn Sie einen Ebenenstapel mit einer Vorversion Ihres Verbundfilters geöffnet haben, wird eine Benachrichtigung angezeigt, die Sie zum Upgrade auf die neueste Version auffordert.
 
 ### Knoten
 
-Ein Knoten kann auf einen internen Filter von Substance 3D Sampler verweisen. Definieren Sie einen eindeutigen Bezeichner **Id**, der zum Definieren von Verknüpfungen zwischen Knoten und der Bezeichnung des internen Filters **InternalFilter** verwendet werden soll.
+Ein Knoten kann auf einen internen Filter von Substance 3D Sampler verweisen. Definieren einer eindeutigen Identifizierung **Id**, die zum Definieren von Verknüpfungen zwischen Knoten und der Bezeichnung des internen Filters **InternalFilter** verwendet werden soll
 
 ```JSON
 { 
@@ -117,7 +117,7 @@ Ein Knoten kann auf einen internen Filter von Substance 3D Sampler verweisen. De
 }
 ```
 
-Ein Knoten kann auf eine SBSAR-Datei verweisen, die nicht in Substance 3D Sampler enthalten ist. Definieren Sie eine eindeutige ID **ID**, die zum Definieren von Verknüpfungen zwischen Knoten und dem Dateinamen **Datei** der SBSAR-Datei verwendet werden soll. Die SBSAR-Datei muss sich in einem Ordner **resources** neben der .alchfilter-Datei befinden.
+Ein Knoten kann auf eine Sbsar-Datei verweisen, die nicht in Substance 3D Sampler vorhanden ist. Definieren Sie eine eindeutige Identifizierung **Id**, die zum Definieren von Verknüpfungen zwischen Knoten und dem Dateinamen **File** der Sbsar-Datei verwendet werden soll. Die Sbsar-Dateien müssen sich in einem Ordner **Ressourcen** neben der .alchfilter-Datei befinden.
 
 ```JSON
 { 
@@ -143,10 +143,10 @@ Jedes Element hat drei Attribute:
   * die Eingabe des zusammengesetzten Filters festlegen, lautet die Knoten-ID **FilterInput**.
   * die Ausgabe Ihrer zusammengesetzten Ebene festlegen, lautet die Knoten-ID **FilterOutput**.
 * Verwendung: Deklarieren Sie die Verwendung, die Sie verwenden möchten. Es gibt drei Optionen:
-  * Einzelne Verwendung gleichzeitig und Deklarieren der Verknüpfung nach Verknüpfung (baseColor, normal, Height, ambientOcclusion, Raueit, metallisch, diffus, Specular, Glanzgrad, Glanzgrad, Deckkraft, emittierend, scan1, ...)
+  * Einzelne Verwendung gleichzeitig und Deklarieren der Verknüpfung durch Verknüpfung (baseColor, normal, Height, ambientOcclusion, Rauheit, metallic, diffuse, Specular, Glanz, specularLevel, opacity, emissive, scan1, ...)
   * Sie können auch eine Liste [&quot;baseColor&quot;, &quot;normal&quot;] angeben. Das erste Element der Liste von **Von** entspricht dem ersten Element der Liste von **Nach**. usw.
   * Verwenden Sie **\***, damit Substance 3D Sampler den Abgleich zwischen identischen Verwendungen aller Verwendungen des Von-Knotens und des An-Knotens durchführen kann. (Es ist nicht möglich, **\*** mit einem anderen Link zu kombinieren, während einzelne Links und Listenverknüpfungen zwischen denselben Knoten möglich sind.)
-* Gruppe: Wenn ein Knoten mehrmals dieselbe Verwendung hat, können Sie das Gruppenattribut verwenden, um eine bestimmte Verwendung auszuwählen. Beispiel: Verwenden Sie für Mischfilter *Material1*, um die baseColor des unteren Materials abzurufen, und *Material2*, um die baseColor des oberen Materials abzurufen.
+* Gruppe: Wenn ein Knoten mehrmals dieselbe Verwendung hat, können Sie das Gruppenattribut verwenden, um eine bestimmte Verwendung auszuwählen. Beispiel: Verwenden Sie für Überblendung-Filter zum Abrufen der baseColor des unteren Materials *Material1* und zum Abrufen der baseColor des oberen Materials *Material2*
 
 ```JSON
 Link between two nodes  

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
 breadcrumb-title: ''
 description: Verwende das Werkzeug "Horizont begradigen" in Substance 3D Sampler, um die Horizontausrichtung in HDR-Umgebungsbildern zu korrigieren.
 helpx_creative_field: ""

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
-description: Verwende den Atlas Scatter-Generator in Substance 3D Sampler, um Elemente aus Texturatlanten über Materialoberflächen hinweg Streuung.
+description: Verwenden Sie den Atlas Scatter-Generator in Substance 3D Sampler, um Elemente aus Textur-Atlanten über Material-Oberflächen hinweg Streuung.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Atlas Scatter
 helpx_experience_level: ""
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Der Elementfilter Streuung Instanzen der Atlas Scattern innerhalb eines Atlasmaterials über das darunter liegende Material hinweg. Atlas Scatter ist nützlich, wenn du Blätter, Felsen oder Müll auf natürliche Weise über ein Material streuen möchtest.
+Der Elementfilter Streuung Instanzen der Material innerhalb eines Atlas- über das zugrunde liegende Material hinweg, wobei die Atlas Scatter ebenfalls angewendet wird. Atlas Scatter ist nützlich, um Blätter, Felsen oder Müll auf natürliche Weise über ein Material zu verteilen.
 
 Die folgenden Abbildungen zeigen den **Aktionsfilter** in Atlas Scatter.
 
 ![](../../assets/3d-2d-filters-cropped-0037-atlas-scatter-in.jpg)
 
-Bevor der **Atlas Scatter-Filter** verwendet wird, verfügen wir über ein einfaches Schlammmaterial - nicht sehr aufregend.
+Bevor der **Atlas Scatter-Filter** verwendet wird, verfügen wir über ein einfaches Schlamm-Material - nicht sehr aufregend.
 
 ![](../../assets/3d-2d-filters-cropped-0036-atlas-scatter-out.jpg)
 
@@ -62,7 +62,7 @@ Durch Hinzufügen des **Atlas Scatter-Filters** mit einem Kieselatlas wird das M
 * **Skalierung**: 0-5\
   Skalierung von Instanzen
 * **Position zufällig**: 0-2\
-  Erhöhen oder Verringern des zufälligen Versatzes von Instanzen von Rasterpositionen
+  Erhöhen oder Verringern des zufälligen Versatzes von Instanzen von Raster-Positionen
 * **Height-Skalierung**: 0-1\
   Height von Instanzen anpassen
 * **Mit Hintergrund konform**: 0-1\
@@ -113,20 +113,20 @@ Durch Hinzufügen des **Atlas Scatter-Filters** mit einem Kieselatlas wird das M
 * **Drehung aus Bg-Steigung**:\
   Instanzen anhand der Steigung des zugrunde liegenden Materials drehen
 
-**Atlas-Materialanpassungen**
+**Atlas-Material-Anpassungen**
 
 * **Farbkorrektur**:\
   Anpassen der HSV-Werte für den Atlas
 * **Farbzufall**:\
   Hinzufügen der Zufälligkeit zu den HSV-Werten, die in **Farbanpassung** festgelegt wurden
 * **Raueit aus dem Hintergrund**: 0-1\
-  Verwende statt der Raueit der einzelnen Instanzen die Raueit des Hintergrunds.
-* **Raueitskorrektur**: -1 bis 1\
-  Werte für die Raueit hinzufügen oder entfernen.
+  Verwenden Sie statt der Rauheit jeder Instanz die Rauheit des Hintergrunds.
+* **Anpassung der Rauheit**: -1 bis 1\
+  Werte für Rauheiten hinzufügen oder entfernen.
 * **Normaler Zufallswert**: 0-1\
   Normale jeder Instanz um einen zufälligen Wert pro Instanz drehen
 * **Umlauffähige Verdeckung erneut berechnen**: Knebel\
-  Wenn aktiviert, werden die Werte für die umgebende Verdeckung auf der Grundlage der geänderten Werte für das Height neu berechnet.
+  Wenn aktiviert, werden die Ambient occlusion-Werte auf der Grundlage der geänderten Height-Werte neu berechnet.
 
 **Erkennung von Atlasformen**
 
@@ -140,18 +140,18 @@ Durch Hinzufügen des **Atlas Scatter-Filters** mit einem Kieselatlas wird das M
 
 Benutzerhandbuch
 
-Mit dem Filter &quot;Atlas Scatter&quot; lassen sich Elemente über das Material hinweg, z. B. Blätter, Steine oder Müll, in Streuungen einbetten. Um den Filter &quot;Atlas Scatter&quot; verwenden zu können, benötigen Sie ein Atlasmaterial, das der Filter verarbeiten soll.
+Mit dem Filter &quot;Atlas Scatter&quot; können Sie Streuungen für Elemente im gesamten Material vornehmen, z. B. Blätter, Steine oder Müll. Um den Filter &quot;Atlas Scatter&quot; verwenden zu können, benötigen Sie ein Atlas-Material, das der Filter verarbeiten soll.
 
 >[!NOTE]
 >
-> Ein Atlasmaterial ist ein Material, das eine Sammlung (oder einen Atlas) separater Elemente enthält. Zum Beispiel enthält Sampler standardmäßig die Option &quot;Trockene Lorbeerblätter&quot; (Dry Laurel Leaves) - dies ist ein Atlasmaterial, da es eine Blattsammlung in einem einzigen Material enthält, in dem jedes Blatt vom anderen Blatt getrennt ist. Der Blattknoten verwendet einen Algorithmus, um jedes Atlas Scatter des Atlasmaterials als separates Element zu behandeln.
+> Ein Atlas-Material ist ein Material mit einer Sammlung (oder einem Atlas) separater Elemente. Zum Beispiel enthält Sampler standardmäßig das Material &quot;Trockene Lorbeerblätter&quot; (Dry Laurel Leaves) - dies ist ein Atlasblatt, da es eine Laubsammlung in einem einzigen Material enthält, in dem jedes Blatt vom anderen Blatt getrennt ist. Der Elementknoten verwendet einen Algorithmus, um jedes Blatt des Atlas-Materials als separates Atlas Scatter zu behandeln.
 
 So verwenden Sie den Filter &quot;Atlas Scatter&quot;:
 
-1. Atlas Scatter-Filter zum Ebenenstapel hinzufügen.
+1. Atlas Scatter zu Ebenenstapel hinzufügen.
 1. Unter der Atlas Scatter-Ebene wird ein Eingangssteckplatz angezeigt.
-1. Ziehen Sie das Atlasmaterial in den Atlas Scatter-Eingangssteckplatz.
+1. Ziehen Sie das Atlas-Material in den Atlas Scatter-Eingangssteckplatz
 
 Sie können die Parameter für die Streuung im **Eigenschaften-Bedienfeld** anpassen, indem Sie die Atlas Scatter-Ebene auswählen.
 
-Sie können die Parameter des Atlasmaterials im **Eigenschaften-Bedienfeld** anpassen, indem Sie das Material im Eingangsschlitz auswählen.
+Sie können die Parameter des Atlas-Materials im **Eigenschaften-Bedienfeld** anpassen, indem Sie das Material im Eingangssteckplatz auswählen.

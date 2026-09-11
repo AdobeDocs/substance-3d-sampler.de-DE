@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/stonewall.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/stonewall.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Stonewall-Generator in Substance 3D Sampler, um realistische Steinmauermuster und Mauerwerkstexturen für Materialien zu erstellen.
+description: Verwenden Sie den Steinmauer-Generator in Substance 3D Sampler, um realistische Steinmauermuster und Mauerwerk-Texturen für Material zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Stonewall
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Verwende den Stonewall-Filter, um dein Material schnell in eine alte Steinwand einzubetten.
+Mit dem Stonewall-Filter kannst du dein Material schnell in eine alte Steinwand einbetten.
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ Verwende den Stonewall-Filter, um dein Material schnell in eine alte Steinwand e
 * **Steinmuster**:\
   Auswählen, welches Muster zum Anordnen der Steine verwendet wird
 * **Anzahl Steine**: 4-18\
-  Passe die Anzahl der Steine an, in die das Material zerlegt werden soll.
+  Passen Sie die Anzahl der Steine an, in die das Material unterteilt werden soll
 * **Steinrundung**: 0-1\
   Den Verschleiß der Steinkanten kontrollieren
 * **Anzahl reduzierter Steine**: 0-1\
@@ -60,11 +60,11 @@ Verwende den Stonewall-Filter, um dein Material schnell in eine alte Steinwand e
 * **Mörtelfarbe**: Farbauswahl\
   Farbe des Mörtels zwischen den Steinen anpassen.
 * **Grimmiemenge**: 0-1\
-  Ändern der Menge an Schmutz und Dirt, der auf das Material angewendet wird
+  Ändern der auf das Material angewendeten Menge an Schmutz und Dirt
 * **Rasterfarbe**: Farbauswahl\
   Auswählen der Farbe des Rasters
 
 **Erweiterte Parameter**
 
 * **Normalintensität**: 0-3\
-  Steuere die Stärke der Normalen für das gesamte Material.
+  Steuern Sie die Stärke der Normalen für das gesamte Material.

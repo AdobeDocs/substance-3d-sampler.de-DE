@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/floor-tiles.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/floor-tiles.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Generator für Bodenfliesen in Substance 3D Sampler, um realistische Bodenfliesenmuster und keramische Texturen für Materialien zu erstellen.
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: Sampler > Filters > Generators > Floor Tiles
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Bodenfliesen
+title: Basis Tiles
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Bodenfliesen
+# Basis Tiles
 
 <table>
 <tr style="border: 0;">
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Der Bodenfliesen-Filter löst das darunter liegende Material auf und wandelt es in eine Anordnung von Bodenfliesen um.
+Der Filter &quot;Kacheln&quot; löst das darunter liegende Material auf und konvertiert es in eine Basis von Basen-Kacheln.
 
 Die folgenden Bilder zeigen ein Betonmaterial, das mit einem Schachbrettmuster in Bodenfliesen umgewandelt wurde.
 
@@ -64,12 +64,12 @@ Parameter
   Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
 * <b>Anzahl der Materialien</b>: \
   Ändern Sie die Anzahl der Materialien, die in Bodenfliesen konvertiert werden sollen. Das erste Material wird durch Schichten unter der Bodenfliesen-Filterschicht bestimmt. Wenn ausgewählt, kann die zweite als Eingabe hinzugefügt werden.
-* <b>Intensität der Eingabematerialien</b>: 0-1 \
-  Wie viele Details der Eingabematerialien werden in den Kacheln angezeigt?
+* <b>Intensität der Eingabe-Materials</b>: 0-1 \
+  Wie detailliert die Eingabe-Material in den Kacheln angezeigt werden
 * <b>Materialien umkehren</b>: Umschalten \
-  Tauschen Sie bei der Verwendung von zwei Materialien die Stelle aus, an der sie auf den Kacheln erscheinen.
+  Wenn Sie zwei Materialien verwenden, tauschen Sie die Stelle in den Kacheln aus, an der sie angezeigt werden.
 * <b>Farbvariation</b>: 0-1 \
-  Gibt an, wie stark die Farbe zwischen den einzelnen Kacheln desselben Materials variiert.
+  Wie stark die Farben zwischen den einzelnen Kacheln desselben Materials variieren
 * <b>Abgeflachter Radius</b>: 0-1 \
   Größe der Fliese im Vergleich zur Größe des Mörtels
 * <b>Tiefe abschrägen</b>: 0-1 \
@@ -77,9 +77,9 @@ Parameter
 * <b>Rundheit abschrägen</b>: 0-1 \
   Bestimmt die äußeren Winkel der Kacheln
 * <b>Oberflächenkorn</b>: 0-1 \
-  Bestimmt, wie detailliert das Originalmaterial auf den Normal- und Height-Maps der Kacheln angezeigt wird.
+  Bestimmt, wie detailliert das ursprüngliche Material auf den Normal- und Höhen-Map-Kacheln dargestellt wird
 * <b>Mustermaske</b>: Eingabe.  \
-  Jede Maske für Bodenfliesen-Muster verfügt über einen anderen Satz von Parametern. Hier werden nur die verfügbaren Parameter für <b>Kachelquadrat</b> behandelt.
+  Für jede Basis-Mustermaske stehen unterschiedliche Parameter zur Verfügung. Hier werden nur die verfügbaren Parameter für <b>Kachelquadrat</b> behandelt.
 
   * <b>Zufallswert </b>\
     Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
@@ -89,8 +89,8 @@ Parameter
     Anpassen der Anzahl der Kachelzeilen
   * <b>Verlauf </b> \
     Passt das Verhältnis der Fliesengröße zur Mörtelgröße an.
-  * <b>Luminanzzufall</b>\
-    Da die Luminanz die Height-Map beeinflusst, entfernt dieser Parameter zufällig einige Kacheln
+  * <b>Luminanz zufällig</b>\
+    Da die Luminanz den Höhen-Map beeinflusst, entfernt dieser Parameter zufällig einige Kacheln
   * <b>Musterrotation</b>: 0-1 \
     Dreht den Winkel der Kacheln und hält sie voneinander weg, um Überlagerungen zu vermeiden
   * <b>Formskalierung:</b> 0-1 \
@@ -115,18 +115,18 @@ Parameter
 
 * <b>Farbe für Lücke</b>: Farbauswahl \
   Ändern der Farbe zwischen Musterelementen
-* <b>Gap Roughness</b>: 0-1 \
+* <b>Gap-Rauheit</b>: 0-1 \
   Ändern Sie den Raueitswert des Materials zwischen Kacheln.
 * <b>Gap Metallic</b>: 0-1 \
-  Ändern Sie den metallischen Wert des Materials zwischen Kacheln.
+  Ändern Sie den metallic Wert des Materials zwischen Kacheln.
 * <b>Gap-Height</b>: 0-1 \
-  Ändern Sie den Materialwert des Heights zwischen Kacheln.
+  Ändern Sie den Height-Wert des Materials zwischen Kacheln.
 * <b>Unregelmäßigkeit der Lücke</b>: 0-1 \
   Passen Sie an, wie sauber der Mörtel zwischen den Kacheln aufgetragen wird.
 
 <b>Alter</b>
 
-* <b>Bodenneigung</b>: 0-1 \
+* <b>Neigung der Basis</b>: 0-1 \
   Neigung zu zufälligen Musterelementen hinzufügen.
 * <b>Height zufällig</b> \
   Hinzufügen eines Height-Unterschieds zwischen Musterelementen nach dem Zufallsprinzip
@@ -139,17 +139,17 @@ Parameter
 
 <b>Technische Parameter</b>
 
-* <b>Materialskala</b>: 0-1 \
+* <b>Material-Skalierung</b>: 0-1 \
   Skalierung des Materials innerhalb der Kacheln
 * <b>Normalintensität</b>: 0-1 \
-  Passen Sie die Intensität der Normale des Spalts, der Fliesen und des Materials in
+  Passen Sie die Stärke der Normale des Spalts, der Kacheln und des Materials im
 
 <b>Benutzerhandbuch</b>
 
-Mit dem Filter &quot;Bodenfliesen&quot; können Sie Ihr Material schnell in Kacheln konvertieren. Die meisten Bodenfliesen-Filter sind relativ einfach zu verwenden, außer bei der Verwendung mehrerer Materialien. So verwenden Sie zwei Materialien:
+Mit dem Basis-Kacheln-Filter können Sie Ihr Material schnell in Kacheln konvertieren. Die meisten Filterkacheln der Basis sind relativ einfach zu verwenden, außer bei der Verwendung mehrerer Materialien. So verwenden Sie zwei Materialien:
 
-1. Legen Sie <b>Grundlegende Parameter > Anzahl der Materialien</b> auf 2 fest.
-1. Ziehe das zweite Material in den Eingangsschlitz, der unter dem Filter &quot;Bodenfliesen&quot; im Ebenenstapel eingeblendet wurde.
-1. Passen Sie die Parameter des Eingabematerials an, bis Sie mit dem Ergebnis zufrieden sind.
+1. Legen Sie <b>Basisparameter > Anzahl der Material</b> auf 2 fest.
+1. Ziehen Sie das zweite Material in den Eingangssteckplatz, der sich im Ebenenstapel unter dem Filter &quot;Basis-Kacheln&quot; befindet.
+1. Passen Sie die Parameter des Materials an, bis Sie mit dem Ergebnis zufrieden sind.
 
-Obwohl es möglich ist, mehrere Materialien und Filter in einem einzigen Eingangsschlitz hinzuzufügen, ist es im Allgemeinen eine gute Idee, dies zu vermeiden, da es die Komplexität erhöht und es schwieriger machen kann, Ihr Material zu lesen, wenn Sie später darauf zurückkommen. Erstellen Sie stattdessen neue Materialien in Ihrem Projekt und ziehen Sie dann eine Instanz des neuen Materials in den Eingabebereich. Wenn du das Material in deinem Projekt aktualisierst, wird es automatisch im Eingangsbereich aktualisiert. So hast du die volle Kontrolle und kannst den Ebenen-Stapel vereinfachen.
+Es ist zwar möglich, mehrere Materialien und Filter in einem einzigen Eingangssteckplatz einzusetzen, aber es ist im Allgemeinen ratsam, dies zu vermeiden, da es die Komplexität erhöht und das Lesen Ihres Materials erschweren kann, wenn Sie später darauf zurückkommen. Erstellen Sie stattdessen neue Material in Ihrem Projekt und ziehen Sie dann eine Instanz des neuen Materials in den Eingabebereich. Wenn Sie das Material in Ihrem Projekt aktualisieren, wird das Material automatisch im Eingabebereich aktualisiert, sodass Sie die volle Kontrolle haben und den Ebenenstapel vereinfachen.

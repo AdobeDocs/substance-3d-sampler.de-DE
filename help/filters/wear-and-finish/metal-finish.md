@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Filter "Metalloberfläche" in Substance 3D Sampler, um verschiedene Metalloberflächen und Texturen auf Ihre Materialien anzuwenden.
+description: Verwenden Sie den Filter "Metalloberfläche" in Substance 3D Sampler, um verschiedene Metalloberflächen und Texturen auf Ihre Materials anzuwenden.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Metal Finish
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Wandle dein Material mit einer Reihe von Oberflächen und Stilen in ein Metall um.
+Wandle dein Material in ein Metall um - mit einer Reihe von Oberflächen und Stilen.
 
-*Ein Rohmetallmaterial wird mit dem Filter **Metal Finish in eine gebürstete Metalloberfläche umgewandelt.***
+*Ein Material eines Rohmetalls wird mit dem **Metal Finish-Filter in eine gebürstete Metalloberfläche konvertiert.***
 
 <table>
 <tr style="border: 0;">
@@ -63,7 +63,7 @@ Wandle dein Material mit einer Reihe von Oberflächen und Stilen in ein Metall u
 * **Zufallsparameter**:\
   Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
 * **Nur Metallic ändern**: Knebel\
-  Wenn diese Option aktiviert ist, beschränkt dieser Filter seine Änderungen auf den metallischen Kanal.
+  Wenn diese Option aktiviert ist, beschränkt dieser Filter seine Änderungen auf den metallic Kanal.
 * **Metallfarbmodus**:\
   Wähle eine Farbe aus, die auf einem anderen Metall basiert, oder ein eigenes. Wenn **Benutzerdefinierte Farbe** ausgewählt ist, wird das folgende Steuerelement angezeigt:
   * **Metallfarbe**: Farbauswahl\
@@ -74,12 +74,12 @@ Wandle dein Material mit einer Reihe von Oberflächen und Stilen in ein Metall u
     Passen Sie die Intensität des gewählten Finishs an.
   * **Skalierung**: 0-1\
     Ändern Sie die Skalierung des Musters, das das ausgewählte Finish antreibt.
-  * **Raueit**: 0-1\
-    Steuern Sie den Raueitswert des Metalls.
+  * **Rauheit**: 0-1\
+    Steuern Sie den Wert der Rauheit des Metalls.
   * **Perlenskalierung**: 0-1\
     Verfügbar für **Sandblasted**. Legen Sie die Größe der Kügelchen fest, die zum Erstellen des Sandstrahleffekts verwendet werden.
   * **poliert**: 0-1\
-    Verfügbar für **Cast**. Passen Sie den Grad der Glättung höherer Teile des Materials an.
+    Verfügbar für **Wirf**. Passen Sie den Grad der Glättung höherer Teile des Materials an.
   * **Muster**:\
     Verfügbar für **Grinded**. Legen Sie das Muster fest, das vom Schleifgerät verwendet wird.
   * **Relief-Details**: 0-1\
@@ -105,11 +105,11 @@ Wandle dein Material mit einer Reihe von Oberflächen und Stilen in ein Metall u
 **Erweiterte Parameter**
 
 * **Grundfarbe**: Knebel\
-  Legt fest, ob der Grundfarbkanal vom Filter beeinflusst wird.
+  Legt fest, ob sich der Filterkanal auf die Grundfarbe auswirkt.
 * **Metallisch**: Knebel\
-  Legt fest, ob der metallische Kanal durch den Filter beeinflusst wird.
+  Legt fest, ob der metallic Kanal durch den Filter beeinflusst wird.
 * **Raueit**: Knebel\
-  Legt fest, ob der Raueitskanal vom Filter beeinflusst wird.
+  Legt fest, ob sich der Filterkanal auf die Rauheit auswirkt.
 * **Specular level**: Knebel\
   Legt fest, ob der Specular level-Kanal durch den Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
   * **Specular level** **- Wert**: 0-1\
@@ -122,18 +122,18 @@ Wandle dein Material mit einer Reihe von Oberflächen und Stilen in ein Metall u
 * **Normal**: Knebel\
   Legt fest, ob der normale Kanal durch den Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
   * **Normalintensität**: 0-1\
-    Passen Sie die Stärke der normalen Änderung durch den Filter an.
+    Passen Sie die Stärke der Normaländerung über den Filter an.
 * **Height**: Knebel\
   Legt fest, ob sich der Filterkanal auf das Height auswirkt.
 * **Ausstrahlend**: Knebel\
   Legt fest, ob der Emissionskanal durch den Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
   * **Ausstrahlend - Farbe**: Farbauswahl\
-    Legen Sie die Farbe des Emissionskanals fest.
+    Legen Sie die emissive-Kanalfarbe fest.
 * **Ambient-Verdeckung**: Knebel\
-  Legt fest, ob der Kanal für die umgebende Verdeckung durch den Filter beeinflusst wird. Wenn diese Option aktiviert ist, werden die folgenden zusätzlichen Steuerelemente angezeigt:
-  * **Umgebungsintensität - Verdeckung**: 0-1\
+  Legt fest, ob der ambient occlusion-Kanal durch den Filter beeinflusst wird. Wenn diese Option aktiviert ist, werden die folgenden zusätzlichen Steuerelemente angezeigt:
+  * **Ambient occlusion - Intensität**: 0-1\
     Passen Sie die Stärke der generierten AO an.
-  * **Umgebungsradius** **- Verdeckung**: 0-1\
+  * **Ambient occlusion** **- Radius**: 0-1\
     Passen Sie den Radius des AO-Effekts an.
 * **Deckkraft**: Knebel\
   Legt fest, ob der Deckkraftkanal vom Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:

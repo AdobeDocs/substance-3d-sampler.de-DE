@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Probleme mit der Anzeige von Schriftarten in Substance 3D Sampler auf Windows Enterprise-Systemen mit aktivierter nicht vertrauenswürdiger Schriftartenblockierung beheben.
 helpx_creative_field: ""

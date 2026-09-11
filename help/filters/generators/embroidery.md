@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/embroidery.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embroidery.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Stickereigenerator in Substance 3D Sampler, um gestickte Stoffmuster und Nähtexturen für Materialien zu erstellen.
+description: Verwenden Sie den Stickereigenerator in Substance 3D Sampler, um gestickte Stoffmuster und Heftmuster für Materialien zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Embroidery
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Mit dem Stickereifilter können Sie schnell Bilder in gestickte Pflaster konvertieren. Sie können das Aussehen der Patches anpassen und die Farbmanagement-Werkzeuge verwenden, um als Maske für mehrere Materialien zu fungieren.
+Mit dem Stickereifilter können Sie schnell Bilder in gestickte Pflaster konvertieren. Sie können das Erscheinungsbild der Patches anpassen und die Farbmanagement-Tools verwenden, um mehrere Materialien zu maskieren.
 
 Die folgenden Bilder zeigen den **Stickereifilter** in Aktion.
 
@@ -61,7 +61,7 @@ Weitere Informationen [finden Sie hier](../../pipeline-and-integrations/tajima-e
 * <b>Zufallsparameter</b>:\
   Die Zufallsgeschwindigkeit, auf der alle anderen Zufallsparameter in diesem Filter basieren.
 * <b>Image</b>: Bild/Maske\
-  Wähle ein Bild in deinem System aus, oder male eine eigene Maske.
+  Wähle ein Bild auf deinem System aus, oder lege eine eigene Malen-Maske an.
 * <b>Farbanzahl</b>: 1-8\
   Der Stickereifilter versucht, importierte Bilder in separate Farben aufzuteilen. Ändern Sie diesen Wert, um die Anzahl der verwendeten Farben zu ändern.
 * <b>Dichte</b>: 80-300\
@@ -90,12 +90,12 @@ Passen Sie die Farbbereiche mit den Steuerelementen einzeln an.
 
 * <b>Benutzerdefinierte Farbe:</b>\
   Die Farbe der gesamten Stickerei anpassen
-* <b>Grobheit: </b>0-1\
-  Ändern Sie den Wert für &quot;Raueit&quot;, um die Stickerei rau oder glänzend zu gestalten.
-* <b>Metallisch: </b>0-1\
-  Ändern Sie den Metallic-Wert, um den Threads ein metallisches Flair zu verleihen.
-* <b>Anisotropie: </b>0-1\
-  Ändere die Intensität der Anisotropie, um den Effekt &quot;Metallisch&quot; zu betonen.
+* <b>Rauheit: </b>0-1\
+  Ändern Sie den Wert für &quot;Rauheit&quot;, um die Stickerei rau oder glänzend zu gestalten.
+* <b>Metallic: </b>0-1\
+  Ändern Sie den Metallic Wert, um den Threads ein metallic Erscheinungsbild zu verleihen.
+* <b>Anisotropy level: </b>0-1\
+  Ändere den Anisotropy level, um die Metalness-Effekte zu betonen.
 
 <b>Erweitert</b>
 
@@ -108,7 +108,7 @@ Passen Sie die Farbbereiche mit den Steuerelementen einzeln an.
 
 ## Benutzerhandbuch
 
-Der Stickerei-Filter kann zunächst etwas verwirrend sein, aber mit nur wenigen wichtigen Parametern werden Sie in kürzester Zeit Patches zu Ihren Materialien hinzufügen.
+Der Stickerei-Filter kann zunächst etwas verwirrend sein, aber mit ein paar wichtigen Parametern für den Anfang werden Sie in kürzester Zeit neue Patches zu Ihren Materials hinzufügen.
 
 >[!NOTE]
 >
@@ -116,16 +116,16 @@ Der Stickerei-Filter kann zunächst etwas verwirrend sein, aber mit nur wenigen 
 
 So verwenden Sie den Stickereifilter:
 
-1. Wende den Filter &quot;Stickerei&quot; auf deine Ebenen an.
-1. Verwenden Sie <b>Grundlegende Parameter > Bild</b>, um dem Filter ein Bild hinzuzufügen, oder fügen Sie dem Ebenenstapel unterhalb des Stickfilters ein Bild hinzu (nicht in einem der Eingabefächer). Wenn ein Bild nicht zu <b>Basisparametern > Bild</b> hinzugefügt wird, nimmt der Filter Bilder automatisch aus den Scan-Kanälen auf, sofern verfügbar.
+1. Fügen Sie den Stickereifilter zu Ihrem Ebenenstapel hinzu.
+1. Verwenden Sie <b>Basisparameter > Image</b>, um dem Filter ein Bild hinzuzufügen, oder fügen Sie dem Ebenenstapel unter dem Stickereifilter ein Bild hinzu (nicht in einem der Eingabefächer). Wenn ein Bild nicht zu <b>Basisparametern > Bild</b> hinzugefügt wird, nimmt der Filter Bilder automatisch aus den Scan-Kanälen auf, sofern verfügbar.
 1. Passen Sie <b>Grundlegende Parameter > Farbanzahl </b> an, bis die Farbbalance für Ihr Bild korrekt aussieht. Wenn Sie die Anzahl der Farben auf maximal 8 festlegen möchten, aktivieren oder deaktivieren Sie Farben, um die benötigten Farben zu isolieren.\
    Der Filter &quot;Stickerei&quot; eignet sich am besten für flache Farben und illustrierte Bilder.
 1. Passen Sie weitere Parameter an, um das Erscheinungsbild des Patches zu optimieren.
 
-Es ist möglich, transparente Bilder im Stickereifilter zu verwenden, aber standardmäßig wirken sich diese auch auf die Deckkraftkarte Ihres Materials aus - transparente Teile des Bildes machen das Material auch transparent. Um einen Patch mit dem Filter &quot;Stickerei&quot; zu erstellen und ihn über den Ebenen darunter liegen zu lassen, verwenden Sie den Filter &quot;Aufkleber&quot;.
+Es ist möglich, im Filter &quot;Stickerei&quot; transparente Bilder zu verwenden, aber standardmäßig wirken sich diese auch auf die Deckkraftmap deines Materials aus - durchsichtige Bildbereiche machen das Material ebenfalls transparent. Um einen Patch mit dem Filter &quot;Stickerei&quot; zu erstellen und ihn über den Ebenen darunter liegen zu lassen, verwenden Sie den Filter &quot;Aufkleber&quot;.
 
 1. Erstellen Sie einen Aufkleberfilter.
 1. Fügen Sie den Stickereifilter zum Eingangssteckplatz des Decal-Filters hinzu.
 1. Um das Stickmuster anzupassen, führen Sie die normalen Schritte aus.
 
-Die Ebene &quot;Decal&quot; konvertiert die Stickerei-Eingabe in einen Aufkleber. Die Transparenz der Ebene &quot;Embroidery&quot; weist die Ebene &quot;Decal&quot; an, wie das Muster maskiert werden soll. Mit der Decal-Ebene kannst du das Muster auch auf deinem Material verschieben oder Funktionen wie Kacheln aktivieren.
+Die Ebene &quot;Decal&quot; konvertiert die Stickerei-Eingabe in einen Aufkleber. Die Transparenz der Ebene &quot;Embroidery&quot; weist die Ebene &quot;Decal&quot; an, wie das Muster maskiert werden soll. Mit der Decal-Ebene kannst du das Muster auch auf deinem Material verschieben oder Funktionen wie Kachelung aktivieren.

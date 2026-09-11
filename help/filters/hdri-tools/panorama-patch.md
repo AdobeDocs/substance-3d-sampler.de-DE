@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Panorama-Ausbessern-Werkzeug in Substance 3D Sampler, um Bereiche in Panorama-HDRI-Umgebungsbildern auszubessern und zu reparieren.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Patch-Problembereiche in der Umgebungsbeleuchtung. Der Panorama-Patch sorgt dafür, dass die Transformation und Neigung so beibehalten werden, dass der Patch auf natürliche Weise mit der Hintergrundoberfläche übereinstimmt.
+Patch für Problembereiche in deinem Umgebungslicht. Der Panorama-Patch sorgt dafür, dass die Transformation und Neigung so beibehalten werden, dass der Patch auf natürliche Weise mit der Hintergrundoberfläche übereinstimmt.
 
 Die folgenden Bilder zeigen den <b>Panorama-Patch </b> in Aktion - in diesem Fall wird die Mitte einer großen Cloud durch den offenen Himmel ersetzt.
 
@@ -48,10 +48,10 @@ Die folgenden Bilder zeigen den <b>Panorama-Patch </b> in Aktion - in diesem Fal
 * **Patch-Radius**: 0-1\
   Passen Sie die Größe des Patches an.
 * **Patch-Kontrast:** 0-1\
-  Passen Sie die Kantenschärfe des Pflasters an.
+  Passen Sie die Härte der Kanten des Patches an.
 * **Patch-Drehung**: 0-1\
   Drehen Sie den gepatchten Bereich.
 
 ## Benutzerhandbuch
 
-Fügen Sie den **Panorama-Ausbesserungsfilter** oben im Ebenenstapel hinzu, und passen Sie dann mit den Handles in der **2D-Ansicht** die Quell- und Ausbesserungsorte an.
+Fügen Sie den **Panorama-Ausbesserungsfilter** oben im Ebenenstapel hinzu, und passen Sie dann mit den Handles in **2D-Ansicht** die Quell- und Ausbesserungsorte an.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 5.0, um mehr über die neuen Digitalisierungstools, -funktionen und Workflow-Verbesserungen zu erfahren.
 helpx_creative_field: ""
@@ -22,13 +22,13 @@ ht-degree: 0%
 
 ![](../assets/welcome_digitization_tool.jpg)
 
-Mit <b>Substance 3D Sampler 5.0</b> werden Möglichkeiten für den Einstieg in materielle digitale Zwillinge mit Scans und Renderings höherer Qualität eingeführt.
+<b>Substance 3D Sampler 5.0</b> bietet mit Scans und Renderings höherer Qualität einfachere Möglichkeiten, in den digitalen Material-Twin zu gelangen.
 
 Die wichtigsten neuen Funktionen sind:
 
 ## Schnellaktionen
 
-Starten Sie alle Haupt-Workflows von Sampler mit einem Klick und machen Sie den Ebenenstapel für Sie bereit!
+Starten Sie alle wichtigen Arbeitsabläufe von Sampler mit einem Klick und lassen Sie den Ebenenstapel für Sie bereit!
 
 Weitere Informationen *[hier](../interface/panels/quick-actions-panel.md)*.
 
@@ -44,7 +44,7 @@ Weitere Informationen *[hier](../interface/the-home-screen.md)*.
 
 ## Neuer Renderer
 
-Optimiert die visuelle Konsistenz eurer Bilder mit Echtzeit- oder Pfad-Tracking und unterstützt neue Materialeigenschaften. Speichern Sie Schnappschüsse Ihrer Arbeit direkt aus der 3D-Ansicht.
+Wählen Sie zwischen Echtzeit- und Pfadverfolgung, um die visuelle Konsistenz zu verbessern und neue Material-Eigenschaften zu unterstützen. Speichern Sie Schnappschüsse Ihrer Arbeit direkt aus der 3D-Ansicht.
 
 Weitere Informationen *[hier](../interface/2d-and-3d-viewport.md)*.
 
@@ -52,7 +52,7 @@ Weitere Informationen *[hier](../interface/2d-and-3d-viewport.md)*.
 
 ## HP Z Captis-Integration
 
-Mit HP Z Captis und Substance 3D Sampler lassen sich realistische Materialien in wenigen Minuten digitalisieren.
+Mit HP Z Captis und Substance 3D Sampler lassen sich Materials aus der realen Welt in wenigen Minuten digitalisieren.
 
 Funktion für Unternehmens-, Teams- und Bildungseinrichtungskonten verfügbar.
 
@@ -70,20 +70,20 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/h
 
 * [Onboarding] Neue Homepage mit schnellem Zugriff auf Lerninhalte, Beispielprojekte, Schnellaktionen und aktuelle Projekte.
 * [Onboarding] Schneller Einstieg mit den neuen Schnellaktionen, die über die Startseite und das spezielle Bedienfeld zugänglich sind
-* [Onboarding] [Inhalt] Schnellaktionen sind vordefinierte Workflows, die den Ebenenstapel mit den meisten verwendeten Ebenen füllen
+* [Onboarding] [Inhalt] Schnellaktionen sind vordefinierte Arbeitsabläufe, die den Ebenenstapel mit den am häufigsten verwendeten Ebenen füllen.
 * [Onboarding] Möglichkeit, ein neues Projekt über ein neues Schnellstartmenü, über Schnellaktionen oder über ein benutzerdefiniertes Projekt zu erstellen
 * [Onboarding] Möglichkeit, leeres Projekt direkt von der Startseite über eine dedizierte Schaltfläche zu erstellen
-* [3D-Ansicht] Neuer erweiterter Raster- und Pathtracer mit neuen Rendering-Funktionen (Eigenschaften wie Überziehen, Schein, Lichtdurchlässigkeit, Volumenstreuung) und visueller Konsistenz im Substance-Ökosystem
+* [3D-Ansicht] Neuer erweiterter Raster- und Pathtracer mit neuen Rendering-Funktionen (Eigenschaften wie Überziehen, Glanz, translucency, Volumenstreuung) und visueller Konsistenz im gesamten Substance-Ökosystem
 * [3D-Ansicht] Anzeigeeinstellungen sind jetzt direkt in der 3D-Ansicht verfügbar.
 * [3D-Ansicht] Möglichkeit zum Speichern eines Renderschnappschusses in der Zwischenablage oder in Dateien
-* [3D-Ansicht] Zeigt ein Raster an, um den Ursprung der Szene zu visualisieren
-* [3D-Ansicht] Aktivieren Sie die Grundebene, um Schatten und Reflexionen zu fangen.
-* [3D-Ansicht] Steuern Sie, wie reflektierend und undurchsichtig Ihre Grundebene ist
-* [3D-Erfassung] Positionierung der Masche auf dem Boden
+* [3D-Ansicht] Zeigt einen Raster an, um den Ursprung der Szene anzuzeigen.
+* [3D-Ansicht] Aktivieren Sie die Boden-Ebene, um Schatten und Spiegelungen zu fangen.
+* [3D-Ansicht] Kontrollieren Sie, wie reflektierend und undurchsichtig Ihre Boden-Ebene ist
+* [3D-Erfassung] Mesh auf Boden positionieren
 * [Anwendung] Überprüfen der Hardwarekompatibilität beim Starten der Anwendung
-* [Anwendung] Das Fenster für Absturzberichte wird jetzt direkt nach einem Absturz geöffnet
+* Das Berichtsfenster für [Anwendung] Absturz wird jetzt direkt nach einem Absturz geöffnet.
 * [Inhalt] Öffnen Sie ein Beispielprojekt, um einfach zu beginnen.
-* [Exportieren] Exportieren von Adobe Standard Material Shader in USD-Dateien
+* [Exportieren] Exportieren von Adobe Standard Material-Shader in USD
 * [Generative AI] Tag &quot;Nicht ableiten&quot; aktivieren, wenn Bild als Eingabe in Workflows von Bild zu Textur verwendet wird
 * [Projekt] Miniaturansichten werden in der Projektdatei gespeichert, um Projekte schneller zu öffnen
 * [Project] Einstellung in den Voreinstellungen zum Speichern von Cache-Daten innerhalb der Projektdatei mit verschiedenen Modi (kein Cache, heller Cache, voller Cache)
@@ -110,7 +110,7 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/h
 * [Leistung] Der Render-Cache darf beim Neustart der Anwendung nicht verwendet werden.
 * [Ressourcen] Schreibgeschützte Dateien werden im Bedienfeld &quot;Elemente&quot; nicht angezeigt
 * [Scripting] Wiederverwendung einer Ebene nach dem Hinzufügen einer anderen Ebene zulassen
-* [Skripterstellung] Das mehrmalige Ändern der Ebenenstapelstruktur in einem Skript kann fehlschlagen
+* [Scripting] Das mehrmalige Ändern der Skriptstruktur in einem Ebenenstapel kann fehlschlagen
 
 <b>Entfernt:</b>
 

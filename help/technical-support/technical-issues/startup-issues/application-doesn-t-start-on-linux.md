@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/startup-issues/application-doesn-t-start-on-linux.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/startup-issues/application-doesn-t-start-on-linux.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Startprobleme bei Substance 3D Sampler unter Linux beheben, um Startprobleme bei Anwendungen und Fehlermeldungen zu lösen.
 helpx_creative_field: ""
@@ -29,4 +29,4 @@ error while loading shared libraries: libicui18n.so.50
 
 Dies bedeutet, dass die ICU der Bibliothek ([Internationale Komponenten für Unicode](http://site.icu-project.org/)) entweder fehlt oder die installierte Version zu neu ist. Die Anwendung benötigt Version 50.
 
-Um diese Probleme zu beheben, installieren Sie entweder Version 50 aus dem Paketmanager oder [laden Sie die fehlende Version &#x200B;](http://mirror.centos.org/centos/7/os/x86_64/Packages/libicu-50.2-4.el7_7.x86_64.rpm) manuell herunter, wenn Sie sie in **/usr/lib64** installieren.
+Um diese Probleme zu beheben, installieren Sie entweder Version 50 aus dem Paketmanager oder [laden Sie die fehlende Version ](http://mirror.centos.org/centos/7/os/x86_64/Packages/libicu-50.2-4.el7_7.x86_64.rpm) manuell herunter, wenn Sie sie in **/usr/lib64** installieren.

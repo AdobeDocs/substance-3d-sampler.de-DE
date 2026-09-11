@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Umkehrfilter in Substance 3D Sampler, um Farbwerte umzukehren und negative Bildeffekte in Texturen und Materialien zu erzeugen.
+description: Verwenden Sie den Umkehrfilter in Substance 3D Sampler, um Farbwerte umzukehren und negative Bildeffekte in Texturen und Materials zu erzeugen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Invert
 helpx_experience_level: ""
@@ -33,13 +33,13 @@ ht-degree: 2%
 
 ## Beschreibung
 
-Kehre einzelne Kanäle des Materials um.
+Einzelne Kanäle des Materials umkehren.
 
-In den folgenden Bildern sehen Sie die Auswirkungen der Umkehrung des Raueitskanals eines Kachelmaterials.
+In den folgenden Abbildungen sehen Sie die Auswirkungen der Umkehrung des Rauheit-Kanals eines Kachel-Materials.
 
 ![](../../assets/3d-2d-filters-cropped-0019-invert-in.jpg)
 
-Vor dem Umkehren sind die Kacheln glänzend und reflektieren das Umgebungslicht deutlich.
+Vor dem Umkehren sind die Kacheln glänzend und spiegeln das Umgebungslicht deutlich wider.
 
 ![](../../assets/invert-rough-filter.jpg.img.jpg)
 
@@ -53,14 +53,14 @@ Nach der Umkehrung sind die Kacheln matt und haben keine starken Specular-Highli
 
 **Basisparameter**
 
-Jeder Kanal kann unabhängig durch einen Umschalter umgekehrt werden. Aktivieren Sie den Umschalter, um den Kanal umzukehren. Wenn die Ergebnisse in der 3D-Ansicht nicht sichtbar sind, wählen Sie den Kanal unten in der 2D-Ansicht aus, um die Auswirkungen zu sehen.
+Jeder Kanal kann unabhängig durch einen Umschalter umgekehrt werden. Aktivieren Sie den Umschalter, um den Kanal umzukehren. Wenn die Ergebnisse nicht in der 3D-Ansicht zu sehen sind, wählen Sie den Kanal unten in der 2D-Ansicht aus, um die Auswirkungen zu sehen.
 
 **Maske**
 
 * **Benutzerdefinierte Maske verwenden**: Knebel\
   Aktivieren oder Deaktivieren der Verwendung einer benutzerdefinierten Maske. Wenn aktiviert, werden die folgenden Parameter angezeigt:
   * **Maske**: Bild/Pinsel\
-    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder malen Sie mit dem Pinsel eine benutzerdefinierte Maske direkt in der 2D-Ansicht.
+    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um eine benutzerdefinierte Maske direkt in die 2D-Ansicht Malen
   * **Benutzerdefinierte Maske - Weichzeichnen**: 0-1\
     Weichzeichnen der Maske
   * **Benutzerdefinierte Maske - Umkehren**: Knebel\

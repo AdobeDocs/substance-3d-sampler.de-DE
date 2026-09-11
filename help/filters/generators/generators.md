@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie in Substance 3D Sampler Generatorfilter verwenden, um prozedurale Muster und Materialfundamente zu erstellen.
+description: Erfahren Sie, wie Sie Generatorfilter in Substance 3D Sampler verwenden, um prozedurale Material und Mustergrundlagen zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators
 helpx_experience_level: ""
@@ -24,13 +24,13 @@ Generatoren sind Filter, die eine additive Änderung an Ihrem Material vornehmen
 
 Es gibt zwei Hauptformen von Generatoren:
 
-* Durch Konvertieren von Generatoren wird das zugrunde liegende Material in eine neue Form konvertiert, z. B. mit dem **Panel-Filter**, um ein flaches Stahlmaterial in mehrere Panels zu konvertieren.
-* Durch das Hinzufügen von Generatoren werden neue Elemente über dem zugrunde liegenden Material hinzugefügt, z. B. der **Materialfilter**, der Objekte über ein Atlas Scatter aus einem Eingabeatlas Streuung.
+* Durch Konvertieren von Generatoren wird das zugrunde liegende Material in eine neue Form konvertiert, z. B. mit dem **Panel-Filter**, um ein Flachstahl-Material in mehrere Panels zu konvertieren.
+* Durch das Hinzufügen von Generatoren werden neue Elemente über dem zugrunde liegenden Material hinzugefügt, z. B. der **Atlas Scatter-Filter**, der Objekte über ein Material aus einem Eingabeatlas Streuung.
 
 Konvertierungs-Generatoren umfassen:
 
 * [Brickwall](brickwall.md)
-* [Bodenfliesen](floor-tiles.md)
+* [Basis Tiles](floor-tiles.md)
 * [Bedienfeld](panel.md)
 * [Parkett](parquet.md)
 * [Fußweg](pavement.md)

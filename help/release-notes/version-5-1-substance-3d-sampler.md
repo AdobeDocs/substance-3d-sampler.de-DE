@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/version-5-1-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-1-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 5.1, um mehr über die neuen Funktionen, Verbesserungen und Arbeitsablaufverbesserungen zu erfahren.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../assets/welcome_digitization_tool.jpg)
 
-Verbringen Sie weniger Zeit zwischen dem Erfassen Ihrer Materialien und dem Exportieren ihrer digitalen Zwillinge mit neuen und verbesserten Tools in <b>Substance 3D Sampler 5.1</b>!
+Verbringen Sie weniger Zeit zwischen dem Aufnehmen Ihrer Materials und dem Exportieren ihrer digitalen Zwillinge mit neuen und verbesserten Tools in <b>Substance 3D Sampler 5.1</b>!
 
 Die wichtigsten neuen Funktionen sind:
 
@@ -36,7 +36,7 @@ Weitere Informationen *[hier](../filters/tools/auto-tiling.md)*.
 
 ## Effiziente Ebenen-Workflows
 
-Steigern Sie die Leistung, und verkürzen Sie die Berechnungszeit mit der Ebene &quot;Reduzieren&quot;, indem Sie gestapelte Ebenen transformieren. So erhalten Sie eine einzige Kartenmenge innerhalb einer einheitlichen Ebene. Benennen Sie sie um und duplizieren Sie sie, um mehr Effizienz zu erzielen!
+Steigern Sie die Leistung, und verkürzen Sie die Berechnung mit der Ebene &quot;Reduzieren&quot;, indem Sie gestapelte Ebenen transformieren haben. So entsteht eine einzige Kartenmenge innerhalb einer einheitlichen Ebene. Benennen Sie sie um und duplizieren Sie sie, um mehr Effizienz zu erzielen!
 
 Weitere Informationen *[hier](../features-and-workflows/flatten-layers.md)*.
 
@@ -44,13 +44,13 @@ Weitere Informationen *[hier](../features-and-workflows/flatten-layers.md)*.
 
 ## Leistungsstarke Werkzeuge für die Scanverarbeitung
 
-Mit den erweiterten Filtern &quot;Ausgleichen&quot; und &quot;Kopierstempel&quot; sowie einer neuen Funktion zum automatischen Entfernen von Falten aus Stoffen können Sie mit nur wenigen Klicks perfekte Scans erzielen, unabhängig davon, wie komplex das Material ist.
+Mit den erweiterten Filtern zum Ausgleichen und zum Stempeln von Klonen sowie der neuen Funktion zum automatischen Entfernen von Falten aus Stoffen können Sie mit nur wenigen Klicks perfekte Scans erzielen, ganz gleich, wie komplex das Material ist.
 
 ![](../assets/WhatsNew_Equalize-5_1.jpg)
 
 ## Verbesserte Unterstützung für HP Z Captis
 
-Mit der Generierung von Raueitskarten und der automatischen Erkennung von Physische Größen im Studiomodus erhalten Sie einen detaillierteren und präziseren Materialzweig als je zuvor.
+Mit der Generierung von Rauheiten-Maps und automatischer Physische Größe-Erkennung im Studiomodus erhalten Sie jetzt einen detaillierteren und präziseren Material-Zwilling als je zuvor.
 
 ![](../assets/whatsnew-hp-z-captis-5-1.jpg)
 
@@ -60,25 +60,25 @@ Mit der Generierung von Raueitskarten und der automatischen Erkennung von Physis
 
 ## Hinzugefügt:
 
-* [2D-Ansicht] Die Pinselgröße passt sich jetzt der aktuellen Texturauflösung an
-* [3D-Ansicht] Umschalten der Skalierung der nativen Anzeige für 3D-Rendering in den Voreinstellungen
-* [Anwendung] Aktualisierung der Rendering-Engine
+* [2D-Ansicht] Die Pinselgröße passt sich jetzt der aktuellen Auflösung der Textur an
+* [3D-Ansicht] Native Anzeigeskalierung für 3D-Rendering in den Voreinstellungen aktivieren/deaktivieren
+* [Anwendung] Render-Engine-Update
 * [Captis] Hinzufügen der Option &quot;Quadrat erstellen&quot; während der Vorschau
 * [Captis] Automatische Erkennung von Physische Größen
-* [Captis] Durch die Aufnahme eines neuen Materials wird ein neues Asset erstellt.
+* [Captis] Durch das Erfassen eines neuen Materials wird ein neues Asset erstellt.
 * [Captis] Ändern Sie die Auflösungsauswahl im Dropdown auf Pixel pro Zoll oder Zentimeter anstelle der Pixelauflösung des maximalen Bereichs
 * [Captis] Kontextbezogene Hilfe zur Ausrichtungskalibrierung
-* [Captis] Generieren einer Raueitskarte
+* [Captis] Generate Rauheit Map
 * [Captis] Warnen Sie den Benutzer, wenn die Standardkalibrierungsdateien fehlen.
-* [Filter] Auto Tiling filter for structured materials and scans
+* [Filter] Filter für die automatische Kachelung für strukturierte Materialien und Scans
 * [Filter] Neuer Fold-Entferner-Filter
-* [Filter] Neue Funktionen im Filter &quot;Kopierstempel&quot;
+* [Klon] Neue Funktionen des Filterstempelfilters
 * [Filter] Neue Funktionen des Filters &quot;Tonwertangleichung&quot;
 * [Ebenen] Möglichkeit zum Reduzieren von Ebenen
 * [Ebenen] Kontextmenü beim Rechtsklick auf eine Ebene zum Umbenennen, Duplizieren, Löschen oder Reduzieren der Ebene
 * [Onboarding] Update des Begrüßungsbildschirms und der Bildschirminhalte zu Neuerungen
 * [Leistung] Bessere Leistung bei Verwendung des Zuschneidefilters
-* [Leistung] Verbessern der Speichernutzung für die 3D-Ansicht
+* [Performance] Verbessern der Speichernutzung für die 3D-Ansicht
 * [Leistung] Die 3D-Ansicht wird schneller aktualisiert
 * [Physische Größe] Aktivieren Sie &quot;Anzeige mit physischem Verhältnis&quot;, wenn Sie mit Substance-Filtern arbeiten, wenn Physische Größe aktiviert ist.
 * [Physische Größe] Wenn Sie Bilder in einen leeren Stapel importieren, schlagen Sie eine Auflösung vor, die dem Bildverhältnis besser entspricht.
@@ -87,25 +87,25 @@ Mit der Generierung von Raueitskarten und der automatischen Erkennung von Physis
 * [Scripting] Erhalten Sie den Dateinamen für jedes Bild einer Bildimportebene
 * [Scripting] Neue Funktion zum Aktivieren/Deaktivieren eines bestimmten Kanals eines Assets
 * [UI] Icons und Buttons im Bedienfeld &quot;Ebenen&quot; überarbeiten, um den neuen Funktionen gerecht zu werden
-* [UI] Warnung vor dem Verfall des Umgebungs-Light-Authoring
+* [UI] Warnung vor dem Verwerfen des Umgebungslicht-Authoring
 
 ## Fest:
 
 * [2D-Ansicht] Die Auswahl von &quot;Anzeige mit physischem Verhältnis&quot; funktioniert möglicherweise nicht, wenn Substance-Filter verwendet werden
 * [3D-Erfassung] SVG-Dateien werden in der Dateiauswahl aufgeführt, aber nicht unterstützt.
 * [3D-Ansicht] Emissionsintensitätsparameter in den Shader-Einstellungen funktioniert nicht
-* [3D-Ansicht] Manchmal ist die Gitterposition falsch, wenn ein neues Element erstellt wird
-* [3D-Ansicht] Das Wechseln zum Rendering der Pfadverfolgung stürzt auf nicht unterstützter Hardware ab
+* [3D-Ansicht] Manchmal ist die Position des Meshs falsch, wenn ein neues Asset erstellt wird
+* [3D-Ansicht] Wechseln zu Abstürzen beim Rendern von Pfadverfolgung auf nicht unterstützter Hardware
 * [Anwendung] Anwendung hängt sich auf, wenn das Popup für manuelle Messungen geschlossen wird, ohne eine Größe festzulegen
-* [Anwendung] Absturz
-* [Anwendung] Einfrieren unter Windows bei Anzeige des Desktops (Windows-Taste + D-Tastaturbefehl)
+* Absturz [Anwendung]
+* [Anwendung] Einfrieren unter Windows bei Anzeige des Desktops (Windows-Taste + D-Tastatur-Tastaturbefehl)
 * [Anwendung] Mögliche Abstürze beim Wechseln der Sprache
-* [Captis] Absturz, wenn die Vorschaudaten nicht gültig sind
+* [Captis] Absturz, wenn die Vorschaudaten ungültig sind
 * [Captis] Nach dem Einzoomen ist es nicht möglich, vollständig auszuzoomen
 * [Captis] Fehlende Lokalisierung in einigen Schritten des Assistenten
 * [Captis] Möglicher Absturz beim Beenden bei Verwendung von Captis
 * [Captis] Das Scannen funktioniert nicht, wenn dem Gerät Kalibrierungsdateien fehlen
-* [Filter] Die Pinselvorschau bei Verwendung des Klonstempelfilters kann je nach Struktur und Pinselgröße falsch sein
+* [Filter] Die Pinselvorschau bei Verwendung des Klon-Stempelfilters kann je nach Textur und Pinselgröße falsch sein
 * [Filter] Fehlerhafte Ausgabegröße nach Verwendung des Filters &quot;Hochskalieren&quot;
 * [Filter] Fehlende Symbole für Umgebungsdrehungs- und Stilisierungsfilter
 * [Filter] Die Aktualisierung einiger Filter kann zu falschem Rendering führen
@@ -119,11 +119,11 @@ Mit der Generierung von Raueitskarten und der automatischen Erkennung von Physis
 * [UI] Asset-Vorschau beim Hovern wird möglicherweise nicht angezeigt
 * [UI] Durch Klicken auf die Schaltfläche Auf Standardwert zurücksetzen können einige der Steuerelemente beschädigt werden
 * [UI] Fehlermeldungen werden beim Wechseln von Projekten nicht gelöscht
-* [UI] Stellen Sie sicher, dass der Materialname im Bedienfeld &quot;Viewport &amp; Eigenschaften&quot; leer ist, wenn kein Element vorhanden ist
+* [UI] Stellen Sie sicher, dass der Name des Materials im Bereich Viewport und Eigenschaften leer ist, wenn kein Element vorhanden ist
 * [UI] Die Schaltfläche Auf Standardwert zurücksetzen für den Parameter &quot;Point of View&quot; funktioniert nicht
 * [UI] Schaltfläche &quot;Auf Standardwert zurücksetzen&quot; überlappt
 * [UI] Einige Schaltflächen sind nicht anklickbar, wenn ein Bedienfeld abgedockt ist
-* [UI] Texturbearbeitung - V-Parameter teilweise ausgeblendet in den Anzeigeeinstellungen und der 3D-Ansicht
+* [UI] Textur-Kachel V Parameter teilweise in Anzeigeeinstellungen und 3D-Ansichten ausgeblendet
 
 ## Entfernt:
 

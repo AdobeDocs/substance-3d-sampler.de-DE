@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/project-management.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
 breadcrumb-title: ''
-description: Lerne, wie du in Substance 3D Sampler Projekte mithilfe von Sammlungen verwaltest, um Elemente und Materialien für effiziente Workflows zu organisieren.
+description: Hier erfahren Sie, wie Sie Projekte in Substance 3D Sampler mithilfe von Sammlungen verwalten, um Elemente und Materialien für effiziente Workflows zu organisieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Manage your project
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Projektverwaltung
 
-In Substance 3D Sampler können Sie Sammlungen verwenden, um alle Ihre Assets und Materialien zu verwalten. Projekte sind eine gute Möglichkeit, deine Materialien zu organisieren. Ein Projekt kann exportiert oder importiert werden, um es einfach für andere Computer freizugeben.
+In Substance 3D Sampler können Sie Sammlungen verwenden, um alle Ihre Assets und Materials zu verwalten. Projekte sind eine gute Möglichkeit, deine Materialien zu organisieren. Ein Projekt kann exportiert oder importiert werden, um es einfach für andere Computer freizugeben.
 
 ## Neues Projekt erstellen
 

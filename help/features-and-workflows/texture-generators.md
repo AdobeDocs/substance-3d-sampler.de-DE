@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie in Substance 3D Sampler mithilfe von Texturgeneratoren prozedurale Texturen und Muster für die Materialerstellung erstellen.
+description: Lerne, wie du in Substance 3D Sampler mithilfe von Textur-Generatoren prozedurale Texturen und Muster für die Erstellung von Materials erstellst.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../assets/sa_whats-new-screen_v4-3-0_generators.png)
 
-Texturgeneratoren bieten eine verbesserte Kontrolle über die Materialerstellung mithilfe von <b> parametrischen Geräuschen, Mustern </b> und <b> Grunges</b>-Optionen. Die erzeugten Bilder können in Masken oder Kanalkarten verwendet werden.
+Textur-Generatoren bieten eine verbesserte Kontrolle über die Erstellung von Materialien mithilfe von <b>parametrischen Rauschen, Mustern </b> und <b> Grunges</b>-Optionen. Die erzeugten Bilder können in Masken oder Kanalkarten verwendet werden.
 
 <table>
 <tr style="border: 0;">
@@ -33,26 +33,26 @@ Texturgeneratoren bieten eine verbesserte Kontrolle über die Materialerstellung
 </td>
 <td style="border: 0;" valign="top">
 
-Texturgeneratoren sind eine Art von Elementen in Substance 3D Sampler. Sie können im Bedienfeld &quot;Elemente&quot; mit dem Symbol &quot;Texturgeneratoren&quot; gefiltert werden.
+Textur-Generatoren sind ein Elementtyp in Substance 3D Sampler. Sie können im Bedienfeld &quot;Elemente&quot; mit dem Symbol &quot;Textur-Generatoren&quot; gefiltert werden.
 
 </td>
 </tr>
 </table>
 
-## Texturgeneratoren verwenden
+## Textur-Generatoren verwenden
 
 ### Kanalzuordnungen
 
-Ziehen Sie einen Texturgenerator per Drag &amp; Drop in die 3D-, 2D-Ansicht oder den Ebenenstapel und wählen Sie einen Kanal aus, um ihn zu verwenden.
+Ziehen Sie einen Kanalgenerator in die 3D-Textur, die 2D-Ansicht oder den Ebenenstapel und wählen Sie einen Kanal aus, um ihn zu verwenden.
 
 ![](../assets/DndTexgen.gif)
 
-Im Stapel wird ein Füllfilter erstellt, wobei der Texturgenerator am rechten Eingang anliegt. Sie können auf die Texturgenerator-Eigenschaften im Eigenschaftenbereich zugreifen.
+Im Stapel wird ein Füllfilter erstellt, wobei der Texturgenerator am rechten Eingang anliegt. Sie können im Eigenschaftenbereich auf die Eigenschaften des Textur-Generators zugreifen.
 
 #### Filter
 
-Einige Filter wie <b>Parquet</b> verwenden standardmäßig Texturgeneratoren für Mustermasken. Andere verwenden ein Bild oder einen Texturgenerator wie den Filter <b>Muster</b>.\
-In Filtern können Sie Texturgeneratoren in jeder Bildeigenschaft verwenden, z. B. <b>benutzerdefinierte Masken</b>.
+Einige Filter, wie z. B. <b>Parquet</b>, verwenden standardmäßig Texturen-Generatoren für Mustermasken. Andere verwenden ein Textur oder einen Mustergenerator wie den <b>Pattern</b>-Filter.\
+In Filtern können Sie Maskengeneratoren in jeder Bildeigenschaft verwenden, z. B. <b>benutzerdefinierte Texturen</b>.
 
 Filter können Generatoren vorschlagen, mit denen sie arbeiten sollen. Sie werden in der neuen Elementauswahl angezeigt, wenn Sie auf eine Bildeigenschaft klicken.
 
@@ -62,25 +62,25 @@ Filter können Generatoren vorschlagen, mit denen sie arbeiten sollen. Sie werde
 
 Alle Tutorials zu Substance 3D Sampler finden Sie auf unserer [Lernseite](https://creativecloud.adobe.com/cc/learn/app/substance-3d-sampler).
 
-[Textil-Design mit den Textur-Generatoren von Sampler](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/fabric-texture-generator?locale=en)
+[Textil-Design mit Sampler Textur Generators](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/fabric-texture-generator?locale=en)
 
-[Kohlenstofffasermaterial in Minuten mit Substance 3D Sampler](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-carbon-fiber-material?locale=en)
+[Carbon Fiber Material in Minuten mit Substance 3D Sampler](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-carbon-fiber-material?locale=en)
 
 [Plaid Fabric Material in Minuten mit Substance 3D Sampler](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-plaid-fabric-material?locale=en)
 
-## Benutzerdefinierte Texturgeneratoren erstellen
+## Benutzerdefinierte Generatoren für Texturen erstellen
 
-Sie können mit Adobe Substance 3D Designer erstellte Texturgeneratoren über die Schaltfläche *Importieren* in den Ebenenstapelaktionen importieren. Sie müssen in Designer auf bestimmte Weise erstellt werden, damit sie beim Importieren in Sampler korrekt funktionieren.
+Sie können Texturen-Generatoren, die mit Adobe Substance 3D Designer erstellt wurden, über die Schaltfläche *Importieren* in den Ebenenstapel-Aktionen importieren. Sie müssen in Designer auf bestimmte Weise erstellt werden, damit sie beim Importieren in Sampler korrekt funktionieren.
 
 ### Art
 
-Wählen Sie &quot;Texturgenerator&quot; als Diagramm <b> Typ </b>.
+Wählen Sie &quot;Textur-Generator&quot; als Graf <b> Typ </b>.
 
 ![](../assets/typetexgen.png)
 
 #### Ausgaben
 
-Der Ausgabeknoten des Filters muss den <b>Bezeichner</b> oder <b>Verwendung </b> aufweisen.
+Für den Ausgabeknoten des Filters muss die <b>Identifizierung</b> oder <b>Verwendung </b> definiert sein:
 
 * Die Hauptausgabe des Texturgenerators sollte keine Verwendung haben. Anschließend kann es von 3D Sampler als Hauptausgabe erkannt werden.
 
@@ -100,11 +100,11 @@ Der Ausgabeknoten des Filters muss den <b>Bezeichner</b> oder <b>Verwendung </b>
 </table>
 
 * Für die <b>sekundäre Ausgabe</b>(en) des Texturgenerators muss <b>Verwendung</b> verwendet werden.\
-  Ihr Gruppenname wäre die Hauptausgabe <b>Identifier</b>.
+  Ihr Gruppenname wäre die Hauptausgabe <b>Identifizierung</b>.
 
 >[!NOTE]
 >
-> Wenn Sie Ihre eigenen Filter und Texturgeneratoren erstellen, um zusammenzuarbeiten, empfehlen wir, <b>benutzerdefinierte Verwendungen</b> gemäß den <b>Ausgabekennungen</b> zu verwenden.
+> Wenn Sie Ihre eigenen Texturen und Filtergeneratoren erstellen, um zusammenzuarbeiten, empfehlen wir, <b>benutzerdefinierte Verwendungen</b> gemäß den <b>Identifizierungen für die Ausgabe</b> zu verwenden.
 
 <table>
 <tr style="border: 0;">
@@ -123,7 +123,7 @@ Der Ausgabeknoten des Filters muss den <b>Bezeichner</b> oder <b>Verwendung </b>
 
 >[!IMPORTANT]
 >
-> Wenn Sie möchten, dass Ihr benutzerdefinierter Texturgenerator in einer Filterliste Vorgeschlagene Elemente angezeigt wird, müssen Sie die folgenden Benutzerdaten in Ihr Substance-Diagramm einfügen:
+> Wenn Sie möchten, dass Ihr benutzerdefinierter Textur-Generator in einer Filterliste der vorgeschlagenen Elemente enthalten ist, müssen Sie die folgenden Benutzerdaten in Ihren Substance-Graf einfügen:
 > 
 > alchemist::suggestions=[FilterName,FilterName2];
 
@@ -137,4 +137,4 @@ Exportieren Sie den Filter als Substance-Archivdatei (.sbsar)
 
 >[!NOTE]
 >
-> Sie können Filterparameter verfügbar machen, um den Filter direkt in Sampler zu steuern. Weitere Informationen zu [hier](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> Es können Filterparameter gelegt werden, um den Filter direkt in Sampler zu steuern. Weitere Informationen zu [hier](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)

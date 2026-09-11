@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Belichtungsvorschau-Werkzeug in Substance 3D Sampler, um eine Vorschau der Belichtungskorrekturen in HDR-Bildern anzuzeigen, bevor Sie Änderungen anwenden.
 helpx_creative_field: ""
@@ -39,11 +39,11 @@ Im Folgenden sehen Sie, was der Filter **Belichtungsvorschau** bewirkt.
 
 ![](../../assets/3d-2d-filters-cropped-0029-exposure-preview-in.jpg)
 
-Im Bild oben wurde eine Umgebungsbeleuchtung erstellt, und die HDR-Bilddaten sind in der **2D-Ansicht** sichtbar.
+Im obigen Bild wurde ein Umgebungslicht erstellt, und die HDR. Bilddaten werden in der **2D-Ansicht** angezeigt.
 
 ![](../../assets/filters-cropped-0028-exposure-preview-out.jpg)
 
-Mit der **Belichtungsvorschau** **filter**, die dem Ebenenstapel hinzugefügt wurde, wird ein neuer Kanal - Umgebungsdiagnose - verfügbar, der das Umgebungslicht mit verschiedenen Belichtungen anzeigt.
+Mit der **Belichtungsvorschau** **filter**, die dem Ebenenstapel hinzugefügt wurde, wird ein neuer Kanal - Umgebungsdiagnose - verfügbar, der das Umgebungslicht mit verschiedenen Belichtungszeiten anzeigt.
 
 </td>
 </tr>
@@ -54,12 +54,12 @@ Mit der **Belichtungsvorschau** **filter**, die dem Ebenenstapel hinzugefügt wu
 **Basisparameter**
 
 * **Min. Belichtung (EV)**: -8 bis 8\
-  Stellen Sie die Belichtung des am wenigsten belichteten Bildes ein.
+  Stellen Sie die Belichtung des am wenigsten gelegt Bildes ein.
 * **Maximale Belichtung (EV)**: -8 bis 8\
-  Legen Sie die Belichtung des am meisten belichteten Bildes fest.
+  Legen Sie die Belichtung des am häufigsten gelegt Bildes fest.
 
 ## Benutzerhandbuch
 
-Der **Belichtungsvorschaufilter** funktioniert etwas anders als andere Sampler-Filter. Es ist ein Tool, mit dem Sie die richtige Belichtung für Ihr Umgebungslicht finden können, das sich aber überhaupt nicht auf den Umgebungskanal auswirkt. Wenn Sie stattdessen den Filter **Belichtungsvorschau** zum Ebenenstapel hinzufügen, wird ein zusätzlicher Kanal zur Anzeige in der **2D-Ansicht** - dem Umgebungsdiagnosekanal - verfügbar.
+Der **Belichtungsvorschaufilter** funktioniert etwas anders als andere Sampler-Filter. Es ist ein Tool, mit dem Sie die richtige Belichtung für Ihr Umgebungslicht finden können, aber es wirkt sich überhaupt nicht auf den Umgebungskanal aus. Wenn Sie stattdessen den **Belichtungsvorschaufilter** zum Ebenenstapel hinzufügen, wird ein zusätzlicher Kanal zur Anzeige in der **2D-Ansicht** - dem Umgebungsdiagnosekanal - verfügbar.
 
 Wenn Sie den Umgebungsdiagnose-Kanal anzeigen, sollten Sie einige Instanzen des 2D-Umgebungsbilds mit unterschiedlichen Belichtungswerten sehen können. Passen Sie die Parameter des **Belichtungsvorschaufilters** an, um den im Umgebungsdiagnosekanal sichtbaren Belichtungsbereich zu ändern.

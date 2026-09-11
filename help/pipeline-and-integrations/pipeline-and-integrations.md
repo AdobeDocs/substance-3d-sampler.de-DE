@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/pipeline-and-integrations.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über Pipeline- und Integrationsoptionen für Substance 3D Sampler, um eine Verbindung mit anderen Anwendungen herzustellen und Workflows zu automatisieren.
 helpx_creative_field: ""

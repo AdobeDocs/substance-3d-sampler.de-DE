@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Helligkeits-/Kontrastfilter in Substance 3D Sampler, um Helligkeit und Kontraststufen in Texturen und Materialebenen anzupassen.
+description: Verwenden Sie den Helligkeits-/Kontrastfilter in Substance 3D Sampler, um Helligkeit und Kontraststufen in Texturen und Material-Ebenen anzupassen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > BrightnessContrast
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Wie der Name schon andeutet, kannst du mit dem Filter &quot;Helligkeit/Kontrast&quot; die Helligkeit und den Kontrast deines Materials anpassen. Beachten Sie unbedingt, dass Sie den Filter &quot;Helligkeit/Kontrast&quot; verwenden können, um bestimmte Kanäle anzusprechen. Sie können beispielsweise den Kontrast des Kanals für die Raueit oder die Helligkeit des Emissionskanals erhöhen.
+Wie der Name schon andeutet, kannst du mit dem Filter &quot;Helligkeit/Kontrast&quot; die Helligkeit und den Kontrast deines Materials anpassen. Beachten Sie unbedingt, dass Sie den Filter &quot;Helligkeit/Kontrast&quot; verwenden können, um bestimmte Kanäle anzusprechen. Sie können beispielsweise den Kontrast des Kanals &quot;Rauheit&quot; oder die Helligkeit des Kanals &quot;emissive&quot; erhöhen.
 
 In den folgenden Bildern wurde der **Helligkeits-/Kontrastfilter** verwendet, um die Helligkeit und den Kontrast eines Kachelmaterials zu erhöhen.
 
@@ -72,7 +72,7 @@ In den folgenden Bildern wurde der **Helligkeits-/Kontrastfilter** verwendet, um
 * **Benutzerdefinierte Maske verwenden**: Knebel\
   Aktivieren oder Deaktivieren der Verwendung einer benutzerdefinierten Maske. Wenn aktiviert, werden die folgenden Parameter angezeigt:
   * **Maske**: Bild/Pinsel\
-    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder malen Sie mit dem Pinsel eine benutzerdefinierte Maske direkt in der 2D-Ansicht.
+    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um eine benutzerdefinierte Maske direkt in die 2D-Ansicht Malen
   * **Benutzerdefinierte Maske - Weichzeichnen**: 0-1\
     Weichzeichnen der Maske
   * **Benutzerdefinierte Maske - Umkehren**: Knebel\

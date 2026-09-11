@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html"
 breadcrumb-title: ''
-description: Lerne, wie du Substance 3D Sampler-Materialien in verschiedenen Formaten und Vorgaben exportieren kannst, um sie in anderen Programmen und Engines zu verwenden.
+description: Erfahren Sie, wie Sie Materials aus Substance 3D Sampler in verschiedenen Formaten und Vorgaben exportieren, um sie in anderen Anwendungen und Enginen zu verwenden.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export
 helpx_experience_level: ""
@@ -20,18 +20,18 @@ ht-degree: 2%
 
 # Exportieren
 
-Sie können Ihre Assets exportieren, indem Sie **Exportieren als** im **Dateimenü** oder mit der Tastenkombination **Strg + E** auswählen. Dadurch wird das [Exportfenster](../../getting-started/export/export-window/export-window.md) geöffnet, in dem Sie Ihren Export anpassen können.
+Sie können Ihre Assets exportieren, indem Sie **Exportieren als** im **Dateimenü** oder mit Tastaturbefehl **Strg + E** auswählen. Dadurch wird das [Exportfenster](../../getting-started/export/export-window/export-window.md) geöffnet, in dem Sie Ihren Export anpassen können.
 
 >[!NOTE]
 >
 > Wenn Sie im **Exportfenster** die Option &quot;Materialmodell&quot; ändern, werden die exportierten Dateinamen entsprechend dem ausgewählten Materialmodell geändert.
 
-![Exportfenster mit ausgewählten Materialeinstellungen](../../assets/6.0_ExportWindowMaterialSettings.png)
+![Exportfenster mit ausgewählten Material-Einstellungen](../../assets/6.0_ExportWindowMaterialSettings.png)
 
 Sampler unterstützt die wichtigsten Dateiformate für Ihre Assets:
 
-* Materialien können als **SBS**- oder **SBSAR**-Dateien exportiert werden.
-* Alternativ können Materialien mit Bitmap-Texturen pro Kanal in den folgenden Dateiformaten exportiert werden:
+* Materialien können als **SBS** oder **SBSAR**-Dateien exportiert werden.
+* Alternativ können Materialien als Bitmap-Texturen pro Kanal in den folgenden Dateiformaten exportiert werden:
   * **EXR**
   * **JPEG**
   * **PNG**
@@ -45,5 +45,5 @@ Erfahren Sie mehr über das Exportieren und Verwalten von Exportvorgaben:
 
 * [Exportfenster](../../getting-started/export/export-window/export-window.md)
 * [Standardvorgaben](../../getting-started/export/default-presets/default-presets.md)
-* [Verwalten benutzerdefinierter Vorgaben](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
+* [Verwalten benutzerdefinierter Vorgaben](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
 * [Verwalten von Vorgaben](managing-presets.md)

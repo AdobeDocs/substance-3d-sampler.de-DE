@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Substance Alchemist-Projekte in Substance 3D Sampler importieren, um Ihre vorhandenen Materialprojekte und Workflows zu migrieren.
 helpx_creative_field: ""
@@ -36,4 +36,4 @@ Nach dieser Aktion ist eine **.alch**-Datei mit einem **Abhängigkeiten**-Ordner
 1. Wechseln Sie zum Ordner, in dem sich die Datei **.alch** befindet.
 1. Öffnen Sie die Datei &quot;**.alch**&quot; (stellen Sie sicher, dass sich der Ordner &quot;**dependencies**&quot; noch neben der Datei &quot;.alch&quot; befindet).
 
-Alle Ihre Materialien werden im Projektfenster im Abschnitt Materialien aufgelistet.
+Alle Ihre Materialien werden im Projektfenster im Bereich &quot;Materialien&quot; aufgelistet.

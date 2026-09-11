@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface.html"
 breadcrumb-title: ''
-description: Erfahren Sie mehr über die Substance 3D Sampler-Benutzeroberfläche, einschließlich Viewports, Randleisten und Bedienfeldern, damit Sie die Anwendung effektiv verwenden können.
+description: Erfahren Sie mehr über die Substance 3D Sampler-Benutzeroberfläche, einschließlich Viewporten, Randleisten und Bedienfeldern, mit denen Sie die Anwendung effektiv navigieren und verwenden können.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Benutzeroberfläche
 
-Der Arbeitsbereich von Sampler besteht aus den Ansichtsfenstern 2D und 3D, der linken und rechten Seitenleiste sowie einer Reihe von Bedienfeldern. Jedes Bedienfeld ist einem bestimmten Zweck gewidmet, sodass verschiedene Bedienfelder während der verschiedenen Teile des kreativen Prozesses nützlich sind.
+Der Arbeitsbereich von Sampler besteht aus den 2D- und 3D-Viewporten, der linken und rechten Seitenleiste sowie einer Reihe von Bedienfeldern. Jedes Bedienfeld ist einem bestimmten Zweck gewidmet, sodass verschiedene Bedienfelder während der verschiedenen Teile des kreativen Prozesses nützlich sind.
 
 <table>
 <tr style="border: 0;">
@@ -47,7 +47,7 @@ B. Von der **linken Seitenleiste** aus können Sie:
 * Öffnen Sie den Bereich **Kanaleinstellungen**.
 
 C. Die Bereiche &quot;<b>Projekt</b>&quot; und &quot;<b>Elemente&quot;.</b>
-D. Die <b>2D </b> und <b>3D Viewports</b> zeigen das Element an, an dem Sie gerade arbeiten.\
+D. Die <b>2D </b>- und <b>3D-Viewport</b> zeigen das Element an, an dem Sie gerade arbeiten.\
 E. Die Bereiche <b>Ebenen</b> und <b>Eigenschaften.</b>
 F. Von der **rechten Seitenleiste** aus können Sie auf die folgenden Fenster zugreifen:
 
@@ -66,7 +66,7 @@ Der Arbeitsbereich von Sampler ist vollständig anpassbar, sodass du ein Layout 
 
 Klicken und ziehen Sie den Titel eines Bedienfelds, um es zu verschieben.
 
-Sie können ein Bedienfeld an den Rändern des Ansichtsfensters oder anderer Bedienfelder andocken: Ziehe das Bedienfeld über die Kante, an der es angedockt werden soll. Eine blaue Hilfslinie wird eingeblendet. Wenn die Linie eingeblendet wird, legen Sie das Bedienfeld ab, um es anzudocken.
+Sie können ein Bedienfeld an den Kanten des Viewports oder anderer Bedienfelder andocken: Ziehe das Bedienfeld über die Kante, an der es angedockt werden soll. Eine blaue Hilfslinie wird eingeblendet. Wenn die Linie eingeblendet wird, legen Sie das Bedienfeld ab, um es anzudocken.
 
 ## Öffnen und Schließen von Bedienfeldern
 
@@ -124,7 +124,7 @@ Verwenden Sie das Menü <b>Hilfe </b>, um mehr über Sampler zu erfahren oder um
 | Forum | Öffnen Sie die Foren, um an der Unterhaltung mit anderen Mitgliedern der Substance 3D Sampler-Community teilzunehmen, oder senden Sie Ihre eigenen Beiträge und Vorschläge. |
 | Programmfehler melden | Problem mit Sampler melden |
 | Protokoll exportieren | Dies kann nützlich sein, um Probleme zu beheben, die bei der Verwendung von Sampler auftreten können. |
-| Substance 3D-Assets | Öffne die Substance Source , um auf eine riesige Auswahl an Materialien und anderen Elementen zuzugreifen, die vom Substance 3D-Team erstellt und kuratiert wurden. |
+| Substance 3D-Assets | Öffnen Sie die Substance Source, um auf eine riesige Bibliothek mit Materials und anderen Elementen zuzugreifen, die vom Substance 3D-Team erstellt und kuratiert wurden. |
 | Substance 3D Community-Assets | Auf der Substance share findest du eine Bibliothek mit Materialien und anderen Elementen, die von Mitgliedern der Substance 3D-Community erstellt wurden. |
 | Hardware-Informationen | Siehe Informationen zur Hardware Ihres Geräts. |
 | Über Sampler | Hier finden Sie Informationen zu Ihrer installierten Version von Sampler. |

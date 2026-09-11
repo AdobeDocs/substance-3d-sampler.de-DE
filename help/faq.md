@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/faq.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/faq.html"
 breadcrumb-title: ''
 description: Greifen Sie auf häufig gestellte Fragen zu Substance 3D Sampler zu, um Antworten auf Fragen zu Funktionen, Installation und Verwendung zu erhalten.
 helpx_creative_field: ""
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## Adobe, Firefly und generative KI.
 
-[Alle häufig gestellten Fragen zum Firefly](https://www.adobe.com/de/products/firefly.html#faqs)
+[Alle häufig gestellten Fragen zum Firefly](https://www.adobe.com/products/firefly.html#faqs)
 
 * **Werden mir als Adobe-Kunde Kopien meines Inhalts als Teil des Firefly-Modells bereitgestellt?** \
   Nein, Kopien von Kundeninhalten sind nicht in den Firefly-Modellen enthalten.

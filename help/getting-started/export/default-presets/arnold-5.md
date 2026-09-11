@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/arnold-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/arnold-5.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie Materialien aus Substance 3D Sampler mithilfe der Arnold 5-Vorgabe exportieren, um die Kompatibilität mit der Arnold-Rendering-Engine zu gewährleisten.
+description: Erfahren Sie, wie Sie Materials aus Substance 3D Sampler mithilfe der Voreinstellung Arnold 5 exportieren, um die Kompatibilität mit dem Arnold-Render-Engine zu gewährleisten.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Arnold 5
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **BaseColor &#x200B;**&#x200B;**Raueit**&#x200B;**Metalität**&#x200B;**Normal** (OpenGL)**Versatz &#x200B;**&#x200B;**Emissiv**&#x200B;**&#x200B; Deckkraft** |
+| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **BaseColor ****Rauheit****Metalness****Normal** (OpenGL)**Versatz ****Emissive**** Deckkraft** |

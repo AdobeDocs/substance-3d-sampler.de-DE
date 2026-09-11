@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
 breadcrumb-title: ''
-description: Verwende das Atlas-Ersteller-Werkzeug in Substance 3D Sampler, um Texturatlanten aus mehreren Bildern zu erstellen und Material effizient zu organisieren.
+description: Verwenden Sie das Atlas-Erstellungstool in Substance 3D Sampler, um Texturen-Atlanten aus mehreren Bildern zu erstellen und Materials effizient zu organisieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Atlas Creator
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ Die folgenden Bilder zeigen einen Atlas mit Dschungelblättern vor und nach der 
 
 ![](../../assets/3d-2d-filters-cropped-0041-atlas-creator-in.jpg)
 
-Im Bild oben wurde ein Atlasbild importiert und in ein Material konvertiert, aber es ist immer noch kein Atlasmaterial, da die Deckkraftmap einzelne Elemente nicht berücksichtigt.
+Im Bild oben wurde ein Atlasbild importiert und in ein Material konvertiert, aber es ist immer noch kein Atlasbild, da in der Deckkraftmap keine individuellen Material berücksichtigt werden.
 
 ![](../../assets/3d-2d-filters-cropped-0040-atlas-creator-out.jpg)
 
-Nach dem Ausführen des **Atlas Creator** wird eine Deckkraftzuordnung generiert und der Bereich zwischen den Atlaselementen wird in den Grundfarbkanal gefüllt.
+Nach dem Ausführen des **Atlas Creator** wird eine Deckkraftzuordnung generiert und der Bereich zwischen den Atlaselementen wird in den Grundfarbe-Kanal eingefüllt.
 
 </td>
 </tr>
@@ -71,18 +71,18 @@ Bevor Sie den **Atlas Creator-Filter** verwenden, sollten Sie sicherstellen, das
 
 Der **Atlas Creator** funktioniert auf der Grundlage der Bildfarbe und berücksichtigt keine Transparenz. Das bedeutet, dass Sie Ihr Atlasbild am besten vorbereiten, indem Sie sicherstellen, dass der Abstand zwischen den Elementen ein einheitliches Schwarz oder Weiß ist. Dies erleichtert dem **Atlas Creator** das Generieren der Deckkraftmaske.
 
-## Atlasmaterial aus einem Bild generieren
+## Generieren eines Atlas-Materials aus einem Bild
 
-Der **Atlas Creator** ist zum Konvertieren eines Atlasbilds in einen Materialatlas vorgesehen.
+Der **Atlas Creator** ist für die Konvertierung eines Atlasbilds in einen Atlasatlas für Materialien konzipiert.
 
-1. Importiere dein Quellbild in den Ebenenstapel.
-1. Wenn Sie dazu aufgefordert werden, eine Materialerstellungsvorlage auszuwählen, wählen Sie Bild zu Material. Andernfalls fügen Sie mit dem Bild im Ebenenstapel einen **Filter &quot;Bild zu Material&quot; (KI-gestützt)** über Ihrem Bild hinzu.
-1. Warten Sie auf den Filter **Bild zu Material**, um Ihr Quellbild in ein Material zu konvertieren. Passen Sie die Parameter an, bis Sie mit dem Ergebnis zufrieden sind.
-1. Fügen Sie den Filter **Atlas Creator** oben im Ebenenstapel hinzu.
+1. Importieren Sie Ihr Quellbild in den Ebenenstapel.
+1. Wenn Sie aufgefordert werden, eine Vorlage zum Erstellen von Materialien auszuwählen, wählen Sie &quot;Bild zu Material&quot;. Andernfalls fügen Sie mit dem Bild im Ebenenstapel über dem Material einen Filter **Image to Image (AI-powered)** hinzu.
+1. Warten Sie, bis der Filter **Image zu Material** Ihr Quellbild in ein Material konvertiert hat. Passen Sie die Parameter an, bis Sie mit dem Ergebnis zufrieden sind.
+1. Fügen Sie den **Atlas Creator-Filter** oben im Ebenenstapel hinzu.
 1. Passen Sie die Parameter von **Atlas Creator** an, bis Sie mit den Ergebnissen zufrieden sind.
 
-1. Füge das Bild zum Ebenenstapel hinzu. Wenn Sie aufgefordert werden, eine Materialerstellungsvorlage auszuwählen, wählen Sie **Als Bitmap verwenden**.
-1. Ändern Sie bei ausgewählter Bildebene im Bereich **Eigenschaften** die **Ausgabenverwendung** in **Grundfarbe**.
+1. Fügen Sie das Bild dem Ebenenstapel hinzu. Wenn Sie aufgefordert werden, eine Vorlage zum Erstellen von Materialien auszuwählen, wählen Sie **Als Bitmap verwenden**.
+1. Ändern Sie bei ausgewählter Bildebene im Bereich **Eigenschaften** die **Ausgabenutzung** in **Grundfarbe**.
 1. Fügen Sie den **Atlas Creator** oben im Ebenenstapel hinzu.
 1. Passen Sie die Parameter des **Atlas-Erstellers** an, bis Sie mit den Ergebnissen zufrieden sind. Zeigen Sie den Deckkraftkanal in der **2D-Ansicht** an, um die Filterergebnisse deutlicher zu sehen.
 1. Verwenden Sie das **Exportbedienfeld**, um die generierten Kanäle zu exportieren.

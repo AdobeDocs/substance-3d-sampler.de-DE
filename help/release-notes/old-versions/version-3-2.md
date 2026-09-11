@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
 breadcrumb-title: ''
-description: Lesen Sie die Versionshinweise für Substance 3D Sampler 3.2, um mehr über den Arbeitsablauf zur Materialdigitalisierung, neue Filter und benutzerdefinierte Metadaten zu erfahren.
+description: Lesen Sie die Versionshinweise für Substance 3D Sampler 3.2, um mehr über den Arbeitsablauf zur Digitalisierung von Materialien, neue Filter und benutzerdefinierte Metadaten zu erfahren.
 helpx_creative_field: ""
 helpx_description: Sampler > Release Notes > Old Versions > Version 3.2
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Version 3.2
 
-Mit **Substance 3D Sampler 3.2** wird ein End-to-End-Workflow zur Materialdigitalisierung eingeführt, der die Materialfilterung erfasst und verarbeitet, neue Physische Größen wie &quot;Stoffgewebe&quot; und &quot;Kanalwechsel&quot; hinzufügt und die Möglichkeit bietet, benutzerdefinierte Metadaten zu erstellen.
+Mit **Substance 3D Sampler 3.2** wird ein End-to-End-Workflow für die Digitalisierung von Materialien eingeführt, der die Material-Physische Größe erfasst und verarbeitet, neue Filter wie &quot;Cloth Weave&quot; und &quot;Channel Switch&quot; einführt und die Möglichkeit bietet, benutzerdefinierte Metadaten zu erstellen.
 
 Freigabedatum: 25. *Januar, 2022*
 
@@ -28,9 +28,9 @@ Freigabedatum: 25. *Januar, 2022*
 
 ### Physische Größe
 
-Mit dieser Version wird ein neuer Arbeitsablauf für das Scannen von Materialien eingeführt, der die Physische Größe von Materialien erfasst und verarbeitet.
+In dieser Version wurde ein neuer Arbeitsablauf zum Scannen von Materialien eingeführt, der die Physische Größe von Materialien erfasst und verarbeitet.
 
-Stimmen Sie die [Physische Größe](../../features-and-workflows/end-to-end-physical-size-workflow.md) Ihrer Samples/Images in einem Digitalkontext ab, um physikalisch akkurate Materialien in jeder Software zu erstellen.
+Stimmen Sie die [Physische Größe](../../features-and-workflows/end-to-end-physical-size-workflow.md) Ihrer Samples/Images in einem Digitalkontext ab, um physikalisch präzise Materialien in jeder Software zu erstellen.
 
 ![](../../assets/physicalsize-1.png){width="400px"}
 
@@ -55,13 +55,13 @@ Brandneuer Generator wird in dieser Version hinzugefügt. Mit dem Tuchweber kön
 
 ### Benutzerdefinierte Metadaten
 
-Fügen Sie Ihren Materialien benutzerdefinierte Metadaten hinzu. Alle benutzerdefinierten Metadaten werden in die Materialdatei (SBSAR) aufgenommen, um einen effizienteren Arbeitsablauf für den anwendungsübergreifenden Austausch digitaler Materialien zu gewährleisten.
+Fügen Sie Ihren Materials benutzerdefinierte Metadaten hinzu. Alle benutzerdefinierten Metadaten werden in die Material-Datei (SBSAR) aufgenommen, um einen effizienteren Arbeitsablauf für die Freigabe digitaler Materialien über Anwendungen hinweg zu gewährleisten.
 
 ![](../../assets/custommetadata.png){width="264px"}
 
 ### Kanalschalter
 
-Mit dem Kanalschalter können Sie jetzt die Kanäle der Ausgabemaps des Materials wechseln.
+Mit dem Kanalschalter können Sie nun die Kanäle der Ausgabemaps des Materials wechseln.
 
 ![](../../assets/screenshot-2022-02-15-at-15-53-00.png){width="300px"}
 
@@ -86,17 +86,17 @@ Neue Exportfunktionen wurden zu dieser Version hinzugefügt.
 **Hinzugefügt:**
 
 * [Physische Größe] Neues Bedienfeld &quot;Physische Größe&quot;
-* [Physische Größe] Optionen für die Physische Größe zum Fenster &quot;Materialerstellungsvorlage&quot; hinzufügen
+* [Physische Größe] Optionen für die Physische Größe zum Fenster &quot;Material-Erstellungsvorlage&quot; hinzufügen
 * [Physische Größe] Werkzeug zum Messen von Physische Größen hinzufügen
 * [Physische Größe] Werkzeug für automatische Messung von Physische Größen hinzufügen
 * [Physische Größe] Physische Größe-Diagnosetool hinzufügen
 * [Physische Größe] Einstellung des z-Werts der Physische Größe zulassen
-* [Physische Größe] Dropdown-Widget zum Festlegen des Zoomfaktors in der 2D-Ansicht
+* [Physische Größe] Dropdown-Widget zum Festlegen der Zoomstufe in der 2D-Ansicht
 * [Physische Größe] Neue Option &quot;Anzeige mit physischem Verhältnis&quot; in der Zoom-Dropdown-Liste
 * [Physische Größe] Neue Option &quot;An Physische Größe anpassen&quot; auf der Ebene der Zoom-Dropdown-Liste
-* [Physische Größe] Physische Größe in der 2D-Ansicht anzeigen
-* [Physische Größe] Physische Größe im 3D-Viewport anzeigen
-* [Physische Größe] Zeigen Sie im Dialogfeld &quot;Bildimport&quot; die Tiefe &quot;Physische Größe&quot; an, wenn eine importierte Height-Map vorhanden ist.
+* [Physische Größe] Zeigt die Physische Größe in der 2D-Ansicht an.
+* [Physische Größe] Anzeigen der Physische Größe im 3D-Viewport
+* [Physische Größe] Zeigen Sie im Dialogfeld für den Bildimport die Tiefe der Physische Größe an, wenn eine importierte Höhen-Map vorhanden ist.
 * [Physische Größe] Physische Größe im Kontextmenü des Elements anzeigen
 * [Physische Größe] Legen Sie die Längeneinheit in den Voreinstellungen fest.
 * [Physische Größe] Exportieren von Texturen, die das physische Verhältnis einhalten
@@ -104,14 +104,14 @@ Neue Exportfunktionen wurden zu dieser Version hinzugefügt.
 * [Exportieren] Exportieren benutzerdefinierter Metadaten in .sbs(ar)-Dateien
 * [Exportieren] Exportieren von Beschreibung, Kategorie, Autor und Tagmetadaten in .sbs(ar)-Dateien
 * [Exportieren] Exportieren der Physische Größe in .sbs(ar)-Dateien
-* [Export] Festlegen der Komprimierungseinstellung für .sbsar-Dateien
+* [Exportieren] Festlegen der Komprimierungseinstellung für .sbsar-Datei
 * [Exportieren] Exportieren der Asset-Miniaturansicht in .sbs(ar)-Dateien
-* [Export] Festlegen des Diagrammtyps beim Exportieren einer .sbs(ar)-Datei
-* [Anwendung] Realtime Engine 2021 ist nicht mehr verfügbar
-* [Anwendung] &quot;Rückgängig/Wiederholen&quot; unterstützt jetzt Änderungen an den Teilungseinstellungen (U,V) und am Height-Skalierungsregler.
+* [Exportieren] Festlegen des Grafen beim Exportieren einer .sbs(ar)-Datei
+* [Anwendung] Echtzeit-Engine 2021 ist nicht mehr verfügbar
+* [Anwendung] &quot;Rückgängig/Wiederholen&quot; unterstützt jetzt Änderungen an den Reglern &quot;Kachelung&quot; (U,V) und &quot;Height skalieren&quot;
 * [Rendering] Generieren des Disk-Cache beim Speichern des erstellten Assets
 * [Elemente] Verwenden Sie Strg + Klicken, um mehrere Elementtypfilter im Bedienfeld &quot;Ressourcen&quot; zu aktivieren
-* [UI] Funktion zum Sperren der Kachelregler (U,V)
+* [UI] Funktion zum Sperren der Kachelung-Schieberegler (U, V)
 * [UI] Kontextmenü mit &quot;Kopieren&quot;, &quot;Ausschneiden&quot;, &quot;Einfügen&quot;, &quot;Alle kopieren&quot; und &quot;Alle ausschneiden&quot; in Textfeldern hinzufügen
 * [UI] Längeneinheit (Meter, Zoll, Parsec, ...) Unterstützung für Beschriftungen und Textfelder
 * [UI] Der Benutzer kann die Dezimalpräzision festlegen, die zur Anzeige von Zahlen verwendet wird.
@@ -121,32 +121,32 @@ Neue Exportfunktionen wurden zu dieser Version hinzugefügt.
 * [Inhalt] Neuer Kanalwechselfilter
 * [Inhalt] Alle entsprechenden Filter kennen jetzt die Physische Größe
 * [Inhalt] Neue Symbole für Holzbearbeitung
-* [Inhalt] Alle Filter sind jetzt mit Adobe Standard Materials (ASM)-Kanälen kompatibel.
+* [Inhalt] Alle Filter sind jetzt mit Adobe Standard Materialien (ASM) kompatibel.
 * [Inhalt] Filter können jetzt eine &quot;Umgebungsvariation&quot; haben.
 
 **Fest:**
 
 * [2D-Ansicht] Kanal bleibt in der Liste, wenn er entfernt wird
-* [Anwendung] Ein aus dem Dateiexplorer des Betriebssystems geladenes Asset kann nicht dupliziert werden.
+* [Anwendung] Ein aus dem Dateiordner des Betriebssystems geladenes Asset kann nicht dupliziert werden.
 * [Anwendung] Absturz beim Beenden
-* [Anwendung] Absturz manchmal beim Klicken auf &quot;Starter-Elemente&quot; im Bedienfeld &quot;Elemente&quot;
+* [Anwendung] Absturz kann beim Klicken auf &quot;Starter-Elemente&quot; im Bedienfeld &quot;Elemente&quot; auftreten.
 * [Anwendung] Absturz beim Löschen eines Materials
 * [Anwendung] Die Umgebungsvariable &quot;SUBSTANCE\_DISABLE\_SPECIFIC\_FEATURES&quot; ist noch aktiv, wenn sie auf &quot;0&quot; oder &quot;&quot; festgelegt ist.
 * [Anwendung] Einfrieren beim Speichern eines Projekts mit mehreren Materialien
 * [Anwendung] Das Importieren eines Bildes kann zu einem Absturz führen
 * [Anwendung] Beim ersten Start fehlen einige Starterelemente
-* [Export] Das Exportieren eines Assets führt manchmal zu einem Absturz
+* [Exportieren] Das Exportieren eines Assets führt manchmal zu einem Absturz
 * [Ebenen] Bilder können nicht importiert werden, wenn das Ebenenfenster geschlossen oder unsichtbar ist
 * [Ebenen] Wenn Sie die Sprache ändern, wird das aktuelle Asset neu berechnet.
 * [Ebenen] Wenn Sie die Verwendung eines importierten Bildes ändern, wird nicht aktualisiert, welche Filtervariante verwendet werden soll
-* [Ebenen] Bild-zu-Material (AI) wird manchmal nicht berechnet, wenn Ebenen darunter angepasst werden
-* [Ebenen] &quot;Bild zu Material&quot; (AI) wird manchmal neu berechnet, wenn es nicht benötigt wird
+* [Ebenen] Bild-zu-Material (AI) wird beim Anpassen der darunter liegenden Ebenen manchmal nicht berechnet
+* [Ebenen] Bild-zu-Material (AI) wird manchmal neu berechnet, wenn es nicht benötigt wird
 * [Ebenen] Wenn ein benutzerdefinierter Filter auf der Festplatte aktualisiert wird, wird keine Aktualisierung vorgeschlagen.
 * [Ebenen] Normaler Kanal hat manchmal das falsche Pixelformat
 * [Ebenen] Einige Ebenen werden immer noch berechnet, auch wenn sie nicht sichtbar sind
-* [Ebenen] Beim Umschalten der Ebenensichtbarkeit können die Werkzeuge der 2D-Ansicht unterbrochen werden
+* [Ebenen] Beim Umschalten der Ebenensichtbarkeit können die 2D-Ansicht-Tools beschädigt werden
 * [Ebenen] Die Benutzeroberfläche friert ein, wenn Bild zu Material (AI) verwendet wird
-* [Ebenen] Wenn Sie die Sichtbarkeit der Filterebene &quot;Transformieren&quot; umschalten, wird das Werkzeug für die 2D-Ansicht beschädigt und kann zu einem Absturz führen
+* [Ebenen] Wenn Sie die Sichtbarkeit der Transformieren Filterebene umschalten, wird das 2D-Ansicht-Werkzeug unterbrochen und es kann zu einem Absturz kommen.
 * [Ebenen] Zu viele Neuberechnungen beim Entfernen einer Ebene aus dem Ebenenstapel
 * [Ebenen] Wenn ein zusammengesetzter Filter eine ungewöhnliche oder benutzerdefinierte Eingabe/Ausgabe enthält, wird diese von Sampler nicht berechnet
 * [Leistung] Bedienfeld &quot;Asset&quot; öffnet sich langsam

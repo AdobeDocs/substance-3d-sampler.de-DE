@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/warp-transform.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp-transform.html"
 breadcrumb-title: ''
-description: Mit dem Verkrümmen-Werkzeug in Substance 3D Sampler können Sie Texturen und Materialien mit nichtlinearen Verkrümmungs- und Verzerrung-Effekten versehen.
+description: Mit dem Werkzeug "Transformieren Verformen" in Substance 3D Sampler können Sie nichtlineare Verkrümmungs- und Verzerrung-Effekte auf Texturen und Materialien anwenden.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Warp Transform
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Verkrümmen
+title: Transformieren Verkrümmen
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 1%
 ---
 
 
-# Verkrümmen
+# Transformieren Verkrümmen
 
 <table>
 <tr style="border: 0;">
@@ -46,13 +46,13 @@ Verformen Sie das Material mithilfe von Handles in der **2D-Ansicht**.
 * **Raster**:\
   Passen Sie die Anzahl der Unterteilungen im Raster an. Durch eine höhere Anzahl an Trennungen hast du mehr Kontrolle über die Verkrümmung.
 * **Raster anzeigen**: Knebel\
-  Wenn diese Option aktiviert ist, wird ein Raster über dem Material angezeigt, um die Effekte des Filters einfacher anzuzeigen
+  Wenn diese Option aktiviert ist, wird ein Raster über dem Material angezeigt, um die Filtereffekte leichter anzuzeigen
 * **Sampling mit hoher Qualität**: Knebel\
   Aktivieren Sie diese Option, um die Sampling-Qualität für bessere Ergebnisse zu erhöhen.
 
 ## Benutzerhandbuch
 
-Mit dem **Verkrümmungstransformationsfilter** können Sie Ihr Material manuell mit Handles in der **2D-Ansicht** verkrümmen. So verwenden Sie den **Warp Transform-Filter**:
+Mit dem **Verkrümmungsfilter Transformieren** können Sie Ihr Material manuell mit Handles in der **2D-Ansicht** verkrümmen. So verwenden Sie den **Warp Transformieren filter**:
 
 1. Fügen Sie den Filter **Warp Transform** oben im Ebenenstapel hinzu.
 1. Anpassen der Anzahl der Handles mit **Basisparametern > Raster**

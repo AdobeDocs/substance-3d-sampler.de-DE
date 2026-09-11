@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie mit dem Substance-Send-To in Substance 3D Sampler Elemente direkt über den Connector an andere Anwendungen senden können.
+description: Erfahren Sie, wie Sie mit dem Substance-Send-To in Substance 3D Sampler Elemente über die Verbindung direkt an andere Anwendungen senden.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # An jede App senden
 
-Ab Version 4.5 von Sampler können Sie Ihre Assets jetzt direkt aus Sampler an jede App senden, in der Connector implementiert wurde.\
+Ab Version 4.5 von Sampler können Sie Ihre Assets jetzt direkt aus Sampler an jede App senden, in der die Verbindung implementiert wurde.\
 Damit können Elemente mit einem Klick aus Sampler an Anwendungen von Drittanbietern gesendet werden, um den manuellen Export- und Importprozess zu durchlaufen und Zeit zu sparen.
 
 Heute ist das Send-to in Blender, Unreal Engine, Unity, 3ds Max und Maya über die Substance Plugins verfügbar.
@@ -31,17 +31,17 @@ Um den Send-to nutzen zu können, ist es notwendig, die richtige Version von Sam
 
 Hier sind die Mindestversionen, die Sie benötigen, um den &quot;Senden an&quot;-Dienst verwenden zu können:
 
-* <b>Unreal Engine-Plug-in</b>
+* <b>Unechtes Engine-Plug-in</b>
   * Alles nach UE5.4 wird vollständig unterstützt.
   * *Auf dem EU-Marktplatz freigegeben*
 
 * <b>Maya-Plug-in v3.0.0+</b>
   * Unterstützt in den Maya 2025, 2024, 2023 und 2022
-  * *Das Plug-in ist seit Mai 2025 sofort verfügbar und muss für frühere Versionen von der [Website heruntergeladen werden](https://www.adobe.com/de/products/substance3d/plugins/substance-in-maya.html "Substance auf der Maya-Webseite")*
+  * *Das Plug-in ist seit Mai 2025 sofort verfügbar und muss für frühere Versionen von der [Website heruntergeladen werden](https://www.adobe.com/products/substance3d/plugins/substance-in-maya.html "Substance auf der Maya-Webseite")*
 
 * <b>3ds Max Plugin v3.0.0+</b>
   * Unterstützt in 3ds Max 2025, 2024, 2023 und 2022
-  * *Das Plug-in ist seit 3ds Max 2025 sofort verfügbar und muss für frühere Versionen von der [Website heruntergeladen werden](https://www.adobe.com/de/products/substance3d/plugins/substance-in-3ds-max.html "Substance in der 3ds Max-Webseite")*
+  * *Das Plug-in ist seit 3ds Max 2025 sofort verfügbar und muss für frühere Versionen von der [Website heruntergeladen werden](https://www.adobe.com/products/substance3d/plugins/substance-in-3ds-max.html "Substance in der 3ds Max-Webseite")*
 
 * <b>Unity-Plug-in v3.11+</b>
   * Unity-Versionen 2022, 2021 oder 2020
@@ -49,4 +49,4 @@ Hier sind die Mindestversionen, die Sie benötigen, um den &quot;Senden an&quot;
 
 * <b>Blender-Plug-in v2.1+</b>
   * Blender-Versionen 3.0 und höher
-  * *Das Plug-in kann auf der [Website heruntergeladen werden](https://www.adobe.com/de/products/substance3d/plugins/substance-in-blender.html "Substance in Blender-Webseite")*
+  * *Das Plug-in kann auf der [Website heruntergeladen werden](https://www.adobe.com/products/substance3d/plugins/substance-in-blender.html "Substance in Blender-Webseite")*

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/unity-specular.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-specular.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie Materialien aus Substance 3D Sampler mithilfe der Unity-Specular-Voreinstellung exportieren, um die Kompatibilität mit der Game-Engine von Unity zu gewährleisten.
+description: Erfahren Sie, wie Sie Materials aus Substance 3D Sampler mithilfe der Unity Specular-Vorgabe exportieren, um die Kompatibilität mit dem Unity-Engine zu gewährleisten.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Unity Specular
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Unity Specular | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li><li data-preserve-html="true">PBR Specular/Glanz</li></ul> | **Albedo:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Grundfarbe</li><li data-preserve-html="true"><strong>A</strong>: Deckkraft</li></ul>**Specular:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Specular</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**Normal** (OpenGL)**Height &#x200B;**&#x200B;**Verdeckung**&#x200B;**Emissiv** |
+| Unity Specular | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li><li data-preserve-html="true">PBR Specular/Glanz</li></ul> | **Albedo:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Grundfarbe</li><li data-preserve-html="true"><strong>A</strong>: Deckkraft</li></ul>**Specular:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Specular</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**Normal** (OpenGL)**Height ****Verdeckung****Emissive** |

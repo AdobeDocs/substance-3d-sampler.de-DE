@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/stylization.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/stylization.html"
 breadcrumb-title: ''
-description: Mit dem Stilisierungsfilter in Substance 3D Sampler können Sie Ihren Materialien und Texturen künstlerische Effekte und stilisierte Looks verleihen.
+description: Verwenden Sie den Stilisierungsfilter in Substance 3D Sampler, um künstlerische Effekte und stilisierte Looks auf Ihre Materials und Texturen anzuwenden.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 Verwenden Sie den <b>Stilisierungsfilter</b>, um den Look Ihres Materials zu ändern, um die Details mit verschiedenen Effekten zu vereinfachen.
 
-Die folgenden Bilder zeigen das Rindenmaterial vor und nach Anwendung des Stilisierungsfilters.
+Die folgenden Bilder zeigen das Material der Rinde vor und nach Anwendung des Stilisierungsfilters.
 
 ![](../../assets/stylization-regular-bark.png)
 
@@ -53,15 +53,15 @@ Die folgenden Bilder zeigen das Rindenmaterial vor und nach Anwendung des Stilis
 
 <b>Kontrastreiche Stilisierung</b>
 
-    Diese Vorgabe wendet einen pinselstrichartigen Effekt auf das Material an
+    Diese Vorgabe wendet einen pinselstrichähnlichen Effekt auf das Material an
 
 <b>Malerisch</b>
 
-    Diese Vorgabe wendet einen verschwommenen und weichen Pinselstrich-ähnlichen Effekt auf das Material an
+    Diese Vorgabe wendet einen verschwommenen und weichen Pinselstricheffekt auf das Material an
 
 <b>Hand gemalt</b>
 
-    Diese Vorgabe wendet mehr Kontrast als die vorherigen an und ahmt Gouache- oder Ölfarben-Pinselstriche nach
+    Diese Vorgabe wendet mehr Kontrast als die vorherigen an und ahmt Gouache- oder Öl-Malen nach, die manuelle Pinselstriche erzeugen.
 
 ## Basisparameter
 
@@ -69,25 +69,25 @@ Die folgenden Bilder zeigen das Rindenmaterial vor und nach Anwendung des Stilis
   Die Zufallsgeschwindigkeit, auf der alle anderen Zufallsparameter in diesem Filter basieren.
 
 * <b>Globale Filterintensität</b>: 0-1 \
-  Passen Sie an, wie stark der Effekt dieses Filters auf Ihr Originalmaterial angewendet wird. Setzen Sie den Wert auf 1, um den vollen Effekt anzuwenden.
+  Passen Sie an, wie stark der Effekt dieses Filters auf Ihr ursprüngliches Material angewendet wird. Setzen Sie den Wert auf 1, um den vollen Effekt anzuwenden.
 
 * <b>Kontrast</b>: 0-1 \
-  Den Kontrast ändern, der auf das Material angewendet wird
+  Passen Sie den Kontrast an, der auf Ihr Material angewendet wird.
 
 * <b>Farbstilisierungsintensität</b>: 0-1 \
-  Passe an, wie stark der Stilisierungseffekt des Filters die Farbe des Materials beeinflusst.
+  Passen Sie an, wie stark sich der Stilisierungseffekt des Filters auf die Farbe des Materials auswirkt.
 
-* <b>Intensität der Raueitsylierung</b>: 0-1 \
-  Passen Sie an, wie stark der Stilisierungseffekt des Filters die Raueit des Materials beeinflusst.
+* <b>Rauheit-Stilisierungsintensität</b>: 0-1 \
+  Passen Sie an, wie stark der Stilisierungseffekt des Filters die Rauheit des Materials beeinflusst.
 
-* <b>Metallische Stilisierungsintensität</b>: 0-1 \
-  Passen Sie an, wie stark der Stilisierungseffekt des Filters die Metallität des Materials beeinflusst.
+* <b>Metallic Stilisierungsintensität</b>: 0-1 \
+  Passen Sie an, wie stark der Stilisierungseffekt des Filters die Metallisierung des Materials beeinflusst.
 
 * <b>Height-Stilisierungsintensität</b>: 0-1 \
-  Passen Sie an, wie stark der Stilisierungseffekt des Filters das Height des Materials beeinflusst.
+  Passen Sie an, wie stark sich der Stilisierungseffekt des Filters auf das Height des Materials auswirkt.
 
 * <b>Normale Stilisierungsintensität</b>: 0-1 \
-  Passen Sie an, wie stark der Stilisierungseffekt des Filters die Normalität des Materials beeinflusst.
+  Passen Sie an, wie stark sich der Stilisierungseffekt des Filters auf die Normalität Ihres Materials auswirkt.
 
 ## Grundfarbe
 
@@ -107,28 +107,28 @@ Die folgenden Bilder zeigen das Rindenmaterial vor und nach Anwendung des Stilis
   Passen Sie den Kontrast in der unter &quot;Farbvariation&quot; definierten Farbe an.
 
 * <b>Farbintensität der Kavität</b>: 0-1 \
-  Passen Sie die Intensität der Farbe an, die in den vertieften Bereichen des Materials angezeigt wird. Die Farbe wurde in &quot;Cavity Color&quot; definiert.
+  Passen Sie die Farbintensität an, die in den abgesenkten Bereichen des Materials angezeigt wird. Diese Farbe wurde in &quot;Cavity Color&quot; definiert.
 
 * <b>Kavitätsfarbe</b>: Farbe \
   Definiert die Farbe, die in den abgesenkten Bereichen des Materials angewendet wird.
 
 * <b>Hohlraumbereich</b>: 0-1 \
-  Legt fest, wie breit die vertieften Bereiche im Material sein sollen.
+  Legt fest, wie weit die abgesenkten Bereiche im Material liegen.
 
 * <b>Kavitäts-Weichzeichnung</b>: 0-1\
-  Weichzeichnungsgrad in den Bereichen an den Rändern der Materialhohlräume anpassen.
+  Weichzeichnungsgrad in den Bereichen an den Hohlräumen des Materials anpassen.
 
-* <b>Krümmungsintensität</b>: 0-1 \
+* <b>Intensität der Krümmung</b>: 0-1 \
   Ändern Sie die Sichtbarkeit des höchsten Punktes der Materialien, farbig mit der Farbe, die im Parameter &quot;Krümmungsfarbe&quot; definiert ist.
 
 * <b>Intensität der Farbkurven</b>: 0-1 \
-  Anpassen der Deckkraft der Farbe, die im Parameter &quot;Krümmungsfarbe&quot; definiert ist
+  Anpassen der Deckkraft der Krümmung, die im Parameter &quot;Farbenfarbe&quot; definiert ist
 
-* <b>Kurvenfarbe</b>: Farbe \
+* <b>Farbe der Krümmung</b>: Farbe \
   Definieren Sie die Farbe, die auf die höchsten Punkte des Materials angewendet wird.
 
-* <b>Kurvenunschärfe</b>: 0-1 \
-  Weichzeichnungsgrad der Bereiche anpassen, die mit dem Parameter &quot;Kurvenfarbe&quot; koloriert werden.
+* <b>Krümmung-Weichzeichnung</b>: 0-1 \
+  Weichzeichnungsgrad der Bereiche anpassen, die mit dem Parameter &quot;Krümmung-Farbe&quot; koloriert werden
 
 ## Schmutz
 
@@ -138,20 +138,20 @@ Die folgenden Bilder zeigen das Rindenmaterial vor und nach Anwendung des Stilis
 * <b>Schmutz-Farbe</b>: Farbe \
   Wählen Sie die Farbe aus, die zum Anwenden der ausgewählten Schmutz-Map verwendet werden soll.
 
-* <b>Schmutz-Raueit</b>: 0-1 \
+* <b>Schmutz-Rauheit</b>: 0-1 \
   Passen Sie den Pegel oder die Raueit an, der bzw. die auf die hinzugefügte Schmutz-Map angewendet wird.
 
 * <b>Schmutz Metallic</b>: 0-1 \
   Anpassen des Metalitätsgrads, der auf die hinzugefügte Schmutz-Map angewendet wird
 
-* <b>Schmutz-Raueitsschwankung</b>: 0-1 \
+* <b>Variation der Schmutz-Rauheit</b>: 0-1 \
   Wählen Sie den Grad der Abweichung in der Raueit, die auf die hinzugefügte Schmutz-Map angewendet wird.
 
-* <b>Intensität der Abweichung der Schmutz-Raueit</b>: 0-1 \
+* <b>Variationsintensität der Schmutz-Rauheit</b>: 0-1 \
   Höhe der Variation der Intensität der auf die hinzugefügte Schmutz-Map angewendeten Variation auswählen
 
 * <b>Schmutz</b>: Bild \
-  Wählen Sie ein Bild oder einen Texturgenerator aus der Sampler-Elementbibliothek aus, das bzw. der als Schmutz-Map verwendet werden soll
+  Wählen Sie ein Bild oder einen Bildergenerator aus der Sampler-Elementbibliothek aus, das bzw. die als Schmutz-Textur verwendet werden soll
 
 ## Technische Parameter
 
@@ -168,7 +168,7 @@ Die folgenden Bilder zeigen das Rindenmaterial vor und nach Anwendung des Stilis
   Anpassen der Intensität der Normalmap
 
 * <b>Normale Erweichung</b>: 0-1\
-  Glätten des normalen Erscheinungsbilds Ihres Materials
+  Glätten Sie die Normalität für einen glatteren Look in Ihrem Material
 
-* <b>Umgebungsintensität der Verdeckung</b>: 0-1\
+* <b>Ambient occlusion-Intensität</b>: 0-1\
   Anpassen des Kontrasts in der AO-Map

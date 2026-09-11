@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/exposure.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Belichtungswerkzeug in Substance 3D Sampler, um die Belichtungsstufen in HDRI-Umgebungsbildern für eine korrekte Beleuchtungsbalance anzupassen.
 helpx_creative_field: ""
@@ -33,13 +33,13 @@ ht-degree: 3%
 
 ## Beschreibung
 
-Passen Sie die Belichtung des Umgebungslichts an.
+Passe die Belichtung deines Umgebungslichts an.
 
 Die folgenden Bilder zeigen, wie der **Belichtungsfilter** verwendet werden kann, um Ihre Umgebungslichter anzupassen.
 
 ![](../../assets/3d-2d-filters-cropped-0030-exposure-out.jpg)
 
-Die Abbildung oben zeigt die Umgebungsbeleuchtung, bevor der **Belichtungsfilter** hinzugefügt wurde.
+Die Abbildung oben zeigt das Umgebungslicht, bevor der **Belichtungsfilter** hinzugefügt wurde.
 
 ![](../../assets/3d-2d-filters-cropped-0031-exposiure-in.jpg)
 
@@ -54,4 +54,4 @@ Mit dem **Belichtungsfilter** wurde die Belichtung der Umgebung erhöht, sodass 
 **Basisparameter**
 
 * **Exposition (EV)**: -8 bis 8\
-  Passe die Belichtung des Umgebungslichts an. EV steht für &quot;Exposure Value&quot; (Belichtungswert). Bei EV handelt es sich um einen fotografischen Begriff, der die Kombination aus Verschlusszeit und Blende darstellt.
+  Passe die Belichtung deines Umgebungslichts an. EV steht für &quot;Exposure Value&quot; (Belichtungswert). Bei EV handelt es sich um einen fotografischen Begriff, der die Kombination aus Verschlusszeit und Blende darstellt.

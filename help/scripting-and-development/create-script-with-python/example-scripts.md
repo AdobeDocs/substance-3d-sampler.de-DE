@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/scripting-and-development/create-a-script-with-python/example-scripts.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-script-with-python/example-scripts.html"
 breadcrumb-title: ''
-description: Greifen Sie auf Python-Beispielskripte für Substance 3D Sampler zu, um zu erfahren, wie Sie die API verwenden und Workflows zur Materialerstellung automatisieren.
+description: Greifen Sie auf Python-Beispielskripte für Substance 3D Sampler zu, um zu erfahren, wie Sie die API verwenden und Workflows zum Erstellen von Materialien automatisieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Scripting and Development > Create a Script with Python > Example Scripts
 helpx_experience_level: ""
@@ -184,9 +184,9 @@ with open(csv_path, newline='') as csvfile:
 ```
 
 
-## Alle Farbparameter anzeigen
+## Leg aller Farbparameter
 
-Dieses Skript macht den Farbparameter jeder Ebene im Ebenenstapel verfügbar.
+Dieses Skript legt die Farbparameter für jede Ebene im Ebenenstapel.
 
 ### expose\_all\_color\_parameters.py
 
@@ -227,11 +227,11 @@ for layer in my_asset_layers:
 ```
 
 
-## Ebenenstapelvorlage
+## Vorlage für Ebenenstapel
 
-Dieses Skript fügt dem aktuellen Material automatisch einen Satz von Filtern hinzu (der im Skript definiert ist).
+Dieses Skript fügt dem aktuellen Material automatisch einen Filtersatz hinzu (der innerhalb des Skripts definiert ist).
 
-### layer\_stack\_template.py
+### layer\_Stapel\_template.py
 
 ```
 import substance_sampler as ssa 

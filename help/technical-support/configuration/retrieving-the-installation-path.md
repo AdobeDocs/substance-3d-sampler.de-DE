@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/configuration/retrieving-the-installation-path.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/retrieving-the-installation-path.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie den Installationspfad für Substance 3D Sampler auf verschiedenen Plattformen für Skript- und Konfigurationszwecke abrufen.
 helpx_creative_field: ""
@@ -27,7 +27,7 @@ Auf dieser Seite werden Informationen darüber neu gruppiert, wie der Installati
 ### Creative Cloud Desktop
 
 1. Öffnen Sie den Windows-Registrierungseditor (**regedit**).
-1. Navigieren Sie zum Registrierungsschlüssel: **&#x200B; HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Pfade\**
+1. Navigieren Sie zum Registrierungsschlüssel: ** HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Pfade\**
 1. Öffnen Sie den Unterschlüssel &quot;**Adobe Substance 3D Sampler.exe**&quot;.
 1. Der Wert des Schlüssels enthält den Pfad zur ausführbaren Anwendungsdatei, in der er installiert ist
 

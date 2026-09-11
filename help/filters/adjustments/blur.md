@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Weichzeichnungsfilter in Substance 3D Sampler, um Weichzeichnungseffekte anzuwenden und die Bildschärfe in Texturen und Materialebenen zu reduzieren.
+description: In Substance 3D Sampler kannst du mit dem Weichzeichnungsfilter Unschärfe-Effekt anwenden und die Bildschärfe bei Texturen und Materialien reduzieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Blur
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 Du kannst das gesamte Material weichzeichnen oder bestimmte Kanäle auswählen, die weichgezeichnet werden sollen.
 
-In den Bildern unter wurde der **Weichzeichnungsfilter** auf den Grundfarbkanal angewendet.
+In den folgenden Bildern wurde der **Weichzeichnungsfilter** auf den Grundfarbe-Kanal angewendet.
 
 <table>
 <tr style="border: 0;">
@@ -69,7 +69,7 @@ Passen Sie den Grad der Unschärfe für jeden Kanal unabhängig mithilfe dieser 
 
 >[!NOTE]
 >
-> Kanalspezifische Weichzeichnung überschreibt **Grundlegende Parameter > Intensität** Weichzeichnung für das gesamte Material. Wenn Sie also die Intensität der Materialunschärfe auf 1 setzen, aber einen Kanal aktivieren und seine Intensität auf 0 setzen, wird der Kanal überhaupt nicht weichgezeichnet, während alle anderen Kanäle weichgezeichnet werden.
+> Der kanalspezifische Weichzeichner überschreibt **Grundlegende Parameter > Intensität** des Weichzeichners für das gesamte Material. Wenn Sie also die Intensität des Material-Weichzeichners auf 1 setzen, aber einen Kanal aktivieren und seine Intensität auf 0 setzen, wird der Kanal überhaupt nicht weichgezeichnet, während alle anderen Kanäle weichgezeichnet werden.
 
 * ***Kanal*** **- Intensität der benutzerdefinierten Weichzeichnung**: Knebel\
   Aktivieren Sie den kanalspezifischen Weichzeichnungswert.

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/stability-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues.html"
 breadcrumb-title: ''
-description: Greifen Sie auf Anleitungen zur Fehlerbehebung für Substance 3D Sampler-Stabilitätsprobleme zu, um Abstürze und Anwendungsfehler zu beheben.
+description: Greifen Sie auf Anleitungen zur Fehlerbehebung für Substance 3D Sampler-Stabilitätsprobleme zu, um Absturz und Anwendungsfehler zu beheben.
 helpx_creative_field: ""
 helpx_description: Sampler > Technical Support > Technical Issues > Stability issues
 helpx_experience_level: ""

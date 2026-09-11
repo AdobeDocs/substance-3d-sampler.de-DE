@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/shortcuts.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/shortcuts.html"
 breadcrumb-title: ''
-description: Greife auf Tastaturbefehle für Substance 3D Sampler zu, um deinen Workflow zu beschleunigen und die Effizienz bei der Materialerstellung zu verbessern.
+description: Greifen Sie auf Tastaturbefehle für Substance 3D Sampler zu, um Ihren Arbeitsablauf zu beschleunigen und die Effizienz bei der Erstellung von Materials zu verbessern.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Shortcuts
 helpx_experience_level: ""
@@ -38,14 +38,14 @@ Auf dieser Seite werden alle verfügbaren Tastaturbefehle und ihre Aktionen aufg
 
 | *Aktion* | *Windows* | *MacOS* |
 | --- | --- | --- |
-| Kameradrehung | Alt + Maus nach links oder Maus nach links | Wahltaste + Maus nach links oder Maus nach links |
-| Kameraschwenk | Alt + Mitte der Maus oder Mitte der Maus | Wahltaste + Mitte der Maus oder Mitte der Maus |
-| Kamera-Zoom | Alt + Maustaste rechts oder Mausrad | Wahl + Maustaste rechts oder Mausrad |
+| Drehung der Kamera | Alt + Maus nach links oder Maus nach links | Wahltaste + Maus nach links oder Maus nach links |
+| Kamera Schwenken | Alt + Mitte der Maus oder Mitte der Maus | Wahltaste + Mitte der Maus oder Mitte der Maus |
+| Kameras-Zoom | Alt + Maustaste rechts oder Mausrad | Wahl + Maustaste rechts oder Mausrad |
 | Fokus | F | F |
 | Umgebungsrotation | Umschalt + Maustaste nach rechts | Umschalt + Maustaste nach rechts |
 | Umgebungssichtbarkeit | 1 | 1 |
 
-## Tastaturbefehle für 2D-Ansicht
+## 2D-Ansicht Shortcuts
 
 <table data-preserve-html="true" style="width: 50.061%;">
 <colgroup><col style="width: 39.9838%;"/><col style="width: 30.5565%;"/><col style="width: 29.5004%;"/></colgroup><tbody><tr><th><i>Aktion</i></th>
@@ -120,7 +120,7 @@ Auf dieser Seite werden alle verfügbaren Tastaturbefehle und ihre Aktionen aufg
 <p> </p>
 <p> </p>
 </td>
-</tr><tr><td colspan="3" data-highlight-colour="grey" title="Hintergrundfarbe : Grau"><b>Zuschneiden/transformieren</b></td>
+</tr><tr><td colspan="3" data-highlight-colour="grey" title="Hintergrundfarbe : Grau"><b>Zuschneiden/Transformieren</b></td>
 </tr><tr><td>Verhältnis beibehalten</td>
 <td>Umschalt + Maus nach links</td>
 <td>Umschalt + Maus nach links</td>
@@ -130,24 +130,24 @@ Auf dieser Seite werden alle verfügbaren Tastaturbefehle und ihre Aktionen aufg
 </tr><tr><td>Zentrierte Transformation + Keep-Ratio</td>
 <td>Umschalt + Strg + Maus nach links</td>
 <td>Umschalt + <span class="NormalTextRun SCXW1728708 BCX0"> ⌘</span> + Maus nach links</td>
-</tr><tr><td colspan="3" data-highlight-colour="grey" title="Hintergrundfarbe : Grau"><b>Kopierstempel</b></td>
+</tr><tr><td colspan="3" data-highlight-colour="grey" title="Hintergrundfarbe : Grau"><b>Klon</b></td>
 </tr><tr><td>Neue Quelle</td>
 <td>Strg + Maus nach links</td>
 <td><span class="NormalTextRun SCXW1728708 BCX0"> ⌘</span> + linke Maustaste</td>
 </tr><tr><th colspan="3"><i>Sphärische Projektion Mode</i></th>
-</tr><tr><td><p>Kameradrehung</p>
+</tr><tr><td><p>Drehung der Kamera</p>
 <span class="EOP SCXW131410563 BCX0"></span></td>
 <td><p>Alt + Maus nach links</p>
 </td>
 <td><p>Wahl + Maustaste links</p>
 </td>
-</tr><tr><td><p>Kameraschwenk</p>
+</tr><tr><td><p>Kamera Schwenken</p>
 </td>
 <td><p>Alt + Mitte der Maustaste</p>
 <span class="EOP SCXW209008232 BCX0"></span></td>
 <td><p>Wahltaste + Mitte der Maus</p>
 </td>
-</tr><tr><td><p>Kamera-Zoom</p>
+</tr><tr><td><p>Kameras-Zoom</p>
 </td>
 <td><p>Alt + Nach rechts bewegen</p>
 <p> </p>

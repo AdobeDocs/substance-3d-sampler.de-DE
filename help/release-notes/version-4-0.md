@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/version-4-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-0.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 4.0, um mehr über die Erstellung von 3D-Objekten aus Bildern, automatische Maskierung und UX-Verbesserungen zu erfahren.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Version 4.0
 
-Mit **Substance 3D Sampler 4.0** können Sie 3D-Objekte mithilfe von Bildern aus der realen Welt mit automatischer Motivmaskierung, Texturzuordnung und Geometriedezimierung erstellen. Diese Version führt einige UX-Verbesserungen als neue Möglichkeiten in der Python-API ein.
+Mit **Substance 3D Sampler 4.0** können Sie 3D-Objekte mithilfe von Bildern aus der realen Welt mit automatischer Motivmaskierung, Textur-Mapping und Geometriedezimierung erstellen. Diese Version führt einige UX-Verbesserungen als neue Möglichkeiten in der Python-API ein.
 
 *Freigabedatum: 31. Januar 2023*
 
@@ -30,11 +30,11 @@ Mit **Substance 3D Sampler 4.0** können Sie 3D-Objekte mithilfe von Bildern aus
 
 In Substance 3D Sampler 4.0 können Sie jetzt 3D-Objekte aus Bildern erstellen.
 
-Wir verfügen über integrierte Funktionen für Photogrammmetrie. Die Fotogrammetrie ist der technische Prozess, bei dem Messungen anhand von Bildern vorgenommen werden. So erzeugt Sampler 3D-Meshes aus einer Fotostrecke.
+Wir verfügen über integrierte Funktionen für Photogrammmetrie. Die Fotogrammetrie ist der technische Prozess, bei dem Messungen anhand von Bildern vorgenommen werden. Auf diese Weise erstellt Sampler 3D-Meshs aus einer Fotostrecke.
 
-Alles, was du brauchst, ist eine Fotoreihe, die die sichtbaren Oberflächen eines Objekts einfängt - ein Smartphone oder eine DLSR-Kamera funktionieren hervorragend.
+Alles, was du brauchst, ist eine Fotoserie, die die sichtbaren Oberflächen eines Objekts einfängt - ein Smartphone oder eine DLSR-Kamera funktionieren großartig.
 
-Entdecken Sie hier [&#128279;](../features-and-workflows/3d-capture.md) den Arbeitsablauf mit schrittweiser Anleitung .
+Entdecken Sie hier ](../features-and-workflows/3d-capture.md) den Arbeitsablauf mit schrittweiser Anleitung [.
 
 ## Lichter
 
@@ -54,11 +54,11 @@ Aktiviere einen Begrenzungsrahmen durch Umschalten des Fokusbereichs, nachdem di
 
 ### Vernetzte Nachbearbeitung
 
-Sobald Ihr 3D-Objekt rekonstruiert ist, optimieren Sie das Ergebnis mit automatischer Dezimation, UV-Entpackung und Backen.
+Sobald das 3D-Objekt rekonstruiert ist, optimieren Sie das Ergebnis mit automatischer Dezimation, UV, entpack und Baking.
 
-Die Nachbearbeitung hilft Ihnen dabei, Ihre Gitter und Texturen an Ihre Bedürfnisse und die Art und Weise, wie Sie sie verwenden möchten, anzupassen und zu optimieren.
+Die Nachbearbeitung hilft Ihnen dabei, Ihren Mesh und Ihre Texturen an Ihre Bedürfnisse und die Art und Weise, wie Sie ihn verwenden möchten, anzupassen und zu optimieren.
 
-Das Ergebnis der Rekonstruktion kann ein Netz mit Millionen von Polygonen und bis zu 16K Texturen erzeugen. Oft ist dies nicht für Rendering, Echtzeit oder AR-Erlebnisse optimiert.
+Das Ergebnis der Rekonstruktion kann einen Mesh mit Millionen von Polygonen und bis zu 16K Texturen erzeugen. Oft ist dies nicht für Rendering, Echtzeit oder AR-Erlebnisse optimiert.
 
 Der Nachbearbeitungsschritt verkettet automatisch 4 Schritte:
 
@@ -77,7 +77,7 @@ Exportiere deine rekonstruierten 3D-Objekte in allen gängigen Dateiformaten, um
 
 ## Ansichtsfenster
 
-Die Größe von 2D- und 3D-Viewports kann geändert, ausgetauscht und vertikal gestapelt werden.
+2D- und 3D-Viewport können vertikal skaliert, ausgetauscht und gestapelt werden.
 
 ![](../assets/screenshot-2023-01-25-at-16-23-09.png){width="500px"}
 
@@ -85,9 +85,9 @@ Die Größe von 2D- und 3D-Viewports kann geändert, ausgetauscht und vertikal g
 
 Wir haben die Exportfunktion in 4 Bereiche unterteilt:
 
-* Exportmaterial: `export_material`
+* Exportieren von Materialien: `export_material`
 * Exportumgebungslichter: `export_environment_light`
-* Exportieren von Gittern mit oder ohne Texturen: `export_mesh` oder `export_3d_object`
+* Exportieren von Mesh mit oder ohne Texturen: `export_mesh` oder `export_3d_object`
 
 Wir haben eine neue Funktion zum Importieren von Texturen mit einer bestimmten Verwendung hinzugefügt: `import_textures`
 
@@ -110,27 +110,27 @@ Sampler wird jetzt beim Start von Skripten und Plug-ins geladen, die in Pfaden g
 * [3D-Erfassung] Dedizierter Assistent für 3D-Erfassungen
 * [3D-Erfassung] Importieren oder generieren Sie Schwarzweißmasken auf Ihrem Datensatz.
 * [3D-Erfassung] Ausrichtungsergebnis - Alle übereinstimmenden Funktionen als Punktwolke anzeigen
-* [3D-Erfassung] Ausrichtungsergebnis - Kameras anzeigen und mit ihnen interagieren, die jedem ausgerichteten Foto zugeordnet sind
+* [3D-Erfassung] Ausrichtungsergebnis - Kameras, die mit jedem ausgerichteten Foto verknüpft sind, anzeigen und damit interagieren
 * [3D-Erfassung] Definieren des Wiederaufbaubereichs mit einem Begrenzungsrahmen-Widget
 * [3D-Erfassung] Skalieren, Verschieben und Drehen auf allen Achsen des Begrenzungsrahmen-Widgets
-* [3D-Erfassung] Festlegen der Geometriepräzision für das rekonstruierte Gitter
-* [3D-Erfassung] Optimieren Sie Ihr Gitter und Ihre Texturen durch Erstellen einer neuen Version
+* [3D-Erfassung] Definieren der Geometriepräzision für den rekonstruierten Mesh
+* [3D-Erfassung] Optimieren Sie Ihren Mesh und Ihre Texturen, indem Sie eine neue Version erstellen
 * [3D-Erfassung] Jede der Versionen wird automatisch auf den Zielflächennummernsatz dezimiert
-* [3D-Erfassung] Bei der Nachbearbeitung werden Texturen automatisch ausgepackt, neu projiziert und anschließend die üblichen Height- und AO-Informationen aus dem High-Poly-Gitter verbacken.
+* [3D-Erfassung] Der Nachbearbeitungsschritt entpackt automatisch Texturen, projiziert sie erneut und Baking führe dann die normalen Height- und AO-Informationen vom High-Poly-Mesh bei.
 * [3D-Erfassung] Originalergebnis oder Originalversion zum Sampler-Projekt hinzufügen
 * [3D-Erfassung] Neue Mesh-Nachbearbeitungsebene zum automatischen Dezimieren, Ausgliedern, Neuprojektieren von Texturen und Backen von Details der zugrunde liegenden Mesh-Ebene
-* [3D-Erfassung] Neue Mesh-Transformationsebene zum Skalieren, Drehen oder Verschieben der zugrunde liegenden Mesh-Ebene
+* [3D-Erfassung] Neuer Mesh Transformieren Ebene für Skalierung, Drehung oder Kamera beweg der Ebene des darunter liegenden Meshs
 * [Export] Neues Exportfenster
-* [Export] Dedizierte Einstellungen und Benutzeroberfläche je nach Elementtyp (Material, Umgebungslicht, Gitter)
-* [Exportieren] Exportieren Sie das Gitter als USD, USDA, USDZ, glTF, glb, obj, fbx, stl
-* [Exportieren] Definieren Sie den Materialtyp beim Exportieren von Substance-Dateien (SBSAR, SBS).
+* [Exportieren] Dedizierte Einstellungen und Benutzeroberfläche je nach Elementtyp (Material, Umgebungslicht, Mesh)
+* [Exportieren] Exportieren Sie den Mesh als USD, USDA, USDZ, glTF, glb, obj, fbx, stl
+* [Exportieren] Definieren Sie den Material-Typ beim Exportieren von Substance-Dateien (SBSAR, SBS)
 * [UI] Cache-Einstellungen in eine neue Registerkarte im Popup &quot;Voreinstellungen&quot; verschieben
-* [Anwendung] 2D- und 3D-Viewports können jetzt vertikal skaliert, ausgetauscht und gestapelt werden.
+* [Anwendung] 2D- und 3D-Viewport können jetzt vertikal skaliert, ausgetauscht und gestapelt werden.
 * [Anwendung] Neue SAMPLER\_RESOURCES\_PATH-Umgebungsvariable zum Hinzufügen zusätzlicher Starter-Assets
 * [Scripting] SAMPLER\_PLUGIN\_PATH- und SAMPLER\_SCRIPT\_PATH-Umgebungsvariablen zum Importieren von Plug-ins und Skripten beim Start hinzugefügt
 * [Scripting] Hinzugefügte Exportfunktionen für Materialien, Umgebungslichter und 3D-Objekte
-* [Scripting] Bezeichner, Standardwert, Minimal- und Maximalwerte, Beschriftungen und Enumerationswerte zu Parametern hinzugefügt
-* [Skripterstellung] Funktion import\_textures hinzugefügt, um beim Importieren von Bildern eine benutzerdefinierte Verwendung einzugeben
+* [Scripting] Hinzugefügte Identifizierung, Standardwerte, Minimal- und Maximalwerte, Beschriftungen und Enumerationswerte für Parameter
+* [Skripterstellung] Die Funktion import\_Texturen wurde hinzugefügt, um beim Importieren von Bildern eine benutzerdefinierte Verwendung einzugeben.
 
 **Fest**
 
@@ -139,7 +139,7 @@ Sampler wird jetzt beim Start von Skripten und Plug-ins geladen, die in Pfaden g
 * [Anwendung] Dateidialogfelder können in einem Hintergrundfenster in macOS angezeigt werden
 * [Anwendung] Potenzieller Absturz beim Öffnen von 3.2-Projekten
 * [Anwendung] Beim Auswählen einer Datei wird das Dialogfeld &quot;Datei&quot; geschlossen, bevor Warnungen angezeigt werden.
-* [Verfügbare Parameter] Das Exportieren parametrischer Umgebungslichter funktioniert nicht
+* [Freigelegte Parameter] Exportieren von parametrischen Umgebungslichtern funktioniert nicht
 * [Ebenen] Der Link &quot;Zum Durchsuchen hier klicken&quot; im Ebenenstapel funktioniert nicht mehr
 * [Ebenen] Das Malen mehrerer Bilder innerhalb derselben Ebene funktioniert manchmal nicht
 * [Ebenen] Wenn Sie ein Bild in den Ebeneneigenschaften festlegen, wird die Miniaturansicht der Bildauswahl nicht aktualisiert
@@ -159,9 +159,9 @@ Sampler wird jetzt beim Start von Skripten und Plug-ins geladen, die in Pfaden g
 
 **Bekannte Probleme**
 
-* [3D-Erfassung] Bei Verwendung von Masken kann die Texturprojektion unterbrochen werden.
-* [3D-Erfassung] Kleine Artefakte können auf Ihrem Objekt erscheinen, wenn Ihre Skalierung in der Gittertransformation zu klein ist
-* [3D-Erfassung] Das exportierte Gitter kann sehr klein sein. Skalierung der Gittertransformation zurücksetzen und erneut exportieren
+* [3D-Erfassung] Bei der Verwendung von Masken kann die Projektion der Textur unterbrochen werden.
+* [3D-Erfassung] Kleine Artefakte können auf Ihrem Objekt erscheinen, wenn Ihre Skalierung im transformieren Mesh zu klein ist
+* [3D-Erfassung] Der exportierte Mesh kann sehr klein sein. Skalierung des transformieren Meshs zurücksetzen und erneut exportieren
 * [Farbwähler] Die Auswahl einer Farbe auf einem zweiten Monitor mit einer anderen Auflösung funktioniert möglicherweise nicht
 * [Inhalt] Shape Light-Widget funktioniert nicht im sphärische Projektion-Modus
 * [Interoperabilität] Material mit Versatz, der an Stager gesendet wird, verliert die Versatz-Steuerelemente.

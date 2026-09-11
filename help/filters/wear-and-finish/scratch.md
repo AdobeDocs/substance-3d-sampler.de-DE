@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Kratzfilter in Substance 3D Sampler, um Ihren Materialien realistische Kratzspuren und Oberflächenbeschädigungen hinzuzufügen.
+description: Verwenden Sie den Kratzfilter in Substance 3D Sampler, um Ihren Materials realistische Kratzspuren und Oberflächenbeschädigungen hinzuzufügen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Scratch
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Kratzer und Verschleiß hinzufügen.
+Kratzer und Verschleiß auf dem Material hinzufügen.
 
 *Vor und nach Anwendung des **Scratch-Filters**.*
 
@@ -87,7 +87,7 @@ Kratzer und Verschleiß hinzufügen.
 * **Betrag**: 0-1\
   Steuern Sie die Anzahl der angezeigten Chips.
 * **Intensität**: 0-1\
-  Passen Sie die Tiefe und Stärke der Chips an.
+  Passe Tiefe und Stärke der Chips an.
 * **Skalierung**: 1-4\
   Ändern Sie die Größe der Chips. Erhöhen Sie diesen Regler, um die Chipgröße zu verringern.
 
@@ -132,15 +132,15 @@ Kratzer und Verschleiß hinzufügen.
 * **Gesamtdeckkraft**: 0-1\
   Passen Sie die Deckkraft des Effekts **Scratch filter** an.
 * **Grundfarbe**: Knebel\
-  Legt fest, ob der Grundfarbkanal vom Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
-  * **Grundfarbe - Farbe**: Farbauswahl\
-    Wählen Sie die Grundfarbe der Kratzer und Chips aus.
+  Legt fest, ob sich der Filterkanal auf die Grundfarbe auswirkt. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
+  * **Grundfarbe - Color**: Farbauswahl\
+    Wählen Sie die Grundfarbe der Kratzer und Chips.
 * **Metallisch**: Knebel\
-  Legt fest, ob der metallische Kanal durch den Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
+  Legt fest, ob der metallic Kanal durch den Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
   * **Metallischer Wert**: 0-1\
-    Passen Sie den metallischen Wert der zerkratzten Bereiche an.
+    Passen Sie den metallic Wert der zerkratzten Bereiche an.
 * **Raueit**: Knebel\
-  Legt fest, ob der Raueitskanal vom Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
+  Legt fest, ob sich der Filterkanal auf die Rauheit auswirkt. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
   * **Raueit - Wert**: 0-1\
     Passen Sie den Raueitswert der verkratzten Bereiche an.
 * **Normal**: Knebel\
@@ -152,20 +152,20 @@ Kratzer und Verschleiß hinzufügen.
 * **Height**: Knebel\
   Legt fest, ob sich der Filterkanal auf das Height auswirkt. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
   * **Height - Intensität**: 0-1\
-    Passen Sie den Kontrast der Height-Map an.
+    Passen Sie den Kontrast des Höhen-Map an.
 * **Ausstrahlend**: Knebel\
   Legt fest, ob der Emissionskanal durch den Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
   * **Ausstrahlend - Farbe**: Farbauswahl\
-    Legen Sie die Farbe des Emissionskanals fest.
+    Legen Sie die emissive-Kanalfarbe fest.
 * **Specular level**: Knebel\
   Legt fest, ob der Specular level-Kanal durch den Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:
   * **Specular level** **- Wert**: 0-1\
     Passen Sie den Wert für den Specular-Kanal an.
 * **Ambient-Verdeckung**: Knebel\
-  Legt fest, ob der Kanal für die umgebende Verdeckung durch den Filter beeinflusst wird. Wenn diese Option aktiviert ist, werden die folgenden zusätzlichen Steuerelemente angezeigt:
-  * **Umgebungsintensität - Verdeckung**: 0-1\
+  Legt fest, ob der ambient occlusion-Kanal durch den Filter beeinflusst wird. Wenn diese Option aktiviert ist, werden die folgenden zusätzlichen Steuerelemente angezeigt:
+  * **Ambient occlusion - Intensität**: 0-1\
     Passen Sie die Stärke der generierten AO an.
-  * **Umgebungsradius** **- Verdeckung**: 0-1\
+  * **Ambient occlusion** **- Radius**: 0-1\
     Passen Sie den Radius des AO-Effekts an.
 * **Deckkraft**: Knebel\
   Legt fest, ob der Deckkraftkanal vom Filter beeinflusst wird. Wenn aktiviert, wird ein zusätzliches Steuerelement angezeigt:

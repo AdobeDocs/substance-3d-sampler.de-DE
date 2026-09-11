@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/generative-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/generative-workflows.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie in Substance 3D Sampler generative Workflows verwenden, einschließlich Funktionen von Text zu Textur, Text zu Muster und Bild zu Textur.
 helpx_creative_field: ""
@@ -24,19 +24,19 @@ Mit Substance 3D Sampler können Sie schnell iterieren und neue Ideen einfach au
 
 ![](../assets/genai-banner.png)
 
-## Text-to-Texture
+## Text-to-Textur
 
-Mit &quot;Text-zu-Textur&quot; können Sie schnell Ideen ausprobieren, die Sie haben, um Texturen aus einer Textaufforderung zu generieren.
+Mit &quot;Text zu Textur&quot; können Sie schnell Ideen ausprobieren, die Sie haben, um Texturen aus einer Textaufforderung zu generieren.
 
-So verwenden Sie Text-zu-Textur:
+So verwenden Sie die Umwandlung von Text in Textur:
 
 1. Öffnen Sie den Bereich <b>Generative (Beta) </b> in der linken Symbolleiste.
-1. Wählen Sie &quot;<b>Texture</b>&quot; in der Dropdownliste &quot;Typ&quot; aus.
-1. Geben Sie eine Textaufforderung ein, die die Textur beschreibt, die Sie erstellen möchten.
+1. Wählen Sie &quot;<b>Textur</b>&quot; in der Dropdownliste &quot;Typ&quot; aus.
+1. Geben Sie eine Textaufforderung ein, die die zu erstellende Textur beschreibt.
 1. Verwenden Sie <b>Generieren</b>, um Texturen zu generieren. Bei jeder Verwendung der Funktion werden vier Varianten generiert.
-1. Sie können das gewünschte Ergebnis entweder per Drag &amp; Drop in die 3D- oder 2D-Ansicht ziehen, um die <b>Materialerstellungsvorlage</b> zu öffnen, oder <b>es über die dedizierte Schaltfläche den Ebenen</b> hinzufügen. Sie können das Ergebnis auch Ihren <b>Assets</b> hinzufügen, um es später leicht wiederzufinden.
+1. Sie können das gewünschte Ergebnis entweder per Drag &amp; Drop in die 3D- oder 2D-Ansicht ziehen, um die <b>Vorlage zur Material-Erstellung</b> zu öffnen, oder <b>es über die dedizierte Schaltfläche den Ebenen</b> hinzufügen. Sie können das Ergebnis auch Ihren <b>Assets</b> hinzufügen, um es später leicht wiederzufinden.
 
-Sie können das Ergebnis dann wie bei jeder anderen Textur verwenden, z. B. &quot;Bild-zu-Material&quot; ausführen und zusätzliche Filter darauf anwenden.
+Sie können das Ergebnis dann wie bei jeder anderen Textur verwenden, z. B. &quot;Bild zu Material&quot; ausführen und darüber weitere Filter hinzufügen.
 
 ### Text-zu-Muster
 
@@ -52,15 +52,15 @@ So verwenden Sie Text-zu-Muster:
 
 #### Bild-zu-Textur
 
-<b>Bild-zu-Textur</b> erstellt vier Sätze von <b>quadratischen und kachelnden Texturen</b> aus jedem <b>Referenzbild</b>, unabhängig vom Verhältnis. Sie können <b>Variationen</b> von bereits vorhandenen Texturen generieren oder gebrauchsfertige Texturen aus Referenzbildern erstellen, deren Eigentümer Sie sind.
+<b>Image-to-Textur</b> erstellt vier Sätze von <b>quadratischen und Kachelung-Texturen</b> aus jedem <b>Referenzbild</b>, unabhängig vom Seitenverhältnis. Sie können <b>Variationen von </b> bereits vorhandenen Texturen generieren oder gebrauchsfertige Texturen aus Referenzbildern erstellen, deren Eigentümer Sie sind.
 
-So verwenden Sie Bild-zu-Textur:
+So verwenden Sie Image-to-Textur:
 
 1. Öffnen Sie den Bereich <b>Generative (Beta) </b> in der linken Symbolleiste.
-1. Wählen Sie &quot;<b>Texture</b>&quot; in der Dropdownliste &quot;Typ&quot; aus.
-1. Ziehen Sie Ihr <b>-Bild per Drag &amp; Drop in das Textfeld </b> oder klicken Sie auf das Symbol &quot;Bild hinzufügen&quot;, um den Datei-Explorer zu öffnen und das Bild auszuwählen, das Sie als Referenz verwenden möchten.
+1. Wählen Sie &quot;<b>Textur</b>&quot; in der Dropdownliste &quot;Typ&quot; aus.
+1. Ziehen Sie Ihr <b>-Bild per Drag &amp; Drop in das Textfeld </b> oder klicken Sie auf das Symbol &quot;Bild hinzufügen&quot;, um den Explorer zu öffnen und das Bild auszuwählen, das Sie als Referenz verwenden möchten.
 1. Verwenden Sie <b>Generieren</b>, um Texturen zu generieren, die von Ihrem Referenzbild inspiriert sind. Bei jeder Verwendung der Funktion werden vier Varianten generiert.
-1. Sie können das gewünschte Ergebnis entweder per Drag-and-Drop in die 3D- oder 2D-Ansicht ziehen, um die <b>Materialerstellungsvorlage</b> zu öffnen, oder es den <b>Ebenen</b> über die dedizierte Schaltfläche hinzufügen. Sie können das Ergebnis auch Ihren <b>Assets</b> hinzufügen, um es später leicht wiederzufinden.
+1. Sie können das gewünschte Ergebnis entweder per Drag &amp; Drop in die 3D- oder 2D-Ansicht ziehen, um die <b>Vorlage zur Material-Erstellung</b> zu öffnen, oder es über die dedizierte Schaltfläche den <b>Ebenen</b> hinzufügen. Sie können das Ergebnis auch Ihren <b>Assets</b> hinzufügen, um es später leicht wiederzufinden.
 
 ## Tipps zum Schreiben von Textur- oder Musteraufforderungen
 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/physical-size-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/physical-size-panel.html"
 breadcrumb-title: ''
-description: Lerne, wie du in Substance 3D Sampler mit dem Bedienfeld "Physische Größe" realistische Abmessungen für Materialien und Strukturen festlegst.
+description: Erfahre, wie du in Substance 3D Sampler mit dem Bedienfeld "Physische Größe" realistische Abmessungen für Materialien und Texturen definierst.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Physical Size Panel
 helpx_experience_level: ""
@@ -71,9 +71,9 @@ Mit dem Messwerkzeug können Sie die Physische Größe kalibrieren, indem Sie di
 
 Mit diesen Werkzeugen können Sie den Aspekt der Oberfläche Ihres Materials festlegen.
 
-**Physische Skalierung:** Aktivieren oder deaktivieren Sie die physische Skalierung. Die physikalische Skala ist der Umfang des Gitters entlang der drei Achsen.\
+**Physische Skalierung:** Aktivieren oder deaktivieren Sie die physische Skalierung. Die physikalische Skala ist der Umfang des Meshs entlang der drei Achsen.\
 Skaliere dein Material mit physischen Werten. Ändern der Breite (X) des Heights (Y) und der Tiefe (Z).\
-**Texturkacheln:** Legen Sie die Kachelung Ihres Materials fest.
+**Kachelung der Textur:** Legen Sie die Kachelung Ihres Materials fest.
 
 ### Ausgabematerial
 
@@ -81,4 +81,4 @@ Hilf dir, den Output deines Materials realistisch zu visualisieren.
 
 **Anzeige mit physischem Verhältnis:**\
 Die Anzeige im 2D-Viewport berücksichtigt das physische Verhältnis.\
-**Height-Skalierung:** Wird vom 3D-Viewport auf der Grundlage der physischen Skalierung festgelegt/berechnet.
+**Height-Skalierung:** Wird anhand des 3D-Viewports auf der Grundlage der physischen Skalierung festgelegt/berechnet.

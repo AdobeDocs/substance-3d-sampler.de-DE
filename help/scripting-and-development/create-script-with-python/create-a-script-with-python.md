@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Python-Skripte für Substance 3D Sampler erstellen, um Workflows zu automatisieren und die Anwendungsfunktionalität zu erweitern.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Für den Import von Skripten in Sampler ist eine einzelne PY-Datei erforderlich.
 
 ## Beispielskript
 
-Das folgende Skript erstellt automatisch Variationen Ihres Materials, indem ein neuer zufälliger Impfstoff für jede Ebene im Material ausgewählt wird. Dies ist nützlich, um sicherzustellen, dass Ihr Material in einem allgemeinen Fall verwendet werden kann, anstatt sich auf bestimmte zufällige Samen zu verlassen.
+Mit dem unten stehenden Skript werden automatisch Variationen Ihres Materials erstellt, indem für jede Ebene im Material ein neuer zufälliger Wert ausgewählt wird. Dies ist nützlich, um sicherzustellen, dass Ihr Material in einem allgemeinen Fall verwendet werden kann, anstatt sich auf bestimmte Zufallsparameter zu verlassen.
 
 ### random\_seed\_variation.py
 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/dust.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dust.html"
 breadcrumb-title: ''
-description: In Substance 3D Sampler kannst du mit dem Filter "Dust" realistische Dust-Akkumulations-Effekte auf deine Materialien und Strukturen anwenden.
+description: In Substance 3D Sampler kannst du mit dem Filter "Dust" realistische Dust-Akkumulierungseffekte zu deinen Materials und Texturen hinzufügen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Dust
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ Mit der Dust-Farbspritzer-Ebene wird einem Material Dust hinzugefügt und die Ve
 
 #### Wann wird sie verwendet?
 
-Der Dust-Splatter kann auf einem Material hinzugefügt werden. Sie können sie verwenden, um die Hohlräume zu glätten oder die verschiedenen Elemente eines Materials zusammenzufügen.
+Der Dust-Farbspritzer kann über einem Material hinzugefügt werden. Sie können damit die Hohlräume glätten oder die verschiedenen Elemente eines Materials zusammenarbeiten lassen.
 
 #### Parameter
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/activation-and-licenses.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/activation-and-licenses.html"
 breadcrumb-title: ''
 description: Hier erfahren Sie, wie Sie Lizenzen für Substance 3D Sampler aktivieren und verwalten, damit Sie die Anwendung verwenden und auf alle Funktionen zugreifen können.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Der Aktivierungsprozess hängt davon ab, wo Sie Sampler erworben haben oder Zugr
 
 | Anwendungstyp | Aktivierungsprozess |
 | --- | --- |
-| Creative Cloud Desktop | Weitere Informationen finden Sie auf der entsprechenden Seite in der [HilfeX-Dokumentation](https://helpx.adobe.com/de/support/substance-3d-sampler.html).Falls Probleme auftreten, kann die [Creative Cloud-Dokumentation](https://helpx.adobe.com/de/creative-cloud/user-guide.html) zusätzliche Antworten liefern. |
+| Creative Cloud Desktop | Weitere Informationen finden Sie auf der entsprechenden Seite in der [HilfeX-Dokumentation](https://helpx.adobe.com/support/substance-3d-sampler.html).Falls Probleme auftreten, kann die [Creative Cloud-Dokumentation](https://helpx.adobe.com/creative-cloud/user-guide.html) zusätzliche Antworten liefern. |
 | dämpfen | Starten Sie das Produkt direkt aus der Steam-Bibliothek. |
 | Substance 3D als eigenständiges Produkt | Weitere Informationen finden Sie im unten beschriebenen Aktivierungsprozess. |
 
@@ -42,11 +42,11 @@ Es stehen drei Optionen zur Auswahl:
 
 * **Dieses Produkt auswerten**: Ältere Testversionen sind nicht mehr verfügbar. Sie können stattdessen eine 30-tägige Testversion für jede Substance 3D-Anwendung [hier](https://www.adobe.com/creativecloud/3d-augmented-reality.html) oder mit Creative Cloud Desktop starten. Jede Testversion ist unabhängig von den anderen Substance 3D-Programmen. Sie können also einzeln oder alle Applikationen gleichzeitig testen.
 * **Mit einer Lizenzdatei aktivieren**: Aktivieren Sie das Produkt mit einer Lizenzdatei (**\*.key**), die Sie vor dem 30. September 2022 von Ihrer Kontoseite auf der [Substance 3D-Website](https://store.substance3d.com/user) heruntergeladen haben.
-* **Aktivieren mit Ihrem Konto**: Ältere Substanzkonten können nicht mehr für die Aktivierung verwendet werden. [Weitere Informationen zu Substance-Konten finden Sie hier](https://helpx.adobe.com/de/substance-3d/unlisted/faq-end-of-life-accounts.html).
+* **Aktivieren mit Ihrem Konto**: Ältere Substanzkonten können nicht mehr für die Aktivierung verwendet werden. [Weitere Informationen zu Substance-Konten finden Sie hier](https://helpx.adobe.com/substance-3d/unlisted/faq-end-of-life-accounts.html).
 
 >[!WARNING]
 >
-> Um die Lizenzdatei mit dem Aktivierungsassistenten zu installieren, müssen Sie Sampler als Administrator ausführen und das Antivirenprogramm vorübergehend deaktivieren.
+> Um die Lizenzdatei mit dem Aktivierungsassistent zu installieren, stellen Sie sicher, dass Sie Sampler als Administrator ausführen und Ihr Antivirenprogramm vorübergehend deaktivieren.
 
 ### Manuelle Aktivierung
 

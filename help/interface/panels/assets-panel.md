@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie das Bedienfeld "Elemente" in Substance 3D Sampler verwenden, um Ihre Materialelemente und Ressourcen zu durchsuchen, zu organisieren und darauf zuzugreifen.
+description: Erfahren Sie, wie Sie das Bedienfeld "Elemente" in Substance 3D Sampler verwenden, um Ihre Material-Elemente und Ressourcen zu durchsuchen, zu organisieren und darauf zuzugreifen.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Assets panel
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../../assets/Assets-panel-gen.png.img.png)
 
-Das Bedienfeld &quot;**Elemente&quot;** enthält Elemente, die Sie zum Erstellen Ihrer Kreationen verwenden können. Sampler bietet eine Sammlung von Materialien, Filtern und Texturgeneratoren, die Ihnen den Einstieg erleichtern.
+Das Bedienfeld &quot;**Elemente&quot;** enthält Elemente, die Sie zum Erstellen Ihrer Kreationen verwenden können. Sampler bietet eine Sammlung von Materialien, Filtern und Textur-Generatoren, die dir den Einstieg erleichtern.
 
 Das **Bedienfeld &quot;Elemente&quot;** verfügt über einige Steuerelemente, die Sie beim Organisieren und Suchen von Elementen unterstützen:
 
@@ -37,9 +37,9 @@ Um eigene Elemente zum Bedienfeld &quot;Elemente&quot; hinzuzufügen, klicken Si
 
 ## Zusätzliche Kanäle aktivieren
 
-Wenn Sie Materialien aus dem Bedienfeld &quot;Elemente&quot; per Drag-and-Drop in Ihren Ebenenstapel ziehen, wird Ihnen möglicherweise angeboten, zusätzliche Kanäle zu aktivieren. Es wird angeboten, wenn das Material einen Kanal ausgibt, der derzeit nicht in Ihrem Asset aktiviert ist. Du kannst die Funktion aktivieren, wenn du von der komplexen Struktur des Materials (z. B. Anisotropie oder Beschichtung) profitieren möchtest.
+Wenn Sie Materials per Drag &amp; Drop aus dem Bedienfeld &quot;Elemente&quot; auf Ihren Ebenenstapel ziehen, wird Ihnen möglicherweise angeboten, zusätzliche Kanäle zu aktivieren. Es wird angeboten, wenn das Material einen Kanal ausgibt, der derzeit nicht in Ihrem Asset aktiviert ist. Die Aktivierung ist sinnvoll, wenn du von der Komplexität des Materials profitieren möchtest, z. B. von Anisotropien oder Überzügen.
 
-![Kanal-Aktivierungs-Popup, wenn ein Material zum Ebenenstapel hinzugefügt wird](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
+![Kanalaktivierung wird angezeigt, wenn ein Material zum Ebenenstapel hinzugefügt wird](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
 
 >[!NOTE]
 >

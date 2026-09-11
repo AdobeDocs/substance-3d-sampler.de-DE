@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/configuration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration.html"
 breadcrumb-title: ''
 description: Erweiterte Konfigurationsoptionen für Substance 3D Sampler zum Anpassen des Anwendungsverhaltens und zur Optimierung der Leistung
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 11%
 
 Im Folgenden finden Sie einige erweiterte Möglichkeiten zur Konfiguration von Substance 3D Sampler:
 
-* [Ermitteln des Installationspfads](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sadoc/retrieving-installation-path-188974574.html)
+* [Ermitteln des Installationspfads](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/retrieving-installation-path-188974574.html)
 * [Update Checker](update-checker.md)
 * [NVIDIA-Treibereinstellungen](nvidia-driver-settings.md)
 * [3D-Erfassung-Setup unter Linux](3d-capture-set-up-on-linux.md)

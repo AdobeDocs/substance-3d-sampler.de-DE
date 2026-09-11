@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/upscale.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
 breadcrumb-title: ''
-description: Nutze das Hochskalieren-Werkzeug in Substance 3D Sampler, um die Texturauflösung mithilfe von KI-gestützter Hochskalierungstechnologie zu erhöhen.
+description: Verwende das Hochskalieren-Tool in Substance 3D Sampler, um die Auflösung der Textur mit KI-gestützter Hochskalierungstechnologie zu erhöhen.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 2%
 
 ## Beschreibung
 
-Der <b>Hochskalieren </b>-Filter verwendet KI, um die PBR-Kanäle (BaseColor, Roughness, Normal, Metallic, Height) von den darunter liegenden Ebenen hochzuladen.
+Der <b>Hochskalieren </b>-Filter verwendet KI, um die PBR-Kanäle (BaseColor, Rauheit, Normal, Metallic, Height) von den darunter liegenden Ebenen hochzuladen.
 
 <table>
 <tr style="border: 0;">
@@ -79,7 +79,7 @@ In diesem Beispiel beginnen wir mit einem Bild mit einer Auflösung von 1024 x 1
 
 ![](../../assets/SAPR_Upscale_screen_001.png)
 
-Im obigen Bild wird ein Bild mit niedriger Auflösung vom [Bild zu Material (KI-gestützt) verarbeitet](image-to-material.md).
+Im Bild oben wird ein Bild mit niedriger Auflösung vom [Bild zu Material (KI-gestützt) verarbeitet](image-to-material.md).
 
 ![](../../assets/SAPR_Upscale_Screen_003.png)
 

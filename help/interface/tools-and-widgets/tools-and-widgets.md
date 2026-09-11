@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/tools-and-widgets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über Werkzeuge und Widgets in der Substance 3D Sampler-Benutzeroberfläche, um schnell auf häufig verwendete Filter und Oberflächenelemente zuzugreifen.
 helpx_description: Sampler > Interface > Tools and Widgets
@@ -22,7 +22,7 @@ Die auf der linken Seitenleiste verfügbaren Werkzeuge sind Verknüpfungen für 
 * [Zuschneiden](../../filters/tools/crop-tool.md)
 * [Perspektivische Transformation](../../filters/tools/perspective-correction.md)
 * [Transformieren](../../filters/tools/transform.md)
-* [Kopierstempel](../../filters/tools/clone-stamp.md)
+* [Klon](../../filters/tools/clone-stamp.md)
 
 Tools und Funktionen ohne Filter werden in den folgenden Artikeln beschrieben:
 

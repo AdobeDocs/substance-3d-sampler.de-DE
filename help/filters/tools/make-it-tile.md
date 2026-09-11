@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
-description: Verwenden Sie das Kachelwerkzeug in Substance 3D Sampler, um aus nicht kachelbaren Texturen automatisch nahtlose Kachelmuster zu erstellen.
+description: Verwenden Sie das Kachelwerkzeug in Substance 3D Sampler, um aus Nicht-Kachelung-Texturen automatisch nahtlose Kachelungen-Muster zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Make it Tile
 helpx_experience_level: ""
@@ -33,17 +33,17 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Verwenden Sie den Filter **Kachel erstellen**, um Ihr Material kachelbar zu machen. Der **Kachelfilter** macht Ihr Material ebenfalls kachelbar, aber jeder Filter funktioniert auf andere Weise. Wenn Sie feststellen, dass der **Kachelfilter erstellen** nicht funktioniert, versuchen Sie es mit dem **Kachelfilter**.
+Verwenden Sie den **Kachelfilter erstellen**, um Ihr Material kachelbar zu machen. Mit dem **Filter für Kachelungen** können Sie Ihr Material auch kachelbar machen, aber jeder Filter funktioniert auf andere Weise. Wenn Sie feststellen, dass der **Kachelfilter erstellen** nicht funktioniert, versuchen Sie den **Kachelung-Filter**.
 
-In den folgenden Bildern können Sie sehen, wie der **Filter &quot;Make it Tile&quot;** ein nicht gekacheltes Material in ein kachelbares Material konvertieren kann. Dieses Material ist gut kachelbar, weil es einem rasterartigen Muster folgt und es keine spezifischen Punkte gibt, die den Fokus ziehen.
+In den folgenden Abbildungen können Sie sehen, wie der **Filter &quot;Anordnen in Kachel erstellen&quot;** ein Material ohne Kachelung in ein kachelbares Material konvertieren kann. Dieses Material passt gut zu einem Motiv, weil es einem Raster-ähnlichen Muster folgt und es keine spezifischen Punkte gibt, die den Fokus lenken.
 
 ![](../../assets/3d-2d-filters-cropped-0015-make-it-tile-in.jpg)
 
-In der Abbildung oben zeigt die rote Linie die Begrenzung des Materials. Es ist ganz klar, dass es eine starke Naht gibt, und dass dieses Material nicht kachelt.
+Die rote Linie in der Abbildung oben zeigt die Begrenzung des Materials. Es ist ganz klar, dass es eine starke Naht gibt und dass dieses Material nicht kachelt.
 
 ![](../../assets/3d-2d-filters-cropped-0014-make-it-tile-out.jpg)
 
-Nach **Make it Tile**, dieses Material gut kachelt und ohne die rote Linie, wäre es unmöglich, Nähte an den Rändern des Materials zu sehen.
+Nach **Kachel erstellen**, kachelt dieses Material gut und ohne die rote Linie, es wäre unmöglich, Nähte an den Rändern des Materials zu sehen.
 
 </td>
 </tr>
@@ -58,13 +58,13 @@ Nach **Make it Tile**, dieses Material gut kachelt und ohne die rote Linie, wär
 * **Smoothness**: 0-1\
   Glätte die Naht der oberen Ebene.
 * **Kontrast**: 0-1\
-  Passen Sie den Kontrast der Naht an. Die Verringerung des Kontrasts hat den gleichen Effekt wie die Weichzeichnung der Naht.
+  Den Kontrast der Naht anpassen. Die Verringerung des Kontrasts hat den gleichen Effekt wie die Weichzeichnung der Naht.
 * **Entfernen von Bereichen**: Knebel\
   Wenn diese Option aktiviert ist, versucht der Filter, Artefakte in der Nähe der Naht zwischen der oberen und unteren Ebene zu entfernen.
 * **Color Equalizer**: 0-50\
-  Passen Sie die Farbwerte an, um die Sichtbarkeit der Naht zu verringern.
+  Passen Sie Farbwerte an, um die Sichtbarkeit der Naht zu verringern.
 * **Height-Übereinstimmung**:\
-  Ändern Sie, wie die Height Maps für die obere und untere Ebene des Filters angeglichen werden. Zeigen Sie den Height-Kanal in der **2D-Ansicht** an, um die Ergebnisse besser zu sehen. Beachten Sie, dass sich der Height-Abgleich nicht auf andere Kanäle als den Height-Kanal auswirkt, sodass die Normalen und AO nicht von Änderungen am Height-Abgleich betroffen sind.
+  Lege fest, wie die Höhen-Map an die obere und untere Filterebene angeglichen werden. Zeigen Sie den Height-Kanal in der **2D-Ansicht** an, um die Ergebnisse deutlicher zu sehen. Beachten Sie, dass sich der Height-Abgleich nicht auf andere Kanäle als den Height-Kanal auswirkt, sodass die Normalen und AO nicht von Änderungen am Height-Abgleich betroffen sind.
 
 **Erweiterte Parameter**
 
@@ -85,10 +85,10 @@ Der **Make it Tile** **filter** funktioniert, indem mehrere Kopien des Materials
 
 Die folgende Abbildung zeigt das Layout der Ebenen:
 
-* Der grüne Rand zeigt die Kanten des resultierenden Materials aus dem **Filter &quot;Kacheln&quot; erstellen**.
-* Die roten Linien zeigen die Ränder der unteren Ebene an. Die untere Schicht ist um 50 % des UV-Raumes auf der X- und Y-Achse versetzt, sodass die roten Linien Kachelnähte sind, die abgedeckt werden müssen.
-* Das blaue Quadrat und die Halbkreise bedecken die roten Nähte. Mit den Parametern des Filters können Sie die Ränder der blauen Formen anpassen, um sicherzustellen, dass die rote Naht nicht sichtbar ist, während die blaue Naht so glatt wie möglich bleibt.
+* Der grüne Rand zeigt die Kanten des resultierenden Materials aus dem **Filter &quot;Kacheln&quot; erstellen** an.
+* Die roten Linien zeigen die Ränder der unteren Ebene an. Die untere Ebene wird um 50 % des UV-Abstands auf der X- und Y-Achse versetzt. Die roten Nähte sind also Kachelungen, die überdeckt werden müssen.
+* Das blaue Quadrat und die Halbkreise bedecken die roten Nähte. Mit den Filterparametern können Sie die Ränder der blauen Formen anpassen, um sicherzustellen, dass die rote Naht nicht zu sehen ist, während die blaue Naht so glatt wie möglich bleibt.
 
 ![](../../assets/makeittilediagram.png){width="512px"}
 
-Die linken und rechten Halbkreise passen zueinander, um die Materialfliesen horizontal zu sichern, und die oberen und unteren Halbkreise sorgen für die vertikalen Materialfliesen. Das blaue Quadrat in der Mitte entfernt alle verbleibenden Nähte, um ein vollständig kachelbares Material ohne Nähte zu erstellen.
+Die linken und rechten Halbkreise passen zusammen, um die Material-Kacheln horizontal zu gewährleisten, und die oberen und unteren Halbkreise sorgen für die vertikalen Material-Kacheln. Das blaue Quadrat in der Mitte entfernt alle verbleibenden Nähte und bildet so ein vollständig kachelbares Material ohne Nähte.

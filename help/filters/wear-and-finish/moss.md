@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/moss.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/moss.html"
 breadcrumb-title: ''
-description: Mit dem Moosfilter in Substance 3D Sampler lassen sich realistische Moosblüten und organische Oberflächeneffekte erzeugen.
+description: Verwende den Moosfilter in Substance 3D Sampler, um Materials realitätsgetreues Mooswachstum und organische Oberflächeneffekte zu verleihen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Moss
 helpx_experience_level: ""
@@ -97,7 +97,7 @@ Die verfügbaren Parameter in diesem Abschnitt hängen davon ab, welche Option u
 * **Oben**
   * **Schwellenwert für oberes Moos**: 0-1\
     Steuern Sie den Schwellenwert, der bestimmt, ob Moos angezeigt wird.
-  * **Oberer Mooswinkel** Passen Sie anhand der normalen Karte an, wie das Moos auf das Material angewendet wird.
+  * **Oberer Mooswinkel** Passen Sie anhand der Normalen-Map an, wie das Moos auf das Material angewendet wird.
 * **Alle**
   * **All** enthält alle oben genannten Parameter für **Verdeckung**, **Insgesamt** und **Top**.
 
@@ -123,4 +123,4 @@ Die folgenden Parameter sind unabhängig davon verfügbar, welche Option unter *
 
 * **Normalintensität**: 0-1\
   Passen Sie die Stärke der Moos-Normalwerte an.
-* **Umgebungsintensität** Steuern Sie die Verdeckung der Verdeckung des Mooses.
+* **Ambient occlusion-Intensität** Steuern Sie die Stärke der Moss-ambient occlusion.

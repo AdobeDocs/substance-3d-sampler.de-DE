@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
 breadcrumb-title: ''
-description: Lerne, wie du mit der Lens Studio-Vorgabe für die Entwicklung von Linsen mit Snapchat AR Materialien aus Substance 3D Sampler exportieren kannst.
+description: Lerne, wie du mit der Vorgabe "Lens Studio" von Substance 3D Sampler Materials für die Workflows zur Entwicklung von Snapchat-AR-Linsen exportieren kannst.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Lens Studio
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Lens Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **base**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Grundfarbe</li><li data-preserve-html="true"><strong>A</strong>: Deckkraft</li></ul>**materialParams**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Metallisch</li><li data-preserve-html="true"><strong>G</strong>: Raueit</li><li data-preserve-html="true"><strong>B</strong>: Umgebungs-Verdeckung</li></ul>**normal** (OpenGL) |
+| Lens Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **base**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Grundfarbe</li><li data-preserve-html="true"><strong>A</strong>: Deckkraft</li></ul>**materialParams**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Metallic</li><li data-preserve-html="true"><strong>G</strong>: Rauheit</li><li data-preserve-html="true"><strong>B</strong>: Umgebungs-Verdeckung</li></ul>**normal** (OpenGL) |

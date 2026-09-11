@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/image-to-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/image-to-material.html"
 breadcrumb-title: ''
-description: Verwende das Werkzeug "Bild zu Material" in Substance 3D Sampler, um einzelne Bilder mithilfe KI-gestützter Verarbeitung in PBR-Materialien umzuwandeln.
+description: Verwende das Material-in-Bild-Werkzeug von Substance 3D Sampler, um einzelne Bilder mithilfe KI-gestützter Verarbeitung in PBR-Materialien umzuwandeln.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Image To Material
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../../assets/sat-icon-image-to-material.png)
 
-Mit der Vorlage **Bild zu Material** können Sie aus einem einzigen Eingabebild ein hochwertiges PBR-Material generieren.
+Mit der Vorlage **Image zu Material** können Sie aus einem einzigen Eingabebild ein qualitativ hochwertiges PBR-Material generieren.
 
 Diese Vorlage verfügt über zwei Hauptalgorithmen:
 
@@ -33,13 +33,13 @@ Unten finden Sie eine detaillierte Erläuterung der einzelnen Algorithmen.
 
 ## Beispiel
 
-Hier ist ein Beispiel für Materialkanäle, die aus einem einzigen Eingabebild erzeugt werden:
+Im Folgenden finden Sie ein Beispiel für Material-Kanäle, die aus einem einzigen Eingabebild generiert wurden:
 
 ![](../../assets/sat-image-to-material.jpg){width="500px"}
 
 ## Algorithmen
 
-Um den Algorithmus der Vorlage &quot;**Image to Material**&quot; zu ändern, klicken Sie auf die Dropdown-Liste unter dem Vorlagennamen:
+Um den Algorithmus der Vorlage **Image in Material** zu ändern, klicken Sie auf die Dropdown-Liste unter dem Vorlagennamen:
 
 ![](../../assets/image-to-material-algo-setting.png)
 
@@ -47,7 +47,7 @@ Um den Algorithmus der Vorlage &quot;**Image to Material**&quot; zu ändern, kli
 
 Der <b>KI-gestützte </b>-Algorithmus nutzt maschinelles Lernen, um Formen und Objekte zu erkennen und präzise Normal-, Height- und Raueitskarten zu generieren sowie die Albedo von Schatten oder Lichtern zu entfernen.
 
-Das neuronale Netzwerk wurde auf eine breite Palette von Materialien wie Textilien, Bio-Materialien, Innen- und Außenoberflächen geschult.
+Das neuronale Netzwerk wurde in einer Vielzahl von Materialien wie Textilien, Organik, Innen- und Außenoberflächen geschult.
 
 >[!NOTE]
 >
@@ -55,13 +55,13 @@ Das neuronale Netzwerk wurde auf eine breite Palette von Materialien wie Textili
 
 ### B2M
 
-Der **B2M**-Algorithmus verwendet die Substance-basierte Bitmap-zu-Material-Methode, um mithilfe von Prozedurtechniken mehrere Kanäle wie Grundfarbe, Normal, Metallisch, Raueit und Umgebungsfarbe zu generieren.
+Der **B2M**-Algorithmus verwendet die Substance-basierte Bitmap-zu-Material-Methode, um mithilfe prozeduraler Techniken mehrere Kanäle wie Grundfarbe, Normal, metallic, Rauheit und ambient occlusion zu generieren.
 
-Dieser Algorithmus liefert möglicherweise weniger genaue Ergebnisse, funktioniert aber bei einer größeren Bandbreite von Eingabebildern.
+Dieser Algorithmus liefert möglicherweise weniger exakte Ergebnisse, funktioniert aber in einer größeren Bandbreite von Eingabebildern.
 
 ## Adobe Capture
 
-Diese Funktion ist auch in der mobilen Adobe Capture-App (Android und iOS) verfügbar. Sie können unterwegs ein Foto aufnehmen und direkt auf Ihrem Smartphone eine Vorschau des Ergebnisses anzeigen.
+Diese Funktion ist auch in der mobilen Adobe Capture-App (Android und iOS) verfügbar. Sie können unterwegs ein Foto einrasten haben, um direkt auf Ihrem Smartphone eine Vorschau des Ergebnisses zu erhalten.
 
 Senden Sie die Ergebnisse einfach zur weiteren Bearbeitung an Substance 3D Sampler.
 

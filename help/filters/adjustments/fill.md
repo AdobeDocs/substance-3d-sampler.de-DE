@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Füllfilter in Substance 3D Sampler, um Texturbereiche mit Volltonfarben oder Mustern für Materialerstellungs-Workflows zu füllen.
+description: Verwenden Sie den Füllfilter in Substance 3D Sampler, um Farbbereiche mit Volltonfarben oder Texturen für die Erstellung von Materialien zu füllen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Fill
 helpx_experience_level: ""
@@ -36,7 +36,7 @@ ht-degree: 4%
 Mit dem **Füllfilter** können Sie die Werte bestimmter Kanäle auf der Grundlage eines ausgewählten Werts ersetzen oder anpassen.
 Ab Sampler 6.0 passt der Füllfilter seine Parameter basierend auf dem Kanaltyp an, auf den er angewendet wird. Dadurch wird sichergestellt, dass die verfügbaren Steuerelemente immer mit der physischen Bedeutung und dem Datentyp des ausgewählten Kanals übereinstimmen und dass der Filter auf jede Karte angewendet werden kann, auch über benutzerdefinierte Workflows.
 
-In den folgenden Bildern wurde der Grundfarbkanal ersetzt.
+In den folgenden Abbildungen wurde der Grundfarbe-Kanal ersetzt.
 
 <table>
 <tr style="border: 0;">
@@ -62,7 +62,7 @@ In den folgenden Bildern wurde der Grundfarbkanal ersetzt.
 <b>Angewendet auf...</b>
 
 Die Dropdown-Liste Angewendet auf ... bestimmt, auf welchen Kanal sich der Füllfilter auswirkt.
-**Nur Kanäle, die derzeit in den Kanaleinstellungen des Materials aktiviert sind, werden in dieser Liste angezeigt.** Wenn der Kanal, den Sie ausfüllen möchten, nicht verfügbar ist:
+**In dieser Liste werden nur Kanäle angezeigt, die derzeit in den Kanaleinstellungen des Materials aktiviert sind.** Wenn der Kanal, den Sie ausfüllen möchten, nicht verfügbar ist:
 
 * Öffnen Sie das Bedienfeld &quot;Kanaleinstellungen&quot; (ganz unten in der linken Navigationsleiste).
 * Auf &quot;Liste bearbeiten&quot; klicken
@@ -90,7 +90,7 @@ Wird verwendet, wenn der Füllfilter auf Farbkanäle angewendet wird.
 * Farbe
 Wählt die RGB-Farbe aus, die zum Füllen des Kanals verwendet wird.
 * Benutzerdefinierter Wert
-Wechseln Sie zum Öffnen der benutzerdefinierten Karte. Wählen Sie ein Bild aus, mit dem der ausgewählte Kanal ersetzt werden soll, oder malen Sie direkt in der **2D-Ansicht**.
+Wechseln Sie zum Öffnen der benutzerdefinierten Karte. Wählen Sie ein Bild aus, durch das der markierte Kanal ersetzt werden soll, oder geben Sie einen Malen direkt in die **2D-Ansicht** ein.
 * Zufällige Verteilung
 Ändert die bei aktivierten prozeduralen Varianten verwendete Randomisierung.
 * Überblendmodus
@@ -118,16 +118,16 @@ Legt einen einzelnen Graustufenwert für den Kanal fest.
 * Zufällige Verteilung
 Ändert die bei aktivierten prozeduralen Varianten verwendete Randomisierung.
 * Benutzerdefinierter Wert
-Wechseln Sie zum Öffnen der benutzerdefinierten Karte. Wählen Sie ein Bild aus, mit dem der ausgewählte Kanal ersetzt werden soll, oder malen Sie direkt in der **2D-Ansicht**.
+Wechseln Sie zum Öffnen der benutzerdefinierten Karte. Wählen Sie ein Bild aus, durch das der markierte Kanal ersetzt werden soll, oder geben Sie einen Malen direkt in die **2D-Ansicht** ein.
 * Überblendmodus
-Kopieren, Hinzufügen (linear abwedeln), Subtrahieren, Multiplizieren, Sub hinzufügen, Max (aufhellen), Min (abdunkeln), Umschalten, Unterteilen, Überlagerung, Bildschirm, Weiches Licht.
+Kopieren, Hinzufügen (linear abwedeln), Subtrahieren, Multiplizieren, Sub hinzufügen, Max (aufhellen), Min (abdunkeln), Switch, Dividieren, Overlay, Bildschirm, Weiche Licht.
 Wählen Sie den Mischmodus aus, um die benutzerdefinierten Eingaben mit den darunter liegenden Ebenen zu mischen.
 * Deckkraft
 Passen Sie die Deckkraft der neuen Kanalinformationen im Verhältnis zu den vorhandenen Kanalinformationen an. Mit anderen Worten, dadurch wird die Deckkraft der Maske gesteuert, die zum Anwenden der neuen Kanalfüllung verwendet wird.
 
-Dieser Modus eignet sich zum Definieren einheitlicher physikalischer Eigenschaften, z. B. für einen konstanten Raueit- oder Deckkraftwert.
+Dieser Modus eignet sich zum Definieren einheitlicher physischer Eigenschaften, z. B. für eine konstante Rauheit oder einen konstanten Deckkraftwert.
 
-#### Normale Map-Parameter
+#### Normalen-Map-Parameter
 
 Wird verwendet, wenn der Füllfilter auf **Normal** Kanäle angewendet wird.
 
@@ -141,7 +141,7 @@ Wird verwendet, wenn der Füllfilter auf **Normal** Kanäle angewendet wird.
 * Zufällige Verteilung
 Ändert die bei aktivierten prozeduralen Varianten verwendete Randomisierung.
 * Benutzerdefinierter Wert
-Wechseln Sie zum Öffnen der benutzerdefinierten Karte. Wählen Sie ein Bild aus, mit dem der ausgewählte Kanal ersetzt werden soll, oder malen Sie direkt in der **2D-Ansicht**.
+Wechseln Sie zum Öffnen der benutzerdefinierten Karte. Wählen Sie ein Bild aus, durch das der markierte Kanal ersetzt werden soll, oder geben Sie einen Malen direkt in die **2D-Ansicht** ein.
 * Deckkraft
 Passen Sie die Deckkraft der neuen Kanalinformationen im Verhältnis zu den vorhandenen Kanalinformationen an. Mit anderen Worten, dadurch wird die Deckkraft der Maske gesteuert, die zum Anwenden der neuen Kanalfüllung verwendet wird.
 
@@ -149,7 +149,7 @@ Dieser Modus wird hauptsächlich verwendet, um normale Informationen zurückzuse
 
 ### Einheitliche Werteparameter
 
-Wird für Kanäle verwendet, die auf einem einzelnen einheitlichen physischen Wert anstatt auf einer Texturmap basieren.
+Wird für Kanäle verwendet, die auf einem einzigen einheitlichen physischen Wert und nicht auf einer Textur-Map basieren.
 
 #### Beispielkanäle
 
@@ -161,19 +161,19 @@ Wird für Kanäle verwendet, die auf einem einzelnen einheitlichen physischen We
 Ändert die bei aktivierten prozeduralen Varianten verwendete Randomisierung.
 * Value
 Definiert den konstanten Wert, der auf den Kanal angewendet wird.
-* Füllmethode
+* Überblendung
 Zwischen Normal und Multiplizieren
 
-Dieser Modus ist besonders nützlich, wenn Sie mit erweiterten Materialverhalten arbeiten, die durch Vorlagen eingeführt wurden, wobei einige Eigenschaften durch Skalarwerte anstatt durch Maps gesteuert werden.
+Dieser Modus ist besonders nützlich, wenn Sie mit erweiterten Material arbeiten, die über Vorlagen eingeführt werden, wobei einige Eigenschaften durch skalare Werte und nicht durch Maps gesteuert werden.
 
 ## Typische Anwendungsfälle
 
 Der Filter &quot;Füllung&quot; wird häufig für folgende Zwecke verwendet:
 
-* Kanäle beim Erstellen eines neuen Materials initialisieren
+* Initialisieren von Kanälen beim Erstellen eines neuen Materials
 * Vorhandene Kanalwerte überschreiben
-* Festlegen einheitlicher physikalischer Eigenschaften (z. B. feste Raueit oder Metallität)
+* Festlegen einheitlicher physikalischer Eigenschaften (z. B. feste Rauheit oder Metallität)
 * Neutralisieren Sie Kanäle wie &quot;Normal&quot;, bevor Sie Details neu erstellen
-* Schnelle Anpassung erweiterter Eigenschaften wie Fuzz, Lichtdurchlässigkeit oder Beschichtungswerte
+* Schnelle Anpassung erweiterter Eigenschaften wie Fuzz, translucency oder Beschichtungswerte
 
-Da sich der Filter &quot;Füllung&quot; automatisch an den ausgewählten Kanal anpasst, bietet er einen konsistenten und vorhersehbaren Workflow für alle Materialtypen.
+Da sich der Filter &quot;Füllung&quot; automatisch an den ausgewählten Kanal anpasst, bietet er einen konsistenten und vorhersehbaren Workflow über alle Material-Typen hinweg.

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
 breadcrumb-title: ''
-description: Lerne, wie du in Adobe Spark AR Studio Materialien für Augmented-Reality-Workflows aus Substance 3D Sampler exportieren kannst.
+description: Lerne, wie du in Adobe Spark AR Studio Materials aus Substance 3D Sampler für Augmented-Reality-Workflows exportieren kannst.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Spark AR Studio
 helpx_experience_level: ""
@@ -24,4 +24,4 @@ ht-degree: 3%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Spark AR Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **Farbe**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Grundfarbe</li><li data-preserve-html="true"><strong>A</strong>: Deckkraft</li></ul>**ORM**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Umgebungs-Verdeckung</li><li data-preserve-html="true"><strong>G</strong>: Raueit</li><li data-preserve-html="true"><strong>B</strong>: Metallisch</li></ul>**Normal** (OpenGL)**Emissiv** |
+| Spark AR Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **Farbe**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Grundfarbe</li><li data-preserve-html="true"><strong>A</strong>: Deckkraft</li></ul>**ORM**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Ambient occlusion</li><li data-preserve-html="true"><strong>G</strong>: Rauheit</li><li data-preserve-html="true"><strong>B</strong>: Metallic</li></ul>**Normal** (OpenGL)**Emissive** |

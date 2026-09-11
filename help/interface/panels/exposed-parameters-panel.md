@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie den Bedienfeld „Veröffentlichte Parameter“ in Substance 3D Sampler verwenden, um Filterparameter für die externe Bearbeitung anzuzeigen.
+description: Erfahren Sie, wie Sie den Bedienfeld „Veröffentlichte Parameter“ in Substance 3D Sampler verwenden, um Filterparameter für die externe Bearbeitung legen.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Exposed Parameters Panel
 helpx_experience_level: ""
@@ -22,13 +22,13 @@ ht-degree: 0%
 
 ![](../../assets/ezgif-com-gif-maker-7.gif)
 
-Die **Bedienfeld „Veröffentlichte Parameter“** enthält die Parameter, die im Bereich **Eigenschaften verfügbar gemacht wurden.**
+Die **Bedienfeld „Veröffentlichte Parameter“** enthält die vom **Eigenschaftenfenster gelegt Parameter.**
 
 Die farbigen Punkte dienen der Visualisierung, mit welcher Ebene der Parameter verbunden ist. Leere Punkte zeigen an, dass der Parameter von einer Überblendungsebene stammt.
 
 ![](../../assets/ezgif-com-gif-maker-1.gif)
 
-Es gibt mehrere Möglichkeiten, mit den exponierten Parametern zu interagieren:
+Es gibt mehrere Möglichkeiten, mit den freigelegten Parametern zu interagieren:
 
 | Aktionen | Anleitung |
 | --- | --- |

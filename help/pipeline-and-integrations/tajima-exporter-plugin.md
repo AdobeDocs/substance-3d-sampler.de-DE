@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Tajima Exporter-Plug-in in Substance 3D Sampler verwenden, um Stickereidesigns in die Tajima DG17-Software zu exportieren.
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Tajima Exporter-Plugin
+title: Tajima Exporter Plugin
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Tajima Exporter plugin of Embroidery files
+# Tajima Exporter-Plugin von Stickereidateien
 
 Mit diesem ersten Konzeptnachweis können Sie jetzt Ihre digital bestickten Designs von Adobe Substance 3D direkt in die Stickerei-Software <b>Tajima DG17</b> übertragen. Dadurch entfällt die Notwendigkeit einer zeitaufwendigen manuellen Digitalisierung.
 
@@ -46,7 +46,7 @@ Kopieren/Einfügen hier den Entpackungsordner des Downloads
 
 ## Installation
 
-Öffnen Sie Ihr Sampler-Projekt (5.0.3 oder höher) mit einem Stickereimaterial.
+Öffnen Sie Ihr Sampler-Projekt (5.0.3 oder höher) mit einem Stickerei-Material.
 
 ![](../assets/tajima-doc-embroidery-stars.png)
 

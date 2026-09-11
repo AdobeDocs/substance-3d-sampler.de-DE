@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/embossing.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embossing.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Prägegenerator in Substance 3D Sampler, um geprägte Relief und erhöhte Oberflächeneffekte in Materialien zu erzeugen.
+description: Verwenden Sie den Prägegenerator in Substance 3D Sampler, um geprägte Relief und erhöhte Oberflächeneffekte in Materials zu erzeugen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Embossing
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Text oder Muster in Materialien integrieren.
+Reliefs von Text oder Mustern auf Ihren Materialien
 
 </td>
 </tr>
@@ -43,12 +43,12 @@ Text oder Muster in Materialien integrieren.
 
 **Basisparameter**
 
-* **Prägegröße**: 0-1\
+* **Relief-Größe**: 0-1\
   Die Größe jeder Instanz ändern.
-* **Relief-Abstand**: 0-1\
+* **Relief-Entfernung**: 0-1\
   Ändern der Thickness von Relieflinien
 * **Musterauswahl**:\
-  Wählen Sie das Muster aus, das geprägt werden soll. Von hier aus kannst du Text oder ein benutzerdefiniertes Muster prägen.
+  Wählen Sie das zu Reliefs Muster aus. Von hier aus können Sie Relief-Text oder ein benutzerdefiniertes Muster auswählen.
 * **Mustertitel X**: 1-64\
   Anzahl der Instanzen auf der X-Achse ändern
 * **Mustertitel Y**: 1-64\
@@ -56,18 +56,18 @@ Text oder Muster in Materialien integrieren.
 
 **Relief**
 
-* **Rahmenrelief verwenden**: Knebel\
-  Legt fest, ob der Rand des ausgewählten Musters geprägt werden soll.
-* **Umkehrung des Rahmenrelief**: Knebel\
-  Height der Randprägung umkehren
-* **Intensität der Randprägung**: 0-1\
-  Stärke des Relief-Effekts ändern.
-* **Füllrelief verwenden**: Knebel\
-  Legt fest, ob die Fläche des ausgewählten Musters geprägt werden soll.
-* **Umkehrung des Flächenrelief**: Knebel\
-  Height des Effekts &quot;Flächenprägung&quot; umkehren
-* **Intensität der Prägung der Fläche**: 0-1\
-  Stärke des Relief-Effekts ändern.
+* **Relief für Rahmen verwenden**: Knebel\
+  Stellt ein, ob die Umrandung des ausgewählten Musters Relief werden soll
+* **Umkehren des Relief-Rahmens**: Knebel\
+  Umkehren des Heights des Rahmen-Reliefs
+* **Border Relief Intensity**: 0-1\
+  Die Stärke des Effekts &quot;Relief&quot; ändern.
+* **Relief füllen** verwenden: Knebel\
+  Stellt ein, ob die Füllung des ausgewählten Reliefs geändert werden soll
+* **Relief füllen umkehren**: Knebel\
+  Height des Effekts &quot;Relief füllen&quot; umkehren
+* **Relief-Füllintensität**: 0-1\
+  Die Stärke des Effekts &quot;Relief&quot; ändern.
 
 **Muster**
 
@@ -84,12 +84,12 @@ Text oder Muster in Materialien integrieren.
   Muster drehen.
 * **Musterversatz**: 0-1\
   Versatz jede Zeile des Musters zur vorherigen Zeile.
-* **Musterschärfe verwenden**: Knebel\
-  Aktivieren Sie diese Option, um die zugrunde liegende Materialrauhigkeit mit einem benutzerdefinierten Raueitswert zu überschreiben, wenn der Prägeeffekt auftritt.\
-  Wenn diese Option aktiviert ist, wird ein Steuerelement **Musterschärfe** angezeigt, das die Schärfe festlegt.
-* **Metallisches Muster verwenden**: Knebel\
-  Aktivieren Sie diese Option, um die zugrunde liegenden metallischen Materialwerte überall dort, wo der Prägeeffekt auftritt, mit einem benutzerdefinierten metallischen Wert zu überschreiben.\
-  Wenn diese Option aktiviert ist, wird ein **Pattern Metallic**-Steuerelement angezeigt, das die Raueit festlegt.
+* **Muster-Rauheit verwenden**: Knebel\
+  Aktivieren Sie diese Option, um die Rauheit des zugrunde liegenden Materials bei jedem Auftreten des Relief-Effekts mit einer benutzerdefinierten Rauheit zu überschreiben.\
+  Wenn diese Option aktiviert ist, wird ein **Pattern Rauheit**-Steuerelement angezeigt, mit dem die Rauheit festgelegt wird.
+* **Metallic Muster verwenden**: Knebel\
+  Aktivieren Sie diese Option, um die metallic Werte des zugrunde liegenden Materials überall dort, wo der Relief-Effekt auftritt, mit einem benutzerdefinierten metallic Wert zu überschreiben.\
+  Wenn diese Option aktiviert ist, wird ein **Pattern Metallic**-Steuerelement angezeigt, das die Rauheit festlegt.
 
 **Text** - Dieser Abschnitt wird nur angezeigt, wenn **Musterauswahl** unter **Basisparameter** auf **Text** festgelegt ist.
 
@@ -103,8 +103,8 @@ Text oder Muster in Materialien integrieren.
 **Radiergummi**
 
 * **Radiergummi Normal**: 0-1
-* **Umgebungsradiergummi-Verdeckung**: 0-1
-* **Radiergummi-Deckkraft**: 0-1
+* **Radiergummi Ambient occlusion**: 0-1
+* **Deckkraft des Radiergummis**: 0-1
 
 **Erweiterte Parameter**
 
@@ -118,6 +118,6 @@ Mit diesen Parametern können Sie Werte für das gesamte Material anpassen.
 
 ## Benutzerhandbuch
 
-Setze den Prägefilter an oberster Stelle in der Ebenenliste. Passe die Parameter an.
+Setze den Prägefilter auf den oberen Rand des Ebenenstapels, und passe die Parameter an.
 
-Die wichtigsten Parameter sind im Allgemeinen **Grundlegende Parameter > Musterauswahl**, um zu ändern, welches Muster der Filter verwenden soll, und **Muster > Mustertitel verwenden**, um die Musterunterteilung ein- und auszuschalten.
+Die wichtigsten Parameter sind im Allgemeinen **Grundlegende Parameter > Musterauswahl**, um zu ändern, welches Muster der Filter verwenden soll, und **Muster > Mustertitel verwenden**, um die Kachelung ein- und auszuschalten.

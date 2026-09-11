@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/managing-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-presets.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie Exportvorgaben in Substance 3D Sampler verwalten, um Materialien für verschiedene Anwendungen und Pipelines zu konfigurieren.
+description: Erfahren Sie, wie Sie Exportvorgaben in Substance 3D Sampler verwalten, um Material für verschiedene Anwendungen und Pipelines zu konfigurieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Managing Presets
 helpx_experience_level: ""
@@ -32,7 +32,7 @@ So greifen Sie auf Vorgaben zu:
    1. Verwenden Sie das <b>Exportierenbedienfeld</b> in der <b>rechten Leiste</b>.
    1. Verwenden Sie <b> Datei > Exportieren als...1</b>
    1. Tastaturbefehl <b>Strg + E.</b> verwenden
-1. Wählen Sie auf der linken Seite des Fensters <b>Export </b> <b>Materialeinstellungen</b> aus.
+1. Wählen Sie links im Fenster &quot;<b>Material </b> exportieren&quot; die Option &quot;<b>Exporteinstellungen</b>&quot;.
 1. Bildformat auswählen (EXR, JPEG, PNG, TARGA, TIFF)
 1. Die Vorgabenliste wird angezeigt.
 
