@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp-transform.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/warp-transform.html"
 breadcrumb-title: ''
 description: Mit dem Werkzeug "Transformieren Verformen" in Substance 3D Sampler können Sie nichtlineare Verkrümmungs- und Verzerrung-Effekte auf Texturen und Materialien anwenden.
 helpx_creative_field: ""

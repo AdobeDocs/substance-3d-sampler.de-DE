@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/paint.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/paint.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Malen-Filter in Substance 3D Sampler, um Ihren Materials Malebenen, Beschichtungen und lackierte Oberflächeneffekte hinzuzufügen.
 helpx_creative_field: ""

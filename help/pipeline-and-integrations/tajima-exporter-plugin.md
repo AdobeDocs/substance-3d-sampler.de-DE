@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Tajima Exporter-Plug-in in Substance 3D Sampler verwenden, um Stickereidesigns in die Tajima DG17-Software zu exportieren.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
 breadcrumb-title: ''
 description: Verwende das Nadir Patch-Tool in Substance 3D Sampler, um den Tiefpunkt von HDR-Bildern für nahtlose Umgebungs-Map zu korrigieren.
 helpx_creative_field: ""

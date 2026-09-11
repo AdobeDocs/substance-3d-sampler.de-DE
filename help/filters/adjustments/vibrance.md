@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/vibrance.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Dynamikfilter in Substance 3D Sampler, um die Farbsättigung und Dynamik in Texturen zu verbessern und gleichzeitig Hauttöne beizubehalten.
 helpx_creative_field: ""

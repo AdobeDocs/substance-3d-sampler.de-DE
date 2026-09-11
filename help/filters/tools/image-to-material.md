@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/image-to-material.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/image-to-material.html"
 breadcrumb-title: ''
 description: Verwende das Material-in-Bild-Werkzeug von Substance 3D Sampler, um einzelne Bilder mithilfe KI-gestützter Verarbeitung in PBR-Materialien umzuwandeln.
 helpx_creative_field: ""

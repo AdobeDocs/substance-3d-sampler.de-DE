@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dust.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/dust.html"
 breadcrumb-title: ''
 description: In Substance 3D Sampler kannst du mit dem Filter "Dust" realistische Dust-Akkumulierungseffekte zu deinen Materials und Texturen hinzufügen.
 helpx_creative_field: ""

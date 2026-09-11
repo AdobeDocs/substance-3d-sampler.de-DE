@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Filter "Verworfene Gummen" in Substance 3D Sampler, um Gummireste und klebrige Oberflächeneffekte zu Ihren Materialien hinzuzufügen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-2.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/version-4-2.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 4.2, um mehr über KI-gestützte Bild-zu-Material-Funktionen, die KI-Hochskalierung und Auflösungsoptionen zu erfahren.
 helpx_creative_field: ""

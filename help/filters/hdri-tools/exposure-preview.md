@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Belichtungsvorschau-Werkzeug in Substance 3D Sampler, um eine Vorschau der Belichtungskorrekturen in HDR-Bildern anzuzeigen, bevor Sie Änderungen anwenden.
 helpx_creative_field: ""

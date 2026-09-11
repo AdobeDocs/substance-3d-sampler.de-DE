@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/stylization.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/stylization.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Stilisierungsfilter in Substance 3D Sampler, um künstlerische Effekte und stilisierte Looks auf Ihre Materials und Texturen anzuwenden.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/quick-actions-panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/quick-actions-panel.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Bedienfeld "Schnellaktionen" in Substance 3D Sampler verwenden, um auf häufige Aufgaben und Tastaturbefehle zur Bearbeitung von Materials zuzugreifen.
 helpx_creative_field: ""

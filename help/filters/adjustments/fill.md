@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Füllfilter in Substance 3D Sampler, um Farbbereiche mit Volltonfarben oder Texturen für die Erstellung von Materialien zu füllen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/plane-light.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/plane-light.html"
 breadcrumb-title: ''
 description: Verwende das Flächenlicht-Werkzeug in Substance 3D Sampler, um planare Lichtquellen zu HDR-Umgebungen hinzuzufügen, um Flächenbeleuchtungseffekte zu erzeugen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/panel.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Bedienfeldgenerator in Substance 3D Sampler, um Bedienfeldmuster und segmentierte Texturen für Flächen für Material zu erstellen.
 helpx_creative_field: ""

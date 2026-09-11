@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/flatten-layers.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/flatten-layers.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Ebenen in Substance 3D Sampler reduzieren können, um die Leistung zu verbessern und Ihren Ebenenstapel zu vereinfachen, während Sie gleichzeitig die Auswirkungen verstehen.
 helpx_creative_field: ""

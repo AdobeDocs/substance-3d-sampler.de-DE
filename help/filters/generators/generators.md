@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Generatorfilter in Substance 3D Sampler verwenden, um prozedurale Material und Mustergrundlagen zu erstellen.
 helpx_creative_field: ""

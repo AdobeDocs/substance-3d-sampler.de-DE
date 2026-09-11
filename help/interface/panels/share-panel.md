@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/share-panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/share-panel.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Exportierenbedienfeld in Substance 3D Sampler verwenden, um Materials als Dateien zu exportieren oder direkt an andere Anwendungen zu senden.
 helpx_creative_field: ""

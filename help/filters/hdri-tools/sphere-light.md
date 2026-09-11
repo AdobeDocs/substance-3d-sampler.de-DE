@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
 breadcrumb-title: ''
 description: Verwenden Sie das Kugellicht-Werkzeug in Substance 3D Sampler, um HDRI-Umgebungen kugelförmige Lichtquellen für Punktlichteffekte hinzuzufügen.
 helpx_creative_field: ""

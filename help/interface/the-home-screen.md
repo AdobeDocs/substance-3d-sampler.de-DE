@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/the-home-screen.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/the-home-screen.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie über den Startbildschirm von Substance 3D Sampler auf aktuelle Projekte zugreifen, neue Materialien erstellen und schnell loslegen können.
 helpx_creative_field: ""

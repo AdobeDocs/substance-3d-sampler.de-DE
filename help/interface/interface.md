@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über die Substance 3D Sampler-Benutzeroberfläche, einschließlich Viewporten, Randleisten und Bedienfeldern, mit denen Sie die Anwendung effektiv navigieren und verwenden können.
 helpx_creative_field: ""

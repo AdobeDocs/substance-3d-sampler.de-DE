@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Brickwall-Generator in Substance 3D Sampler, um realistische Ziegel-Wandmuster und Mauerwerk-Texturen für Materialien zu erstellen.
 helpx_creative_field: ""

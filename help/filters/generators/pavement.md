@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pavement.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/pavement.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Straßenbelaggenerator in Substance 3D Sampler, um realistische Texturen für den Straßenbelag und die Straßenoberfläche von Materialien zu erstellen.
 helpx_creative_field: ""

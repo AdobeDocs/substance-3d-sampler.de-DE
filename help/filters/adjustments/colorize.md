@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/colorize.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Filter "Färben" in Substance 3D Sampler, um Texturen und Materials mit Farbtönen und monochromen Einfärbeeffekten zu versehen.
 helpx_creative_field: ""

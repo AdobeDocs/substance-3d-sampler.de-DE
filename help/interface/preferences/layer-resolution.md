@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: Erfahre, wie du die Ebenenauflösung in Substance 3D Sampler so konfigurierst, dass die Auflösung der einzelnen Ebenen in deinem Material-Stapel gesteuert wird.
 helpx_creative_field: ""

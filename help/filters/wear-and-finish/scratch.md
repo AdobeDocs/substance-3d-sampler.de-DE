@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Kratzfilter in Substance 3D Sampler, um Ihren Materials realistische Kratzspuren und Oberflächenbeschädigungen hinzuzufügen.
 helpx_creative_field: ""

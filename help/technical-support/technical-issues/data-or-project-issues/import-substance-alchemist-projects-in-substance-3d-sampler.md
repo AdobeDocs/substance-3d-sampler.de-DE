@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Substance Alchemist-Projekte in Substance 3D Sampler importieren, um Ihre vorhandenen Materialprojekte und Workflows zu migrieren.
 helpx_creative_field: ""

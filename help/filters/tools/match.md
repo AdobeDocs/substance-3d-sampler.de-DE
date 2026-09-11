@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/match.html"
 breadcrumb-title: ''
 description: Mit dem Anpassen-Werkzeug von Substance 3D Sampler kannst du Farben, Farbtöne und Lichtebenen von einem Material auf das andere oder von einer Textur auf eine andere abgleichen.
 helpx_creative_field: ""

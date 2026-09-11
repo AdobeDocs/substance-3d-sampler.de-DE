@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/gravel.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Kies-Generator in Substance 3D Sampler, um realistische Texturen aus Kies und Gestein für Materialien zu erstellen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 5.0, um mehr über die neuen Digitalisierungstools, -funktionen und Workflow-Verbesserungen zu erfahren.
 helpx_creative_field: ""

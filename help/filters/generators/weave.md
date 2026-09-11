@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/weave.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/weave.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Webgenerator in Substance 3D Sampler, um Webmuster und textile Texturen für die Erstellung von Materialien zu erstellen.
 helpx_creative_field: ""

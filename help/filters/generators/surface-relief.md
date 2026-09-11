@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Generator für Oberflächenmuster in Substance 3D Sampler, um geprägte und Relief-Oberflächenmuster in Materialien zu erstellen.
 helpx_creative_field: ""

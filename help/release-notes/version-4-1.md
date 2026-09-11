@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-1.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/version-4-1.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Substance 3D Sampler 4.1, um mehr über die Malen-Verkrümmungsfilter, Stickereifilter-Updates und Verbesserungen der 3D-Erfassung zu erfahren.
 helpx_creative_field: ""
