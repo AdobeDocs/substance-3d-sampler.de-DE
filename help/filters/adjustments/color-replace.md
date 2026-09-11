@@ -59,8 +59,8 @@ Die folgenden Bilder zeigen **Color Replace** in Aktion. Beachten Sie, dass die 
   Passen Sie an, wie stark die ursprüngliche Luminanz durch die Luminanz der neuen Farbe beeinflusst wird.
 * **Maskenbereich**\
   Die Maske wird basierend auf der Kombination der folgenden Werte erstellt
-  * ****** Von Luminanz **: 0-1\
-    Der Luminanzbereich, der zum Erstellen der Maske verwendet wird ****
+  * **&#x200B;**&#x200B;**&#x200B; Von Luminanz &#x200B;**: 0-1\
+    Der Luminanzbereich, der zum Erstellen der Maske verwendet wird **&#x200B;**
   * **Von Farbe**: 0-1\
     Der zum Erstellen der Maske verwendete Farbbereich
 * **Smoothness maskieren**: 0-1\

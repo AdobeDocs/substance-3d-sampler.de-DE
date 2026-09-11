@@ -35,7 +35,7 @@ ht-degree: 0%
 
 Mit dem Delighter können Sie Beleuchtungsinformationen aus dem Grundfarbe-Kanal entfernen. Dies ist wichtig, wenn Sie Bilder in Materialien konvertieren, da Materialien im Allgemeinen keine Beleuchtungsinformationen enthalten sollten. Ein Material ist eine Sammlung von Informationen, die erklären, wie das Material auf eine Fläche reagieren soll. Wenn also bereits Lichtinformationen in einen Kanal Baking geführt werden, der keine Lichtinformationen enthalten sollte, kann dies die Fähigkeit des Lichts beeinträchtigen, die Fläche realistisch darzustellen.
 
-*A **n Beispiel für ein Bild vor und nach der Verarbeitung durch den Filter**Delight (AI Powered)**. Beachten Sie, dass die Tiefen und Lichter entfernt wurden, nur die Grundfarbe bleibt erhalten.*
+*A **n Beispiel für ein Bild vor und nach der Verarbeitung durch den Filter**&#x200B;Delight (AI Powered)**. Beachten Sie, dass die Tiefen und Lichter entfernt wurden, nur die Grundfarbe bleibt erhalten.*
 
 ![](../../assets/120-0-comparison.png)
 

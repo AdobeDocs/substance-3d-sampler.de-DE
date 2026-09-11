@@ -28,7 +28,7 @@ ht-degree: 0%
 
 In diesem Benutzerhandbuch werden wir uns mit den erweiterten Methoden für Fotos befassen, die im Workflow für die Photogrammmetrie in Substance 3D Sampler verwendet werden können.
 
-Sie möchten sich diesen Inhalt als Video-Tutorial ansehen? Sie finden ihn hier [](https://youtu.be/f8iCtZ3Gmzs?si=Q353ZDCScO1YnHJT "Anleitung für 3D-Erfassung-Basisgeräte").
+Sie möchten sich diesen Inhalt als Video-Tutorial ansehen? Sie finden ihn hier [&#128279;](https://youtu.be/f8iCtZ3Gmzs?si=Q353ZDCScO1YnHJT "Anleitung für 3D-Erfassung-Basisgeräte").
 
 Der Fokus liegt auf kleineren Objekten in Innenräumen, in einer kontrollierten Umgebung, mit Zugang zu etwas fortgeschrittenerem Equipment. Es wird keinen Fokus auf bestimmte Marken und Produkte geben, da das Ziel darin besteht, die Erklärungen so allgemein zu halten, dass sie auf verschiedene Geräte angewendet werden können.
 

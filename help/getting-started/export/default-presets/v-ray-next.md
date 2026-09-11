@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **Diffuse ****Rauheit****Metalität ****Normal****Versatz****Selbstdarstellung** **Deckkraft** |
+| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **Diffuse &#x200B;**&#x200B;**Rauheit**&#x200B;**Metalität &#x200B;**&#x200B;**Normal**&#x200B;**Versatz**&#x200B;**Selbstdarstellung** **Deckkraft** |

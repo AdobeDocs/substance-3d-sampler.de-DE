@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Enscape - Neu | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **Albedo ****Glanz****Normal (OpenGL)****Transparenz** |
+| Enscape - Neu | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **Albedo &#x200B;**&#x200B;**Glanz**&#x200B;**Normal (OpenGL)**&#x200B;**Transparenz** |

@@ -28,7 +28,7 @@ ht-degree: 0%
 
 In diesem Benutzerhandbuch werden die Grundlagen der Kamera und des Setups erläutert.
 
-Sie möchten sich diesen Leitfaden lieber als Video-Tutorial ansehen? Sie finden ihn hier [](https://youtu.be/kR9EGW_zxlY?si=x8dN9tccofZhScKw "Belichtung für 3D-Erfassung-Prozess Video-Tutorial").
+Sie möchten sich diesen Leitfaden lieber als Video-Tutorial ansehen? Sie finden ihn hier [&#128279;](https://youtu.be/kR9EGW_zxlY?si=x8dN9tccofZhScKw "Belichtung für 3D-Erfassung-Prozess Video-Tutorial").
 
 Im manuellen Modus hast du die volle Kontrolle darüber, wie die Kamera Fotos aufnimmt. Und das Wichtigste: Wir können so sicherstellen, dass die Fotos so scharf wie möglich dargestellt werden. Deshalb wird der automatische Modus empfohlen.
 

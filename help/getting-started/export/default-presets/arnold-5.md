@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **BaseColor ****Rauheit****Metalness****Normal** (OpenGL)**Versatz ****Emissive**** Deckkraft** |
+| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **BaseColor &#x200B;**&#x200B;**Rauheit**&#x200B;**Metalness**&#x200B;**Normal** (OpenGL)**Versatz &#x200B;**&#x200B;**Emissive**&#x200B;**&#x200B; Deckkraft** |

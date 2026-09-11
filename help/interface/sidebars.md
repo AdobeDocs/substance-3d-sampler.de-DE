@@ -30,7 +30,7 @@ Von der **linken Seitenleiste** aus können Sie:
 
 * **Inhalt hinzufügen und importieren**: Importiere Bilder, und lege fest, wie sie in dein Projekt integriert werden sollen.
 * **3D-Assets durchsuchen**: Greifen Sie innerhalb von Creative Cloud Desktop auf Tausende von Materials von Substance 3D Assets zu.
-* Auf **Schnellaktionen** zugreifen: Eine Sammlung von Maßnahmen, um bestimmte Ziele schnell zu erreichen. [Weitere Informationen zu **Schnellaktionen **](../features-and-workflows/quick-actions.md)**.**
+* Auf **Schnellaktionen** zugreifen: Eine Sammlung von Maßnahmen, um bestimmte Ziele schnell zu erreichen. [Weitere Informationen zu **Schnellaktionen &#x200B;**](../features-and-workflows/quick-actions.md)**.**
 * Schnelles Hinzufügen von Filtern zum Ebenenstapel:
   * **Zuschneiden:** Schneiden Sie Bilder und Materialien mithilfe von Handles in der **2D-Ansicht** zu.
   * **Perspektive transformieren:** Korrigieren von Perspektive-Fehlern mit Handles in der **2D-Ansicht**

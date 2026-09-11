@@ -46,7 +46,7 @@ Wechseln Sie zwischen den Kanälen der Ausgabemaps des Materials.
 * **Ausgabekanal:** Wählen Sie aus, welcher Kanal das Ziel des Eingabekanals ist.
 * **Deckkraft:** 0-1\
   Passen Sie die Deckkraft der Kanalinformationen im Verhältnis zu den vorhandenen Kanalinformationen an. Mit anderen Worten, dadurch wird die Deckkraft der Maske gesteuert, die zum Anwenden der neuen Kanalfüllung verwendet wird.
-* **Füllmethode****:** Wählen Sie den Füllmodus für den Grundfarbkanal aus. Durch eine Änderung des Mischmodus lässt sich das Aussehen des Kanals wesentlich verändern.
+* **Füllmethode**&#x200B;**:** Wählen Sie den Füllmodus für den Grundfarbkanal aus. Durch eine Änderung des Mischmodus lässt sich das Aussehen des Kanals wesentlich verändern.
 
 **Erweitert**
 

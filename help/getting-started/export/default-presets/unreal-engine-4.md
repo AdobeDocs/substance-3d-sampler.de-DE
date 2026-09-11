@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **BaseColor****OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Umgebungs-Verdeckung</li><li data-preserve-html="true"><strong>G</strong>: Rauheit</li><li data-preserve-html="true"><strong>B</strong>: Metallic</li></ul>**Normal ****Height****Emissiv** |
+| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **BaseColor**&#x200B;**OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Umgebungs-Verdeckung</li><li data-preserve-html="true"><strong>G</strong>: Rauheit</li><li data-preserve-html="true"><strong>B</strong>: Metallic</li></ul>**Normal &#x200B;**&#x200B;**Height**&#x200B;**Emissiv** |

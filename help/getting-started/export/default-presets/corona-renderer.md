@@ -22,7 +22,7 @@ ht-degree: 2%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Corona Renderer | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li><li data-preserve-html="true">PBR Specular/Glanz</li></ul> | **Diffuse****ReflectionGlossiness** (\*)**ReflectionColor** (\*\*)**FresnelIOR** (\*\*\*)**Normal ****Versatz**** Emissive****Opacity** |
+| Corona Renderer | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li><li data-preserve-html="true">PBR Specular/Glanz</li></ul> | **Diffuse**&#x200B;**ReflectionGlossiness** (\*)**ReflectionColor** (\*\*)**FresnelIOR** (\*\*\*)**Normal &#x200B;**&#x200B;**Versatz**&#x200B;**&#x200B; Emissive**&#x200B;**Opacity** |
 
 >[!NOTE]
 >

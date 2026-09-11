@@ -28,7 +28,7 @@ ht-degree: 0%
 
 In diesem Benutzerhandbuch werfen wir einen Blick in die Tiefe auf die Verarbeitung Ihrer 3D-Erfassungen-Datensätze in Substance 3D Sampler.
 
-Sie möchten dies als Video-Tutorial ansehen? Sie finden ihn hier [](https://youtu.be/vJQ756Up55Y?si=GiAnajXRGkb5gyTH "Tutorial &quot;Erweiterte 3D-Erfassung - Aufnahmeverarbeitung&quot;").
+Sie möchten dies als Video-Tutorial ansehen? Sie finden ihn hier [&#128279;](https://youtu.be/vJQ756Up55Y?si=GiAnajXRGkb5gyTH "Tutorial &quot;Erweiterte 3D-Erfassung - Aufnahmeverarbeitung&quot;").
 
 ![](../assets/cloud-points-3d-capture.png)
 

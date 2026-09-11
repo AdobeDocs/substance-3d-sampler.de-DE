@@ -26,7 +26,7 @@ Die **Mehrwinkel zu Material**-Vorlage erstellt ein Material von 2 bis 8 Eingabe
 
 >[!NOTE]
 >
-> Weitere Informationen zum Erstellen eines eigenen Material-Scanners &quot;[&quot; finden Sie in diesem Artikel ](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html).
+> Weitere Informationen zum Erstellen eines eigenen Material-Scanners &quot;[&quot; finden Sie in diesem Artikel &#x200B;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html).
 
 ## Beispiel
 

@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../assets/main-3d-viewport-5.png)
 
-Der **Viewport** zeigt Ihr aktuelles Asset an. Oben im **V****iewport** sehen Sie den Namen Ihres Assets und die Optionen zum Ändern der Darstellung von **Viewport**. Verwenden Sie diese Optionen für Folgendes:
+Der **Viewport** zeigt Ihr aktuelles Asset an. Oben im **V**&#x200B;**iewport** sehen Sie den Namen Ihres Assets und die Optionen zum Ändern der Darstellung von **Viewport**. Verwenden Sie diese Optionen für Folgendes:
 
 * Ändere die Breite und das Height eines Elements in Pixel.
 * Zeigen Sie entweder <b>2D-Ansicht</b>, <b>3D-Ansicht</b> an oder zeigen Sie sowohl <b>2D </b> als auch <b>3D-Ansichten </b> zusammen an.
@@ -36,7 +36,7 @@ Der **Viewport** zeigt Ihr aktuelles Asset an. Oben im **V****iewport** sehen Si
 
 Der <b>3D-Viewport</b> verfügt über zwei Symbolleisten, mit denen Sie Änderungen vornehmen können, wie Ihr Asset im <b>Viewport</b> angezeigt wird. Diese Symbolleisten werden standardmäßig in der oberen rechten Ecke und in der unteren Mitte des <b>3D-Viewports</b> angezeigt.
 
-![]()
+![] ()
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Die Symbolleiste oben rechts im <b>3D-Viewport </b> enthält Steuerelemente, die
 >
 > Aktiviere die Schatteneffekte, um die Visualisierung von Viewports zu verbessern. Lassen Sie Schatten deaktiviert, um die Leistung von Samplers zu verbessern.
 
-![]()
+![] ()
 
 Die Symbolleiste am unteren Rand des <b>3D-Viewports</b> enthält die folgenden Informationen und Steuerelemente:
 
@@ -71,7 +71,7 @@ Die Symbolleiste am unteren Rand des <b>3D-Viewports</b> enthält die folgenden 
 * <b>Momentaufnahme speichern</b>: Speichern Sie einen Schnappschuss des <b>3D-Viewports</b> in einer Bilddatei.
 * <b>3D-Ansichtssteuerelemente</b>: Zeigen Sie im 3D-Viewport eine Kurzanleitung für Steuerelemente zur Kamera an.
 
-![]()
+![] ()
 
 ## Kamera bewegen.
 
@@ -89,7 +89,7 @@ Sowohl in der <b>3D-Ansicht </b> als auch in der <b>2D-Ansicht</b> verwenden Sie
 
 ## 2D-Ansicht
 
-![]()
+![] ()
 
 Standardmäßig ist nur die <b>3D-Ansicht</b> sichtbar. Die <b>2D-Ansicht</b> kann jedoch viele nützliche Informationen und Steuerelemente für einige Filter enthalten.
 

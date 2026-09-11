@@ -55,7 +55,7 @@ Das [Asset-Bedienfeld](../../interface/panels/assets-panel.md) ist ein neues und
 
 ![](../../assets/idl.jpg){width="600px"}
 
-Mit Sampler kannst du jetzt mehr als nur Materials erstellen. Umgebungslicht sind ein neuer Elementtyp mit einem [eigenen Filtersatz](../../filters/hdri-tools/hdri-tools.md). Beginnen Sie mit [360 Fotos der Serie ](../../filters/hdri-tools/hdr-merge.md), erstellen Sie ein Umgebungslicht [von Grund auf](../../filters/hdri-tools/shape-light.md), oder [bearbeiten Sie eine vorhandene HDR ](../../filters/hdri-tools/nadir-patch.md).
+Mit Sampler kannst du jetzt mehr als nur Materials erstellen. Umgebungslicht sind ein neuer Elementtyp mit einem [eigenen Filtersatz](../../filters/hdri-tools/hdri-tools.md). Beginnen Sie mit [360 Fotos der Serie &#x200B;](../../filters/hdri-tools/hdr-merge.md), erstellen Sie ein Umgebungslicht [von Grund auf](../../filters/hdri-tools/shape-light.md), oder [bearbeiten Sie eine vorhandene HDR &#x200B;](../../filters/hdri-tools/nadir-patch.md).
 
 ### Überarbeitete und neue Filter
 

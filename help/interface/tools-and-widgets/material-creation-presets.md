@@ -19,7 +19,7 @@ Vorlagen zur Erstellung von Materialien bieten vordefinierte Ausgangspunkte für
 ![Das Fenster &quot;Neues Material erstellen&quot;](../../assets/6.0_materialPresets.png)
 
 >[!TIP]
-> Hier erfahren Sie mehr über das Erstellen erweiterter Materialien, die Fuzz-, Untergrund- und Beschichtungskanäle [ nutzen.](../../features-and-workflows/create-advanced-materials/advanced-materials.md)
+> Hier erfahren Sie mehr über das Erstellen erweiterter Materialien, die Fuzz-, Untergrund- und Beschichtungskanäle [&#x200B; nutzen.](../../features-and-workflows/create-advanced-materials/advanced-materials.md)
 
 ## Material aus Vorlage erstellen
 

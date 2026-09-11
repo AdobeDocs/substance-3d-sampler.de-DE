@@ -28,7 +28,7 @@ ht-degree: 0%
 
 <b>Blende</b> ist die komplexeste Kamera. In diesem Benutzerhandbuch erläutern wir sie daher in der Tiefe.
 
-Sie möchten sich diesen Leitfaden lieber als Video-Tutorial ansehen? Sie finden ihn hier [](https://youtu.be/kFZ71ZWuap0?si=MDuvyO9w96rFpsQ9 "Blende und Fokus für 3D-Erfassung-Video-Tutorial").
+Sie möchten sich diesen Leitfaden lieber als Video-Tutorial ansehen? Sie finden ihn hier [&#128279;](https://youtu.be/kFZ71ZWuap0?si=MDuvyO9w96rFpsQ9 "Blende und Fokus für 3D-Erfassung-Video-Tutorial").
 
 ![](../assets/focus-manually-3d-capture.png)
 

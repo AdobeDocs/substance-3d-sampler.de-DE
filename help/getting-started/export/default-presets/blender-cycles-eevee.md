@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Mischzyklen/Evee | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **BaseColor ****Rauheit****Metallic ****Normal****Versatz ****Emissive****Alpha** |
+| Mischzyklen/Evee | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **BaseColor &#x200B;**&#x200B;**Rauheit**&#x200B;**Metallic &#x200B;**&#x200B;**Normal**&#x200B;**Versatz &#x200B;**&#x200B;**Emissive**&#x200B;**Alpha** |

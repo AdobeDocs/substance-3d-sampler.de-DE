@@ -85,7 +85,7 @@ Parameter
 
 **Erweitert**
 
-* **Füllmethode****:** Wählen Sie den Füllmodus für den Grundfarbkanal aus. Durch eine Änderung der Füllmethode kann das Aussehen des Stoffgewebes wesentlich verändert werden.
+* **Füllmethode**&#x200B;**:** Wählen Sie den Füllmodus für den Grundfarbkanal aus. Durch eine Änderung der Füllmethode kann das Aussehen des Stoffgewebes wesentlich verändert werden.
 * **Unvollkommenheitsintensität:** 0-1\
   Legen Sie die Intensität von Unvollkommenheiten in Threads fest.
 * **Normalintensität:** 0-2\
