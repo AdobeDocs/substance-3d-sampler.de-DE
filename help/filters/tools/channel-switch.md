@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
-description: Verwenden Sie das Kanalwechsel-Werkzeug in Substance 3D Sampler, um Farbkanäle in Texturmaps zur Materialerstellung neu anzuordnen und zu tauschen.
+description: Verwenden Sie das Tool "Kanalumschaltung" in Substance 3D Sampler, um Farbkanäle in Textur Maps zur Erstellung von Materialien neu anzuordnen und zu tauschen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channel Switch
 helpx_experience_level: ""
@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Schalten Sie die Kanäle der Ausgabemaps des Materials um.
+Wechseln Sie zwischen den Kanälen der Ausgabemaps des Materials.
 
 </td>
 </tr>
@@ -41,7 +41,7 @@ Schalten Sie die Kanäle der Ausgabemaps des Materials um.
 
 **Basisparameter**
 
-* **Eigene Webstruktur zeichnen:** Zeichnen Sie die Webstruktur auf Ihrem 2D-Viewport.
+* **Benutzerdefinierte Webstruktur zeichnen:** Webstruktur auf dem 2D-Viewport zeichnen.
 * **Eingabekanal:** Wählen Sie aus, welcher Kanal vom Filter verschoben wird.
 * **Ausgabekanal:** Wählen Sie aus, welcher Kanal das Ziel des Eingabekanals ist.
 * **Deckkraft:** 0-1\
@@ -50,7 +50,7 @@ Schalten Sie die Kanäle der Ausgabemaps des Materials um.
 
 **Erweitert**
 
-* **Materialeingabe:** Wählen Sie aus, welches Material als Eingabe verwendet werden soll.
+* **Material-Eingabe:** Wählen Sie aus, welches Material als Eingabe verwendet werden soll.
 
 **Maske**
 

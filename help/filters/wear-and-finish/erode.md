@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/erode.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Erosionsfilter in Substance 3D Sampler, um Erosions- und Wettereffekte hinzuzufügen, die den natürlichen Materialabbau simulieren.
+description: Verwenden Sie den Erosionsfilter in Substance 3D Sampler, um Erosions- und Verwitterung-Effekte hinzuzufügen, die den natürlichen Abbau des Materials simulieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Erode
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Verwenden Sie den **Erosionsfilter**, um an hohen Stellen Ihres Materials abzutragen.
+Verwenden Sie den **Erosionsfilter**, um sich an hohen Stellen auf Ihrem Material abzunutzen.
 
 Die folgenden Abbildungen zeigen, wie der **Erosionsfilter** verwendet werden kann, um einer Steinmauer Erosion hinzuzufügen.
 
@@ -70,21 +70,21 @@ Die folgenden Abbildungen zeigen, wie der **Erosionsfilter** verwendet werden ka
   Stellen Sie die Farbe des Quarzes, die durch die Erosion aufgedeckt wird.
 * **Größe des Erosionsbereichs**: 0-1\
   Ändern Sie, wie weit der Erosionseffekt verbreitet ist.
-* **Raueit der Erosion**: 0-0,63\
-  Ändern Sie die Rauhigkeit des Materials als Folge der Erosion.
+* **Erosion-Rauheit**: 0-0,63\
+  Ändern Sie die Rauheit des Materials als Folge der Erosion.
 * **Erosionsintensität**: 0-1\
   Passen Sie die Stärke des Erosionseffekts an.
 * **Regeneffektintensität**: 0-1
 * **Grooves**: 0-1
 * **Intensität der Grooves-Dust**: 0-1
 * **Intensität der Grooves-Scratches**: 0-1\
-  Passen Sie den Einfluss der Nuten auf die Normalen und Height Maps an.
+  Passen Sie den Einfluss der Rillen auf Normale und Höhen-Map an.
 * **Mikrokorndichte**: 0-1\
   Passen Sie die Dichte der Rillenkratzer an.
 * **Quarzintensität**: 0-1\
   Passen Sie die Sichtbarkeit der Quarzbereiche an.
-* **Quarzrauigkeit**: 0-1\
-  Passen Sie die Raueit des Quarzes an.
+* **Quartz-Rauheit**: 0-1\
+  Passen Sie die Rauheit des Quarzes.
 * **Normale Quarzvariation**: 0-1\
   Ändern Sie die Normalen der Quarzbereiche.
 * **Benutzerdefinierte Maske verwenden**: Knebel\

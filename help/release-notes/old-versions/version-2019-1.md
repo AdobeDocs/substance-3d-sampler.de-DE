@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
 breadcrumb-title: ''
-description: Lesen Sie die Versionshinweise für Substance 3D Sampler Version 2019.1, um mehr über Projektmanagement, Verbesserungen bei Ebenenstapeln und angenehmere Updates zu erfahren.
+description: Lesen Sie die Versionshinweise für Substance 3D Sampler Version 2019.1, um mehr über Projektmanagement, Verbesserungen an Ebenenstapeln und Verbesserungen bei der Arbeit mit Updates zu erfahren.
 helpx_creative_field: ""
 helpx_description: Sampler > Release Notes > Old Versions > Version 2019.1
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Version 2019.1
 
-Mit **Substance Alchemist 2019.1 &quot;Sesam&quot;** können Sie Ihre Assets mit dem neuen Projektmanagement freigeben. Der Ebenenstapel wurde vollständig neu erstellt, um den Arbeitsablauf zu verbessern. Dem Viewport wurden zusätzliche Steuerelemente und Informationen hinzugefügt. Eine neue Version unseres Delighters verbessert die Qualität und Genauigkeit Ihrer Materialien.
+Mit **Substance Alchemist 2019.1 &quot;Sesam&quot;** können Sie Ihre Assets mit dem neuen Projektmanagement freigeben. Der Ebenenstapel wurde vollständig neu erstellt, um den Arbeitsablauf zu verbessern. Dem Viewport wurden zusätzliche Steuerelemente und Informationen hinzugefügt. Eine neue Version unseres Delighters verbessert die Qualität und Genauigkeit Ihrer Materials.
 
 Freigabedatum: *4. November 2019*
 
@@ -40,7 +40,7 @@ Substance Alchemist verfügt jetzt über einen Begrüßungsbildschirm, auf dem S
 
 ![](../../assets/sa-notes-openproject.png)
 
-Version 2019.1 führt die Idee von Projekten ein, die Materialsammlungen sammeln können. Projekte können auch exportiert und für andere Computer freigegeben werden.
+In Version 2019.1 wird die Idee von Projekten eingeführt, die Material-Sammlungen sammeln können. Projekte können auch exportiert und für andere Computer freigegeben werden.
 
 Weitere Informationen zu Projekten finden Sie unter: [Projektmanagement](../../getting-started/project-management.md).
 
@@ -48,19 +48,19 @@ Weitere Informationen zu Projekten finden Sie unter: [Projektmanagement](../../g
 
 ![](../../assets/sa-notes-delighter.jpg)
 
-Wir haben unseren Delighter verbessert, mit dem Sie Schatten aus Ihren Fotos entfernen können. Es bewahrt nun Details und die Originalfarben der verschiedenen Oberflächen, was die Genauigkeit der erzeugten Materialien verbessern soll.
+Wir haben unseren Delighter verbessert, mit dem Sie Schatten aus Ihren Fotos entfernen können. Es bewahrt nun die Details und die Originalfarben der verschiedenen Flächen, wodurch die Genauigkeit der erzeugten Materialien verbessert werden soll.
 
 ### Neuer Ebenenstapel
 
 ![](../../assets/sa-notes-layerstack.png)
 
-Der Ebenenstapel wurde von Grund auf neu erstellt, um seine Möglichkeiten und Aktionen zu erweitern. Bemerkenswerte Änderungen sind:
+Der Ebenenstapel wurde von Grund auf neu aufgebaut, um seine Möglichkeiten und Maßnahmen zu erweitern. Bemerkenswerte Änderungen sind:
 
 * Auf **Materialien und Masken kann jetzt direkt über ihr dediziertes Symbol zugegriffen werden**\
-  Wenn du ein Material zu einem Ebenenstapel hinzufügst, wird automatisch ein neues Maskensymbol angezeigt. Wenn Sie auf dieses zweite Symbol klicken, werden die Parameter zum Mischen des Materials angezeigt.
+  Wenn du ein Material zu einem Ebenenstapel hinzufügst, wird automatisch ein neues Maskensymbol angezeigt. Wenn Sie auf dieses zweite Symbol klicken, werden die Füllparameter des Materials angezeigt.
 
   ![](../../assets/sa-notes-layermask.png)
-* **Der Mischmodus kann direkt über die Symbolleiste geändert werden**\
+* Der **Überblendung-Modus kann direkt von der Symbolleiste aus geändert werden**\
   Wenn du nun eine Materialebene auswählst, kann ihre Füllmethode direkt in der Werkzeugleiste &quot;Ebenenstapel&quot; geändert werden, ohne dass du auf die Maske klicken musst.
 
   ![](../../assets/sa-notes-layerstackblendmode.png)
@@ -69,18 +69,18 @@ Der Ebenenstapel wurde von Grund auf neu erstellt, um seine Möglichkeiten und A
 
   ![](../../assets/sa-notes-scanusage.png)
 
-### Viewport-Verbesserungen
+### Verbesserungen am Viewport
 
 ![](../../assets/sa-notes-viewport.jpg)
 
 Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des Viewports verbessern. Auf diese neuen Einstellungen kann im Bereich &quot;[Viewer-Einstellungen&quot; zugegriffen werden.](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
 
 * **Kameramodus**\
-  Im Kameraprojektionsmodus können Sie zwischen Perspektive und Orthografie wählen.
+  Im Modus &quot;Projektion der Kamera&quot; können Sie zwischen Perspektive und Orthografisch wählen.
 
   ![](../../assets/sa-notes-cameramode.png)
-* **Kamerafeld der Ansicht**\
-  Sie können jetzt das Sichtfeld (Field of View, FOV) der Kamera des Ansichtsports ändern. Mit diesem Wert kannst du deine Materialien realistisch visualisieren. Das Blickfeld kann nur im perspektivischen Projektionsmodus gesteuert werden.
+* **Kamera Sichtfeld**\
+  Sie können jetzt das Sichtfeld (Field of View, FOV) der Kamera des Ansichtsports ändern. Mit diesem Wert kannst du deine Materials realistisch visualisieren. Das Sichtfeld kann nur im Modus &quot;Projektion der Perspektive&quot; gesteuert werden.
 
   ![](../../assets/sa-notes-viewport-fov.png)
 * **Auflösung und Bittiefe pro Kanal**\
@@ -101,7 +101,7 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 **Fest:**
 
 * [Ebenen] Ebenen in zwei oder mehr Ebenen unter oder über verschieben
-* [Erstellen] Zuweisung eines ausreichenden VRAM-Budgets für eine gute Leistung
+* [Erstellen] Zuweisung von genügend VRAM, um gute Leistungen zu erzielen
 
 **Bekannte Probleme:**
 
@@ -119,7 +119,7 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 **Hinzugefügt:**
 
 * [Workflow] Unterstützung mehrerer Workflows
-* [Workflow] Unterstützung des PBR Specular Glossiness-Workflows
+* [Workflow] Unterstützung des PBR Specular Glanz-Workflows
 * [Workflow] Neues Bedienfeld &quot;Kanaleinstellungen&quot;
 * [Workflow] Arbeitsablaufauswahl bei Projekterstellung
 * [Kanaleinstellungen] Aktivierung/Deaktivierung der Kanalberechnung
@@ -127,7 +127,7 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 * [Kanaleinstellungen] Automatische Berechnung benutzerdefinierter Kanäle, falls erforderlich
 * [Kanaleinstellungen] Berechnung benutzerdefinierter Kanäle erzwingen/blockieren
 * [Ebenen] Neue Benutzeroberfläche für Platzhalter für Materialeingabe in den Atlas Scatter- und Farbspritzer-Filtern
-* [Ebenen] Der Bildeingabeparameter eines Filters kann über die darunter liegenden Ebenen eingegeben werden.
+* [Ebenen] Der Eingabeparameter eines Filters kann über die darunter liegenden Ebenen zugeführt werden.
 * [Ebenen] Eine Benachrichtigung anzeigen, wenn einige Ebenen veraltet sind
 * [Ebenen] Möglichkeit, über die Benachrichtigung auf die neueste Version veralteter Ebenen zu aktualisieren
 * [Projekt] Neue Metadatenfelder bei der Projekterstellung
@@ -137,7 +137,7 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 * [Voreinstellungen] Neues Fenster &quot;Voreinstellungen&quot; zum Festlegen des Cachespeicherorts und der Datenschutzeinstellungen für die Analyse
 * [UI] Neue UI-Schaltflächen
 * [Performance] Gesamtverbesserung des Parallelisierungssystems
-* [Performance] Optimierung der Anzahl der Materialberechnungen
+* [Performance] Optimierung der Anzahl der Material-Berechnungen
 * [Engine] Substance Engine-Update
 * [Framework] Upgrade auf Qt 5.13
 * [MacOS] Globale Verbesserungen der Unterstützung für macOS Catalina
@@ -145,18 +145,18 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 
 **Fest:**
 
-* [Ebenen] Parameter &quot;Bildeingabe&quot; beim Löschen der Ebene aufheben
+* [Ebenen] Eingabeparameter &quot;Bild aufheben&quot; beim Löschen der Ebene
 * [Ebenen] Beheben eines Absturzes beim Hinzufügen einer Klonpatchebene
-* [Ebenen] Beheben von Abstürzen beim Mischen von Ebenen, in denen Materialien in anderen Ebenen gestapelt werden
+* [Ebenen] Beheben Sie einige Absturz beim Mischen von Ebenen mit Stapel-Materialien in anderen Ebenenstapel-Materialien
 * [Export] Die Kanalauswahl für den Export wird jetzt berücksichtigt.
 * [Ressourcen] Nicht abstürzen, wenn Sie im Bedienfeld &quot;Ressourcen&quot; navigieren
 * [Ressourcen] Absturz beim Importieren beschädigter Substance-Dateien beheben
 * [Ressourcen] Reduzieren der Anzahl von Abstürzen beim Laden großer Ordner
-* [Miniaturansicht] Die Miniaturenberechnung friert die Benutzeroberfläche nicht ein
+* [Miniaturansicht] Die Miniaturansicht-Berechnung friert die Benutzeroberfläche nicht ein
 * [Bildimport] Einheitlichkeit des in der Anwendung unterstützten Bildtyps
 * [Vorgabe] Speichern Sie die Beschreibung beim Erstellen einer Vorgabe aus einem SBSAR
 * [Inspirieren] Problembehebung für Drag &amp; Drop von Bildern
-* [Anwendung] Abstürze beim Beenden beheben
+* [Anwendung] Beheben von Abstürzen beim Beenden
 * [Anwendung] Abstürze am Ausgang beim Exportieren von Materialien beheben
 * [UI] Korrekturen und Verbesserungen
 * [UI] Temporäres Element in &quot;nicht gespeichertes Material&quot; umbenennen
@@ -178,7 +178,7 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 **Hinzugefügt:**
 
 * [Workflow] Unterstützung mehrerer Workflows
-* [Workflow] Unterstützung des PBR Specular Glossiness-Workflows
+* [Workflow] Unterstützung des PBR Specular Glanz-Workflows
 * [Workflow] Neues Bedienfeld &quot;Kanaleinstellungen&quot;
 * [Workflow] Arbeitsablaufauswahl bei Projekterstellung
 * [Kanaleinstellungen] Aktivierung/Deaktivierung der Kanalberechnung
@@ -186,7 +186,7 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 * [Kanaleinstellungen] Automatische Berechnung benutzerdefinierter Kanäle, falls erforderlich
 * [Kanaleinstellungen] Berechnung benutzerdefinierter Kanäle erzwingen/blockieren
 * [Ebenen] Neue Benutzeroberfläche für Platzhalter für Materialeingabe in den Atlas Scatter- und Farbspritzer-Filtern
-* [Ebenen] Der Bildeingabeparameter eines Filters kann über die darunter liegenden Ebenen eingegeben werden.
+* [Ebenen] Der Eingabeparameter eines Filters kann über die darunter liegenden Ebenen zugeführt werden.
 * [Ebenen] Eine Benachrichtigung anzeigen, wenn einige Ebenen veraltet sind
 * [Ebenen] Möglichkeit, über die Benachrichtigung auf die neueste Version veralteter Ebenen zu aktualisieren
 * [Projekt] Neue Metadatenfelder bei der Projekterstellung
@@ -196,7 +196,7 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 * [Voreinstellungen] Neues Fenster &quot;Voreinstellungen&quot; zum Festlegen des Cachespeicherorts und der Datenschutzeinstellungen für die Analyse
 * [UI] Neue UI-Schaltflächen
 * [Performance] Gesamtverbesserung des Parallelisierungssystems
-* [Performance] Optimierung der Anzahl der Materialberechnungen
+* [Performance] Optimierung der Anzahl der Material-Berechnungen
 * [Engine] Substance Engine-Update
 * [Framework] Upgrade auf Qt 5.13
 * [MacOS] Globale Verbesserungen der Unterstützung für macOS Catalina
@@ -204,18 +204,18 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 
 **Fest:**
 
-* [Ebenen] Parameter &quot;Bildeingabe&quot; beim Löschen der Ebene aufheben
+* [Ebenen] Eingabeparameter &quot;Bild aufheben&quot; beim Löschen der Ebene
 * [Ebenen] Beheben eines Absturzes beim Hinzufügen einer Klonpatchebene
-* [Ebenen] Beheben von Abstürzen beim Mischen von Ebenen, in denen Materialien in anderen Ebenen gestapelt werden
+* [Ebenen] Beheben Sie einige Absturz beim Mischen von Ebenen mit Stapel-Materialien in anderen Ebenenstapel-Materialien
 * [Export] Die Kanalauswahl für den Export wird jetzt berücksichtigt.
 * [Ressourcen] Nicht abstürzen, wenn Sie im Bedienfeld &quot;Ressourcen&quot; navigieren
 * [Ressourcen] Absturz beim Importieren beschädigter Substance-Dateien beheben
 * [Ressourcen] Reduzieren der Anzahl von Abstürzen beim Laden großer Ordner
-* [Miniaturansicht] Die Miniaturenberechnung friert die Benutzeroberfläche nicht ein
+* [Miniaturansicht] Die Miniaturansicht-Berechnung friert die Benutzeroberfläche nicht ein
 * [Bildimport] Einheitlichkeit des in der Anwendung unterstützten Bildtyps
 * [Vorgabe] Speichern Sie die Beschreibung beim Erstellen einer Vorgabe aus einem SBSAR
 * [Inspirieren] Problembehebung für Drag &amp; Drop von Bildern
-* [Anwendung] Abstürze beim Beenden beheben
+* [Anwendung] Beheben von Abstürzen beim Beenden
 * [Anwendung] Abstürze am Ausgang beim Exportieren von Materialien beheben
 * [UI] Korrekturen und Verbesserungen
 * [UI] Temporäres Element in &quot;nicht gespeichertes Material&quot; umbenennen
@@ -236,31 +236,31 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 
 **Hinzugefügt:**
 
-* [Angleichen] Neue Füllmethode für Deckkraft
+* [Überblendung] Neuer Überblendung-Deckkraftmodus
 * [Engine] Neue Substance Engine-Version
 
 **Fest:**
 
-* [Ebenen] Beheben Sie den Absturz beim Löschen einer Ebene, die noch berechnet wird
+* [Ebenen] Beheben Sie den Absturz beim Löschen einer Ebene, die noch berechnet wird.
 * [Ebenen] Beheben Sie den Absturz beim Entfernen der unteren Ebene
-* [Ebenen] Beheben Sie den Absturz, während der Materialname Sonderzeichen enthält
+* [Ebenen] Beheben Sie den Absturz, während der Name des Materials Sonderzeichen enthält
 * [Ebenen] Beenden Sie die Berechnung aller Filter, die ein Widget verwenden
-* [Ebenen] Vermeiden Sie Abstürze bei der Verwendung von Klonpatch und inhaltsbasierten Füllfiltern
-* [Ebenen] Beheben Sie den Absturz beim Ziehen und Ablegen eines Filters in einem Splatter-Eingabebereich
-* [Ressourcen] Absturz beim Verknüpfen lokaler Ordner oder Importieren von Ressourcen auf dem Substance Alchemist beheben
-* [Collection] Beheben Sie Abstürze beim schnellen Wechsel zwischen Materialien
-* [UI] Absturz beheben, während der Wert null ist oder nicht gültig in Kacheln, Versatz-Schieberegler im Viewport
+* [Ebenen] Vermeiden Sie Absturz bei der Verwendung von Klon-Ausbessern und inhaltsbasierten Füllfiltern
+* [Ebenen] Beheben Sie den Absturz beim Ziehen und Ablegen eines Filters in einem Splatter-Eingabefach
+* [Ressourcen] Beheben Sie den Absturz beim Verknüpfen lokaler Ordner oder Importieren von Ressourcen auf dem Substance Alchemist
+* [Collection] Beheben Sie den Absturz beim schnellen Wechseln zwischen Materialien
+* [UI] Absturz beheben, während der Wert null ist oder in der Kachelung ungültig ist, Versatz-Schieberegler auf dem Viewport
 * [Inspiration] Beheben Sie den Absturz beim Zugriff auf die Registerkarte &quot;Inspiration&quot;
-* [Inspiration] Beheben Sie den Absturz beim Inspirieren für ein gerade gespeichertes Ebenen-Stapelmaterial
+* [Inspiration] Beheben Sie den Absturz, während Sie an einem gerade gespeicherten Ebenen-Stapel-Material inspirieren
 * [Performance] Schnellere Rechenleistung bei starken Substance-Materialien und -Filtern (Kacheln)
 * [Hilfe] Fixieren der Exportprotokolldatei
 * [Inhalt] Randomizer-Filter funktioniert auf allen Kanälen
 * [Inhalt] Beim Arbeitsablauf für mehrere Winkel werden alle Scans berücksichtigt.
-* [Inhalt] AO Mischen mit richtiger Füllmethode
-* [Inhalt] Kurvenüberblendung - korrekte Überblendung
-* [Inhalt] Farb-ID - Richtige Füllmethode
-* [Inhalt] Benutzerdefinierte Maskenüberblendung - korrekte Überblendung
-* [Inhalt] Korrekturfilter für Raueitsänderung korrigieren
+* [Inhalt] AO Überblendung richtige Füllmethode
+* [Inhalt] Krümmung Überblendung korrekte Füllmethode
+* [Inhalt] Farb-ID-Überblendung - korrekte Füllmethode
+* [Inhalt] Benutzerdefinierte Überblendung der Maske - richtige Füllmethode
+* [Inhalt] Korrekturfilter für die Änderung der Rauheit
 * [Inhalt] Basismaterial-Filter für benutzerdefinierten Upload über normale Kanäle beheben
 * [Inhalt] Benutzerdefiniertes Importmuster des Prägefilters korrigieren
 
@@ -294,15 +294,15 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 * [Ebenen] Neue Benutzeroberfläche des Ebenenstapels
 * [Ebenen] Wählen Sie den Mischmodus direkt auf der Symbolleiste aus.
 * [Ebenen] Greifen Sie separat auf die Überblendungsparameter und die Materialparameter zu
-* [Ebenen] Fügen Sie Materialien direkt in die dedizierten Eingaben des Splatter-Filters im Ebenenstapel hinzu
+* [Ebenen] Fügen Sie Materials direkt in die dedizierten Eingaben des Splatter-Filters im Ebenenstapel hinzu
 * [Ebenen] Ändern der Scanreihenfolge direkt in der Bildimportebene
-* [Viewport] Steuerung des Kamerafelds
-* [Viewport] Möglichkeit, zwischen orthogonaler oder perspektivischer Kamera zu wechseln
+* [Viewport] Steuerung des Kamera-Sichtfelds
+* [Viewport] Möglichkeit, zwischen orthografischer oder Perspektive-Kamera zu wechseln
 * [Viewport] Informationen zur Auflösung und Bittiefe für jeden Kanal anzeigen
 * [Ressourcen] Basismaterialien werden standardmäßig geöffnet
 * [Cache] Suche nach dem Miniatur-Cache-Ordner
 * [Cache] Finden Sie Ihren Render-Cache-Ordner
-* [Fenster] Das Bedienfeld &quot;Materialeinstellungen&quot; ist vorübergehend ausgeblendet.
+* Material-Einstellungsbedienfeld [Bedienfelder] ist vorübergehend ausgeblendet
 * [Workflow] Specular/Glossiness vorübergehend deaktiviert
 * [MacOS] Catalina OS-Versionsprüfung
 * [Inhalt] Neue Version des Delighter-Filters
@@ -314,8 +314,8 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 
 * Alle vorherigen Fehler im Zusammenhang mit Create sind heute mit der neuen Benutzeroberfläche und dem neuen Architekturrelease ungültig.
 * QuickInfos blenden die Symbole in der oberen Leiste nicht aus (3D, 2D, 2D/3D)
-* [Inhalt] Splatter-Filter akzeptiert Atlas mit vollständiger Height-Map.
-* [Inhalt] Transformieren-Filter funktioniert für Bilder (scan1, scan2,...)
+* [Inhalt] Splatter-Filter akzeptiert Atlas mit vollständigem Höhen-Map
+* [Inhalt] Transformieren Filter funktioniert für Bilder (scan1, scan2,...)
 
 **Bekannte Probleme:**
 
@@ -326,12 +326,12 @@ Der Viewport wurde um einige neue Funktionen erweitert, die die Nutzung des View
 
 **Hinzugefügt:**
 
-* [Angleichen] Neue Füllmethode für Deckkraft
+* [Überblendung] Neuer Überblendung-Deckkraftmodus
 * [Engine] Neue Substance Engine-Version
 
 **Hinzugefügt:**
 
-* [Angleichen] Neue Füllmethode für Deckkraft
+* [Überblendung] Neuer Überblendung-Deckkraftmodus
 * [Engine] Neue Substance Engine-Version
 
 **Hinzugefügt:**

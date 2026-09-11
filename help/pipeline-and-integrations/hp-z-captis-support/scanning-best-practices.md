@@ -11,35 +11,35 @@ ht-degree: 0%
 
 # Best Practices zum Scannen
 
-Die Qualität eines digitalisierten Materials wird lange vor dem Drücken der Scan-Taste entschieden. Mit einer sauberen, ebenen, gut platzierten Probe werden gebrauchsfertige saubere Karten erstellt, während bei einer übereilten Aufnahme jede Falte, jeder Dust-Fleck und jede Streufaser direkt in Ihre PBR-Kanäle geleitet werden.
+Die Qualität eines digitalisierten Materials wird lange vor dem Drücken der Scan-Taste bestimmt. Mit einer sauberen, ebenen, gut platzierten Probe werden gebrauchsfertige saubere Karten erstellt, während bei einer übereilten Aufnahme jede Falte, jeder Dust-Fleck und jede Streufaser direkt in Ihre PBR-Kanäle geleitet werden.
 
-Die Faustregel ist einfach: **Eine zusätzliche Minute für die Vorbereitung Ihres Materials vor dem Scan spart Ihnen ungefähr zehn Minuten für die spätere Bereinigung**. Mit dem Bügeln eines Stoffs, dem Wegstreichen von Dust oder dem Ausrichten der Probe wird nicht viel Zeit verbracht, um das Material später zu entformen, Partikel auszubessern oder lose Fasern zu entfernen.
+Die Faustregel ist einfach: **Eine zusätzliche Minute für die Vorbereitung Ihres Materials vor dem Scan spart Ihnen ca. 10 Minuten für die spätere Bereinigung**. Die Zeit, die Sie mit dem Bügeln eines Stoffs, dem Wegstreichen von Dust oder dem Ausrichten Ihrer Probe verbringen, ist die Zeit, die Sie nicht damit verbringen werden, später das Material zu entformen, Partikeln auszubessern oder lose Fasern zu entfernen.
 
 Diese Seite behandelt zwei Bereiche, die den größten Unterschied machen: **das physische Beispiel vorbereiten** und **es richtig platzieren** auf dem Gerät.
 
 ## Physische Probe vorbereiten.
 
-Alles, was bei der Aufnahme auf der Probe sichtbar ist, wird in die Karten übernommen. Einige Minuten Vorbereitung entfernen Probleme an der Quelle, bevor sie zur Bearbeitung werden.
+Alles, was beim Aufnehmen auf der Probe sichtbar ist, wird in die Karten Baking geführt. Einige Minuten Vorbereitung entfernen Probleme an der Quelle, bevor sie zur Bearbeitung werden.
 
 **Beispiel bereinigen**
 
-Geben Sie der Probe eine schnelle Reinigung, bevor Sie sie platzieren. Jede Markierung auf der Oberfläche wird als materielles Detail interpretiert und über jeden Kanal reproduziert.
+Geben Sie der Probe eine schnelle Reinigung, bevor Sie sie platzieren. Jede Markierung auf der Oberfläche wird als Material-Detail interpretiert und auf jedem Kanal wiedergegeben.
 
-**Dust und Fremdpartikel entfernen**
+**Dust und ausländische Partikeln entfernen**
 
-Dust, Haare, Fäden und andere lose Teilchen gehören zu den häufigsten Nachbearbeitungsquellen. Bürsten oder verwenden Sie Druckluft, um die Oberfläche zu reinigen, da jedes zurückgelassene Partikel später von Hand ausgemalt werden muss.
+Dust, Haare, Fäden und andere lose Partikeln gehören zu den häufigsten Nachbearbeitungsquellen. Bürsten oder verwenden Sie Druckluft, um die Oberfläche zu reinigen, da jede zurückgelassene Partikel später von Hand ausgemalt werden muss.
 
 ![](../../assets/scanning/clean-textile.png)
 
 **Eisengewebe zum Entfernen von Falten**
 
-Bei Geweben und anderen flexiblen Materialien sollten Sie die Probe vor dem Scannen immer flach bügeln. Falten erzeugen falsche Height- und Schatteninformationen, die sich später nur schwer entfernen lassen und die Kachelbarkeit des Materials beeinträchtigen.
+Bei Geweben und anderen biegsamen Materialien muss die Probe vor dem Scannen immer flach gebügelt werden. Falten erzeugen falsche Height- und Schatteninformationen, die sich später nur schwer entfernen lassen und die Kachelbarkeit des Materials beeinträchtigen.
 
 ![](../../assets/scanning/flatten-textile.png)
 
 **Flecken von glatten Oberflächen entfernen**
 
-Wischen Sie Flecken, Fingerabdrücke oder Flecken auf glatten, nicht porösen Materialien ab. Diese werden in den Grundfarben- und Raueitskanälen deutlich angezeigt.
+Wischen Sie auf glatten, nicht porösen Materialien Flecken, Fingerabdrücke oder Verschmutzungen ab. Diese werden in den Grundfarbe- und Rauheit-Kanälen deutlich sichtbar.
 
 **Kennen Sie die Beispiel-Thickness**
 
@@ -53,7 +53,7 @@ Eine gute Platzierung sorgt dafür, dass das Material flach, scharf und zentrier
 
 **Material im Scanbereich zentrieren**
 
-Positionieren Sie die Probe in der Mitte des Scanbereichs. Hier sind Fokus und Beleuchtung am gleichmäßigsten und du erhältst die beste Nutzfläche, sobald das Material zugeschnitten ist. Deshalb ist es immer ideal, jeweils ein Muster zu scannen, sodass es in der Mitte des Scanbereichs platziert werden kann und Ihnen die bestmöglichen Ergebnisse liefert.
+Positionieren Sie die Probe in der Mitte des Scanbereichs. An dieser Stelle sind Fokus und Beleuchtung am gleichmäßigsten und du erhältst die brauchbarste Oberfläche, sobald das Material zugeschnitten ist. Deshalb ist es immer ideal, jeweils ein Muster zu scannen, sodass es in der Mitte des Scanbereichs platziert werden kann und Ihnen die bestmöglichen Ergebnisse liefert.
 
 **Richten Sie sie so gerade wie möglich aus**
 
@@ -61,7 +61,7 @@ Richten Sie die Probe nicht in einem Winkel, sondern exakt mit dem Scanbereich a
 
 **Beispiel flach halten**
 
-Stellen Sie sicher, dass die Probe vollständig flach auf der Scanfläche liegt. Verwenden Sie bei Bedarf die Magnete, die mit dem HP Z Captis Gerät geliefert werden, um flexible oder rollende Materialien an Ort und Stelle zu halten. Ein flaches Muster vermeidet Verformungen und ungleichmäßige Fokussierungen, die sonst zeitaufwendig zu korrigieren sind.
+Stellen Sie sicher, dass die Probe vollständig flach auf der Scanfläche liegt. Verwenden Sie bei Bedarf die Magnete, die mit dem HP Z Captis-Gerät mitgeliefert werden, um biegsame oder rollende Material an Ort und Stelle zu halten. Ein flaches Muster vermeidet Verformungen und ungleichmäßige Fokussierungen, die sonst zeitaufwendig zu korrigieren sind.
 
 **Beispiele nicht überlappen**
 
@@ -69,6 +69,6 @@ Wenn Sie mehrere Samples auf einmal platzieren, lassen Sie sie sich nicht berüh
 
 ## Der Lohn in Sampler
 
-Wenn die Farben in Sampler sauber, eben und zentriert sind, sind die Karten bereits fast produktionsbereit. Sie verwenden Ihre Zeit darauf, das Material zu verfeinern, anstatt es zu reparieren: weniger Zeit zum Entformen, weniger Zeit zum Reinigen von Dust und Fasern und weniger Zeit zum Entfernen von Flecken und Falten aus deinen Kanälen.
+Wenn die Farben in Sampler sauber, eben und zentriert sind, sind die Karten bereits fast produktionsbereit. Sie verbringen Ihre Zeit damit, das Material zu verfeinern, anstatt es zu reparieren: weniger Zeit zum Entformen, weniger Zeit zum Reinigen von Dust und Fasern und weniger Zeit zum Entfernen von Flecken und Falten aus deinen Kanälen.
 
-Sobald das Material importiert wurde, kannst du die endgültigen Korrekturen mit den Filtern in Sampler vornehmen (Ausgleichen, Kacheln, Perspektivisches Freistellen, Kacheln, ...). Wenn du mit dem Ergebnis zufrieden bist, kannst du die Filtereinstellungen exportieren.
+Sobald dein Material importiert wurde, verwende Sampler-Filter (Ausgleichen, Automatische Kachelung, Perspektive zuschneiden, Kachelung, ...) für die letzten Feinanpassungen und exportiere, wenn du mit dem Ergebnis zufrieden bist.

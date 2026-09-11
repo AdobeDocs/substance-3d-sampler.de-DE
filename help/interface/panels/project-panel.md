@@ -26,13 +26,13 @@ Projekte in Sampler verhalten sich wie Pakete, in denen mehrere Elemente gespeic
 
 Mit den Steuerelementen oben im Projektfenster können Sie Materialien in Ihrem aktuellen Projekt hinzufügen oder verwalten:
 
-* Verwenden Sie die Schaltfläche **Hinzufügen**, um das Menü **Materialvoreinstellung** zu öffnen und Ihrem Projekt ein neues Material hinzuzufügen.
+* Verwenden Sie die Schaltfläche **Hinzufügen**, um das Menü **Materialvorgabe** zu öffnen und Ihrem Projekt ein neues Material hinzuzufügen.
 * Verwenden Sie die Schaltfläche **Duplizieren**, um das aktuell ausgewählte Material zu duplizieren.
-* Verwenden Sie die Schaltfläche **Umbenennen**, um das derzeit ausgewählte Material umzubenennen.
+* Verwenden Sie die Schaltfläche **Umbenennen**, um das aktuell ausgewählte Material umzubenennen.
 * Verwenden Sie die Schaltfläche **Löschen**, um das aktuell ausgewählte Material zu löschen.
 
 >[!NOTE]
 >
-> Sie können auch mit der rechten Maustaste auf ein beliebiges Material klicken, das umbenannt, gelöscht oder dupliziert werden soll.
+> Sie können auch mit der rechten Maustaste auf ein Material klicken, um es umzubenennen, zu löschen oder zu duplizieren.
 
-Klicken Sie auf eines Ihrer Elemente, um es in den **Viewport** zu laden, oder ziehen Sie ein Material in das Bedienfeld **Ebenen**, um es in anderen Materialien zu verwenden.
+Klicken Sie auf eines Ihrer Elemente, um es in den **Viewport** zu laden, oder ziehen Sie ein Material in das **Ebenenbedienfeld**, um es in anderen Materialien zu verwenden.

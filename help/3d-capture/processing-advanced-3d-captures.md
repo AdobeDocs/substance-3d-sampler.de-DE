@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie erweiterte 3D-Aufnahmen in Substance 3D Sampler verarbeiten können, um Geometrie, Texturen und Materialqualität zu optimieren.
+description: Erfahren Sie, wie Sie erweiterte 3D-Aufnahmen in Substance 3D Sampler verarbeiten können, um Geometrie, Texturen und die Qualität von Materialien zu optimieren.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -40,9 +40,9 @@ Für den Einstieg in Sampler müssen Sie ein <b>neues Projekt</b> erstellen. Im 
 
 ![](../assets/new-capture-3d-capture.png)
 
-Wählen Sie im Explorer alle Fotos aus, und ziehen Sie sie in das Fenster &quot;3D-Erfassung&quot;. Nachdem Sie Ihre Fotos für eine Weile geladen haben, werden sie in einer Liste und als Galerie mit Eigenschaften für die Auswahl auf der rechten Seite angezeigt.
+Wähle alle Fotos im Explorer aus, und ziehe sie in das Fenster &quot;3D-Erfassung&quot;. Nachdem Sie Ihre Fotos für eine Weile geladen haben, werden sie in einer Liste und als Galerie mit Eigenschaften für die Auswahl auf der rechten Seite angezeigt.
 
-Die Liste der Fotogruppen auf der linken Seite basiert auf der Kamera und dem Objektiv, die für die Fotos verwendet wurden. Wenn Sie Fotos von mehreren Geräten mischen, z. B. von einem Mobiltelefon, einer DSLR-Kamera oder einer Drohne, erhalten Sie hier <b>separate Gruppen</b>.
+Die Liste der Fotogruppen auf der linken Seite basiert auf der Kamera und der Linse, die für die Fotos verwendet wurden. Wenn Sie Fotos von mehreren Geräten mischen, z. B. von einem Mobiltelefon, einer DSLR-Kamera oder einer Drohne, erhalten Sie hier <b>separate Gruppen</b>.
 
 Wenn die Gruppe ausgewählt ist, erhalten Sie einen Überblick über ihre Eigenschaften. Manchmal fehlen die <b>Brennweite</b> und die <b>Sensorgröße</b>. es ist möglich, diese <b>manuell</b> auszufüllen, wenn wir die Zahlen kennen. Diese Informationen können helfen, die Verarbeitung ein wenig zu verbessern.
 
@@ -69,25 +69,25 @@ Mit den richtigen Masken kannst du nun zur Ausrichtung übergehen. Drücken Sie 
 
 Klicken Sie auf <b>Prozess</b>, und warten Sie, bis die Ausrichtung abgeschlossen ist. Dies kann einige Minuten dauern, also am besten noch einmal geduldig sein. Wenn du fertig bist, siehst du eine Punktwolkendarstellung deines Objekts, um die herum jedes Foto als Kamera gleitet. Ein orangefarbenes Warndreieck oben links bedeutet, dass einige Fotos <b> nicht ausgerichtet werden konnten</b>. Probieren Sie es mit der Option &quot;Hohe Präzision&quot; und der Standardbestellung aus, falls Sie dies noch nicht getan haben. Einige Fotos können immer noch nicht ausgerichtet werden. Das bedeutet, dass es zu wenig Überlappungen oder zu wenig Details gibt. Möglicherweise musst du deinen Fotografierprozess überdenken, um dieses Problem zu lösen, oder du kannst sie einfach ignorieren, wenn es nur wenige Fotos sind.
 
-Betrachtet man die Punktwolkendaten, sieht man möglicherweise <b>Streupunkte, die um das Objekt herum schweben</b>, die nicht als Teil des Objekts vorgesehen sind. Dies ist in der Regel auf eine schlechte Maskierung zurückzuführen, in diesem Fall haben einige schlechte Masken dazu geführt, dass es einige Dust-Teilchen aufnimmt. Y<b>Sie können diese ausschneiden</b>, indem Sie das Augensymbol rechts neben dem Fokusbereich verwenden. <b>Verschieben Sie einfach die quadratischen Griffe</b>, die um das Objekt herum anscheinend enger eingepasst sind. Alle Punkte außerhalb dieses Felds, die in Dunkelgrau angezeigt werden, werden nicht in Ihr endgültiges 3D-Modell aufgenommen. Sie können diesen Begrenzungsrahmen auch verwenden, um Ihr Modell <b> vorab zu drehen und besser auszurichten.</b>
+Betrachtet man die Punktwolkendaten, sieht man möglicherweise <b>Streupunkte, die um das Objekt herum schweben</b>, die nicht als Teil des Objekts vorgesehen sind. Dies ist in der Regel auf eine schlechte Maskierung zurückzuführen. In diesem Fall haben einige schlechte Masken dazu geführt, dass die Maske bei einigen Dust-Partikeln übernommen wurde. Y<b>Sie können diese ausschneiden</b>, indem Sie das Augensymbol rechts neben dem Fokusbereich verwenden. <b>Verschieben Sie einfach die quadratischen Griffe</b>, die um das Objekt herum anscheinend enger eingepasst sind. Alle Punkte außerhalb dieses Felds, die in Dunkelgrau angezeigt werden, werden nicht in Ihr endgültiges 3D-Modell aufgenommen. Sie können diesen Begrenzungsrahmen auch verwenden, um Ihr Modell <b> vorab zu drehen und besser auszurichten.</b>
 
 Manchmal haben Punktwolken viel dichtere Punkte als andere. Das ist kein Problem. Weniger Punkte bedeuten, dass die Oberfläche weniger kleine geometrische Details aufweist. Es kommt aus einem Mangel an Details und Kontrast in einigen Teilen des Objekts, während andere mehr Details haben.
 
 ## Geometrie-Details
 
-Es ist nur noch eine Einstellung übrig, bevor wir das Gitter erstellen. Unter Geometriedetails können Sie die anfängliche Geometriedetailstufe auswählen.
+Es gibt nur noch eine Einstellung, bevor wir unseren Mesh erstellen. Unter Geometriedetails können Sie die anfängliche Geometriedetailstufe auswählen.
 
 * <b>Raw</b> ist die <b>nicht dezimierte Mes</b>h. Es wird nicht wirklich empfohlen, diese Option zu verwenden, es sei denn, Sie sind sicher, dass Sie diese benötigen.
-* <b>Voll in Entwurf</b> sind <b>dezimierte Gitter</b>. Sie sollten niedrigere Optionen auswählen, um ein Testergebnis schneller zu erhalten, höhere Optionen, um mehr Details auf Kosten einer langsameren Verarbeitung zu erhalten.
+* <b>Voll in Entwurf</b> sind <b>dezimierte Mesh</b>. Sie sollten niedrigere Optionen auswählen, um ein Testergebnis schneller zu erhalten, höhere Optionen, um mehr Details auf Kosten einer langsameren Verarbeitung zu erhalten.
 
-Klicken Sie auf <b>Senden, um die Verarbeitung des Gitters zu starten</b>. Dieser Vorgang kann eine Weile dauern und länger dauern als jeder der vorherigen Schritte.
+Klicken Sie auf <b>Senden, um die Verarbeitung des Meshs zu starten</b>. Dieser Vorgang kann eine Weile dauern und länger dauern als jeder der vorherigen Schritte.
 
 ## Vorschau und Nachbearbeitung
 
-Wenn das Gitter fertig ist, können wir es im finalen Fenster in der Vorschau anzeigen und nachbearbeiten, bevor wir es zu unserem Sampler-Projekt hinzufügen. Dieser Modus enthält einige Schaltflächen am unteren Rand, um das Gitter mit <b>Struktur</b>, <b>schattierter Farbfläche</b>, als <b>Drahtgitter</b> und mit einem <b>UV-Prüfer-Material</b> anzuzeigen. Mit den Nachbearbeitungseinstellungen auf der Seite können Sie eine neue Version des Gitters generieren. Das heißt, du hast ein neues getesseltes Gitter mit neuen automatischen UVs und eine Struktur, die aus dem ursprünglichen Gitter verbacken ist. Mit den Hauptsteuerelementen können Sie die Anzahl der Zielflächen festlegen und zwischen Normal, Height und AO Backen umschalten. Es gibt zahlreiche erweiterte Einstellungen, die angepasst werden müssen, aber die Standardeinstellungen funktionieren in der Regel einwandfrei.
+Wenn das Gitter fertig ist, können wir es im finalen Fenster in der Vorschau anzeigen und nachbearbeiten, bevor wir es zu unserem Sampler-Projekt hinzufügen. Dieser Modus enthält einige Schaltflächen am unteren Rand, um Ihren Mesh mit <b>Textur</b>, <b>schattierter Farbfläche</b>, als <b>Drahtgitter</b> und mit einem <b>UV-Checker-Material</b> anzuzeigen. Über die Nachbearbeitungseinstellungen können Sie eine neue Version Ihres Meshs generieren. Das heißt, du hast ein neues getesseltes Gitter mit neuen automatischen UVs und eine Struktur, die aus dem ursprünglichen Gitter verbacken ist. Mit den Hauptsteuerelementen können Sie die Anzahl der Zielflächen festlegen und zwischen Normal, Height und AO Backen umschalten. Es gibt zahlreiche erweiterte Einstellungen, die angepasst werden müssen, aber die Standardeinstellungen funktionieren in der Regel einwandfrei.
 
 Sie können diesen Maschenverarbeitungsschritt auch anschließend ausführen, sobald das Gitter zu Sampler hinzugefügt wurde. Nachdem du sie zu Sampler hinzugefügt hast, kannst du ihr einen Namen geben. Dieser wird dann in deiner Projektliste angezeigt.
 
-Sie können das Gitter und die Texturen bearbeiten, aber Sie können Ihr Ergebnis bereits mit <b>Freigeben</b> exportieren. > <b>Dialogfeld &quot;Exportieren als</b>&quot;. Mit <b>Allgemeine Einstellungen</b> können Sie Name und Pfad auswählen, mit <b>Gittereinstellungen</b> können Sie das 3D-Gitterformat auswählen, und mit <b>Materialeinstellungen</b> können Sie das Material des Gitters konfigurieren. Sie können das Gitter oder Material deaktivieren, um nur eines davon einzeln zu exportieren. Das exportierte Gitter kann in anderen 3D-Anwendungen verwendet werden.
+Sie können das Gitter und die Texturen bearbeiten, aber Sie können Ihr Ergebnis bereits mit <b>Freigeben</b> exportieren. > <b>Dialogfeld &quot;Exportieren als</b>&quot;. Mit <b>Allgemeine Einstellungen</b> können Sie Name und Pfad auswählen, mit <b>Mesh-Einstellungen</b> können Sie das 3D-Mesh-Format auswählen, und mit <b>Material-Einstellungen</b> können Sie das Material des Meshs konfigurieren. Sie können Mesh oder Material deaktivieren, um nur einen davon einzeln zu exportieren. Der exportierte Mesh kann in anderen 3D-Anwendungen verwendet werden.
 
 Erfahren Sie jetzt, wie Sie [Ihre erfassten 3D-Meshes in Sampler weiter bearbeiten](editing-3d-captured-meshes.md).

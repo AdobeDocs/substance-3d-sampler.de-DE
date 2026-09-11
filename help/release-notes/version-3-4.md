@@ -28,17 +28,17 @@ Mit **Substance 3D Sampler 3.4.0** werden eine Reihe neuer Funktionen eingeführ
 
 ## Bereitgestellte Parameter
 
-Sie können parametrische Materialien in jeder Software ändern, die SBSAR-Dateien unterstützt, unter anderem CLO, UE5, Blender, Photoshop und Illustrator.\
-Das ist jetzt möglich, weil Sampler die Elementparameter jetzt verfügbar machen kann. So lassen sich Iterationen beschleunigen und Interaktionen zwischen Sampler und anderen Programmen vermeiden.
+Sie können parametrische Material in jeder Software ändern, die SBSAR-Dateien unterstützt, unter anderem CLO, UE5, Blender, Photoshop und Illustrator.\
+Das ist jetzt möglich, da Sampler die neuen Elementparameter legt, sodass du Iterationen beschleunigen und das Hin und Her zwischen Sampler und anderen Programmen vermeiden kannst.
 
-Entdecke die Parameter deines Materials, indem du einfach auf einen Pin klickst.
+Leg die Parameter deines Materials, indem du einfach auf eine Nadel klickst.
 
-Mithilfe von Farbpunkten kannst du in exponierten Parametern und in verschiedenen Bedienfeldern navigieren.
+Mithilfe von Farbpunkten kannst du in deinen freigelegten Parametern und in deinen verschiedenen Bedienfeldern navigieren.
 
 ## Python-Authoring
 
 Sie können jetzt Plug-ins und Skripte erstellen. Dadurch haben Sie die Möglichkeit, Ihre Oberfläche anzupassen, sodass Sie Sampler ganz einfach in Ihre Pipeline integrieren und Ihren Arbeitsablauf insgesamt beliebig einrichten können.\
-So können Sie beispielsweise ein Skript erstellen, mit dem Sie sich wiederholende Aufgaben automatisieren können, indem Sie mehrere Materialien mit einem Klick exportieren.
+So können Sie beispielsweise ein Skript erstellen, mit dem Sie sich wiederholende Aufgaben automatisieren können, indem Sie mehrere Material mit einem Klick exportieren.
 
 Erfahren Sie hier, wie Sie Ihr erstes Plug-in oder Skript [erstellen](../scripting-and-development/scripting-and-development.md).
 
@@ -49,7 +49,7 @@ Mit diesem Update enthält die SBSAR die Physikinformationen in den Metadaten, d
 
 ## Von Bild zu Material (KI-gestützt)
 
-&quot;Bild zu Material&quot; (KI-gestützt) ist jetzt für MacOS verfügbar und wird nativ auf Apple Silicon-Geräten ausgeführt.
+&quot;Bild zu Material&quot; (KI-gestützt) ist jetzt auf MacOS verfügbar und wird nativ auf Apple Silicon-Geräten ausgeführt.
 
 ## Versionshinweise
 
@@ -59,15 +59,15 @@ Mit diesem Update enthält die SBSAR die Physikinformationen in den Metadaten, d
 
 **Hinzugefügt:**
 
-[Verfügbare Parameter] Neue Bedienfeld „Veröffentlichte Parameter“\
-[Verfügbare Parameter] Neue Schaltfläche für Parameter, über die Parameter angezeigt und aus dem Bedienfeld &quot;Eigenschaften&quot; wieder entfernt werden können\
+[Freigelegte Parameter] Neue Bedienfeld „Veröffentlichte Parameter“\
+[Freigelegte Parameter] Neue Schaltfläche für Parameter, die den Mauszeiger über das Fenster &quot;Eigenschaften&quot; bewegen, um Parameter legen und die Anzeige aufzuheben\
 [Verfügbare Parameter] Neues Kontextmenü mit der rechten Maustaste auf Parameter zum Verfügbarmachen und Lösen von Parametern aus dem Eigenschaftenbedienfeld\
 [Verfügbare Parameter] Verfügbare Parameter sind auf der Bedienfeld „Veröffentlichte Parameter“ aufgelistet.\
-[Verfügbare Parameter] Farbpunkte und Farbscheiben werden an mehreren Stellen hinzugefügt, um exponierte Parameter leicht zu identifizieren\
-[Verfügbare Parameter] Parameterbeschriftungen können auf der Bedienfeld „Veröffentlichte Parameter“ bearbeitet werden.\
-[Verfügbare Parameter] Eine Warnung für nicht exportierbare Parameter anzeigen\
-[Verfügbare Parameter] Warnung anzeigen, wenn eine Ebene mit exponierten Überblendungsparametern an eine Stelle verschoben wird, an der sie ausgeblendet werden\
-[Verfügbare Parameter] Verfügbare Parameter werden in den Formaten SBS und SBSAR exportiert.\
+[Freigelegte Parameter] Farbpunkte und Farbscheiben werden an mehreren Stellen hinzugefügt, um freigelegte Parameter leicht zu identifizieren\
+[Freigelegte Parameter] Parameterbeschriftungen können in der Bedienfeld „Veröffentlichte Parameter“ bearbeitet werden\
+[Freigelegte Parameter] Eine Warnung für nicht exportierbare Parameter anzeigen\
+[Freigelegte Parameter] Warnung anzeigen, wenn eine Ebene mit gelegt Überblendungsparametern an eine Stelle verschoben wird, an der sie ausgeblendet werden\
+[Freigelegte Parameter] Freigelegte Parameter werden im SBS- und SBSAR-Format exportiert\
 [Metadaten] Unterstützung benutzerdefinierter Metadatenvorlagen\
 [Metadaten] Neue Vorlage für physikalische CLO-Eigenschaften\
 [Metadaten] Hinzufügen von Symbolen beim Hovern zum Hinzufügen/Entfernen benutzerdefinierter Metadaten\
@@ -91,21 +91,21 @@ Mit diesem Update enthält die SBSAR die Physikinformationen in den Metadaten, d
 [Protokolle] Neue Aktionsleiste zum Löschen, Kopieren/Einfügen und Exportieren von Protokollen\
 [Eigenschaften] Neue Schaltfläche für Parameter, die den Mauszeiger zum Zurücksetzen des Parameterwerts bewegen\
 [Eigenschaften] Neues Kontextmenü mit der rechten Maustaste auf Parameter zum Zurücksetzen des Parameterwerts\
-[Inhalt] &quot;Bild zu Material&quot; (KI-gestützt) funktioniert jetzt in MacOS\
-[Engine] Aktualisieren der Substance-Engine auf Version 8.6.0
+[Inhalt] Bild-zu-Material (KI-gestützt) funktioniert jetzt auf MacOS\
+[Engine] Substance-Engine auf Version 8.6.0 aktualisieren
 
 **Fest:**
 
-[Anwendung] Die Anwendung konnte beim Beenden abstürzen, wenn eine Miniaturansichtserstellung ausgeführt wurde\
-[Anwendung] Die Anwendung kann abstürzen, wenn &quot;Speichern unter&quot; beim Beenden verwendet wird\
+[Anwendung] Die Anwendung konnte beim Beenden einen Absturz verursachen, wenn eine Miniaturansichtserstellung ausgeführt wurde\
+[Anwendung] Bei Verwendung von &quot;Speichern unter&quot; beim Beenden kann die Anwendung einen Absturz aufweisen.\
 [Anwendung] Anwendung hängt möglicherweise beim Herunterfahren unter MacOS\
 [Anwendung] Beim Speichern mit geöffnetem Farbdialogfeld werden die Änderungen nicht gespeichert\
 [Export] Die Namenskonvention für die Verwendung ist beim Exportieren nicht korrekt.\
-[Ebenen] Das Ablegen eines Materials über einem Filter kann abstürzen\
-[Ebenen] Beim Aktualisieren eines veralteten Ebenenstapels werden möglicherweise nicht zugehörige Ebenenstapel aktualisiert\
+[Ebenen] Das Ablegen eines Materials über einem Filter kann zu Abstürzen führen\
+[Ebenen] Beim Aktualisieren eines veralteten Ebenenstapels können nicht zugehörige Ebenenstapel aktualisiert werden.\
 [Metadaten] Leere Felder werden exportiert\
 [Metadaten] Wenn es nur ein Metadatenelement gibt, können Sie auf der Benutzeroberfläche versuchen, es neu anzuordnen\
-[Project] Die Berechnung endet nie nach dem Duplizieren eines Materials\
+[Projekt] Die Berechnung wird nach dem Duplizieren eines Materials nie beendet.\
 [Projekt] Projektelement wird nach dem ersten Speichern des Projekts dupliziert\
 [Projekt] Unnötige Berechnungen beim Wechseln des Assets\
 [Rendering] Einige Ebenenstapel werden nach dem Löschen einer Ebene nicht richtig gerendert\
@@ -118,4 +118,4 @@ Mit diesem Update enthält die SBSAR die Physikinformationen in den Metadaten, d
 
 [Farbwähler] Die Auswahl einer Farbe auf einem zweiten Monitor mit einer anderen Auflösung funktioniert möglicherweise nicht\
 [Inhalt] Shape Light-Widget funktioniert nicht im sphärische Projektion-Modus\
-[Interoperabilität] Material mit Versatz, der an Stager gesendet wird, verliert die Versatz-Steuerelemente.
+[Interoperabilität] Material mit an Stager gesendetem Versatz verliert die Versatz-Steuerelemente.

@@ -22,7 +22,7 @@ Die auf der linken Seitenleiste verfügbaren Werkzeuge sind Verknüpfungen für 
 * [Zuschneiden](../../filters/tools/crop-tool.md)
 * [Perspektivische Transformation](../../filters/tools/perspective-correction.md)
 * [Transformieren](../../filters/tools/transform.md)
-* [Kopierstempel](../../filters/tools/clone-stamp.md)
+* [Klon](../../filters/tools/clone-stamp.md)
 
 Tools und Funktionen ohne Filter werden in den folgenden Artikeln beschrieben:
 

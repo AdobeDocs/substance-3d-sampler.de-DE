@@ -65,7 +65,7 @@ Verwenden Sie den Perforate-Filter, um Ihrem Material Löcher hinzuzufügen.
 * **Musterauswahl**:\
   Wählen Sie die Form der Bohrungen aus, oder wählen Sie ein eigenes Muster.
 * **Perforationsposition**:\
-  Lege fest, ob die Normalen und das Height in dein Material eingelassen werden oder sich vom Material abheben.
+  Legen Sie fest, ob die Normalen und das Height in Ihr Material zurückgehen oder sich vom Material abheben sollen.
 * **Größe der Perforationsschräge**: 0-1\
   Ändern der Größe der Fase an den Rändern von Bohrungen
 * **Bohrungsgröße**: 0-1\
@@ -79,7 +79,7 @@ Verwenden Sie den Perforate-Filter, um Ihrem Material Löcher hinzuzufügen.
   * **Skalierungszuordnung umkehren**: Knebel\
     Umkehren der Werte der Skalierungszuordnung
   * **Benutzerdefinierte Skalierungszuordnung**: Bild/Pinsel\
-    Importieren Sie ein Bild, das als Maßstabszuordnung verwendet werden soll, oder verwenden Sie den Pinsel, um eine Maßstabszuordnung direkt in der **2D** **Ansicht** zu malen.
+    Importieren Sie ein Bild, das als Skalierungszuordnung verwendet werden soll, oder verwenden Sie den Pinsel, um eine Skalierungszuordnung direkt in der **2D** **Ansicht** Malen.
 
 **Maske**
 
@@ -91,7 +91,7 @@ Dieser Abschnitt ist nur sichtbar, wenn **Grundlegende Parameter > Maske verwend
 * **Maskenschwellenwert**: 0-1\
   Ändern Sie den Schwellenwert der Maske. Verwenden Sie die Werte **Maskenunschärfe** und **Maskenschwellenwert** zusammen, um die Kanten Ihrer Maske zu optimieren.
 * **Benutzerdefinierte Maske**: Bild/Pinsel\
-  Importieren Sie ein Bild, das als Maske verwendet werden soll, oder malen Sie Ihre eigene Maske direkt in der **2D-Ansicht**.
+  Importieren Sie ein Bild, das als Maske verwendet werden soll, oder Malen Ihrer eigenen Maske direkt in die **2D-Ansicht**.
 
 **Perforation**
 
@@ -109,10 +109,10 @@ Dieser Abschnitt ist nur sichtbar, wenn **Grundlegende Parameter > Maske verwend
   Transparenz der Farbe des abgeschrägten Bereichs der Perforationen anpassen
 * **Perforationsfarbe**: Farbauswahl\
   Wählen Sie die Farbe des abgeschrägten Bereichs jeder Perforation aus.
-* **Raueit der Perforation**: 0-1\
-  Ändern des Raueitswerts von Perforationen
+* **Perforation-Rauheit**: 0-1\
+  Ändern des Werts der Rauheit von Perforationen
 * **Perforation Metallic**: 0-1\
-  Ändern des metallischen Werts von Perforationen
+  Ändern des metallic Werts von Perforationen
 
 **Erweiterte Parameter**
 
@@ -121,6 +121,6 @@ Dieser Abschnitt ist nur sichtbar, wenn **Grundlegende Parameter > Maske verwend
 * **Farbtonverschiebung**: 0-1
 * **Sättigung**: 0-1
 * **Normalintensität**: -1 bis 1\
-  Stärke jeder Perforationsnorm anpassen
+  Anpassen der Stärke jeder Perforation in Normalen
 * **Height-Intensität**: 0-1\
-  Stärke der einzelnen Perforationsdiagramme anpassen (Height Map)
+  Stärke der einzelnen Perforationen auf der Höhen-Map anpassen

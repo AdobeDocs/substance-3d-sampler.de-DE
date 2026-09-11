@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets.html"
 breadcrumb-title: ''
-description: Erfahren Sie mehr über Standardexportvorgaben in Substance 3D Sampler für verschiedene Software-Anwendungen und Rendering-Engines.
+description: Erfahren Sie mehr über Standardexportvorgaben in Substance 3D Sampler für verschiedene Softwareanwendungen und Render-Engine.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets
 helpx_experience_level: ""

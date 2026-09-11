@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Keyshot9+ | <ul data-preserve-html="true"> <li data-preserve-html="true">PBR Metallisch/Raueit</li> </ul> | <b>base\_color</b> <b>normal</b> <b>Raueit</b> <b>metallisch</b> <b>Versatz</b> <b>emissiv</b> <b>Deckkraft</b> <b>Specular</b> |
+| Keyshot9+ | <ul data-preserve-html="true"> <li data-preserve-html="true">PBR Metallic/Rauheit</li> </ul> | <b>base\_color</b> <b>normal</b> <b>Rauheit</b> <b>metallisch</b> <b>Versatz</b> <b>emissive</b> <b>Deckkraft</b> <b>Specular</b> |

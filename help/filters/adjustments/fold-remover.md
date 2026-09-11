@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
-description: Mit dem Falten-Entferner in Substance 3D Sampler können Sie Falten und Falten aus Gewebestrukturen für saubere Materialoberflächen entfernen.
+description: Verwenden Sie den Falten-Entferner in Substance 3D Sampler, um Falten und Falten aus Texturen zu entfernen, um saubere Oberflächen von Materialien zu erhalten.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Entfernen Sie Falten und Falten schnell aus Gewebematerialien.
+Entferne Falten und Falten aus Materialien.
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ Entfernen Sie Falten und Falten schnell aus Gewebematerialien.
 <b>Basisparameter</b>
 
 * <b>Eingabetabelle</b>: Umschalten\
-  Aktivieren Sie diese Einstellung, um sicherzustellen, dass dieser Filter Kachelmaterialien nicht beschädigt.
+  Aktivieren Sie diese Einstellung, um sicherzustellen, dass der Filter die Materials der Kachelung nicht beschädigt.
 * <b>Radius</b>: 0-50\
   Passen Sie den Radius an, um die Größe der Falten zu steuern, die der Filter zu minimieren versucht. Bei einem niedrigen Radius werden feinere Details geglättet.
 * <b>Lokale Details</b>: 0-1\

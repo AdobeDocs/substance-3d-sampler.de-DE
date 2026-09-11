@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Risse-Filter in Substance 3D Sampler, um Ihren Materialien realistische Rissmuster und Oberflächenbeschädigungseffekte hinzuzufügen.
+description: Verwenden Sie den Risse-Filter in Substance 3D Sampler, um Ihren Materials realistische Rissmuster und Oberflächenbeschädigungseffekte hinzuzufügen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Cracks
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Verwenden Sie den **Risse-Filter**, um Ihr Material zu altern und zu beschädigen, indem Sie ihm ein Netzwerk aus Rissen und Spalten hinzufügen.
+Verwenden Sie den **Risse-Filter**, um Ihr Material zu altern und zu beschädigen, indem Sie ihm ein Netzwerk mit Rissen und Spalten hinzufügen.
 
-Der **Risse-Filter** wurde auf ein sauberes Marmormaterial angewendet.
+Der **Risse-Filter** wurde auf ein sauberes Marmorfilter-Material angewendet.
 
 <table>
 <tr style="border: 0;">
@@ -80,22 +80,22 @@ Der **Risse-Filter** wurde auf ein sauberes Marmormaterial angewendet.
 
 * **Farbe für Risse**: Farbauswahl\
   Ändern Sie die Farbe der Innenfläche, die von den Rissen aufgedeckt wird.
-* **Ungefähre Risse**: 0-1\
-  Passen Sie den Raueitswert der Risse an.
-* **Risse Raueit Deckkraft**: 0-1\
-  Passen Sie an, wie sich der Wert **Risse Unregelmäßigkeit** auf die Rauigkeitszuordnung auswirkt.
-* **Metallische Risse**: 0-1\
-  Ändern Sie den metallischen Wert der Risse.
-* **Metallische Deckkraft (Risse)**: 0-1\
-  Passen Sie an, wie sich der Wert **Risse Metallic** auf die Metallzuordnung auswirkt.
+* **Risse Rauheit**: 0-1\
+  Passen Sie die Rauheit der Risse an.
+* **Risse Rauheit Deckkraft**: 0-1\
+  Passen Sie an, wie sich der Wert **Risse Rauheit** auf die Rauheiten-Map auswirkt.
+* **Metallic Risse**: 0-1\
+  Ändern Sie den metallic Wert der Risse.
+* **Metallic Deckkraft der Risse**: 0-1\
+  Anpassen, wie sich der Wert **Risse Metallic** auf die metallic Map auswirkt
 * **Risse Height-Intensität**: 0-1\
-  Passen Sie die Tiefe der Risse an. Dies wirkt sich sowohl auf die Heights-Map als auch auf die Normalmap-Ergebnisse des Filters aus.
+  Passen Sie die Tiefe der Risse an. Dies wirkt sich sowohl auf das Höhen-Map- als auch auf das Normalen-Map-Ergebnis des Filters aus.
 
 **Erweiterte Parameter**
 
 * **Normalintensität**: 0-1\
   Passen Sie die Stärke der Rissnormalitäten an.
 * **Height-Bereich**: 0-1\
-  Passen Sie den Materialbereich des gesamten Heights an. Verwenden Sie zum Anpassen des Heights der Risse **Risse > Risse Height Intensität**.
+  Ändern Sie den Bereich des Heights des gesamten Materials. Verwenden Sie zum Anpassen des Heights der Risse **Risse > Risse Height Intensität**.
 * **Height-Position**: 0-1\
-  Verschieben Sie die Materialkarte des gesamten Heights.
+  Versatz der Höhen-Map des gesamten Materials.

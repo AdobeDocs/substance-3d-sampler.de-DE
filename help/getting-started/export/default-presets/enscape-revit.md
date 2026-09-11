@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
 breadcrumb-title: ''
-description: Lerne, wie du in Substance 3D Sampler Materialien mithilfe von Enscape Revit-Vorgaben für Workflows zur Visualisierung von Architekturen exportieren kannst.
+description: Erfahren Sie, wie Sie Materials aus Substance 3D Sampler mithilfe der Enscape Revit-Voreinstellung für Workflows zur Architekturvisualisierung exportieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Enscape - Revit
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Enscape - Neu | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **Albedo &#x200B;**&#x200B;**Glossiness**&#x200B;**Normal (OpenGL)**&#x200B;**Transparency** |
+| Enscape - Neu | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **Albedo &#x200B;**&#x200B;**Glanz**&#x200B;**Normal (OpenGL)**&#x200B;**Transparenz** |

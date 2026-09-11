@@ -59,12 +59,12 @@ Die folgenden Optionen sind verfügbar:
     Legen Sie die Standardauflösungsstrategie fest, die in der Anwendung verwendet wird.
   * **Standard-Materialmodell**
     Legen Sie das Standardmodell fest, das verwendet werden soll, wenn ein Material erstellt wird oder Schnellaktionen ein Materialmodell anderweitig auswählen müssen.
-  * **Standard-Materialtexturkachelung - U**\
+  * **Kachelung der Standard-Material-Textur - U**\
     Legen Sie die standardmäßige U-Texturkachelung fest.
-  * **Standard-Materialtexturkachelung - V**\
+  * **Kachelung der Standard-Material-Textur - V**\
     Legen Sie die Standardkachelung für die V-Struktur fest.
   * **Standardmaßstab des Heights**\
-    Legen Sie die Standardmaterialskala für Heights fest.
+    Legen Sie die Standardskalierung für Heights für Materialien fest.
 * **Datenschutz**
   * **Automatisches Senden von Nutzungsstatistiken**
     Stellt ein, ob anonymisierte Nutzungsstatistiken gesendet werden sollen, um die Sampler zu verbessern.
@@ -89,9 +89,9 @@ Die folgenden Optionen sind verfügbar:
   Verwenden Sie diese Einstellungen, um Cache-Speicherorte zu aktualisieren.
   * Pfad des Cacheordners für gerenderte Texturen
   * Pfad für den Zwischenspeicher von Miniaturansichten.
-* **Materialerfassung**\
-  Verwenden Sie diese Einstellung, um den Speicherort des Materialerfassungs-Cache zu aktualisieren.
-  * Pfad für den Materialerfassungs-Cache.
+* **Material-Aufnahme**\
+  Verwenden Sie diese Einstellung, um den Speicherort des Material-Aufnahmecaches zu aktualisieren.
+  * Pfad für den Material-Aufnahmecache.
   * Captis IP-Adresse\
     Verbinden Sie sich mit einem Captis-Gerät in Ihrem lokalen Netzwerk.
   * Verwenden Sie das Captis-Gerät als USB-Speicher für kopierte Dateien.

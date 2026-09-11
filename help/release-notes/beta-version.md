@@ -27,9 +27,9 @@ Diese Seite enthält Änderungsprotokolle für Beta-Versionen von Sampler. Erfah
 >Beta-Versionen von Sampler sind nicht immer verfügbar. Um herauszufinden, wann zukünftige Beta-Versionen veröffentlicht werden, folgen Sie den sozialen Kanälen von Substance 3D.
 
 
-## 4.4.0 Beta - Text zu Textur
+## 4.4.0 Beta - Umwandlung von Text in Textur
 
-Wir führen jetzt das neue Feature &quot;Text zu Textur&quot; auf Basis von Adobe Firefly ein. Damit können Künstler jetzt Texturbilder mit nur einer Beschreibung aufnehmen. Diese neue Funktion erweitert die Toolbox der Künstler über den Import benutzerdefinierter oder Stock-Fotos hinaus, indem sie eine Möglichkeit bietet, Texturen direkt in Sampler zu generieren. Alle Bilder von Text in Textur sind quadratisch und mit der richtigen Perspektive kachelbar, bereit für den Workflow der Materialerstellung.
+Wir führen jetzt das neue Feature &quot;Text zu Textur&quot; auf Basis von Adobe Firefly ein. Damit können Künstler jetzt Texturbilder mit nur einer Beschreibung aufnehmen. Diese neue Funktion erweitert die Toolbox des Künstlers über den Import benutzerdefinierter oder Stock-Fotos hinaus, indem sie eine Möglichkeit bietet, Texturen direkt in Sampler zu generieren. Alle Bilder von Text in Textur sind quadratisch und mit der richtigen Perspektive kachelbar, bereit für den Workflow der Materialerstellung.
 
 ![](../assets/wood-ui.png)
 

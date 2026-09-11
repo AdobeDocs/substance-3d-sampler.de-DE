@@ -20,7 +20,7 @@ ht-degree: 5%
 
 # Normalen-Format
 
-Normale Zuordnungen werden mit dem Format <b>DirectX</b> verarbeitet. Halten Sie einen <b> OpenGL</b>-Arbeitsablauf ein, um das OpenGL-Format zu importieren und zu exportieren, indem Sie die Einstellungen für das normale Format ändern.
+Normalen-Map werden mit dem Format <b>DirectX</b> verarbeitet. Halten Sie einen <b> OpenGL</b>-Arbeitsablauf ein, um das OpenGL-Format zu importieren und zu exportieren, indem Sie die Standardformatvoreinstellung ändern.
 
 *Standard: DirectX*
 
@@ -31,13 +31,13 @@ Die normale Formateinstellung wirkt sich aus auf:
 
 ## Bildimportebene
 
-Beim Importieren einer normalen Textur wird das normale Format auf das in den Voreinstellungen ausgewählte Format festgelegt.
+Beim Importieren einer normalen Textur wird das Standardformat auf das in den Voreinstellungen ausgewählte Format festgelegt.
 
 ### Exportieren
 
 #### SBSAR und SBS
 
-Das Normalformat ist ein exponierter Parameter. Dieser Parameter kann von der Hostanwendung angepasst werden, um die Normalwerte in dem benötigten Format zu generieren.
+Das Normalformat ist ein freigelegte Parameter. Dieser Parameter kann von der Hostanwendung angepasst werden, um die Normalwerte in dem benötigten Format zu generieren.
 
 #### Bildformate
 

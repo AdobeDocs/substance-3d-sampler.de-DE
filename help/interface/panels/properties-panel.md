@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/properties-panel.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie das Eigenschaftenfenster in Substance 3D Sampler verwenden, um Filterparameter und Materialeigenschaften anzuzeigen und zu bearbeiten.
+description: Erfahren Sie, wie Sie das Eigenschaftenfenster in Substance 3D Sampler verwenden, um Filterparameter und Material-Eigenschaften anzuzeigen und zu bearbeiten.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Properties panel
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 Das **Eigenschaftenfenster** zeigt Parameter und Eigenschaften von Ebenen an, die Sie im **Ebenenfenster** auswählen. Am besten findest du heraus, welche Parameter einen Unterschied ausmachen, wenn du sie ausprobierst und herausfindest, welchen Einfluss sie auf dein Asset haben.
 
-Die im **Eigenschaftenbedienfeld** angezeigten Parameter hängen davon ab, was Sie im **Ebenenbedienfeld** ausgewählt haben. Manchmal kann eine Ebene mehrere anpassbare Eigenschaften aufweisen, z. B. hat eine Materialebene, die sich nicht am unteren Rand des Stapels befindet, Fülleigenschaften. Jedes Symbol im Ebenenstapel stellt einen anderen Satz von Eigenschaften und Parametern dar. Für eine Materialebene mit sowohl Material- als auch Fülleigenschaften gibt es zwei Symbole auf dieser Ebene.
+Die im **Eigenschaftenbedienfeld** angezeigten Parameter hängen davon ab, was Sie im **Ebenenbedienfeld** ausgewählt haben. Manchmal kann eine Ebene mehrere anpassbare Eigenschaften aufweisen, z. B. hat eine Material-Ebene, die nicht am unteren Rand des Stapels liegt, Angleichungseigenschaften. Jedes Symbol im Ebenenstapel hat andere Eigenschaften und Parameter. Für eine Material-Ebene mit Material- und Angleichungseigenschaften gibt es zwei Symbole auf dieser Ebene.
 
 <table>
 <tr style="border: 0;">
@@ -35,7 +35,7 @@ Die im **Eigenschaftenbedienfeld** angezeigten Parameter hängen davon ab, was S
 </td>
 <td style="border: 0;" valign="top">
 
-In diesem Bild des **Bedienfelds &quot;Ebenen&quot;** verfügt jedes Symbol im Ebenenstapel über einen anderen Satz von Parametern, um das Erscheinungsbild Ihres Materials zu steuern. Die Tonebene verfügt beispielsweise sowohl über das Werkstoffsymbol als auch über das Mischsymbol, die jeweils über einen eigenen Parametersatz verfügen. Die Ebene &quot;Roll Paint&quot; verfügt ebenfalls über Symbole für Material und Überblendung. Da sie jedoch mit der Maus bewegt wird, ist auch die Sichtbarkeit ein- und ausgeschaltet.
+In diesem Bild des **Ebenenbedienfelds** verfügt jedes Symbol im Ebenenstapel über einen anderen Parametersatz, um das Erscheinungsbild Ihres Materials zu steuern. Die Tonebene verfügt beispielsweise über das Symbol &quot;Material&quot; und das Symbol &quot;Angleichen&quot;, die jeweils über einen eigenen Parametersatz verfügen. Die Malebene &quot;Rollen&quot; verfügt auch über Material- und Angleichungssymbole. Da der Mauszeiger jedoch bewegt wird, ist auch die Sichtbarkeit ein-/ausgeschaltet.
 
 </td>
 </tr>
@@ -47,6 +47,6 @@ Im Abschnitt **Angewendet auf** des **Eigenschaftenbedienfelds** können Sie ste
 
 ![Im Abschnitt Angewendet auf... des Eigenschaftenkanals können Sie steuern, welche Kanäle der aktuelle Filter betrifft.](../../assets/6.0_AppliedTo.png)
 
-Standardmäßig sind für die meisten Materialien und Filter alle Kanäle aktiviert. Einige Filter wie &quot;Helligkeit&quot; oder &quot;Dynamik&quot; wirken sich nur auf einen einzelnen Kanal aus. Wenn sich Filter nur auf einen einzelnen Kanal auswirken, wird der betroffene Kanal neben dem Ebenennamen angezeigt.
+Standardmäßig sind für die meisten Materialien und Filter alle Kanäle aktiviert. Einige Filter wie &quot;Helligkeit&quot; oder &quot;Dynamik&quot; wirken sich nur auf Ein Kanal aus. Wenn sich Filter nur auf einen Ein Kanal auswirken, wird neben dem Ebenennamen der entsprechende Kanal angezeigt.
 
 ![Ein Screenshot des Ebenenfensters mit unterstrichenen Kanalbeschriftungen.](../../assets/6.0_LayerChannelSpecifier.png)

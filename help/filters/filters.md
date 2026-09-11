@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
-> Die Unterstützung für Umgebungslichter und Meshes wird mit der Veröffentlichung von Sampler V5.2 entfernt. Zum Entfernen von Umgebungslichtern gehört auch das Entfernen von HDRI-Werkzeugen und Filtern.
+> Die Unterstützung für Umgebungslicht und Mesh wird mit der Veröffentlichung von Sampler 5.2 entfernt. Zum Entfernen von Umgebungslichtern gehört auch das Entfernen von HDRI-Werkzeugen und Filtern.
 
 In Adobe Substance 3D Sampler sind Filter das primäre Tool, das zum Ändern und Anpassen von Elementen verwendet wird. Sampler umfasst die folgenden Filtertypen:
 

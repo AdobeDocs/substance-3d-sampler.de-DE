@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows.html"
 breadcrumb-title: ''
-description: Entdecke die Features und Workflows in Substance 3D Sampler, um detaillierte Materialien aus vorhandenen Elementen zu erstellen und Umgebungslichter zu bearbeiten.
+description: Entdecke die Features und Workflows in Substance 3D Sampler, um detaillierte Materials aus vorhandenen Elementen zu erstellen und Umgebungslichts zu bearbeiten.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Funktionen und Workflows
 
-Sampler eignet sich hervorragend für die schnelle Erstellung detaillierter Materialien aus vorhandenen Elementen, aber Workflows wie &quot;Bild zu Material&quot; machen Sampler einzigartig.
+Sampler eignet sich hervorragend für die schnelle Erstellung detaillierter Materials aus vorhandenen Elementen, aber Workflows wie &quot;Bild zu Material&quot; machen Sampler einzigartig.
 
 Erfahren Sie in diesem Abschnitt, wie Sie die folgenden Tools und Workflows verwenden:
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/adjustments/color-variation.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Farbvariationsfilter in Substance 3D Sampler, um Texturen eine Farbvielfalt und Variation hinzuzufügen, um natürlichere Materialien zu erzeugen.
+description: Verwenden Sie den Farbvariationsfilter in Substance 3D Sampler, um Texturen Farbvielfalt und Variation hinzuzufügen, um natürlichere Materialien zu erhalten.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Color Variation
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Mit dem Farbvariationsfilter können Sie mehrere Farben in der Grundfarbe oder im diffusen Kanal gleichzeitig ersetzen. Dies ähnelt dem **Filter zum Farbersetzen**, doch während Sie mit **Farbvariation** mehrere Farben in einem Filter anpassen können, gibt Ihnen **Filter ersetzen** mehr Kontrolle über die Maske, die zum Ersetzen von Farben verwendet wird, und kann auf mehreren Kanälen verwendet werden.
+Mit dem Farbvariationsfilter können Sie mehrere Farben in der Grundfarbe oder im Diffusionskanal gleichzeitig ersetzen. Dies ähnelt dem **Filter zum Farbersetzen**, doch während Sie mit **Farbvariation** mehrere Farben in einem Filter anpassen können, gibt Ihnen **Filter ersetzen** mehr Kontrolle über die Maske, die zum Ersetzen von Farben verwendet wird, und kann auf mehreren Kanälen verwendet werden.
 
 In den folgenden Bildern wurde der **Farbvariationsfilter** verwendet, um nicht nur die zugrunde liegende weiße Farbe so anzupassen, dass sie wie ein heller Türkis aussieht, sondern auch um den Kontrast vieler der kleineren Flecken zu erhöhen.
 
@@ -66,22 +66,22 @@ In den folgenden Bildern wurde der **Farbvariationsfilter** verwendet, um nicht 
   Passen Sie an, wie stark die Luminanzwerte von der ersetzten Farbe beeinflusst werden.
 * **Segmentierung**:\
   Die Maske zum Anwenden von Farben auf einen anderen Kanal basieren lassen.
-* **Farbauswahlmodus**:\
-  Legen Sie fest, ob die Quellfarben manuell oder automatisch ausgewählt werden sollen. Wenn der Auswahlmodus **Manuell** ausgewählt ist, verwenden Sie die Handles in der **2D-Ansicht**, um Farben auszuwählen.
-  * **Texthilfe anzeigen**: Knebel\
-    Dieses Steuerelement ist nur sichtbar, wenn der **Farbauswahlmodus** auf **Manuell** festgelegt ist. Wenn diese Option aktiviert ist, fügt **Texthilfe anzeigen** den Handles in der **2D-Ansicht Textbeschriftungen hinzu**, um Farbauswahlgriffe leichter unterscheiden zu können.
+* **Farbauswahl-Modus**:\
+  Legen Sie fest, ob die Quellfarben manuell oder automatisch ausgewählt werden sollen. Wenn der Auswahlmodus &quot;**Manuell**&quot; ausgewählt ist, verwenden Sie die Handles in &quot;**2D-Ansicht**&quot;, um Farben auszuwählen.
+  * **Helfer anzeigen**: Knebel\
+    Dieses Steuerelement ist nur sichtbar, wenn der **Farbauswahl-Modus** auf **Manuell** festgelegt ist. Wenn diese Option aktiviert ist, fügt &quot;**Helfer einblenden**&quot; den Handles in &quot;**2D-Ansicht**&quot; Textbeschriftungen hinzu, um Farbauswahl-Handles leichter unterscheiden zu können.
 * **Farbe X**: Farbauswahl\
-  Die Anzahl der verfügbaren Farbsteuerelemente hängt von dem mit **Farbanzahl** ausgewählten Wert ab. Wähle für jede Farbe die neue Farbe aus, die die ursprüngliche Materialfarbe ersetzen soll.
+  Die Anzahl der verfügbaren Farbsteuerelemente hängt von dem mit **Farbanzahl** ausgewählten Wert ab. Wähle für jede Farbe die neue Farbe aus, die das ursprüngliche Material ersetzen soll.
 
 ## Benutzerhandbuch
 
-Mit dem **Farbvariationsfilter** können Sie schnell mehrere Farben des Grundfarbkanals gleichzeitig ändern. Für einige Materialien kann dies hilfreich sein, um kleine Anpassungen vorzunehmen, aber der **Farbvariationsfilter** ist am besten geeignet, um die Farben Ihres Materials mit einem einzigen Filter vollständig zu überarbeiten.
+Mit dem **Farbvariationsfilter** können Sie schnell mehrere Grundfarben des Farbkanals gleichzeitig ändern. Für einige Materialien kann dies hilfreich sein, um kleine Anpassungen vorzunehmen, aber der **Farbvariationsfilter** ist am besten geeignet, um die Farben Ihres Materials mit einem einzigen Filter vollständig zu überarbeiten.
 
 So verwenden Sie den **Farbvariationsfilter**:
 
 1. Fügen Sie den **Farbvariationsfilter** zum Ebenenstapel hinzu.
 1. Passen Sie die Anzahl der Farben an, die Sie durch **Farbanzahl** ersetzen möchten. Der Filter ersetzt die gesamte Farbe des Kanals. Mit dem Steuerelement **Farbanzahl** können Sie festlegen, mit wie vielen neuen Farben die vorhandenen Farben ersetzt werden.
-1. Wählen Sie optional eine **Segmentation** oder einen anderen Kanal aus, auf dem die Farben basieren sollen. Sie können beispielsweise den metallischen Kanal auswählen und mithilfe von **Farbauswahlmodus > Manuell** einen Handle auf einen schwarzen metallischen Wert und einen anderen auf einen weißen metallischen Wert platzieren. Mit dieser Einstellung können Sie die Farbe von metallischen und nichtmetallischen Teilen Ihres Materials individuell steuern.
-1. Wählen Sie einen **Farbauswahlmodus** aus. Wenn der manuelle Modus ausgewählt ist, werden in der **2D-Ansicht** Handles angezeigt, mit denen Sie die ursprüngliche Grundfarbe auswählen können, die durch die neue Farbe ersetzt wird. Aktivieren Sie **Texthilfe anzeigen**, um zu verfolgen, welches Handle mit welcher Farbe verknüpft ist.
+1. Wählen Sie optional eine **Segmentation** oder einen anderen Kanal aus, auf dem die Farben basieren sollen. Sie können beispielsweise den metallic Kanal auswählen und mithilfe von &quot;**Farbauswahl > Manuell**&quot; einen Handle auf einen metallic Schwarzwert und einen anderen auf einen metallic Weißwert platzieren. Mit dieser Einstellung können Sie die Farbe metallic und nicht metallic Teile Ihres Materials einzeln steuern.
+1. Wählen Sie einen **Farbauswahl-Modus** aus. Wenn der manuelle Modus ausgewählt ist, werden Handles in der **2D-Ansicht** angezeigt, mit denen Sie die ursprüngliche Grundfarbe auswählen können, die durch die neue Farbe ersetzt wird. Aktivieren Sie **Helfer anzeigen**, um zu verfolgen, welches Handle mit welcher Farbe verknüpft ist.
 1. Ändern Sie die Farbwerte mit den Steuerelementen **Farbe 1 - 10**.
-1. Passen Sie die **Luminanzvariation** an, um anzupassen, wie stark die Luminanz durch den Farbaustausch beeinflusst wird. Bei einer niedrigen **Luminanzvariation** können Sie die Farben Ihres Materials vollständig reduzieren oder eine hohe **Luminanzvariation** verwenden, um die Details der Originalfarben beizubehalten.
+1. Passen Sie die **Luminanzvariation** an, um anzupassen, wie stark die Luminanz durch den Farbaustausch beeinflusst wird. Bei einer niedrigen **Luminanzvariation** können Sie die Farben Ihres Materials vollständig reduzieren oder eine hohe **Luminanzvariation** verwenden, um die Detailtreue der Originalfarben beizubehalten.

@@ -46,7 +46,7 @@ Es stehen drei Optionen zur Auswahl:
 
 >[!WARNING]
 >
-> Um die Lizenzdatei mit dem Aktivierungsassistenten zu installieren, müssen Sie Sampler als Administrator ausführen und das Antivirenprogramm vorübergehend deaktivieren.
+> Um die Lizenzdatei mit dem Aktivierungsassistent zu installieren, stellen Sie sicher, dass Sie Sampler als Administrator ausführen und Ihr Antivirenprogramm vorübergehend deaktivieren.
 
 ### Manuelle Aktivierung
 

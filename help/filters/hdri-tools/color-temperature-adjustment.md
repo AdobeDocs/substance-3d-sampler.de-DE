@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Passen Sie die Temperatur des Umgebungslichts an.
+Passe die Farbtemperatur deines Umgebungslichts an.
 
 Die folgenden Abbildungen zeigen, wie der **Lichtfilter** verwendet werden kann, um das Color Temperature Adjustment einer Umgebungsbeleuchtung wärmer oder kühler erscheinen zu lassen.
 
@@ -70,7 +70,7 @@ Die folgenden Abbildungen zeigen, wie der **Lichtfilter** verwendet werden kann,
 * **Benutzerdefinierte Maske**: Knebel\
   Aktivieren oder Deaktivieren der Verwendung einer benutzerdefinierten Maske. Wenn aktiviert, werden die folgenden Parameter angezeigt:
   * **Maske**: Bild/Pinsel\
-    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder malen Sie mit dem Pinsel eine benutzerdefinierte Maske direkt in der 2D-Ansicht.
+    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um eine benutzerdefinierte Maske direkt in die 2D-Ansicht Malen
   * **Benutzerdefinierte Maske - Weichzeichnen**: 0-1\
     Weichzeichnen der Maske
   * **Benutzerdefinierte Maske - Umkehren**: Knebel\

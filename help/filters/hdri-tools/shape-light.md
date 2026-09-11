@@ -53,7 +53,7 @@ Erstellen Sie eine Beleuchtung in Form eines Rechtecks oder einer Disc.
       Wähle die Farbe des Lichts aus.
   * **Image-Eingabe**
     * **Shape Image Input**: Bild/Pinsel\
-      Importieren Sie ein Bild, das als Farbe verwendet werden soll. Sie können das Pinselwerkzeug verwenden, um direkt in der **2D-Ansicht** zu malen, dies kann jedoch zu unvorhersehbaren Ergebnissen mit diesem Filter führen.
+      Importieren Sie ein Bild, das als Farbe verwendet werden soll. Sie können das Pinselwerkzeug verwenden, um direkt in der **2D-Ansicht** zu Malen. Dies kann jedoch zu unvorhersehbaren Ergebnissen mit diesem Filter führen.
 * **Hotspot-Exposition (EV)**: 0-10\
   Passen Sie die Belichtung des Hotspots an. Der Hotspot kann manchmal schwer oder gar nicht sichtbar sein - stellen Sie in einem neuen **Formlichtfilter** die **Formtemperatur** auf 1000 und die **Hotspot-Belichtung** **(EV)** auf 10 ein, um den Hotspot in der Mitte der Form zu sehen.
 * **Form**:\
@@ -64,13 +64,13 @@ Erstellen Sie eine Beleuchtung in Form eines Rechtecks oder einer Disc.
 * **Hotspot-Position**: 0-1\
   Hotspot-Position versetzen
 * **Matrixversatz**: -2 bis 2\
-  Ändern Sie die Position des Formenlichts. Sie können das Licht auch in der **2D-Ansicht** ziehen, um es neu zu positionieren.
+  Ändern Sie die Position des Formenlichts. Sie können die Leuchte auch in der **2D-Ansicht** ziehen, um sie neu zu positionieren.
 
 **Form**
 
 * **Formexposition (EV)**: 0-10\
   Anpassen der Belichtung des Lichts
-* **Formhärte**: 0-1\
+* **Shape-Härte**: 0-1\
   Glätten der Kanten des Lichts
 * **Hotspot-Größe**: 0-1
 * **Hotspot-Falloff**: 0-1\

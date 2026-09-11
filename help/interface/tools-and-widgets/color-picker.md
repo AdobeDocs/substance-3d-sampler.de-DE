@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
 breadcrumb-title: ''
-description: Lerne, wie du mit dem Farbwähler in Substance 3D Sampler Farben für Materialien, Filter und Strukturen auswählst.
+description: Erfahren Sie, wie Sie mit dem Farbwähler in Substance 3D Sampler Texturen für Materialien, Filter und die Farbbearbeitung auswählen können.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Tools and Widgets > Color Picker
 helpx_experience_level: ""
@@ -50,11 +50,11 @@ RGB (Rot, Grün, Blau) und HSV (Farbton, Sättigung, Wert) sind die beiden verf�
 
 Mit dieser Option können Sie die Regler ausblenden, um Platz zu sparen. Auch wenn die Schieberegler ausgeblendet sind, können Sie die Werteingaben noch ändern.
 
-**Gleitkommawerte**
+**Fließkommawert**
 
 ![](../../assets/float-value.jpg){width="200px"}
 
-Legen Sie fest, ob Gleitkommawerte oder Ganzzahlen für Schieberegler verwendet werden sollen. Gleitkommawerte liegen zwischen 0 und 1, während ganzzahlige Werte zwischen 0 und 255 liegen.
+Legen Sie fest, ob Gleitkomma- oder Ganzzahl-Werte für Schieberegler verwendet werden sollen. Fließkommawert liegen zwischen 0 und 1, während die Werte für die Ganzzahl zwischen 0 und 255 liegen.
 
 **Dynamische Schieberegler**
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
-description: Erstellen Sie in Substance 3D Sampler mit dem Oberflächenmaterialgenerator geprägte und Relief-Oberflächenmuster in Reliefs.
+description: Verwenden Sie den Generator für Oberflächenmuster in Substance 3D Sampler, um geprägte und Relief-Oberflächenmuster in Materialien zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Surface Relief
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Verwenden Sie den Oberflächenmaterialfilter, um Ihrem Relief Rauschen hinzuzufügen. Damit kannst du große Formen zerlegen oder dein Design interessanter gestalten.
+Verwenden Sie den Filter Surface Relief , um Ihrem Material Rauschen hinzuzufügen. Damit kannst du große Formen zerlegen oder dein Design interessanter gestalten.
 
 </td>
 </tr>
@@ -46,27 +46,27 @@ Verwenden Sie den Oberflächenmaterialfilter, um Ihrem Relief Rauschen hinzuzuf�
 * <b>Zufallsparameter</b>:\
   Die Zufallsgeschwindigkeit, auf der alle anderen Zufallsparameter in diesem Filter basieren.
 * <b>Intensität</b>: 0-1\
-  Ändern der Amplitude des Rauschens
+  Ändern der Amplitude des Rauschen
 * <b>Weichzeichnungsintensität</b>: 0-1\
-  Stärke des Weichzeichners, der auf das Rauschen angewendet wird
-* <b>Oberflächenstörung </b>: Bild-/Pinsel-/Texturgenerator\
-  Verwende ein Bild oder einen Texturgenerator, um die Oberflächenstörung zu beheben.
+  Die Stärke des Weichzeichners, der auf den Rauschen angewendet wird
+* <b>Oberflächenstörung </b>: Image/Brush/Textur Generator\
+  Verwenden Sie ein Bild oder einen Textur-Generator, um die Oberflächenunvollkommenheit zu erzeugen.
 
-<b>Rauschparameter</b>
+<b>Rauschen-Parameter</b>
 
-* <b>Klemme</b>: 0-1\
-  Das Rauschen auf einen bestimmten Bereich begrenzen
+* <b>Beschränk</b>: 0-1\
+  Rauschen in einen bestimmten Bereich beschränken
 * <b>Kontrast</b>: 0-1\
-  Den Kontrast des Rauschens ändern.
+  Kontrast der Rauschen ändern.
 * <b>Umkehren</b>: Knebel\
-  Umkehren des Heights des Rauschens
+  Rauschen-Höhen-Map umkehren
 
 <b>Transformieren</b>
 
-* <b>Anordnen</b>: 1-16\
-  Im Gegensatz zu <b>Basisparameter > scale</b> verwaltet <b>Tiling</b> die Anzahl der Instanzen des Rauschens.
+* <b>Kachelung</b>: 1-16\
+  Im Gegensatz zu <b>Basisparameter > scale</b> verwaltet <b>Kachelung</b> die Anzahl der Instanzen der Rauschen.
 * <b>Spiegelung</b>:\
-  Spiegeln des Rauschens über eine oder beide Achsen
+  Spiegeln der Rauschen über eine oder beide Achsen
 * <b>Offset</b>:\
   Das Geräusch in der X- und Y-Achse neu positionieren
 * <b>Drehung</b>:\
@@ -76,8 +76,8 @@ Verwenden Sie den Oberflächenmaterialfilter, um Ihrem Relief Rauschen hinzuzuf�
 
 * <b>Benutzerdefinierte Maske verwenden</b>: Knebel\
   Aktivieren, um Steuerelemente für benutzerdefinierte Masken anzuzeigen:
-  * <b>Maske</b>: image/brush/Texture Generator\
-    Importieren Sie ein Bild, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um direkt in der <b>2D-Ansicht zu malen</b>
+  * <b>Maske</b>: image/brush/Textur Generator\
+    Importieren Sie ein Bild, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um direkt in der <b>2D-Ansicht</b> Malen.
   * <b>Benutzerdefinierte Maske - Weichzeichnen</b>: 0-1\
     Weichzeichnen der Maske
   * <b>Benutzerdefinierte Maske - Umkehren</b>: Knebel
@@ -85,15 +85,15 @@ Verwenden Sie den Oberflächenmaterialfilter, um Ihrem Relief Rauschen hinzuzuf�
 <b>Erweiterte Parameter</b>
 
 * <b>Height-Intensität</b>: 0-1\
-  Steuern Sie die Überblendung der Rauschhöhenkarte mit der zugrunde liegenden Materialkarte
+  Steuern Sie die Überblendung der Rauschen-Höhenkarte mit der zugrunde liegenden Materialien-Höhenkarte
 * <b>Height - Basis ersetzen</b>: Knebel\
   Stellt ein, ob das Basis-Height ersetzt werden soll
 * <b>Normalintensität</b>: 0-1\
-  Passen Sie die Stärke der normalen Geräuschkarte an.
+  Anpassen der Stärke des Rauschen-Normalen-Map
 * <b>Normal - Basis ersetzen</b>: Knebel\
   Stellt ein, ob die normale Grundkarte ersetzt werden soll oder nicht
 * <b>Normal - Richtung</b>:\
-  Ändern der Achsen, die für die normale Erzeugung verwendet werden sollen
+  Ändern der für die normale Generierung zu verwendenden Achsen
 * <b>Normal - Drehrichtung</b>
-* <b>Umgebungsintensität - Verdeckung</b>
-* <b>Umgebungsradius - Verdeckung</b>
+* <b>Ambient occlusion - Intensität</b>
+* <b>Ambient occlusion - Radius</b>

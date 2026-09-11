@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/perspective-correction.html"
 breadcrumb-title: ''
-description: Verwenden Sie das Perspektivkorrektur-Werkzeug in Substance 3D Sampler, um die perspektivische Verzerrung in aufgenommenen Bildern und Texturen zu korrigieren.
+description: Verwenden Sie das Perspektive-Korrektur-Tool in Substance 3D Sampler, um die Verzerrung der Perspektive in aufgenommenen Bildern und Texturen zu korrigieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Perspective Correction
 helpx_experience_level: ""
@@ -18,7 +18,7 @@ ht-degree: 2%
 ---
 
 
-# Perspektivische Transformation
+# Perspektive Transformieren
 
 <table>
 <tr style="border: 0;">
@@ -33,13 +33,13 @@ ht-degree: 2%
 
 ## Beschreibung
 
-Verwenden Sie das <b>Werkzeug zum perspektivischen Transformieren </b>, um Perspektivprobleme in einem Bild zu beheben. <b>Perspective Transform</b> kann auch für Materialien verwendet werden.
+Verwenden Sie das <b>Perspektive Transformieren-Tool </b>, um Probleme mit der Perspektive in einem Image zu beheben. <b>Perspektive Transformieren</b> kann auch auf Materialien verwendet werden.
 
-Das folgende Bild zeigt ein Beispielmaterial, bevor es vom <b>Perspektivtransformationstool</b> behoben wird. Beachten Sie, wie die Formen oben in der 2D-Ansicht im Vergleich zu den Formen unten in der 2D-Ansicht vertikal gestreckt werden.
+Die folgende Abbildung zeigt ein Beispiel für ein Material, bevor es vom <b>Perspektive Transformieren-Tool</b> behoben wurde. Achte darauf, wie die Formen am oberen Rand der 2D-Ansicht im Vergleich zu den Formen am unteren Rand der 2D-Ansicht vertikal gedehnt werden.
 
 ![](../../assets/3d-2d-filters-cropped-0005-perspective-in.jpg)
 
-Mit der <b>Perspektivischen Transformation</b> sind die Formen konsistent und bilden ein Raster. Von diesem Punkt an ist es ganz einfach, Filter wie <b>Kacheln</b> oder <b>Kacheln</b> zu verwenden, um dies in ein kachelbares Material zu konvertieren.
+Mit der <b>Perspektive Transformieren</b> sind die Formen konsistent und bilden einen Raster. Ab diesem Zeitpunkt ist es ganz einfach, Filter wie <b>Kachelung</b> oder <b>Kachel erstellen</b> zu verwenden, um dieses Element in ein kachelbares Material zu konvertieren.
 
 ![](../../assets/3d-2d-filters-cropped-0004-perspective-out.jpg)
 
@@ -49,10 +49,10 @@ Mit der <b>Perspektivischen Transformation</b> sind die Formen konsistent und bi
 
 ## Benutzerhandbuch
 
-Wenn die Ebene &quot;Perspektivische Transformation&quot; ausgewählt ist, wird in der 2D-Ansicht an jeder Ecke der Textur ein Auswahlpunkt angezeigt. Verschiebe sie einzeln im 2D-Raum, um die Perspektive zu korrigieren.
+Die Ebene &quot;Perspektive Transformieren&quot; ist ausgewählt. Auf jeder Ecke der Textur in der 2D-Ansicht wird ein Auswahlpunkt angezeigt. Verschiebe sie einzeln im 2D-Raum, um die Perspektive zu korrigieren.
 
 ![](../../assets/alchemist-2020-2-perspective.gif){width="300px"}
 
 ## Symbolleiste
 
-Wenn die Ebene &quot;Perspektivische Transformation&quot; ausgewählt ist, wird oben in der **2D-Ansicht** eine Symbolleiste angezeigt. Verwenden Sie die Schaltfläche **Positionen zurücksetzen**, um die Handles der Ebene &quot;Perspektivische Transformation&quot; auf die Standardpositionen zurückzusetzen.
+Die Ebene &quot;Perspektive Transformieren&quot; ist ausgewählt. Oben in der **2D-Ansicht** wird eine Symbolleiste angezeigt. Verwenden Sie die Schaltfläche **Positionen zurücksetzen**, um die Handles der Ebene &quot;Perspektive Transformieren&quot; auf die Standardpositionen zurückzusetzen.

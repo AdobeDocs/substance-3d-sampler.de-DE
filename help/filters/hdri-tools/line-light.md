@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Fügen Sie Ihrer Umgebungsbeleuchtung eine **Linienbeleuchtung** hinzu.
+Fügen Sie Ihrem Umgebungslicht ein **Linienlicht** hinzu.
 
 Die folgenden Bilder zeigen, wie Sie ein **Linienlicht** verwenden können, um die Beleuchtung Ihrer Umgebung anzupassen.![](../../assets/3d-2d-filters-cropped-0017-line-light-in.jpg)
 
@@ -63,11 +63,11 @@ Nach dem Hinzufügen eines **Linienlichts** hat sich das Erscheinungsbild der Ku
       Wähle die Farbe des Lichts aus.
   * **Image-Eingabe**
     * **Shape Image Input**: Bild/Pinsel\
-      Importieren Sie ein Bild, das als Farbe verwendet werden soll. Sie können das Pinselwerkzeug verwenden, um direkt in der **2D-Ansicht** zu malen, dies kann jedoch zu unvorhersehbaren Ergebnissen mit diesem Filter führen.
+      Importieren Sie ein Bild, das als Farbe verwendet werden soll. Sie können das Pinselwerkzeug verwenden, um direkt in der **2D-Ansicht** zu Malen. Dies kann jedoch zu unvorhersehbaren Ergebnissen mit diesem Filter führen.
   * **Beispielhintergrund**
     * Der Beispielhintergrund stellt keine neuen Parameter zur Verfügung - stattdessen basiert die Lichtfarbe auf den Hintergrundwerten.
 * **Positionsmodus**:\
-  Ändern Sie die Methode, mit der die Lichtposition bestimmt wird. Die Parameter im Abschnitt **Positionskoordinaten** ändern sich basierend auf der Auswahl. Wenn **Weltposition** ausgewählt ist, verschwinden die Handles aus der **2D-Ansicht**. Verwenden Sie stattdessen die Parameter in **Positionskoordinaten**, um die Position des Lichts zu ändern.
+  Ändern Sie die Methode, mit der die Lichtposition bestimmt wird. Die Parameter im Abschnitt **Positionskoordinaten** ändern sich basierend auf der Auswahl. Wenn **Weltposition** ausgewählt ist, verschwinden die Handles aus der **2D-Ansicht**. Verwenden Sie stattdessen die Parameter in **Positionskoordinaten**, um die Lichtposition zu ändern.
 
 **Form**
 
@@ -77,12 +77,12 @@ Nach dem Hinzufügen eines **Linienlichts** hat sich das Erscheinungsbild der Ku
   Passe die Thickness der Linie an, die die Lichtquelle bildet.
 * **Muster**:\
   Die Form der Linie ändern.
-* **Musterhärte**: 0-1\
+* **Pattern-Härte**: 0-1\
   Glätten der Kanten des Lichts
 * **Muster-UV-Modus**:\
-  Passe das Muster an, auf dem das Licht basiert. **Dehnen** dehnt die gesamte Form so, dass sie den Linienendpunkten entspricht. **Nur Mitte dehnen** dehnt die Mitte der Form, wobei die Enden der Linie unverzerrt bleiben. **Wiederholen + Abstand** erstellt Stempel der Form entlang der Zeilenlänge und fügt einen zusätzlichen Parameter hinzu, um den Abstand zu verwalten:
-  * **Abstand der Musterwiederholung**: 0-1\
-    Breite des Abstands zwischen Forminstanzen anpassen
+  Passe das Muster an, auf dem das Licht basiert. **Dehn** dehne die gesamte Form, sodass sie mit den Linienendpunkten übereinstimmt. **Nur Mitte Gedehnt** dehne die Mitte der Form bei, wobei die Enden der Linie unverzerrt bleiben. **Wiederholen + Abstand** erstellt Stempel der Form entlang der Zeilenlänge und fügt einen zusätzlichen Parameter hinzu, um Abstand zu verwalten:
+  * **Abstand zur Musterwiederholung**: 0-1\
+    Die Breite des Abstands zwischen Forminstanzen anpassen.
 
 **Positionskoordinaten**
 
@@ -90,8 +90,8 @@ Verfügbare Parameter hängen von der Auswahl ab, die für **Basisparameter > Po
 
 * **Absolutes Height der Zeile**: 0-1\
   Ändere die Entfernung des Lichts zur Kamera.
-* **Kameraposition**: 0-1\
-  Passen Sie die relative Position der Kamera zum Licht in der X-, Y- und Z-Achse an.
+* **Position der Kamera**: 0-1\
+  Passen Sie die relative Position der Kamera zur Lichtquelle in der X-, Y- und Z-Achse an.
 
 Wenn **Weltposition** in **Basisparameter > Positionsmodus** ausgewählt wird, sind die folgenden Parameter verfügbar:
 
@@ -100,17 +100,17 @@ Wenn **Weltposition** in **Basisparameter > Positionsmodus** ausgewählt wird, s
 * **Weltrangliste für Punkt 1**: -2 bis 2\
   Passen Sie die Position des ersten Punkts der Linie in der X-, Y- und Z-Achse an.
 * **Weltrangliste für Punkt 2**: -2 bis 2\
-  Passen Sie die Position des zweiten Punkts der Linie in der X-, Y- und Z-Achse an.
-* **Kameraposition**: 0-1\
-  Passen Sie die relative Position der Kamera zum Licht in der X-, Y- und Z-Achse an.
+  Passen Sie die Position des zweiten Linienpunkts in der X-, Y- und Z-Achse an.
+* **Position der Kamera**: 0-1\
+  Passen Sie die relative Position der Kamera zur Lichtquelle in der X-, Y- und Z-Achse an.
 
 **Hintergrund**
 
-* **Grundraster anzeigen**: Knebel\
-  Blendet das Grundraster ein oder aus.
+* **Boden-Raster anzeigen**: Knebel\
+  Blenden Sie den Boden-Raster ein oder aus.
 * **Bodenbeschneidung aktivieren**: Knebel\
-  Lege fest, ob das Licht durch den Boden hindurch geclippt werden kann. Wenn diese Option aktiviert ist, wird das folgende Steuerelement angezeigt:
-  * **Ground-Height**: -2 bis 2\
+  Legen Sie fest, ob die Lichtquelle durch den Boden hindurch geschnitten werden kann. Wenn diese Option aktiviert ist, wird das folgende Steuerelement angezeigt:
+  * **Boden-Height**: -2 bis 2\
     Passe das Height des Bodens an, um das Licht abzuschneiden.
 * **Gamma im Hintergrund**:\
   Wählen Sie das Farbsystem aus, mit dem das Gamma-Hintergrundbild bestimmt wird.

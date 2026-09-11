@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/water.html"
 breadcrumb-title: ''
-description: Verwende den Wasserfilter in Substance 3D Sampler, um deinen Materialien und Strukturen Wassereffekte, Feuchtigkeit und Feuchtigkeit hinzuzufügen.
+description: Verwenden Sie den Wasserfilter in Substance 3D Sampler, um Ihren Materialien und Texturen Wassereffekte, Feuchtigkeit und Feuchtigkeit hinzuzufügen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Water
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Verwenden Sie den **Erosionsfilter**, um an hohen Stellen Ihres Materials abzutragen.
+Verwenden Sie den **Erosionsfilter**, um sich an hohen Stellen auf Ihrem Material abzunutzen.
 
 ![](../../assets/water-compare.png)
 
@@ -54,11 +54,11 @@ Verwenden Sie den **Erosionsfilter**, um an hohen Stellen Ihres Materials abzutr
 * **Kantennässe**: 0-1\
   Passe an, wie weit über der Wasserlinie das Material nass erscheint.
 * **Dirt auf Wasser aktivieren**: Knebel\
-  Fügen Sie dem oberen Teil des Wassers Dirt hinzu, indem Sie die Raueitskarte leicht ändern. Der **Parameterabschnitt** wird nur angezeigt, wenn dieser Dirt aktiviert ist.
+  Fügen Sie dem oberen Teil des Wassers Dirt hinzu, indem Sie die Rauheit leicht ändern. Der **Parameterabschnitt** wird nur angezeigt, wenn dieser Dirt aktiviert ist.
 * **Benutzerdefinierte Maske**: Knebel\
   Wenn diese Option aktiviert ist, wird das folgende zusätzliche Steuerelement angezeigt:
   * **Maske**: Bild/Pinsel\
-    Wählen Sie ein Bild aus, das als benutzerdefinierte Maske verwendet werden soll, oder malen Sie mit dem Pinsel eine Maske direkt in der **2D-Ansicht**.
+    Wählen Sie ein Bild aus, das als benutzerdefinierte Maske verwendet werden soll, oder verwenden Sie den Pinsel, um eine Maske direkt in der **2D-Ansicht** Malen.
 
 **Dirt**
 
@@ -67,11 +67,11 @@ Dieser Abschnitt wird nur angezeigt, wenn **Grundlegende Parameter > Dirt auf Wa
 * **Anzahl Dirt**: 0-1\
   Passen Sie die Menge des auf der Wasseroberfläche schwebenden Dirts an.
 * **Intensität der Verzerrung**: 0-1\
-  Steuern Sie die Verzerrung des Dirts der Oberfläche auf der Grundlage des Schnittpunkts zwischen dem Wasser und dem restlichen Material.
+  Steuern Sie die Verzerrung des Dirts der Wasseroberfläche auf der Grundlage des Schnittpunkts zwischen dem Wasser und dem restlichen Material.
 * **Rahmenintensität des Dirts**: 0-1\
-  Stärke des Dirts in der Nähe der Ränder der Dirt-Maske verwalten.
+  Verwalten Sie die Stärke des Dirts in der Nähe der Ränder der Dirt-Maske.
 * **Dirt-Randabstand**: 0-1\
-  Lege fest, wie weit der Dirt vom Schnittpunkt zwischen der Nass- und der Trockenpartie des Materials entfernt ist.
+  Lege fest, wie weit der Dirt vom Schnittpunkt zwischen dem nassen und dem trockenen Bereich des Materials entfernt ist.
 * **Rahmengenauigkeit**: 0-1\
   Passen Sie die Präzision des Dirts an.
 * **Randverkrümmung**: 0-1\
@@ -82,7 +82,7 @@ Dieser Abschnitt wird nur angezeigt, wenn **Grundlegende Parameter > Dirt auf Wa
 * **Kantenfeuchtigkeitsentfernung**: 0-1\
   Kontrollieren Sie, wie weit in trockene Bereiche die Kantenfeuchtigkeit reicht.
 * **Tiefen-Weichzeichnungsbetrag**: 0-1\
-  Passen Sie an, wie stark die Grundfarbe für Bereiche unter Wasser weichgezeichnet wird.
+  Passen Sie an, wie stark die Grundfarbe in Bereichen unter Wasser weichgezeichnet wird.
 * **Tiefe-Weichzeichnungsdeckkraft**: 0-1\
   Passe die Transparenz des Wassers an.
 * **Schlammfarbe**: Farbauswahl\

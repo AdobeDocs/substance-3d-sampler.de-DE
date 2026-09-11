@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Brickwall-Generator in Substance 3D Sampler, um realistische Muster von Backsteinwänden und Mauerwerkstexturen für Materialien zu erstellen.
+description: Verwenden Sie den Brickwall-Generator in Substance 3D Sampler, um realistische Ziegel-Wandmuster und Mauerwerk-Texturen für Materialien zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Brickwall
 helpx_experience_level: ""
@@ -31,9 +31,9 @@ ht-degree: 0%
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
 
-BeschreibungDer Brickwall-Filter erzeugt ein Backsteinmuster basierend auf den Ebenen darunter. Dies ist nützlich für die Schaffung von Ziegelmauern (wie der Name schon sagt), aber auch Böden, oder irgendwo anders Ziegelsteine verwendet werden.
+BeschreibungDer Brickwall-Filter erzeugt ein Ziegel-Muster auf Basis der darunterliegenden Ebenen. Dies ist nützlich für die Erstellung von Ziegel Wänden (wie der Name schon sagt), aber auch Böden, oder irgendwo anders Ziegel verwendet werden.
 
-In den folgenden Bildern wird ein Tonmaterial mit dem **Brickwall-Filter in eine Ziegelwand umgewandelt.**
+In den folgenden Abbildungen wird ein Material aus Ton mit dem **Brickwall-Ziegel in eine Steinmauer konvertiert.**
 
 <table>
 <tr style="border: 0;">
@@ -65,35 +65,35 @@ Wählen Sie aus einer Reihe von Vorgaben aus, um schnell einen bestimmten Stil z
 * **Zufallsparameter**: Zufallszahl\
   Der Zufallswert, der zum Bestimmen anderer Zufallswerte in diesem Filter verwendet wird.\
   Klicken Sie auf die Zahl, um einen neuen zufälligen Wert zu erhalten. Wenn ein zufälliger Wert ausgewählt wurde, klicken Sie auf den Parameternamen, um den Wert auf 0 zurückzusetzen.
-* **Brick Bond**:\
-  Zusammenfügen von Steinen basierend auf dem ausgewählten Stil
-* **Ziegeltyp**:\
-  Wählen Sie den Stil des Ziegels aus
+* **Ziegel-Bindung**:\
+  Ziegel anhand des ausgewählten Stils zusammenführen
+* **Ziegel Typ**:\
+  Auswählen des Stils für Ziegel
 * **Kachel**: 1-25\
-  Ändern Sie den Umfang der Unterteilung auf der X- und Y-Achse.
+  Ändern Sie die Kachelung auf der X- und Y-Achse.
 * **Offset**: 0-1\
-  Ändern Sie den Versatz jeder Ziegelreihe in der vorhergehenden Zeile.
+  Ändern Sie den Versatz für jede Zeile mit Ziegeln in der vorherigen Zeile.
 * **Benutzerdefinierte Farbe verwenden**: Knebel\
-  Zusammenfügen von Steinen basierend auf dem ausgewählten Stil
+  Ziegel anhand des ausgewählten Stils zusammenführen
 
 **Mix**
 
 * **Mischmodus**:\
-  Ändert die Organisation von Bausteinen. Mit einem **Mischmodus** wird ein zweiter Satz von Steinen erstellt, der unabhängig vom Basissatz gesteuert werden kann.\
+  Ändert die Organisation von Ziegeln. Mit einem **Mischmodus** wird eine zweite Gruppe von Ziegeln erstellt, die unabhängig von der Grundmenge gesteuert werden können.\
   Wenn **Mischmodus** auf **Ohne** festgelegt ist, werden in diesem Abschnitt keine weiteren Parameter angezeigt.
-* **Ziegeltyp 2**:\
-  Wählen Sie den Stil des zweiten Satzes Ziegel.
+* **Ziegel Typ 2**:\
+  Wählen Sie den Stil der zweiten Gruppe von Ziegeln aus.
 * **Height-Offset**: 0-1\
   Versatz des Heights der zweiten Gruppe von Ziegeln
 
 **Zement**
 
 * **Zementfarbe**: Farbwähler\
-  Ändern Sie die Farbe des Zements zwischen den Steinen.
-* **Zement-Raueit**: 0-1\
-  Ändern Sie die Rauhigkeit des Zements zwischen den Steinen.
+  Ändern Sie die Zementfarbe zwischen Ziegeln.
+* **Cement-Rauheit**: 0-1\
+  Ändern Sie die Rauheit des Zements zwischen Ziegeln.
 * **Zement-Schnittstelle**: 0-1\
-  Ändern Sie die Breite des Zements zwischen den Steinen. Ändert die Größe des Steins.
+  Ändern Sie die Breite des Zements zwischen den Ziegeln. Ändert die Größe des Ziegels.
 * **Zementebene**: 0-1\
   Ändern des Heights des Zements
 * **Zement-Störung**: 0-1\
@@ -102,29 +102,29 @@ Wählen Sie aus einer Reihe von Vorgaben aus, um schnell einen bestimmten Stil z
 **Alter**
 
 * **Ziegel-Störung**: 0-1\
-  Passen Sie die Rotation jedes Steins nach dem Zufallsprinzip in 3 Dimensionen an.
-* **Ziegelzertrümmerung**: 0-1\
-  Risse in Steinen einfügen
-* **Brick Edge**: 0-1\
-  Beschädigen und Brechen der Kanten von Ziegeln
-* **Verborgener Ziegel**: 0-1\
-  Ziegelsteine zufällig entfernen
-* **Brick-Farbvariation**: 0-1\
-  Variieren Sie die Farbe der Steine, um die Wand weniger einheitlich aussehen zu lassen
-* **Schmutziges Ziegelstein**: 0-1\
-  Dirt zu Steinen hinzufügen
+  Passen Sie die Drehung jedes Ziegels nach dem Zufallsprinzip in 3 Dimensionen an.
+* **Ziegel zertrümmern**: 0-1\
+  Risse zu Ziegeln hinzufügen
+* **Ziegel Edge**: 0-1\
+  Beschädigen Sie die Kanten von Ziegeln und brechen Sie sie.
+* **Ziegel wurde entfernt**: 0-1\
+  Ziegel zufällig entfernen
+* **Farbvariation des Ziegels**: 0-1\
+  Variieren Sie die Farbgebung der Ziegel, um die Einheitlichkeit der Mauer zu verringern.
+* **Ziegel: Schmutzig**: 0-1\
+  Dirt zu Ziegeln hinzufügen
 
 **Erweiterte Parameter**
 
-* **Height-Mischintensität**: 0-1\
+* **Intensität der Height-Überblendung**: 0-1\
   Passen Sie die Überblendung des Heights aus dem Basismaterial an. Ein Wert von 0 ignoriert das Height des Basismaterials und verwendet nur die Brickwall-Filterparameter, um Height-Informationen zu generieren. Bei einem Wert von 1 wird das Basismaterial zum Generieren von Height-Informationen verwendet.
 * **Normalintensität**: 0-1\
   Passen Sie die Stärke der vom Brickwall-Filter generierten Normalen an. Ein Wert von 0 bedeutet praktisch keine Normalen.
-* **Umgebungsintensität der Verdeckung**: 0-1\
-  Passen Sie die Stärke der AO an. Ein Wert von 0 bedeutet praktisch keine Ambient-Verdeckung.
+* **Ambient occlusion-Intensität**: 0-1\
+  Passen Sie die Stärke der AO an. Ein Wert von 0 bedeutet praktisch kein Ambient occlusion.
 
 Benutzerhandbuch
 
-Der Brickwall-Filter zerlegt das darunter liegende Material in einzelne Steine, die er dann neu anordnet. Deshalb arbeitet der Brickwall-Filter am besten mit harten Oberflächen wie Steinen oder Metallen - also den Materialien, die am besten dazu geeignet sind, in der realen Welt Steine zu sein.
+Der Brickwall-Filter teilt das darunter liegende Material in einzelne Ziegel auf, die es dann neu anordnet. Deshalb arbeitet der Brickwall-Filter am besten mit harten Oberflächen wie Steinen oder Metallen - also den Materialien, die sich am besten als Ziegel in der realen Welt eignen.
 
 Der Brickwall-Filter ist nützlich, um ein Basismaterial zu erstellen, auf das du dann andere Effekte wie Moos, Schnee oder Dirt überlagern kannst.

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
-description: Verwende den Farbspritzer-Generator in Substance 3D Sampler, um Farbspritzer und zufällige Mustereffekte für Materialtexturen zu erstellen.
+description: Verwenden Sie den Farbspritzer-Generator in Substance 3D Sampler, um Malen-Farbspritzer und zufällige Mustereffekte für Material-Texturen zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Splatter
 helpx_experience_level: ""
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Verteile Instanzen anderer Materialien über dein Material.
+Verteile Instanzen anderer Material über dein Material.
 
 >[!NOTE]
 >
-> Verwenden Sie bei Atlasmaterialien stattdessen den Filter &quot;Atlas Scatter&quot;.
+> Verwenden Sie bei Atlas-Materialien stattdessen den Filter &quot;Atlas Scatter&quot;.
 
 </td>
 </tr>
@@ -49,12 +49,12 @@ Verteile Instanzen anderer Materialien über dein Material.
 
 * **Zufallsparameter**:\
   Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
-* **Materialeingabe**:\
-  Wählen Sie die Anzahl der Materialien aus, die als Eingaben verwendet werden sollen. Hinweis: eine Splatter-Ebene mit 3 Eingangsschlitzen, aber nur einem mit einem Eingang gefüllten Schlitz, wird anders aussehen als eine Splatter-Ebene mit 1 Eingangsschlitz und dieser Schlitz mit demselben Eingang gefüllt. Aus diesem Grund wird empfohlen, nur so viele Eingaben zu verwenden, wie erforderlich sind.
-* **Rastergröße**: 1-64\
-  Die Rastergröße bestimmt die Anzahl der Instanzen, die vom Filter &quot;Farbfläche&quot; erstellt werden.
+* **Material-Eingabe**:\
+  Wählen Sie die Anzahl der Materials aus, die als Eingaben verwendet werden sollen. Hinweis: eine Splatter-Ebene mit 3 Eingangsschlitzen, aber nur einem mit einem Eingang gefüllten Schlitz, wird anders aussehen als eine Splatter-Ebene mit 1 Eingangsschlitz und dieser Schlitz mit demselben Eingang gefüllt. Aus diesem Grund wird empfohlen, nur so viele Eingaben zu verwenden, wie erforderlich sind.
+* **Größe des Rasters**: 1-64\
+  Die Größe des Rasters bestimmt die Anzahl der Instanzen, die vom Filter &quot;Farbspritzer&quot; erstellt werden.
 * **AO Height Tiefe**: 0-1\
-  Passen Sie die Stärke des AO für die vom Filter erstellten Instanzen an.
+  Passen Sie die Stärke des AO für Instanzen an, die vom Filter erstellt wurden.
 
 **Form**
 
@@ -69,13 +69,13 @@ Verteile Instanzen anderer Materialien über dein Material.
 * **Drehung zufällig**: 0-1\
   Zufälligkeit der Drehung von Instanzen steuern
 * **Drehung aus der Hintergrund-Steigung**: 0-1\
-  Ändert den Einfluss der Normalen des zugrunde liegenden Materials auf die Drehung von Instanzen.
+  Ändern Sie, wie sehr sich die Normalen des zugrunde liegenden Materials auf die Drehung von Instanzen auswirken.
 
 **Grundfarbe**
 
 * **Übereinstimmung der Albedo**: 0-1\
-  Die Farbe von Instanzen an die Farbe des darunter liegenden Materials anpassen.
-* **HSL-Anpassung**: 0-1\
+  Die Farbe der Instanzen an die Farbe des darunter liegenden Materials anpassen.
+* **HSL**: 0-1\
   Farbton, Sättigung und Helligkeit von Instanzen anpassen.
 * **HSL Random**: 0-1\
   Steuern Sie die Zufälligkeit des Farbtons, der Sättigung und der Helligkeit jeder Instanz
@@ -83,23 +83,23 @@ Verteile Instanzen anderer Materialien über dein Material.
 **Normal**
 
 * **Normal von** **Hintergrund**: 0-1\
-  Passen Sie an, wie sehr sich die Normale des Materials unter jeder Instanz auf die Normale der Instanz auswirkt.
+  Passen Sie an, wie sehr sich die Normalität des Materials unter jeder Instanz auf die Normalität der Instanz auswirkt.
 * **Normalwinkel zufällig**: 0-1\
   Neigen Sie die Normalen jeder Instanz zu einem zufälligen Winkel.
 
 **Raueit**
 
-* **Raueitskorrektur**: -1 bis 1\
-  Gleichmäßiges Hinzufügen oder Entfernen des Raueitswerts über Instanzen hinweg
+* **Anpassung der Rauheit**: -1 bis 1\
+  Gleichmäßiges Hinzufügen oder Entfernen von Rauheiten in verschiedenen Instanzen
 * **Unregelmäßigkeit zufällig**: -1 bis 1\
-  Addieren oder Subtrahieren des Raueitswerts jeder Instanz nach dem Zufallsprinzip
-* **Raueit aus dem Hintergrund**: 0-1\
+  Addieren oder Subtrahieren des Werts der Rauheit jeder Instanz nach dem Zufallsprinzip
+* **Rauheit aus Hintergrund**: 0-1\
   Passen Sie an, wie sehr sich der Raueitswert des zugrunde liegenden Materials auf den Raueitswert jeder Instanz auswirkt.
 
 **Height**
 
 * **Height-Offset**: -1 bis 1\
-  Versatz des Heights von Instanzen. Dies kann sich darauf auswirken, wie sich Instanzen mit dem zugrunde liegenden Material mischen.
+  Versatz des Heights von Instanzen. Dies kann sich darauf auswirken, wie Instanzen mit dem zugrunde liegenden Material überblendet werden.
 * **Height-Offset zufällig**: 0-1\
   Zufallswert zum Height-Offset jeder Instanz hinzufügen
 * **Height-Skalierung**: 0-2\
@@ -111,17 +111,17 @@ Verteile Instanzen anderer Materialien über dein Material.
 * **Smoothness der Hintergrund-Steigung**: 0-2\
   Passen Sie die Steigung des Hintergrunds für den Parameter &quot;**Skew from Bg Steigung**&quot; an.
 * **Mit Hintergrund konform**: 0-1\
-  Legen Sie fest, wie sich die Hintergrundstruktur des Heights auf die Instanzen der Height-Map auswirkt. Dadurch können Sie Instanzen um die Hintergrunddetails verkleinern
+  Steuern Sie, wie stark sich der Hintergrund-Höhen-Map auf den Instanzen-Höhen-Map auswirkt. Dadurch können Sie Instanzen um die Hintergrunddetails verkleinern
 * **Glätten konformer Hintergrund**: 0-1\
   Passen Sie an, wie viele Details aufgrund von **Mit Hintergrund konform** sichtbar sind.
 
 **Metallisch**
 
 * **Metallische Anpassung**: -1 bis 1\
-  Steuern der metallischen Werte von Instanzen
-* **Metallisch zufällig**: -1 bis 1\
-  Hinzufügen oder Entfernen zufälliger Werte aus der Metallisierung jeder Instanz
-* **Metallisch aus Hintergrund**: 0-1\
+  Steuern der metallic Werte von Instanzen
+* **Metallic zufällig**: -1 bis 1\
+  Zufallswerte vom metallic jeder Instanz hinzufügen oder entfernen
+* **Metallic aus dem Hintergrund**: 0-1\
   Passen Sie den Einfluss der metallischen Hintergrundwerte auf jede Instanz an.
 
 **Maske**
@@ -129,24 +129,24 @@ Verteile Instanzen anderer Materialien über dein Material.
 * **Benutzerdefinierte Maske verwenden**: Knebel\
   Aktivieren Sie diese Option, um eine benutzerdefinierte Maske zu verwenden und auf die Steuerelemente für benutzerdefinierte Masken zuzugreifen:
   * **Benutzerdefinierte Maske**: Bild/Pinsel\
-    Bild importieren, um es als benutzerdefinierte Maske zu verwenden, oder direkt in der **2D-Ansicht malen**
+    Importieren Sie ein Bild, das als benutzerdefinierte Maske oder Malen direkt in die **2D-Ansicht** verwendet werden soll.
   * **Benutzerdefinierte Maskenunschärfe**: 0-1\
     Die Kanten der benutzerdefinierten Maske weichzeichnen.
   * **Benutzerdefinierte Maskenumkehrung**: Knebel
   * **Benutzerdefinierte Maskendeckkraft**: 0-1\
-    Stärke der benutzerdefinierten Maske anpassen.
+    Stärke der benutzerdefinierten Maske anpassen
 
 Benutzerhandbuch
 
-Der Filter &quot;Farbspritzer&quot; ist nützlich, um Elemente über Ihr Material hinweg Streuung, z. B. Blätter, Steine oder Müll.
+Der Filter &quot;Farbspritzer&quot; ist nützlich, um Elemente wie Blätter, Steine oder Müll über Ihr Material hinweg Streuung.
 
 So verwenden Sie den Splatter-Filter:
 
-1. Füge den Filter &quot;Sprenkeln&quot; zu deinem Ebenenstapel hinzu.
+1. Den Filter &quot;Sprenkeln&quot; zum Ebenenstapel hinzufügen.
 1. Unter der Ebene &quot;Splatter&quot; werden Eingabefächer angezeigt.
-1. Ändern Sie optional die Anzahl der verfügbaren Eingabeschlitze mit **Basisparametern > Materialeingabe**.
-1. Ziehen Sie Materialien in die Splatter-Eingabefächer.
+1. Optional können Sie die Anzahl der verfügbaren Eingabesteckplätze mit **Basisparametern > Material-Eingabe** ändern.
+1. Ziehen Sie Materialien in die Splatter-Eingabefächer
 
 Sie können die Parameter für die Streuung im **Eigenschaften-Bedienfeld** anpassen, indem Sie die Farbspritzer-Ebene auswählen.
 
-Sie können die Parameter der Eingabematerialien im Bedienfeld **Eigenschaften** anpassen, indem Sie das Material im Eingabeschacht auswählen.
+Sie können die Parameter für die Eingabeparameter im **Eigenschaften-Material** anpassen, indem Sie das Material im Eingabebereich auswählen.

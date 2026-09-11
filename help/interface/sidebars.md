@@ -29,13 +29,13 @@ Sampler hat zwei Seitenleisten, die **linke Seitenleiste** und die **rechte Seit
 Von der **linken Seitenleiste** aus können Sie:
 
 * **Inhalt hinzufügen und importieren**: Importiere Bilder, und lege fest, wie sie in dein Projekt integriert werden sollen.
-* **3D-Assets durchsuchen**: Wähle aus mehreren Tausend Materialien auf deinem Substance 3D Assets in Creative Cloud Desktop.
+* **3D-Assets durchsuchen**: Greifen Sie innerhalb von Creative Cloud Desktop auf Tausende von Materials von Substance 3D Assets zu.
 * Auf **Schnellaktionen** zugreifen: Eine Sammlung von Maßnahmen, um bestimmte Ziele schnell zu erreichen. [Weitere Informationen zu **Schnellaktionen &#x200B;**](../features-and-workflows/quick-actions.md)**.**
-* Fügen Sie schnell Filter zum Ebenenstapel hinzu:
-  * **Zuschneiden:** Schneiden Sie Bilder und Materialien mithilfe von Handles in der **2D-Ansicht zu**.
-  * **Perspektivische Transformation:** Korrigieren Sie Perspektivfehler mit Handles in der **2D-Ansicht.**
+* Schnelles Hinzufügen von Filtern zum Ebenenstapel:
+  * **Zuschneiden:** Schneiden Sie Bilder und Materialien mithilfe von Handles in der **2D-Ansicht** zu.
+  * **Perspektive transformieren:** Korrigieren von Perspektive-Fehlern mit Handles in der **2D-Ansicht**
   * **Transformieren:** Ändern der Größe von Bildern und Materialien mit Handles in der **2D-Ansicht.**
-  * **Kopierstempel:** Malen Sie Bereiche in der **2D-Ansicht**, um Nähte oder andere Probleme zu beheben.
+  * **Klon-Stempel:** Malen-Bereiche in **2D-Ansicht**, um Nähte oder andere Probleme zu beheben.
 * Öffnen Sie die folgenden Fenster erneut, wenn sie geschlossen sind:
   * [Der Bereich &quot;**Schnellaktionen&quot;**.](panels/quick-actions-panel.md)
   * [Das **Projektfenster**.](panels/project-panel.md)

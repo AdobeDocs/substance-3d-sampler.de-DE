@@ -22,17 +22,17 @@ ht-degree: 1%
 
 ## Substance von benutzerdefinierten Filtern
 
-Sie können mit Adobe Substance 3D Designer erstellte Filter über die Schaltfläche *Importieren* in den Ebenenstapelaktionen importieren.
+Sie können mit Adobe Substance 3D Designer erstellte Ebenenstapel über die Schaltfläche *Importieren* in den Filteraktionen importieren.
 
 ### Erstellen eines Substance-Filters
 
 Filter müssen in Designer auf bestimmte Weise erstellt werden, damit sie nach dem Import in Sampler ordnungsgemäß funktionieren.
 
-Für die Eingabe- und Ausgabeknoten des Filters muss eine Kennung oder eine Verwendung definiert sein.
+Für die Eingabe- und Ausgabeknoten des Filters muss eine Identifizierung oder Verwendung definiert sein.
 
 >[!NOTE]
 >
-> Es ist möglich, entweder die **Verwendung** oder die **ID** zu verwenden (die Verwendung hat die Priorität).
+> Es ist möglich, entweder die **Verwendung** oder die **Identifizierung** zu verwenden (die Verwendung hat die Priorität).
 
 #### Format
 
@@ -40,7 +40,7 @@ Exportieren Sie den Filter als Substance-Archivdatei (.SBSAR)
 
 >[!NOTE]
 >
-> Sie können Filterparameter verfügbar machen, um den Filter direkt in Sampler zu steuern. Weitere Informationen zu [hier](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> Es können Filterparameter gelegt werden, um den Filter direkt in Sampler zu steuern. Weitere Informationen zu [hier](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
 
 #### Erstellen von Filtern zum Ändern von Bildern
 
@@ -59,11 +59,11 @@ Exportieren Sie den Filter als Substance-Archivdatei (.SBSAR)
 | Kanalname | Nutzung |
 | --- | --- |
 | *Grundfarbe* | **Grundfarbe** |
-| *Diffus* | **diffuse** |
+| *Diffuse* | **diffuse** |
 | *Specular* | **Specular** |
 | *Specular level* | **Glanzstufe** |
 | *Metallisch* | **metallisch** |
-| *Raueit* | **Raueit** |
+| *Raueit* | **Rauheit** |
 | *Glossarität* | **Glanz** |
 | *Normal* | **normal** |
 | *Height* | **Height** |
@@ -78,15 +78,15 @@ Exportieren Sie den Filter als Substance-Archivdatei (.SBSAR)
 
 >[!IMPORTANT]
 >
-> Wenn in Ihrem Paket ein Diagramm zur Verarbeitung von Bildern (scan1 bis scanX) und ein Diagramm zur Verarbeitung von Materialien (PBR-Kanäle) vorhanden ist, kann Sampler das richtige Diagramm auswählen, je nachdem, wo der Filter in den Ebenenstapel eingefügt wird.
+> Wenn in Ihrem Paket ein Graf zum Verarbeiten von Bildern (scan1 bis scanX) und ein Graf zum Verarbeiten von Materialien (PBR-Kanäle) vorhanden ist, kann Sampler den richtigen Graf auswählen, je nachdem, wo der Filter in den Ebenenstapel eingefügt wird.
 >
 > Fügen Sie in Ihrem &quot;Bild&quot;-Diagramm die folgenden Benutzerdaten hinzu:
 >
 > * alchemist::type=filter;alchemist::variation::type=multi
 >
-> Fügen Sie in Ihrem Diagramm &quot;Material&quot; die folgenden Benutzerdaten hinzu:
+> Fügen Sie auf dem Graf &quot;Material&quot; die folgenden Benutzerdaten hinzu:
 >
-> * Alchemist::type=filter;Alchemist::variation::type=material
+> * alchemist::type=filter;alchemist::variation::type=Material
 
 ### Spezifische Parameter
 
@@ -96,37 +96,37 @@ Bestimmte Parameter werden von der Anwendung global verwaltet. Auf diese Weise k
 
 Kontrolle des normalen Formats über die Anwendung. In Sampler auf DirectX setzen
 
-**Parameterbezeichner**: Normalformat, normal_format, $normalformat, $normal_format
+**Parameter-Identifizierung**: Normalformat, normal_format, $normalformat, $normal_format
 
 #### Eingabezählung
 
 Wenn Sie Bilder ändern möchten (scan1 zu scanX), können Sie die Anzahl der Bilder im Ebenenstapel verwenden, indem Sie den Parameter **Bildanzahl** verwenden.
 
-* **Parameterbezeichner**: input_count
+* **Parameter-Identifizierung**: input_count
 * **Parametertyp**: Ganzzahl 1
 
-#### Materialeingabe
+#### Material-Eingabe
 
-Wenn du einen Materialschlitz im Ebenenstapel wie die Atlas Scatter oder den Splatter anzeigen möchtest:
+Wenn Sie einen Material-Slot im Ebenenstapel wie die Atlas Scatter oder die Spritzer anzeigen möchten:
 
-* Fügen Sie einen neuen Satz von Eingabeknoten hinzu (Grundfarbe, Normal, ... ).
+* Fügen Sie eine neue Gruppe von Eingabeknoten hinzu (Grundfarbe, Normal, ... ).
 * Alle Eingabeknoten des Hintergrunds (unteres Material im Ebenenstapel) sollten sich in der Gruppe **Material1** befinden.
-* Alle Eingabeknoten des ersten Materials, das Sie oben hinzufügen möchten, sollten in der Gruppe **Material2** und so weiter vorhanden sein, wenn Sie mehrere Materialsteckplätze benötigen.
-* Materialeingabeparameter hinzufügen:
-  * **Parameterbezeichner**: material_input
+* Alle Eingabeknoten des ersten Materials, das Sie oben hinzufügen möchten, sollten sich in der Gruppe **Material2** befinden und so weiter, wenn Sie mehrere Material-Slots benötigen.
+* Material-Eingabeparameter hinzufügen:
+  * **Parameter-Identifizierung**: Material_input
   * **Parametertyp**: Ganzzahl 1
 
 #### Workflow-Typ
 
 Wenn Sie bestimmte Parameter für den Workflow Ihres Projekts ein- bzw. ausblenden möchten (PBR Metal/Raueit oder PBR Specular/Glossiness), können Sie den Parameter &quot;Workflow-Typ&quot; verwenden.
 
-**Parameterbezeichner**: workflow_type
+**Parameter-Identifizierung**: workflow_type
 
 **Parametertyp**: Ganzzahl1, Dropdown-Liste
 
 Optionen:
 
-* 0: PBR Metallisch/Raueit
+* 0: PBR Metallic/Rauheit
 * 1: PBR Specular/Glanz
 
 ![](../assets/workflow-type.jpg){width="300px"}

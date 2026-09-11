@@ -23,21 +23,21 @@ ht-degree: 0%
 ## Material-Samples
 
 +++Welche Nutzungsszenarien werden von Captis abgedeckt?
-Die Lösung deckt branchenübergreifende Nutzungsszenarien ab (Automobil, Bekleidung, Produktdesign, Medien &amp; Unterhaltung, Architektur...). Der Studio-Modus ermöglicht Desktop-Aufnahmen (wiederholbar, effizient und einfach), während der Explorer-Modus ermöglicht mobile Aufnahmen &quot;flexibel, unterwegs, Anpassung an jede Situation).
+Die Lösung deckt branchenübergreifende Nutzungsszenarien ab (Automobil, Bekleidung, Produktdesign, Medien &amp; Unterhaltung, Architektur...). Der Studiomodus ermöglicht Desktopaufnahmen (wiederholbar, effizient und einfach), während der Explorer-Modus die mobile Aufnahme &quot;flexibel, unterwegs, an jede Situation angepasst&quot; ermöglicht.
 
 +++
 
-+++Welche Materialtypen können gescannt und mit Captis erfasst werden?
-Alle Materialtypen können mit Ausnahme mehrerer Klarlackschichten gescannt und erfasst werden (Autolacke sind vom Captis-Programm ausgeschlossen). Für bestimmte Materialien ist möglicherweise eine zusätzliche Verarbeitung in Sampler erforderlich, um die Ergebnisse zu optimieren. Bitte beachten Sie, dass die Verarbeitungsalgorithmen im Laufe der Zeit kontinuierlich optimiert werden.
++++Welche Material-Typen können gescannt und mit Captis erfasst werden?
+Alle Materialtypen können mit Ausnahme mehrerer Klarlackschichten gescannt und erfasst werden (Autolacke sind vom Captis-Programm ausgeschlossen). Für einige bestimmte Material ist möglicherweise eine zusätzliche Verarbeitung in Sampler erforderlich, um die Ergebnisse zu optimieren. Bitte beachten Sie, dass die Verarbeitungsalgorithmen im Laufe der Zeit kontinuierlich optimiert werden.
 
 +++
 
-+++Welche Einschränkungen gelten für die Größe oder Form der Materialprobe - müssen die Proben flach sein?
-Captis kann eine Vielzahl von Materialproben in Größe oder Form scannen. Es wird mit Magneten geliefert, um die Proben auf dem Probenfach zu flachen. Es gibt mehrere Modi, um eine Materialprobe mit Captis aufzunehmen:
++++Welche Einschränkungen gelten für die Größe oder Form von Material-Samples? Müssen Samples eben sein?
+Captis kann eine Vielzahl von Material-Samples in Größe oder Form scannen. Es wird mit Magneten geliefert, um die Proben auf dem Probenfach zu flachen. Es gibt verschiedene Modi, um ein Material mit Captis aufzunehmen:
 
 * Studio-Modus: mit der Studiobasis auf Ihrem Schreibtisch, im Studio oder in der Fabrik nimmt Captis Proben bis zu 30cm x 30cm - mit Hintergrundbeleuchtung für Deckkraft. Die Tiefe des Probenfachs beträgt 1,8 CM.
 
-* Explorer-Modus: können Sie den Entdeckerring im Feld, am Set oder in einzigartigen Umgebungen verwenden und flexible Aufnahmen für Proben ermöglichen, die größer als 30 cm x 30 cm sind. Aktuelle Einschränkung: Bitte beachten Sie, dass der Explorer-Modus noch eine frühe Version ist und noch nicht optimiert wurde (ab der Version vom 29. Juli 2024).
+* Explorer-Modus: können Sie den Explorer-Ring vor Ort, am Set oder in speziellen Umgebungen verwenden und ermöglichen die flexible Aufnahme von Proben, die größer als 30 cm x 30 cm sind. Aktuelle Einschränkung: Bitte beachten Sie, dass der Explorer-Modus noch eine frühe Version ist und noch nicht optimiert wurde (ab der Version vom 29. Juli 2024).
 
 +++
 
@@ -51,9 +51,9 @@ Das Gerät (HP Z Captis) und die Lizenz (Substance 3D Sampler) sind separat erh�
 +++
 
 +++Wie weit ist die Integration mit der Substance-Suite von Adobe bereits fortgeschritten?
-Das HP Z Captis-Gerät wird vollständig von Adobe Substance 3D Sampler gesteuert und betrieben: Sie können die Aufnahme in Substance 3D Sampler in der Vorschau anzeigen und starten. Sobald die Aufnahme abgeschlossen ist, werden die PBR-Kanäle automatisch als Ebene geladen und ein 3D-Material erstellt. Sie können Ihre Materialien mit allen in Sampler verfügbaren Werkzeugen und Filtern weiter verarbeiten.
+Das HP Z Captis-Gerät wird vollständig von Adobe Substance 3D Sampler gesteuert und betrieben: Sie können die Aufnahme in Substance 3D Sampler in der Vorschau anzeigen und starten. Nach Abschluss der Aufnahme werden die PBR-Kanäle automatisch als Ebene geladen und ein 3D-Material erstellt. Sie können Ihre Materials mit allen in Sampler verfügbaren Werkzeugen und Filtern weiter verarbeiten.
 
-Sobald sich das erfasste Material in Substance 3D Sampler befindet, können Sie es in jede beliebige Anwendung der Substance 3D-Suite (Substance 3D Designer, Painter, Stager) und in jede Anwendung eines Drittanbieters exportieren, die Substance unterstützt, einschließlich 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D und vieles mehr (die vollständige Liste finden Sie hier: <https://www.adobe.com/de/products/substance3d/plugins.html>).
+Sobald sich das aufgenommene Material in Substance 3D Sampler befindet, können Sie es in eine beliebige Anwendung der Substance 3D-Suite (Substance 3D Designer, Painter, Stager) und in jede Anwendung eines Drittanbieters exportieren, die Substance unterstützt, einschließlich 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D und vieles mehr (die vollständige Liste finden Sie hier: <https://www.adobe.com/de/products/substance3d/plugins.html>).
 
 +++
 
@@ -79,9 +79,9 @@ Ab der Version vom 20. Februar 2025 können Sie im Rahmen der regulären Version
 
 * Die fünf Karten, die heute exportiert werden, sind Grundfarbe, Raueit, Normal, Height, Deckkraft.
 
-* Explorer Mode ist noch eine frühe Version und noch nicht optimiert.
+* Explorer Mode ist noch eine frühe Version und wurde noch nicht optimiert.
 
-* Die Kachelung wird im Sampler-Ebenenstapel mit den aktuellen Kachelfiltern durchgeführt.
+* Die Kachelung erfolgt in Sampler Ebenenstapel mit den Filtern für die aktuelle Kachelung.
 
 +++
 
@@ -90,10 +90,10 @@ Ab der Version vom 7. August 2025 lauten die exportierten fünf Karten &quot;Gru
 
 +++
 
-+++Wird die Unterteilung automatisch durchgeführt?
-Die Kachelung wird im Sampler-Ebenenstapel mit den aktuellen Kachelfiltern durchgeführt.
++++Erfolgt die Kachelung automatisch?
+Die Kachelung wird im Sampler-Ebenenstapel mit den Filtern für die aktuelle Kachelung ausgeführt.
 
-Der automatische Kachelfilter kann verwendet werden, um Materialien mit einer definierten repetitiven Struktur oder kleinen Mustern mit mindestens 3 Mustern in jeder Richtung automatisch zu kacheln. Weitere Informationen zu diesem Filter finden Sie im Abschnitt [Dediziert in der Dokumentation](../../filters/tools/auto-tiling.md).
+Der Filter &quot;Automatische Kachelung&quot; kann verwendet werden, um Material mit einer definierten Wiederholungsstruktur oder kleinen Mustern mit mindestens 3 Mustern in jeder Richtung automatisch anzuordnen. Weitere Informationen zu diesem Filter finden Sie im Abschnitt [Dediziert in der Dokumentation](../../filters/tools/auto-tiling.md).
 
 +++
 
@@ -106,15 +106,15 @@ Von Adobe Substance 3D Sampler aus können Sie Ihr digitales Material in jedes b
 
 +++Was ist der Unterschied zwischen LDR und HDR während der Aufnahme?
 Während der Vorschau haben Sie die Möglichkeit, den Ausgabetyp zwischen LDR (Low Dynamic Range) und HDR (High Dynamic Range) zu wählen.\
-Selbst wenn LDR ausgewählt ist, werden die HDR-Karten erfasst und auf Ihrem Gerät gespeichert.\
-Es wird empfohlen, dass Sie die LDR auswählen, da dies die Projektgröße in Sampler und in allen Drittanbieter-Apps, in denen die SBSAR-Datei verwendet wird, leichter verwalten kann.
+Auch wenn LDR ausgewählt ist, werden die HDR erfasst und auf Ihrem Gerät gespeichert.\
+Es wird empfohlen, dass Sie die LDR auswählen, da dies die Projektgröße in Sampler und in allen Drittanbieter-Apps, in denen die sbsar-Dateien verwendet werden, besser handhaben kann.
 
 +++
 
 ## Verarbeitung läuft
 
 +++Wie kann ich Captis in meiner aktuellen 3D-Pipeline verwenden, wenn ich bestimmte Dateiformate, Standards und Spezifikationen oder Anwendungen von Drittanbietern verwende?
-HP Z Captis wird nativ von Adobe Substance 3D Sampler betrieben. Nachdem Sie Ihre Materialprobe in Substance 3D Sampler erfasst und digitalisiert haben, können Sie Ihre digitalen Materialien nahtlos exportieren:
+HP Z Captis wird nativ von Adobe Substance 3D Sampler betrieben. Nachdem Sie Ihr Material in Substance 3D Sampler aufgenommen und digitalisiert haben, können Sie Ihre digitalen Materials nahtlos exportieren:
 
 In allen Anwendungen des Substance 3D-Ökosystems (einschließlich Substance 3D Designer oder Substance 3D Painter, die verschiedene Exportformate unterstützen): https://experienceleague.adobe.com/de/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
 
@@ -123,7 +123,7 @@ In allen Anwendungen, die Substance-Dateiformate wie 3DS Max, Maya, Blender, C4D
 +++
 
 +++Wie viele Bilder werden aufgenommen, um die Karten zu erstellen?
-[8 Lichtfelder + 1 Hintergrundbeleuchtung] x [8 Polarisationszustände] x [8 Belichtungsreihen für HDR] x [4 Überziehbilder zur Rauschminderung] = 2048 + 256 (für Hintergrundbeleuchtung)
+[8 Lichtpaneele + 1 Hintergrundbeleuchtung] x [8 Polarisationszustände] x [8 Belichtungsreihen für HDR.] x [4 Überzüge zur Reduzierung des Rauschen] = 2048 + 256 (für Hintergrundbeleuchtung)
 
 +++
 
@@ -155,12 +155,12 @@ Stellen Sie sicher, dass der Kameraschutz entfernt wurde.
 +++Das Kopieren von Dateien vom HP Z Captis auf meinen Computer ist langsam.
 Stellen Sie sicher, dass der HP Z Captis an einen USB 3.0-Anschluss angeschlossen ist.
 
-Wenn Sie aufgefordert werden, sowohl das Material als auch die Fotometriebilder abzurufen, dauert die Kopie normalerweise länger.
+Wenn Sie aufgefordert werden, sowohl die Material- als auch die Fotometriebilder abzurufen, dauert das Kopieren normalerweise länger.
 
 +++
 
 +++Sampler hat die Bilder nicht auf meinen Computer kopiert. Muss ich den Scan neu starten?
-Nein, tun Sie nicht. Sie können den Inhalt des Geräts durchsuchen und die im Adobe-Ordner gefundenen Bilder mithilfe des Dateiexplorers Ihres Betriebssystems kopieren.
+Nein, tun Sie nicht. Sie können den Inhalt des Geräts durchsuchen und die Bilder im Adobe-Explorer mithilfe des Dateiordners Ihres Betriebssystems kopieren.
 
 +++
 
@@ -169,12 +169,12 @@ Drücken Sie den Betriebsschalter einige Sekunden, um ihn auszuschalten. Schalte
 
 +++
 
-+++Ich bewegte den Kegel von seiner Basis zum Entdeckerring und kann nicht mehr scannen.
-Es wird empfohlen, den HP Z Captis auszuschalten, bevor Sie ihn von seiner Basis oder dem Explorer-Ring abziehen.
++++Ich habe den Kegel von seinem Sockel zum Explorer verschoben und kann nicht mehr scannen.
+Es wird empfohlen, den HP Z Captis auszuschalten, bevor Sie ihn vom Sockel oder vom Explorer-Ring abziehen.
 
 +++
 
-+++Der Export meines Materials in SBSAR ist langsam.
++++Mein Material wird nur langsam in SBSAR exportiert.
 Vergewissern Sie sich, dass die Bilder nicht im 32-Bit-Gleitkommaformat im Eigenschaftenbedienfeld angezeigt werden.
 
 Sie können auch die Komprimierungsstufe auf &quot;none&quot; festlegen, um den Export zu beschleunigen.
@@ -182,7 +182,7 @@ Sie können auch die Komprimierungsstufe auf &quot;none&quot; festlegen, um den 
 +++
 
 +++Ich möchte den Speicherpfad für die aufgenommenen Materialien und Fotometriebilder ändern.
-Es ist jetzt möglich, den Speicherort, an dem die aufgenommenen Materialien und Fotometriebilder gespeichert werden, unter Bearbeiten > Voreinstellungen > Speicher und Cache > Materialerfassung zu bearbeiten.
+Es ist jetzt möglich, den Speicherort, an dem die aufgenommenen Materialien und Fotometriebilder gespeichert werden, unter Bearbeiten > Voreinstellungen > Speicher und Cache > Material-Aufnahme zu bearbeiten.
 
 +++
 

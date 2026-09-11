@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels/metadata-panel.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie das Metadaten-Bedienfeld in Substance 3D Sampler verwenden, um Metadaten für Ihre Materialien hinzuzufügen und zu verwalten.
+description: Erfahren Sie, wie Sie das Metadatenbedienfeld in Substance 3D Sampler verwenden, um Metadaten für Ihre Materials hinzuzufügen und zu verwalten.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Metadata panel
 helpx_experience_level: ""
@@ -30,13 +30,13 @@ Im Metadatenbedienfeld können Sie auf die Metadaten Ihres Assets zugreifen und 
 
 <b>Kategorie</b>: Kategorie des im Substance-Material eingebetteten Stockmediums oder der Kategorie
 
-<b>Autor</b>: Der Autor des Assets oder der Autor, der in das Substance-Material eingebettet ist. Standardmäßig ist der Name des Autors der Name Ihres Betriebssystemkontos.
+<b>Autor</b>: Autor des Assets oder Autor, der im Substance-Material eingebettet ist. Standardmäßig ist der Name des Autors der Name Ihres Betriebssystemkontos.
 
 <b>Erstellungsdatum</b>: Erstellungsdatum des Assets in Sampler oder Importdatum in Sampler. (Dies kann nicht bearbeitet werden.)
 
 <b>Aktualisierungsdatum</b>: Das Datum, an dem Ihr Asset zuletzt aktualisiert wurde. (Dies kann nicht bearbeitet werden.)
 
-<b>Tags</b>: Tags Ihres Assets oder Tags, die in das Substance-Material eingebettet sind.
+<b>Tags</b>: Im Substance-Material eingebettete Tags Ihres Assets oder Tags.
 
 <b>Physische Größe</b>: X-, Y- und Z-Größe des Elements.
 
@@ -44,7 +44,7 @@ Im Metadatenbedienfeld können Sie auf die Metadaten Ihres Assets zugreifen und 
 
 ## Benutzerdefinierte Metadaten
 
-Alle benutzerdefinierten Metadaten werden in die Materialdatei (SBSAR) aufgenommen, um einen effizienteren Arbeitsablauf für den anwendungsübergreifenden Austausch digitaler Materialien zu gewährleisten.
+Alle benutzerdefinierten Metadaten werden in die Material-Datei (SBSAR) aufgenommen, um einen effizienteren Arbeitsablauf für die Freigabe digitaler Materialien über Anwendungen hinweg zu gewährleisten.
 
 ![](../../assets/Metadata-panel-Custom.png){width="350px"}
 

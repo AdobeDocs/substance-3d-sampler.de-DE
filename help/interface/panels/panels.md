@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/interface/panels.html"
 breadcrumb-title: ''
-description: Erfahren Sie mehr über die Bedienfelder in der Substance 3D Sampler-Oberfläche, um auf Werkzeuge, Einstellungen und Funktionen für die Materialerstellung zuzugreifen.
+description: Erfahren Sie mehr über die Bedienfelder in der Substance 3D Sampler-Oberfläche, um auf Werkzeuge, Einstellungen und Funktionen für die Arbeitsabläufe zum Erstellen von Materials zuzugreifen.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels
 helpx_experience_level: ""
@@ -44,7 +44,7 @@ Der Bereich &quot;**Kanaleinstellungen**&quot; ist standardmäßig am unteren Ra
 
 Die folgenden Fenster werden standardmäßig oben in der **rechten Seitenleiste** gespeichert:
 
-* **Bedienfeld „Veröffentlichte Parameter“**: Ermöglicht die Verwaltung der Parameter, die beim Export des Assets als SBSAR- oder SBS-Dateien verfügbar sein werden.
+* **Bedienfeld „Veröffentlichte Parameter“**: Ermöglicht Ihnen die Verwaltung der Parameter, die verfügbar sind, wenn Ihr Asset als SBSAR- oder SBS exportiert wird.
 * **Bedienfeld &quot;Physische Größe&quot;**: Konfigurieren Sie die reale Physische Größe Ihrer gescannten Proben und Bilder.
 * **Metadatenbedienfeld**: Bearbeiten Sie Metadaten, indem Sie eine Beschreibung hinzufügen oder den Namen des Autors für das ausgewählte Element ändern.
 * **Exportierenbedienfeld**: Senden Sie Ihr Element direkt an andere Anwendungen oder exportieren Sie es zur allgemeinen Verwendung.

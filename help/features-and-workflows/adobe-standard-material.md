@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie Adobe-Standardmaterial in Substance 3D Sampler verwenden, um Materialien zu erstellen, die mit dem Materialstandard von Adobe kompatibel sind.
+description: Erfahre, wie du mit Adobe Standard Material in Substance 3D Sampler Material erstellst, die mit dem Material-Standard von Adobe kompatibel sind.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > Adobe Standard Material
 helpx_experience_level: ""
@@ -22,10 +22,10 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> Substance 3D Sampler verwendet jetzt standardmäßig das Materialmodell [OpenPBR](openpbr.md) und nicht mehr Adobe-Standardmaterial.
+> Substance 3D Sampler verwendet jetzt standardmäßig das Materialmodell [OpenPBR](openpbr.md) und nicht das Adobe Standard Material.
 
 
-## Standard-Materialeigenschaften
+## Standardeigenschaften von Materialien
 
 ## Eigenschaften der Basisoberfläche
 
@@ -41,7 +41,7 @@ Wie glatt oder matt die Oberfläche ist.
 
 **Metallisch**
 
-Der Grad des metallischen Glanzes der Oberfläche.
+Der metallic Glanzgrad der Oberfläche.
 
 ![](../assets/surface-metallic.jpg)
 
@@ -51,7 +51,7 @@ Die Sichtbarkeit der Oberfläche.
 
 ![](../assets/surface-opacity.jpg)
 
-**Umgebungs-Verdeckung**
+**Ambient occlusion**
 
 Schatten aus Hohlräumen und Falten, die verhindern, dass Licht auf die Oberfläche trifft.
 
@@ -63,7 +63,7 @@ Die Stärke von Lichtreflexionen auf der Oberfläche.
 
 **Specular edge color**
 
-Die Farbe von Lichtreflexionen. Bewirkt Glanzwinkel für metallische Materialien.
+Die Farbe von Lichtreflexionen. Wirkt sich auf die Blickwinkel bei metallic Materialien aus.
 
 ![](../assets/surface-specularedgecolor.jpg)
 
@@ -73,11 +73,11 @@ Simuliert Oberflächendetails wie Unebenheiten und Risse.
 
 **Normale Skalierung**
 
-Die Stärke des normalen Effekts.
+Die Stärke des Normaleffekts.
 
 **Normal und Height kombinieren**
 
-Wendet die normale Struktur auf die Struktur des Heights an.
+Wendet die normale Textur auf die Textur des Heights an.
 
 **Height**
 
@@ -85,15 +85,15 @@ Erstellt Oberflächendetails mithilfe eines Bump- oder Geometrie-Versatzes.
 
 **Height-Skalierung**
 
-Die Skalierung des Heights in Szeneneinheiten. Gilt sowohl für Bump als auch für Versatz.
+Die Skala des Heights in Szenen. Gilt sowohl für Bump als auch für Versatz.
 
 **Height-Ebene**
 
-Der Wert der Height-Textur, die Null-Versatz darstellt.
+Der Wert der Textur des Heights, der Null-Versatz darstellt.
 
-**Anisotropie**
+**Anisotropy level**
 
-Der Wert, um den sich die Reflexionen in eine Richtung entlang der Oberfläche erstrecken.
+Der Grad, in dem die Reflexionen entlang der Oberfläche in eine Richtung gedehnt werden.
 
 ![](../assets/surface-anisotropy.jpg)
 
@@ -113,7 +113,7 @@ Die Farbe des emittierten Lichts.
 
 ![](../assets/surface-emissioncolor.jpg)
 
-**Glanzdeckkraft**
+**Deckkraft des Glanzes**
 
 Simuliert die Wirkung mikroskopischer Fasern oder Fuzz auf die Oberfläche.
 
@@ -121,19 +121,19 @@ Simuliert die Wirkung mikroskopischer Fasern oder Fuzz auf die Oberfläche.
 
 **Glanzfarbe**
 
-Die Farbe des Glanzeffekts.
+Die Farbe des Effekts &quot;Glanz&quot;.
 
 ![](../assets/surface-sheencolor.jpg)
 
-**Raueit des Glanzes**
+**Glanz Rauheit**
 
-Weichheit des Glanzeffekts.
+Weichheit des Effekts &quot;Glanz&quot;.
 
 ![](../assets/surface-sheenroughness.jpg)
 
 ## Innen-Eigenschaften
 
-**Lichtdurchlässigkeit**
+**Translucency**
 
 Die Menge an Licht, die durch die Oberfläche übertragen werden kann.
 
@@ -145,7 +145,7 @@ Das Farblicht wird bei der Absorption konvergiert.
 
 **Entfernung von der Absorption**
 
-Ungefähre Entfernung in Szeneneinheiten, die das Licht zurücklegt, bevor es die Absorptionsfarbe erreicht. Bei einem Wert von Null wirkt sich die Thickness nicht auf die Absorptionsfarbe aus.
+Ungefähre Entfernung in Szene, die das Licht zurücklegt, bevor es die Absorptionsfarbe erreicht. Bei einem Wert von Null wirkt sich die Thickness nicht auf die Absorptionsfarbe aus.
 
 ![](../assets/interior-absorptiondistance.jpg)
 
@@ -203,7 +203,7 @@ Multiplikator der Lautstärke-Thickness.
 
 ## Fellbeschaffenheit
 
-**Deckkraft der Beschichtung**
+**Coat opacity**
 
 Simuliert eine Ebene über dem Material. Wird verwendet, um klare Schichten, Lacke und Lacke zu erzeugen.
 
@@ -215,7 +215,7 @@ Die Farbe des Fells.
 
 ![](../assets/coat-coatcolor.jpg)
 
-**Raueit der Beschichtung**
+**Coat roughness**
 
 Glätten oder Matte der Felloberfläche
 
@@ -227,9 +227,9 @@ Die Lichtmenge bricht sich beim Durchgang durch das Fell.
 
 ![](../assets/cooat-coatior.jpg)
 
-**Specular level beschichten**
+**Coat specular level**
 
-Die Stärke der Lichtreflexionen auf dem Fell bei Blickwinkeln.
+Die Stärke von Lichtreflexionen auf dem Fell bei Blickwinkeln.
 
 ![](../assets/coat-coatspecular.jpg)
 

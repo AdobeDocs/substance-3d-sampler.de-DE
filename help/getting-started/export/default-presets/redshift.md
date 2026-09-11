@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie Materialien aus Substance 3D Sampler mithilfe der Redshift-Vorgabe exportieren, um die Kompatibilität mit der Redshift-Rendering-Engine zu gewährleisten.
+description: Erfahren Sie, wie Sie Materialien aus Substance 3D Sampler mithilfe der Voreinstellung "Redshift" exportieren, um die Kompatibilität mit dem Render-Engine "Redshift" zu gewährleisten.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Redshift
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **Diffuse &#x200B;**&#x200B;**ReflRoughness**&#x200B;**Metalness &#x200B;**&#x200B;**Normal**&#x200B;**Versatz &#x200B;**&#x200B;**Emission**&#x200B;**Opacity** |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **Diffuse &#x200B;**&#x200B;**ReflRoughness**&#x200B;**Metalness &#x200B;**&#x200B;**Normal**&#x200B;**Versatz &#x200B;**&#x200B;**Emission**&#x200B;**Opacity** |

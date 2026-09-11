@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie mit dem Substance-Send-To in Substance 3D Sampler Elemente direkt über den Connector an andere Anwendungen senden können.
+description: Erfahren Sie, wie Sie mit dem Substance-Send-To in Substance 3D Sampler Elemente über die Verbindung direkt an andere Anwendungen senden.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # An jede App senden
 
-Ab Version 4.5 von Sampler können Sie Ihre Assets jetzt direkt aus Sampler an jede App senden, in der Connector implementiert wurde.\
+Ab Version 4.5 von Sampler können Sie Ihre Assets jetzt direkt aus Sampler an jede App senden, in der die Verbindung implementiert wurde.\
 Damit können Elemente mit einem Klick aus Sampler an Anwendungen von Drittanbietern gesendet werden, um den manuellen Export- und Importprozess zu durchlaufen und Zeit zu sparen.
 
 Heute ist das Send-to in Blender, Unreal Engine, Unity, 3ds Max und Maya über die Substance Plugins verfügbar.
@@ -31,7 +31,7 @@ Um den Send-to nutzen zu können, ist es notwendig, die richtige Version von Sam
 
 Hier sind die Mindestversionen, die Sie benötigen, um den &quot;Senden an&quot;-Dienst verwenden zu können:
 
-* <b>Unreal Engine-Plug-in</b>
+* <b>Unechtes Engine-Plug-in</b>
   * Alles nach UE5.4 wird vollständig unterstützt.
   * *Auf dem EU-Marktplatz freigegeben*
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Scripting und Entwicklung
 
-Adobe Substance 3D Sampler unterstützt benutzerdefinierte Plug-ins über die Sampler Python-API. Plug-ins sind für jeden Anwender von Sampler hilfreich. Sie können die Materialerstellung für große Materialbibliotheken automatisieren, neue Installationen automatisch einrichten oder neue Funktionen hinzufügen.
+Adobe Substance 3D Sampler unterstützt benutzerdefinierte Plug-ins über die Sampler Python-API. Plug-ins sind für jeden Sampler-Anwender hilfreich - von der automatischen Erstellung von Materialien für große Material-Bibliotheken über die automatische Einrichtung für neue Installationen bis hin zum Hinzufügen neuer Funktionen.
 
 Die vollständige Dokumentation für die API ist bei der Installation von Sampler enthalten. Sie können die API-Dokumentation in Sampler öffnen:
 

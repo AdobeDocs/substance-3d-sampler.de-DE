@@ -26,7 +26,7 @@ Hinzugefügt:
 
 * [Engine] Substance Engine-Update für Kompatibilität mit der neuesten Substance Designer-Version
 * [Lizenz] Lizenzordner für erste Installationen aktualisieren
-* [Ebenen] Laden Sie den Ebenenstapel jederzeit neu, um Ihre benutzerdefinierten Filter zu aktualisieren
+* [Ebenen] Laden Sie den Ebenenstapel jederzeit neu, um Ihre benutzerdefinierten Filter zu aktualisieren.
 
 Fest:
 

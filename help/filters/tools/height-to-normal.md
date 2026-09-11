@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/height-to-normal.html"
 breadcrumb-title: ''
-description: Verwenden Sie das Height-Normal-Werkzeug in Substance 3D Sampler, um Height-Maps in Normal-Maps für Materialerstellungs-Workflows zu konvertieren.
+description: Mit dem Substance 3D Sampler-Tool "Height in Normal" können Sie Höhen-Map in Normalen-Map umwandeln, um Materials zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Height to Normal
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ In den folgenden Abbildungen sehen Sie den Filter **Height zu Normal** in Aktion
 
 ![](../../assets/h2n-in.jpg)
 
-In der obigen Abbildung sind keine normalen Daten aus dem Material vorhanden. Nur die Height-Map ist verfügbar und wird in der **2D-Ansicht** angezeigt.
+In der Abbildung oben sind keine normalen Daten aus dem Material vorhanden. Nur die Höhen-Map ist verfügbar und wird in der **2D-Ansicht** angezeigt.
 
 ![](../../assets/h2n-out.jpg)
 
-Mit dem Filter &quot;**Height zu Normal&quot;** werden Normaldaten aus der Bildzuordnung generiert, die im oberen Height angezeigt wird. Das Licht reflektiert das Material im zweiten Bild realistischer, da eine Normalmap erzeugt wird.
+Mit dem Filter &quot;**Height zu Normal&quot;** werden Normaldaten von der im oberen Bild angezeigten Höhen-Map generiert. Das Licht reflektiert das Material im zweiten Bild realistischer als auf der erzeugten Normalen-Map.
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Mit dem Filter &quot;**Height zu Normal&quot;** werden Normaldaten aus der Bildz
     * **Oberflächengröße (cm)**: 0-500\
       Legen Sie die Größe des UV-Raums in weltweiten Einheiten fest.
     * **Height Tiefe (cm)**: 0-10\
-      Legen Sie den Abstand fest, der durch die Height-Map dargestellt wird. Wenn die Height-Map eine kleine Entfernung darstellt, kann eine große Differenz bei den Height-Map-Werten einen kleinen Einfluss auf den Normalwinkel haben. Wenn die Height-Map eine große Entfernung darstellt, kann eine kleine Differenz der Height-Map-Werte einen großen Winkel auf der Normalmap darstellen.
+      Legen Sie den Abstand fest, der durch den Höhen-Map dargestellt wird. Wenn der Höhen-Map eine kleine Entfernung darstellt, kann eine große Differenz bei den Höhen-Map-Werten einen kleinen Einfluss auf den Normalwinkel haben. Wenn der Höhen-Map eine große Entfernung darstellt, kann eine kleine Differenz der Höhen-Map-Werte einen großen Winkel auf dem Normalen-Map darstellen.
   * **Wenn &quot;World Units verwenden&quot; deaktiviert ist:**
     * **Intensität**: 0-3\
       Anpassen der Steilheit der normalen Winkel
@@ -71,7 +71,7 @@ Mit dem Filter &quot;**Height zu Normal&quot;** werden Normaldaten aus der Bildz
 * **Benutzerdefinierte Maske**: Knebel\
   Aktivieren oder Deaktivieren der Verwendung einer benutzerdefinierten Maske. Wenn aktiviert, werden die folgenden Parameter angezeigt:
   * **Maske**: Bild/Pinsel\
-    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder malen Sie mit dem Pinsel eine benutzerdefinierte Maske direkt in der 2D-Ansicht.
+    Wählen Sie ein Bild aus, das als Maske verwendet werden soll, oder verwenden Sie den Pinsel, um eine benutzerdefinierte Maske direkt in die 2D-Ansicht Malen
   * **Benutzerdefinierte Maske - Weichzeichnen**: 0-1\
     Weichzeichnen der Maske
   * **Benutzerdefinierte Maske - Umkehren**: Knebel\

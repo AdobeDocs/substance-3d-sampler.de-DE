@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/normal-to-height.html"
 breadcrumb-title: ''
-description: Verwenden Sie das Tool "Normal in Height" in Substance 3D Sampler, um Normalmaps in Height-Maps für die Materialerstellung zu konvertieren.
+description: Mit dem Substance 3D Sampler-Tool "Normal in Height" können Sie Normalen-Map in Höhen-Map umwandeln, um Materials zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Normal to Height
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 Generiert Height-Informationen auf Basis des normalen Kanals.
 
-In den folgenden Abbildungen wird der Filter **Normal zu Height** in Aktion angezeigt. Im ersten Height enthält die Bildzuordnung keine Height-Informationen. Im zweiten Height wird nach Anwendung des **Normalfilter für Height** **Filters** eine realistische Bildzuordnung generiert.
+In den folgenden Abbildungen wird der Filter **Normal zu Height** in Aktion angezeigt. Im ersten Bild enthält die Höhen-Map keine Height-Informationen. Im zweiten Bild wird nach Anwendung des **Normalfilter für Height** **Filters** eine realistische Höhen-Map generiert.
 
 ![](../../assets/3d-2d-filters-cropped-0009-normal-to-height-in.jpg)![](../../assets/filters-cropped-0008-normal-height-out.jpg)
 
@@ -45,4 +45,4 @@ In den folgenden Abbildungen wird der Filter **Normal zu Height** in Aktion ange
 
 ## Parameter
 
-Dieser Filter hat keine Parameter. Füge sie einfach zum Anfang deines Ebenenstapels hinzu.
+Dieser Filter hat keine Parameter. Um es zu verwenden, fügen Sie es einfach oben in Ihrem Ebenenstapel hinzu.

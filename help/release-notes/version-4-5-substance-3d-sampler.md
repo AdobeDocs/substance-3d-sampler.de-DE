@@ -36,16 +36,16 @@ Weitere Informationen [hier](../pipeline-and-integrations/substance-connector.md
 
 <b>Hinzugefügt</b>:
 
-* [Interoperabilität] Materialien an UE5, Blender, Maya, 3DsMax Unity senden
-* [Inhalt] Neue Texturgenerator-Kategorie - Verläufe
+* [Interoperabilität] Senden von Materialien an UE5, Blender, Maya, 3DsMax Unity
+* [Inhalt] Neue Generatorkategorie Textur - Farbverläufe
 * [Inhalt] HDRI-Werkzeuge - Neuer Umgebungsdrehungsfilter
 
 <b>Fest:</b>
 
-* [Verfügbare Parameter] Das Verfügbarmachen von .sbsar-Eingabewerten funktioniert nicht
+* [Freigelegte Parameter] Legend .sbsar-Eingabewerte funktionieren nicht
 * [Ebenen] Grundfarbe wird bei Graustufenbildern rot
 * [Rendering] In Farbkanälen verwendete Graustufenbilder haben einen falschen Farbraum
 * [Scripting] Bei Verwendung einer Exportvorgabe werden die erwarteten Kanäle möglicherweise nicht exportiert
-* [Inhalt] Dirt - Durch Anwenden eines Dirt-Filters über dem Bild auf Material wird eine schwarze Normalität erzeugt.
-* [Inhalt] Relief - Die Skalierung eines Musters im Relief-Filter ist nicht linear zwischen 0 und 1
+* [Inhalt] Dirt - Das Anwenden eines Dirt-Filters über dem Bild auf ein Material erzeugt eine schwarze Normalität
+* [Inhalt] Relief - Die Skalierung eines Musters im Relief-Filter ist nicht linear zwischen 0 und 1.
 * [Inhalt] Kachel erstellen - Verbesserte Normalität und Height-Konsistenz

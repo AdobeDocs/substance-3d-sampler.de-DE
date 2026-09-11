@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie Materialien aus Substance 3D Sampler mithilfe der Vorgabe "Mischzyklen/Gleichmäßig" für eine bessere Kompatibilität mit dem Mischmodus exportieren.
+description: Erfahren Sie, wie Sie Materials aus Substance 3D Sampler mithilfe der Vorgabe "Blender Cycles/Eveve" für eine bessere Kompatibilität mit dem Blender exportieren.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Blender CyclesEevee
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Voreinstellung | Kompatibilität | Beschreibung der Packing-Ausgabe |
 | --- | --- | --- |
-| Mischzyklen/Evee | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallisch/Raueit</li></ul> | **BaseColor &#x200B;**&#x200B;**Raueit**&#x200B;**Metallisch &#x200B;**&#x200B;**Normal**&#x200B;**Versatz &#x200B;**&#x200B;**Emissiv**&#x200B;**Alpha** |
+| Mischzyklen/Evee | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Metallic/Rauheit</li></ul> | **BaseColor &#x200B;**&#x200B;**Rauheit**&#x200B;**Metallic &#x200B;**&#x200B;**Normal**&#x200B;**Versatz &#x200B;**&#x200B;**Emissive**&#x200B;**Alpha** |

@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-visual-artefacts.html"
 breadcrumb-title: ''
-description: Erfahre, wie du in Substance 3D Sampler visuelle Artefakte in "Bild zu Material" korrigieren kannst, um Farb- und Qualitätsprobleme zu beheben.
+description: Hier erfahren Sie, wie Sie in Substance 3D Sampler visuelle Artefakte in Bild-zu-Material-Ergebnissen beheben, um Farb- und Qualitätsprobleme zu beheben.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Bild zu Material visuelle Artefakte
+title: Abbildung zum Material visueller Artefakte
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Bild zu Material visuelle Artefakte
+# Abbildung zum Material visueller Artefakte
 
 Die Ergebnisse von <b>Bild zu Material (KI-gestützt)</b> können manchmal geändert werden (hauptsächlich falsche Farben).
 

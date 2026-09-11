@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Füge eine Lackschicht über das Material hinzu. Dieser Filter passt in erster Linie die Raueit an, um das Material glatt und poliert aussehen zu lassen.
+Füge auf dem Material eine Lackschicht hinzu. Dieser Filter passt hauptsächlich die Rauheit an, um das Material glatt und geschliffen aussehen zu lassen.
 
 </td>
 </tr>
@@ -46,9 +46,9 @@ Füge eine Lackschicht über das Material hinzu. Dieser Filter passt in erster L
 * **Zufallsparameter**:\
   Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
 * **Beschichtungsdicke**: 0-1\
-  Passen Sie die Thickness des Lackes an. Wenn Sie diesen Wert erhöhen, werden Normal- und Materialdetails aus dem zugrunde liegenden Height reduziert.
+  Passen Sie die Thickness des Lackes an. Wenn Sie diesen Wert erhöhen, werden die Normal- und Height-Details des zugrunde liegenden Materials verringert.
 * **Raueit**: 0-1\
-  Passen Sie die Raueit des Lackes an, um eine andere Oberfläche zu erhalten.
+  Passen Sie die Rauheit des Lackes an, um eine andere Oberfläche zu erhalten.
 * **Benutzerdefinierte Maske verwenden**: Knebel\
   Aktivieren oder Deaktivieren der Verwendung einer benutzerdefinierten Maske. Wenn aktiviert, werden die folgenden Parameter angezeigt:
   * **Maske**: Bild/Pinsel\

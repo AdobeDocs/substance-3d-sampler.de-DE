@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
-description: Verwende das Mehrwinkel zu Material-Werkzeug in Substance 3D Sampler, um Materialien aus mehreren Winkelaufnahmen einer Oberfläche zu erstellen.
+description: Verwende das Mehrwinkel zu Material-Werkzeug in Substance 3D Sampler, um Materialien aus mehreren Winkelaufnahmen einer Fläche zu erstellen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Multiangle To Material
 helpx_experience_level: ""
@@ -22,18 +22,18 @@ ht-degree: 0%
 
 ![](../../assets/sat-multi-angle.png)
 
-Die **Mehrwinkel zu Material**-Vorlage erstellt ein Material aus 2 bis 8 Eingabebildern, die unter bestimmten Lichtbedingungen aufgenommen wurden. Solche Lichtverhältnisse können mit einem Materialscanner erreicht werden.
+Die **Mehrwinkel zu Material**-Vorlage erstellt ein Material von 2 bis 8 Eingabebilds, das unter bestimmten Lichtbedingungen aufgenommen wurde. Solche Lichtverhältnisse lassen sich mit einem Material-Scanner erreichen.
 
 >[!NOTE]
 >
-> Weitere Informationen zum Erstellen eines eigenen Materialscanners [&#x200B; finden Sie in diesem Artikel &#x200B;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html).
+> Weitere Informationen zum Erstellen eines eigenen Material-Scanners &quot;[&quot; finden Sie in diesem Artikel &#x200B;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html).
 
 ## Beispiel
 
 Hier ist ein Beispiel für ein Material, das aus 8 Eingabebildern erstellt wurde:
 
 * Die ersten 8 Bilder sind die Scan-Bilder, die unter 8 Lichtwinkeln aufgenommen wurden.
-* Die unteren Bilder sind die Ausgaben der Vorlage (Grundfarbe, Normal, Height, Metall und Raueit).
+* Die unteren Bilder sind die Ausgaben der Vorlage (Grundfarbe, Normal, Height, metallic und Rauheit).
 
 ![](../../assets/scan-801x697.jpg){width="400px"}
 

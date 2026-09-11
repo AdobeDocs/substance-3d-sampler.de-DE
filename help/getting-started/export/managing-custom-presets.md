@@ -26,9 +26,9 @@ Bei der Erstellung benutzerdefinierter Vorgaben werden dieselben Regeln beachtet
 
 ## Kreation
 
-## Diagramm erstellen.
+## Erstellen des Grafen
 
-Öffnen Sie den Substance Designer und erstellen Sie ein neues Substance-Diagramm.
+Öffnen Sie den Substance Designer und erstellen Sie einen neuen Substance-Graf.
 
 Öffnen Sie die Diagrammeigenschaften und geben Sie die folgenden obligatorischen Informationen ein:
 
@@ -41,29 +41,29 @@ Bei der Erstellung benutzerdefinierter Vorgaben werden dieselben Regeln beachtet
 
 Die Eingaben repräsentieren die Materialkanäle, die Sie vor dem Export transformieren möchten.
 
-Erstellen Sie einen Eingabefarbknoten (oder Graustufen) pro Materialkanal und fügen Sie jedem Eingabeknoten eine <b>Verwendung</b> in den Attributen hinzu, um sicherzustellen, dass die Verbindung zwischen Ihrem Material bzw. Ihren Materialien und Ihrer benutzerdefinierten Vorgabe hergestellt wird.
+Erstellen Sie einen Eingabefarbknoten (oder Graustufen) für jeden Attributkanal und fügen Sie jedem Eingabeknoten eine <b>Verwendung</b> in den Materialien hinzu, um sicherzustellen, dass die Verbindung zwischen Ihren Materialien und Ihrer benutzerdefinierten Vorgabe hergestellt wird.
 
-Beispiel: Definition der Grundfarbeingabe
+Beispiel: Definition der eingegebenen Grundfarbe
 
 ![](../../assets/custom-input.png){width="600px"}
 
 ### Ausgaben
 
-Die Ausgaben stellen das Ergebnis Ihres Texturexports dar.
+Die Ausgaben stellen das Ergebnis Ihres Texturen-Exports dar.
 
-Erstellen Sie einen Ausgabeknoten pro Textur, und fügen Sie jedem Ausgabeknoten <b>Auslastung</b> und eine <b>Bezeichnung</b> in den Attributen hinzu. Das <b>Label</b> wird in der Kanalliste im Exporterfenster und im Namen Ihrer Texturdatei angezeigt.
+Erstellen Sie einen Ausgabeknoten pro Textur, und fügen Sie jedem Ausgabeknoten <b>Auslastung</b> und eine <b>Bezeichnung</b> in den Attributen hinzu. Die <b>Bezeichnung</b> wird in der Kanalliste im Exporter-Fenster und im Namen Ihrer Textur-Datei angezeigt.
 
-Beispiel: Definition der benutzerdefinierten Textur Farbdeckkraft
+Beispiel: Definition der benutzerdefinierten Textur &quot;Farbdeckkraft&quot;
 
 ![](../../assets/custom-output.png){width="600px"}
 
 #### Beispiel für Kanal-Packing und Kanal-Konvertierung
 
-Packing von 3 Graustufen-Kanälen in einer RGB-Textur:
+Packing mit 3 Graustufen-Kanälen in einer RGB-Textur:
 
 ![](../../assets/channel-packing-example.png){width="600px"}
 
-Kanalkonvertierung von PBR Metallic/Roughness zu PBR Specular/Glossiness:
+Kanalkonvertierung von PBR Metallic/Rauheit zu PBR Specular/Glanz:
 
 ![](../../assets/channel-conversion.png){width="600px"}
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/warp.html"
 breadcrumb-title: ''
-description: Mit dem Verformen-Werkzeug in Substance 3D Sampler können Sie Texturen und Materialebenen mit Effekten für gerichtete Verkrümmung und Verzerrung versehen.
+description: Mit dem Verkrümmen-Werkzeug in Substance 3D Sampler können Sie Texturen und Material-Ebenen mit Richtungsverkrümmungs- und Verzerrung-Effekten versehen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Warp
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Beschreibung
 
-Mit dem **Verkrümmungsfilter** können Sie Ihr Material auf der Grundlage einer Reihe generierter Geräusche verkrümmen.
+Mit dem **Verkrümmungsfilter** können Sie Ihr Material auf der Grundlage einer Reihe generierter Rauschen verkrümmen.
 
 </td>
 </tr>
@@ -45,22 +45,22 @@ Mit dem **Verkrümmungsfilter** können Sie Ihr Material auf der Grundlage einer
 
 * **Zufallsparameter**:\
   Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
-* **Rauschauswahl**:\
-  Wähle das Rauschen aus, auf dem die Verkrümmung basieren soll. Unterschiedliche Geräusche können unterschiedliche Effekte erzeugen.
-* **Rauschskalierung**: 0-10\
-  Passen Sie die Skalierung des Ausgangsrauschens an. Das Geräusch wird immer kacheln.
+* **Rauschen Selection**:\
+  Wähle die Rauschen aus, auf der die Verkrümmung basieren soll. Verschiedene Rauschen können unterschiedliche Effekte erzeugen.
+* **Rauschen-Skalierung**: 0-10\
+  Passen Sie die Skalierung der Quell-Rauschen an. Die Rauschen wird immer kacheln.
 * **Typ**:\
-  Wählen Sie aus, mit welcher Methode das Material verkrümmt werden soll. Wenn **Richtungsverkrümmung** oder **Mehrrichtungsverkrümmung** ausgewählt sind, wird ein zusätzlicher Parameter angezeigt:
+  Wählen Sie aus, mit welcher Methode das Material verkrümmt werden soll. Wenn **Richtungsverzerrung** oder **Mehrere Richtungsverzerrungen** ausgewählt sind, wird ein zusätzlicher Parameter angezeigt:
   * **Verkrümmungswinkel**: 0-1\
     Richtung der Verformung anpassen.
 * **Intensität**: 0-1\
   Passe die Stärke der Verformung an.
-* **Benutzerdefiniertes Rauschen**: Knebel\
-  Aktivieren Sie diese Option, um anstelle der Auswahl unter **Rauschauswahl** ein benutzerdefiniertes Rauschen zu verwenden. Die verfügbaren Parameter ändern sich je nachdem, ob **Benutzerdefiniertes Rauschen** aktiviert oder deaktiviert ist. Wenn diese Option aktiviert ist, werden die folgenden Parameter angezeigt:
+* **Benutzerdefinierte Rauschen**: Knebel\
+  Aktivieren Sie diese Option, um eine benutzerdefinierte Rauschen anstelle der Auswahl unter **Rauschen Selection** zu verwenden. Die verfügbaren Parameter ändern sich je nachdem, ob **Benutzerdefinierte Rauschen** aktiviert oder deaktiviert ist. Wenn diese Option aktiviert ist, werden die folgenden Parameter angezeigt:
   * **Benutzerdefiniertes Rauschen weichzeichnen**: 0-1\
-    Weichzeichnen des benutzerdefinierten Rauschens
-  * **Benutzerdefiniertes Rauschen**: Bild/Pinsel\
-    Importieren Sie eine benutzerdefinierte Geräuschkarte, die als Verkrümmungsquelle verwendet werden soll.
+    Rauschen weichzeichnen
+  * **Benutzerdefinierte Rauschen**: Bild/Pinsel\
+    Importieren Sie eine benutzerdefinierte Rauschen-Map, die als Verkrümmungsquelle verwendet werden soll.
 * **Verkrümmung pro Kanal**: Knebel\
   Wenn diese Option aktiviert ist, werden zusätzliche Abschnitte angezeigt, um die Verkrümmung jedes Kanals unabhängig zu steuern. Für jeden Kanal stehen die folgenden Parameter zur Verfügung:
   * ***Kanalname***: Knebel\

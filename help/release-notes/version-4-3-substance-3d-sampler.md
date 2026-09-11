@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-3substance-3d-sampler.html"
 breadcrumb-title: ''
-description: Lesen Sie die Versionshinweise für Substance 3D Sampler 4.3, um mehr über die neuen Texturgeneratoren, den Stickfilter und das perspektivische Freistellungswerkzeug zu erfahren.
+description: Lesen Sie die Versionshinweise für Substance 3D Sampler 4.3, um mehr über die neuen Generatoren für Texturen, den Stickereifilter und das Werkzeug zum Zuschneiden von Perspektiven zu erfahren.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Version 4.3
 
-<b>Substance 3D Sampler 4.3</b> führt neue Starterinhalte ein, darunter <b>Texturgeneratoren</b>, eine neue Version des <b>Stickereifilters</b> und ein <b>Perpective Crop</b>-Tool.
+<b>Substance 3D Sampler 4.3</b> führt neue Starterinhalte ein, darunter <b>Stickerzeuger</b>, eine neue Textur des <b>Stickereifilters</b> und ein <b>Perpective Crop</b>-Tool.
 
 *Freigabedatum: 25. Januar 2024*
 
@@ -28,17 +28,17 @@ ht-degree: 0%
 
 ![](../assets/NewStarterContent.png)
 
-Die in Sampler enthaltenen Materialien wurden aktualisiert, um die Anforderungen von <b>Arbeitsabläufen für Industriedesign</b>, <b>Arbeitsabläufen für Mode </b> besser zu erfüllen, und technische Künstler, die in den Bereichen Medien und Unterhaltung arbeiten, haben jetzt mehr Kontrolle über die technischen Aspekte der Texturerstellung.
+Die in Sampler enthaltenen Materialien wurden aktualisiert, um die Anforderungen von <b>Arbeitsabläufen für Industriedesign</b>, <b>Arbeitsabläufen für Mode </b> besser zu erfüllen, und technische Künstler, die in den Bereichen Medien und Unterhaltung arbeiten, haben jetzt mehr Kontrolle über die technischen Aspekte der Erstellung von Texturen.
 
 ## Texturgenerator
 
 ![](../assets/sa_whats-new-screen_v4-3-0_generators.png)
 
-Neue Texturgeneratoren bieten eine verbesserte Kontrolle über die Materialerstellung mithilfe von <b> parametrischen Geräuschen, Mustern </b> und <b> Schmutz</b> Optionen.  Das erzeugte Bildmaterial kann in Masken oder Kanalkarten verwendet werden, was die Zusammenarbeit an Materialdesigns für technische und kreative Teams einfacher denn je macht.
+Neue Textur-Generatoren bieten eine verbesserte Kontrolle über die Mustererstellung mithilfe von <b>parametrischen Rauschen, Materialien </b> und <b> Schmutz</b>-Optionen.  Das erzeugte Bildmaterial kann in Masken oder Kanalkarten verwendet werden, was die Zusammenarbeit zwischen technischen und kreativen Teams beim Material-Design einfacher macht als je zuvor.
 
 ![](../assets/sampler4.3-texturegenerators-ezgif.com-video.gif)
 
-Verwenden Sie das neue Filtersymbol, um nur die Texturgeneratoren zu analysieren.
+Verwenden Sie das neue Filterung-Symbol, um nur Textur-Generatoren zu analysieren.
 
 ![](../assets/parse-texgen.gif)
 
@@ -46,13 +46,13 @@ Verwenden Sie das neue Filtersymbol, um nur die Texturgeneratoren zu analysieren
 
 ![](../assets/Embroideryv3.png)
 
-Der aktualisierte Stickereifilter hat eine verbesserte Stickergenauigkeit und unterstützt bis zu 8 Farben. Die Eingänge des Materials sind wieder im Schichtstapel, was das Einbringen anderer Metalle in das Pflaster ermöglicht.
+Der aktualisierte Stickereifilter hat eine verbesserte Stickergenauigkeit und unterstützt bis zu 8 Farben. Die Eingaben des Materials befinden sich wieder im Ebenenstapel, was die Einfügung anderer Metarialien in den Patch ermöglicht.
 
 ## Perspektivisches Freistellen
 
 ![](../assets/PerspectiveCropTool.png)
 
-Mit dem neuen perspektivischen Freistellungswerkzeug können Sie verzerrte Materialien und Scans mit vier Kontrollpunkten zuschneiden, um perspektivische Artefakte zu entfernen und ein kachelbares Element zu erhalten.
+Mit dem neuen Perspektive-Freistellungswerkzeug können Sie verzerrte Materialien und Scans mit vier Kontrollpunkten zuschneiden, um Artefakte in der Perspektive zu entfernen und ein kachelbares Element zu erhalten.
 
 ![](../assets/sampler4.3-perspectivecrop-ezgif.com-video-gif.gif)
 
@@ -66,7 +66,7 @@ Mit dem Stilisierungsfilter können Sie jedes Material formatieren, um einen han
 
 ![](../assets/Fill-Blend-mode.gif)
 
-Das Upgrade des Füllfilters führt Füllmethoden ein, mit denen Sie den Wert, die Eingabemaps oder die Texturgeneratoren der Füllung mit den Kanalergebnissen der folgenden Ebenen multiplizieren können.
+Das Upgrade des Füllfilters führt Überblendung-Modi ein, mit denen Sie den Wert, die Eingabe-Map oder die Textur-Generatoren der Füllung mit den Kanalergebnissen der folgenden Ebenen multiplizieren können.
 
 ## Verbesserungen beim Bildimport von Ebenen
 
@@ -80,37 +80,37 @@ Sie können einer Bildebene mehrere Alphas hinzufügen und eine Deckkraftzuordnu
 
 <b>Hinzugefügt</b>:
 
-* [Anlagen] Neuer Anlagentyp: Texturgeneratoren
-* [Elemente] Neue Materialien in den Starter-Elementen
+* [Anlagen] Neuer Anlagentyp: Textur Generators
+* [Elemente] Neue Material in den Starter-Elementen
 * [Assets] Neue Asset-Auswahl für Bildparameter im Eigenschaftenfenster
-* [Elemente] Ziehen Sie Texturgeneratoren per Drag &amp; Drop aus dem Bedienfeld &quot;Elemente&quot; in die Bildwähler im Bedienfeld &quot;Eigenschaften&quot;
-* [Assets] Ziehen Sie Texturgeneratoren per Drag &amp; Drop aus dem Dateiexplorer des Betriebssystems.
+* [Elemente] Ziehen Sie Generatoren per Drag &amp; Drop aus dem Bedienfeld &quot;Elemente&quot; in die Bildauswahl im Bedienfeld &quot;Eigenschaften&quot;.
+* [Assets] Ziehen Sie Generatoren per Drag &amp; Drop aus dem Explorer mit den Betriebssystemdateien in die Textur.
 * [Assets] Filter können Anpassungsgeneratoren über ein Benutzer-Tag an der Bildeingabe vorschlagen
-* [Assets] Texturgeneratoren können definieren, welcher Filter sie über ein Benutzer-Tag vorschlagen soll
+* [Assets] Textur Generators können definieren, welcher Filter sie über ein Benutzer-Tag vorschlagen soll
 * [Inhalt] Neuer perspektivischer Zuschneidefilter
 * [Inhalt] Neuer Stilisierungsfilter
 * [Inhalt] Füllmethode beim Füllfilter
 * [Inhalt] Aktualisierter Stickereifilter
 * [Inhalt] Aktualisierter Farbumflussfilter
-* [Inhalt] Alle Filter wurden aktualisiert, um Texturgeneratoren zu unterstützen
+* [Inhalt] Alle Filter wurden aktualisiert, um Textur Generators zu unterstützen
 * [Ebenen] Möglichkeit, einen Texturgenerator-Ausgabekanal auszuwählen, wenn er dem Ebenenstapel hinzugefügt wird
-* [Ebenen] Möglichkeit, Vorgaben auf Texturgeneratoren einfach aufzulisten und anzuwenden
-* [Ebenen] Texturgenerator-Vorschau in den Bildwählern anzeigen
+* [Ebenen] Möglichkeit, Vorgaben auf Textur-Generatoren einfach aufzulisten und anzuwenden
+* [Ebenen] Anzeigen einer Vorschau des Textur-Generators in den Bildwählern
 * [Ebenen] Texturgenerator-Parameter können angezeigt und exportiert werden
-* [Ebenen] Weisen Sie die Grundfarbverwendung zu, wenn Sie ein einzelnes Bild mit der Texturimport-Erstellungsvorlage importieren.
+* [Ebenen] Weisen Sie die Verwendung der Grundfarbe zu, wenn Sie ein einzelnes Bild mit der Textur &quot;Import Creation Template&quot; importieren.
 * [Ebenen] Feedback beim Versuch, inkompatible Dateien per Drag &amp; Drop in die Bildauswahl im Eigenschaftenfenster zu ziehen
 * [Ebenen] Generieren eines Deckkraftkanals aus dem Alphakanal eines importierten Bildes
-* [Ebenen] Bild zu Material (AI) ist schneller zu berechnen, wenn die Kategorie geändert wird
+* [Ebenen] &quot;Bild zu Material&quot; (AI) ist schneller zu berechnen, wenn die Kategorie geändert wird
 * [Ebenen] Wählen Sie die relevanteste Ebene aus, nachdem eine Erstellungsvorlage verwendet wurde.
 * [Ebenen] Die Positions-Widgets können jetzt mit einem Schieberegler in der Gruppe &quot;Erweiterte Parameter&quot; angepasst werden.
 * [Exportieren] Zeigt einen Prozentsatz in der Warteschlange anstelle von Raw-Zahlen an
-* [Interoperabilität] Beim Senden an Painter wird der Deckkraftkanal jetzt als Alphakanal erkannt.
+* [Interoperabilität] Der Deckkraftkanal wird jetzt beim Senden an Painter als Alphakanal erkannt.
 * [Anwendung] Neues Dialogfeld zum Anzeigen und Speichern von Hardwareinformationen
 * [Anwendung] Neue Voreinstellung zum Ändern der Standardprojektskalierung für jedes Height
 * [Anwendung] Verbesserung der Darstellung veralteter Assets
 * [Scripting] Neue Funktionen asset.documentResolution() und asset.setDocumentResolution()
 * [Skripterstellung] Neue select\_asset()-Funktion
-* [Scripting] Python-API für Texturgeneratoren
+* [Scripting] Python-API für Textur-Generatoren
 * [Scripting] get\_project\_assets() gibt jetzt 3D-Objekte zurück.
 * [UI] Die Größe der Miniaturansichten von Elementen kann im Bedienfeld &quot;Elemente&quot; geändert werden
 * [UI] Aktualisierte Viewport-Anzeigesymbole
@@ -118,13 +118,13 @@ Sie können einer Bildebene mehrere Alphas hinzufügen und eine Deckkraftzuordnu
 <b>Fest:</b>
 
 * [2D-Ansicht] Zoom mit Mausrad ist bei 244 % blockiert
-* [Anwendung] Absturz beim Start beim Initialisieren der Grafik-API
-* [Anwendung] Absturz, wenn der Projektname das Zeichen # enthält
-* [Anwendung] Mögliche Abstürze beim Öffnen eines alten Projekts
+* [Anwendung] Absturz beim Start bei der Initialisierung der Grafik-API
+* Absturz [Anwendung], wenn der Projektname das Zeichen # enthält
+* [Anwendung] Möglicher Absturz beim Öffnen eines alten Projekts
 * [Anwendung] Das erneute Öffnen des aktuellen Projekts kann zu einem Absturz führen
 * [Anwendung] Einige Projektänderungen sind nicht registriert und gehen beim Schließen des Projekts ohne Warnung verloren, wenn sie nicht gespeichert wurden.
 * [Export] .sbs/.sbsar-Exportprobleme bei der Verwendung mehrerer Dateien mit demselben Namen
-* [Export] Falscher Farbraum für exportierte Graustufenbilder .sbs/.sbsar-Datei
+* [Exportieren] Falscher Farbraum für exportierte Graustufenbilder .sbs/.sbsar-Datei
 * [Filter] Probleme mit dem Verhalten &quot;Deckkraftüberblendung&quot;
 * [Ebenen] SVG-Dateien werden manchmal nicht mit der richtigen Auflösung gerendert
 * [Leistung] Einige Projektspeicherungen auf der Festplatte sind nicht erforderlich.

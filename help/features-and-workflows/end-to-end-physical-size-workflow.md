@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
 breadcrumb-title: ''
-description: Lernen Sie, wie Sie mit Substance 3D Sampler nahtlose Physische Größen erstellen, die realitätsgetreu skaliert werden.
+description: Lerne, wie du mithilfe des End-to-End-Workflows für Physische Größen in Substance 3D Sampler präzise Materialien erstellst, die realitätsgetreu skaliert sind.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > End to end Physical Size Workflow
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ Stimmen Sie die Physische Größe gescannter Samples und Bilder in einem digital
 
 ## Scans importieren
 
-1. Wählen Sie die Materialerstellungsvorlage aus.
+1. Wählen Sie die Vorlage zum Erstellen eines Materials aus.
 1. Aktivieren Sie das Kontrollkästchen Physische Größe .
 
    ![](../assets/screenshot-2022-01-20-at-16-15-53.png)
@@ -38,14 +38,14 @@ Stimmen Sie die Physische Größe gescannter Samples und Bilder in einem digital
    3b. Automatisch messen - Mit dem Werkzeug zum automatischen Messen können Sie eine geschätzte Physische Größe Ihrer Stichprobe basierend auf den Bildmetadaten (dpi) erhalten. Es ist schneller, funktioniert aber nur mit Scans, da es die gespeicherte dpi verwendet, um eine genaue Anfangsgröße zu berechnen.
 
    <b>Sie können die Scans jetzt verarbeiten</b>
-1. Schneide das Bild zu. Passe es an die Vorlage an. Sie können sehen, dass die Physische Größe unten rechts im 2D-Viewport aktualisiert wurde.
+1. Schneide das Bild zu. Passe es an die Vorlage an. Die Physische Größe rechts unten im 2D-Viewport wird aktualisiert.
 
    Zeigt das physikalische Verhältnis im 2D-Viewport an, um die Karten, an denen ihr arbeitet, genau zu sehen.\
-   Sie können die 2D-Ansicht an die Physische Größe anpassen, sodass der DPI-Wert Ihres Bildschirmverhältnisses mit Ihrer Materialskala übereinstimmt. Mit anderen Worten, Sie können Ihr echtes Muster neben Ihren Bildschirm setzen, um die Abmessungen zu überprüfen.
+   Sie können die 2D-Ansicht so einstellen, dass sie zur Physische Größe passt, damit der DPI-Wert Ihres Bildschirmverhältnisses mit der Skalierung Ihres Materials übereinstimmt. Mit anderen Worten, Sie können Ihr echtes Muster neben Ihren Bildschirm setzen, um die Abmessungen zu überprüfen.
 
    ![](../assets/cq5dam.web.1280.png)
 1. Mit dem Regler &quot;Tonwertangleichung&quot; kannst du Verläufe entfernen.
-1. Kachel hinzufügen, um die Kachelung zu korrigieren
+1. Kachelung hinzufügen, um die Kachelung zu korrigieren
 1. Bei Bedarf ist die Verkrümmungstransformation hilfreich, um nur Teile der Karte neu auszurichten.
 
    <b>Bereit zum Exportieren</b>

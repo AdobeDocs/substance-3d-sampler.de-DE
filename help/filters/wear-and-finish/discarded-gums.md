@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Fügen Sie Ihrem Material gebrauchten Kaugummi hinzu. Dieser Filter eignet sich hervorragend zum Erstellen von Gehwegen oder anderen Materialien für öffentliche Gehbereiche.Vor und nach der Verwendung des Filters **Ausrangierte Gummen** auf einem Asphaltmaterial.
+Fügen Sie Ihrem Material gebrauchten Kaugummi hinzu. Dieser Filter eignet sich hervorragend zum Erstellen von Gehwegen oder anderen Materialien für öffentliche Gehbereiche.Vor und nach der Verwendung des Filters **Verworfene Gummen** auf einem Asphalt-Material.
 
 <table>
 <tr style="border: 0;">

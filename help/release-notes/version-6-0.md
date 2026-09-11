@@ -152,16 +152,16 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 
 **Fest:**
 
-* [2D-Ansicht] Ordnen Sie die 2D-Ansicht gemäß dem Ergebnisverwendungsindex in der Spezifikation an
+* [2D-Ansicht] Bestellen Sie 2D-Ansichten gemäß dem Ergebnisverwendungsindex in der Spezifikation.
 * [Anwendung] Beheben eines Absturzes beim Start
-* [Anwendung] Fehlerhafte Logik für die Workflownutzungsfilterung mit OpenPBR beheben
+* [Anwendung] Fehlerhafte Logik für Filterungen zur Verwendung des Workflows in OpenPBR beheben
 * Die Liste der bekannten Versionen von [Application] wird jetzt bei der Suche nach einem Update gelesen.
-* [Anwendung] Verhindern eines Absturzes beim gleichzeitigen Zugriff
+* [Anwendung] Verhindern eines Absturzes für gleichzeitigen Zugriff
 * [Anwendung] Verhindern einer doppelten Berechnung beim Importieren von Bildern mit Basismaterial
 * [Anwendung] Verhindern eines potenziellen Absturzes beim Beenden
-* [Anwendung] Absturz verhindern, wenn eine Maske zweimal gelöscht wird
+* [Anwendung] Verhindern von Abstürzen beim zweimaligen Löschen einer Maske
 * [Anwendung] Verhindern Sie eine Verwendungskonvertierung, die den ursprünglichen Fall verliert.
-* [Anwendung] Verhindern nutzloser Berechnungen unsichtbarer Ausgaben
+* [Anwendung] Verhindern der nutzlosen Berechnung unsichtbarer Ausgaben
 * [Anwendung] Ersetzen von Leerzeichen durch Unterstriche beim Erstellen der Verwendungs-ID aus dem Namen
 * [Anwendung] Verschiedene Aktualisierungskorrekturen
 * [Captis] Gerät nach Aktualisierung der Sicherheitsrichtlinien nicht erkannt
@@ -177,47 +177,47 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 * [Captis] Falsche Freistellungsgröße
 * [Kanaleinstellungen] Maskenkanäle im Bedienfeld, wenn sie nicht sichtbar sind
 * [Exportieren] Das Öffnen eines Ordners mit Sonderzeichen funktioniert ordnungsgemäß.
-* [Export] Absturz beim Export verhindern, wenn die Struktur entladen wurde
+* [Exportieren] Absturz beim Exportieren verhindern, wenn die Struktur entladen wurde
 * [Export] Ausgewählte Ausgaben sind im Exportdialogfeld nicht dauerhaft.
 * [Filter] Das Exportieren eines Baums mit Bildern unterbricht die dynamische Bildauflösung
 * [Filter] C++-Filterverfügbarkeit beheben
-* [Filter] Erkennung des dynamischen Klonstempels beheben
+* [Filter] Dynamische Filtererkennung für Klon-Stempel beheben
 * [Filter] Beheben Sie die UID-Zählerinitialisierung beim Ausfüllen dynamischer Verwendungen
 * [Filter] Korrigieren des Farbraums im Assistenten für automatische Kachelung
 * [Filter] Freistellungsausgabegrößen korrigieren
 * [Filter] Aktualisieren des Filters mit angehefteten Parametern
 * [Filter] Verhindern eines Absturzes auf macOS im Assistenten für automatische Kachelung
-* [Filter] Verhindern Sie einen Absturz beim Hochskalieren, wenn eine Eingabe fehlt
-* [Filter] Verhindern Sie einen Absturz beim Laden eines zusammengesetzten Filters ohne Dateinamen
+* [Filter] Verhindern von Absturz in der Hochskalierung, wenn eine Eingabe fehlt
+* [Filter] Verhindern Sie Absturz beim Laden eines zusammengesetzten Filters ohne Dateinamen
 * [Filter] Die Zielmaskenoptimierung wurde in PatchMatch dupliziert.
 * [Bildimport] Automatische manuelle Messung für Physische Größe korrigieren
 * [Bildimport] Die richtige SVG-Rastergröße, wenn sie als Tweak verwendet wird
 * [Ebenen] Das Zuweisen einer Verwendung zu einem Bild durch Eingabe funktioniert nicht
-* [Ebenen] Vermeiden Sie Abstürze beim Hinzufügen von Ebenen zum Stapel
-* [Ebenen] Verfügbare Parameter, die nicht aktualisiert werden müssen, wurden entfernt.
-* [Ebenen] Korrektur des Hinzufügens eines Texturgenerators als Map
+* [Ebenen] Vermeiden Sie Absturz beim Hinzufügen von Ebenen zum Stapel
+* [Freigelegte Parameter der Ebenen ], die nicht aktualisiert werden mussten, wurden entfernt.
+* [Ebenen] Korrektur des Hinzufügens des Kartengenerators als Textur
 * [Ebenen] Flachstellen korrigieren
 * [Ebenen] Unterstapel in Eingabegröße reduzieren, nicht Dokumentgröße
-* [Ebenen] Absturz beim Reduzieren eines Stapels mit reduzierten Ebenen verhindern
+* [Ebenen] Verhindern von Abstürzen beim Reduzieren eines Stapels mit reduzierten Ebenen
 * [Ebenen] Verhindern, dass eine Rendering-Optimierungsmeldung mit Basismaterial angezeigt wird
 * [Ebenen] Beim Aktualisieren eines Filters auf einen Unique-Output-Filter wurde die Benutzeroberfläche nicht ordnungsgemäß aktualisiert.
 * [Voreinstellungen] Korrektur der Änderung der Voreinstellungen
 * [Projekt] Import von .alch-Projekten korrigieren
 * Das Speichern von [Projekt] schlägt nicht mehr ohne Meldung fehl.
-* [Rendern] Vermeiden Sie einen Absturz bei macOS, indem Sie den Planungsmodus auf &quot;Automatisch&quot; setzen
-* [Rendern] Das Ändern der V-Komponente der Texturkachelung hatte keine Auswirkungen
+* [Rendern] Vermeiden Sie Absturz in macOS, indem Sie den Planungsmodus auf &quot;Automatisch&quot; setzen
+* [Rendern] Das Ändern der V-Textur der Kachelung hat keine Auswirkungen
 * [Rendern] Fehlendes Rendern und Miniaturansichten beheben
 * [Rendern] Verhindern gleichzeitiger Zugriffe auf Ausgabewerte
 * [Rendern] Verarbeiten Sie die Ausgabewerte einer Struktur im Renderer ordnungsgemäß.
 * [Rendern] Beenden Sie die Neuerstellung der Baumstruktur bei jedem Rendern.
 * [Skripterstellung] Beheben eines Absturzes in get_project_assets
-* [Skripterstellung] Verhindern Sie Abstürze beim Reduzieren von der Python-API
+* [Skripterstellung] Verhindern von Abstürzen beim Reduzieren von der Python-API
 * [UI] Alle Unterteilungen im Eigenschaftenfenster verfügen jetzt über die Fensterbreite.
-* [UI] Vermeiden Sie es, interne Benutzer mit automatischer Kachelung als benutzerdefinierte anzuzeigen
+* [Benutzeroberfläche] Vermeiden Sie es, interne Verwendungen mit automatischer Kachelung als benutzerdefinierte anzuzeigen
 * [UI] Fehlerhaftes Kontextmenü reparieren
 * [UI] Kontextmenü für Generatoranpassungen reparieren
 * [UI] Laden von Schriften korrigieren
-* [UI] Schaltfläche &quot;Materialvorgabe&quot; mit langen Namen reparieren
+* [UI] Materialvorgabe-Schaltfläche mit langen Namen korrigieren
 * [UI] Mehrere Regler-Tweak-Bindungen reparieren
 * [UI] Seltene Schaltflächen mit kleiner Größe im Dialogfeld reparieren
 * [Benutzeroberfläche] Korrektur der Änderung des Tweak-Werts bei der Komponentenerstellung

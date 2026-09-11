@@ -25,7 +25,7 @@ ht-degree: 0%
 Wenn Sie Sampler öffnen, wird der <b>Startbildschirm</b> angezeigt. Der <b>Startbildschirm</b> bietet verschiedene Optionen, die Ihnen den Einstieg in ein neues oder bestehendes Sampler-Projekt erleichtern.
 
 1. <b>Neues Projekt</b>: Erstellen Sie ein neues Projekt, indem Sie eine Datei importieren und aus einer Sammlung von Schnellaktionen auswählen.
-1. <b>Schnellstart</b>: Erstelle ein neues Projekt, und wähle eine Materialvorgabe aus.
+1. <b>Schnellstart</b>: Erstellen Sie ein neues Projekt und wählen Sie eine Materialvorgabe aus.
 1. <b>Öffnen</b>: Öffnen Sie ein Projekt mit dem Dateibrowser Ihres Systems.
 1. <b>Start</b>: Greifen Sie auf empfohlene Tutorials zu, erstellen Sie ein neues Projekt oder zeigen Sie eine Liste der aktuellen Projekte an.
 1. <b>Training</b>: Greifen Sie auf Videotutorials und Lerninhalte für Sampler zu.

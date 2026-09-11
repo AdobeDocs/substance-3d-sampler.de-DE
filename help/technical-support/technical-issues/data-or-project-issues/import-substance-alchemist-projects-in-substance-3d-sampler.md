@@ -36,4 +36,4 @@ Nach dieser Aktion ist eine **.alch**-Datei mit einem **Abhängigkeiten**-Ordner
 1. Wechseln Sie zum Ordner, in dem sich die Datei **.alch** befindet.
 1. Öffnen Sie die Datei &quot;**.alch**&quot; (stellen Sie sicher, dass sich der Ordner &quot;**dependencies**&quot; noch neben der Datei &quot;.alch&quot; befindet).
 
-Alle Ihre Materialien werden im Projektfenster im Abschnitt Materialien aufgelistet.
+Alle Ihre Materialien werden im Projektfenster im Bereich &quot;Materialien&quot; aufgelistet.

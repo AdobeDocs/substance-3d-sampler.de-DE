@@ -25,7 +25,7 @@ ht-degree: 0%
 * Der Arbeitsablauf von Sampler mit HP Z Captis ist derzeit nur unter Windows verfügbar.
 
 * Die physische Trennung des Geräts während eines Scans hält die Aufnahme nicht an. Wenn das Gerät während der Aufnahme getrennt wird, warten Sie 30 Sekunden, bevor Sie es erneut verbinden, damit es wieder mit der laufenden Aufnahmesitzung verbunden werden kann.
-* Die fünf Karten, die heute exportiert werden, sind Grundfarbe, Raueit, Normal, Height, Deckkraft.
+* Die fünf Karten, die heute exportiert werden, sind Grundfarbe, Rauheit, Normal, Height, Deckkraft.
 * Wenn Sie das Fenster während einer Aufnahme schließen, gehen die ausgefüllten Metadaten verloren.
 * Wenn Sie während der Übertragung der Daten von Captis über USB auf eine der Schaltflächen &quot;Inhalt durchsuchen&quot; oder &quot;Herunterfahren&quot; klicken, wird die Übertragung beendet.
 

@@ -36,7 +36,7 @@ Der Farbwähler wird immer angezeigt, wenn Sie eine Farbe auswählen müssen. Si
 
 ### SVG-Unterstützung
 
-Sampler unterstützt jetzt SVG. Sie können sie in Ihre Assets importieren, direkt in den Ebenenstapel oder in eine Bildeingabe der Ebene.
+Sampler unterstützt jetzt SVG. Sie können sie in Ihre Assets importieren, direkt in den Ebenenstapel oder als Bildeingabe einer Ebene.
 
 ![](../../assets/svg-support.jpg){width="500px"}
 
@@ -46,7 +46,7 @@ Eine neue Funktion zum Bearbeiten in bietet große Flexibilität bei der Aktuali
 
 ### Neues UX/UI-Zuschneiden
 
-Sampler erhält jetzt ein richtiges und überarbeitetes Widget für das Zuschneiden, um den zugeschnittenen Bereich einfach zu definieren. Auch beim Zuschneiden von nicht quadratischen Bildern in quadratische Texturen werden keine gedehnten Ergebnisse erzielt.
+Sampler erhält jetzt ein richtiges und überarbeitetes Widget für das Zuschneiden, um den zugeschnittenen Bereich einfach zu definieren. Auch beim Zuschneiden von nicht quadratischen Bildern in quadratische Texturen werden keine gedehnt Ergebnisse erzielt.
 
 ![](../../assets/crop-9.jpg){width="500px"}
 
@@ -56,9 +56,9 @@ Bearbeiten Sie Ihre Voreinstellungen, um das [normale Format](../../interface/pr
 
 ![](../../assets/7-normal-format-preferences.jpg){width="250px"}
 
-### Export von Materialeigenschaften in SBSAR
+### Exportieren von Material-Eigenschaften in SBSAR
 
-Alle Materialparameter der Shader-Einstellungen (Normalskala, Height-Skalierung, Height-Ebene,...) in die SBSAR-Datei exportiert und dann in Substance 3D Stager gelesen, um eine perfekte Materialübereinstimmung zu erzielen.
+Alle Material-Parameter der Shader-Einstellungen (Normalskala, Height-Skala, Height-Level,...) werden in die Sbsar-Dateien exportiert, die in Substance 3D Stager gelesen werden sollen, damit das Material perfekt übereinstimmt.
 
 ![](../../assets/material-consistency-sa-sg.jpg){width="500px"}
 
@@ -85,17 +85,17 @@ Alle Materialparameter der Shader-Einstellungen (Normalskala, Height-Skalierung,
 * [UI] Neue stufenlose Schieberegler-Benutzeroberfläche
 * [Anwendung] Hinzufügen einer normalen Formatauswahl in den Voreinstellungen
 * [Anwendung] Das normale Format in Bildimportebenen entspricht dem in den Voreinstellungen festgelegten normalen Standardformat
-* [Anwendung] In der 2D-Ansicht wird die Normale entsprechend dem in den Voreinstellungen festgelegten Normalformat angezeigt
+* [Anwendung] In den 2D-Ansichten wird das Normalformat entsprechend dem in den Voreinstellungen festgelegten Normalformat angezeigt.
 * [Anwendung] Die Normale wird in das in den Voreinstellungen festgelegte normale Format exportiert
-* [Export] Hinzufügen eines normalen Formatparameters zum Export von SBS- und SBSAR-Dateien
-* [Exportieren] Hinzufügen von Shader-Einstellungen zum SBS- und SBSAR-Dateiexport
-* [Exportieren] Stellen Sie die Standardauflösung der exportierten SBS-Diagramme ein.
+* [Exportieren] Hinzufügen eines Normalformatparameters zum Exportieren von SBS und Sbsar-Dateien
+* [Exportieren] Hinzufügen von Shader-Einstellungen zu SBS- und Sbsar-Datei-Exporten
+* [Exportieren] Festlegen der Standardauflösung für exportierte SBS Graf
 * [Compound Filters] SSA-Filter mit 7z verpacken
 * [Zusammengesetzte Filter] Kategoriemetadaten in zusammengesetzten Filtern hinzufügen
 * [Zusammengesetzte Filter] Zusammengesetzte Filter können eine eingebettete Miniaturansicht haben
 * [Zusammengesetzte Filter] Dem Dialogfeld &quot;Inhalt abrufen&quot; wurde die Erweiterung &quot;Zusammengesetzte Filter&quot; (.ssafilter) hinzugefügt.
 * [Zusammengesetzte Filter] Importieren zusammengesetzter Filter (.ssafilter) im Bedienfeld &quot;Elemente&quot;
-* [Engine] Aktualisieren der Substance-Engine auf Version 8.2.0
+* [Engine] Aktualisieren des Substance-Engine auf Version 8.2.0
 
 **Fest:**
 
@@ -103,22 +103,22 @@ Alle Materialparameter der Shader-Einstellungen (Normalskala, Height-Skalierung,
 * [Anwendung] Absturz beim Beenden
 * [Anwendung] Absturz beim Starten von zwei Instanzen von Sampler
 * [Inhalt] Zuschneidefilter hat eine zufällige Starteinstellung
-* [Inhalt] Einige Substance-Materialien werden manchmal nicht aktualisiert
-* [Export] Absturz beim Exportieren mit einer neu hinzugefügten benutzerdefinierten Vorgabe
+* [Inhalt] Einige Substance-Material werden manchmal nicht aktualisiert
+* [Exportieren] Absturz beim Exportieren mit einer neu hinzugefügten benutzerdefinierten Vorgabe
 * [Export] Geschätzte Größe des Pakets fehlt im Export-Popup
-* [Export] Beheben von Speicherlecks beim Exportieren von SBS- und SBSAR-Dateien
+* [Exportieren] Beheben von Speicherlecks beim Exportieren von SBS- und SBSAR-Dateien
 * [Zusammengesetzte Filter] Zusammengesetzte Filter können doppelte Eingaben aufweisen.
 * [Zusammengesetzte Filter] Absturz, wenn ein Filter nicht erfüllte Referenzen enthält
-* [Zusammengesetzte Filter] Absturz beim Neuanordnen eines Ebenenstapels mit einem zusammengesetzten Filter darin
+* [Verbundfilter] Absturz beim Neuanordnen eines Ebenenstapels mit einem Verbundfilter
 * [Verbundfilter] Das Rendering hängt manchmal
 * [Bildimport] Das Importieren eines Bildes löst mehrere Renderings aus
-* [Ebenen] Absturz beim Rückgängigmachen/Wiederholen
-* [Ebenen] Absturz beim Hinzufügen eines Basismaterials
-* [Ebenen] Absturz bei Verwendung eines ungültigen Bildes als Umgebungslicht
-* [Ebenen] Fixieren des doppelten Imports beim Einfügen eines Filters mit mehreren Graphen
+* Absturz [Ebenen] bei Rückgängigmachen/Wiederholen
+* Absturz [Ebenen] beim Hinzufügen eines Basismaterials
+* Absturz [Ebenen] bei Verwendung eines ungültigen Bildes als Umgebungslicht
+* [Ebenen] Fixieren des doppelten Imports beim Einfügen eines Filters mit mehreren Grafen
 * [Ebenen] Das Neuanordnen von Ebenen funktioniert nicht immer
-* [Projekt] Absturz beim Laden einer unvollständigen Projektdatei
-* [Projekt] Absturz beim Öffnen eines beschädigten Projekts
+* [Project] Absturz beim Laden einer unvollständigen Projektdatei
+* Absturz beim Öffnen eines beschädigten Projekts.
 * [Projekt] Einige Elemente können aus einem Projekt verschwinden
 * [Eigenschaften] Korrektur fehlender Filtervorgaben
 * [UI] Winkelparameter können nicht festgelegt werden.
@@ -130,6 +130,6 @@ Alle Materialparameter der Shader-Einstellungen (Normalskala, Height-Skalierung,
 
 **Bekannte Probleme:**
 
-* [Realtime Engine 2021] Starke Berechnungen können die Anwendung abstürzen lassen
-* [Realtime Engine 2021] Realtime Engine 2021 stürzt auf einem Windows-Computer ab, auf dem sowohl AMD CPU als auch Nvidia GPU installiert sind.
+* [Echtzeit-Engine 2021] Starke Berechnung kann Absturz in der Anwendung verursachen
+* [Echtzeit-Engine 2021] Echtzeit-Engine 2021 wird auf einem Windows-Computer mit installierter AMD-CPU und Nvidia-GPU Absturz
 * [Farbwähler] Die Auswahl einer Farbe auf einem zweiten Monitor mit einer anderen Auflösung funktioniert möglicherweise nicht

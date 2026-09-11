@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/wear-and-finish/corrode.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Korrosionsfilter in Substance 3D Sampler, um Korrosion und chemische Abbaueffekte zu Metallmaterialien hinzuzufügen.
+description: Verwenden Sie den Korrosionsfilter in Substance 3D Sampler, um metallische Materialien mit Korrosions- und chemischen Abbaueffekten zu versehen.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Corrode
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Der Korrosionsfilter ahmt den Effekt von Säure nach, die sich an Ihrem Material absetzt und Löcher hinterlässt und die Oberfläche beschädigt.
+Der Korrosionsfilter ahmt die Wirkung von Säure nach, die sich an Ihrem Material absetzt und Löcher hinterlässt und die Oberfläche beschädigt.
 
 </td>
 </tr>
@@ -46,21 +46,21 @@ Der Korrosionsfilter ahmt den Effekt von Säure nach, die sich an Ihrem Material
 * **Zufallsparameter**:\
   Der Zufallswert bestimmt die Zufallswerte anderer Parameter, die den Zufallswert in diesem Filter verwenden.
 * **Betroffene Bereiche**:\
-  Wählen Sie aus, wie sich die Krümmung der Oberfläche auf den Effekt des Filters auswirkt.
+  Wählen Sie aus, wie sich die Krümmung der Fläche auf die Wirkung des Filters auswirkt.
 * **Leistungsstufe**: 0-1\
   Passen Sie die Anzahl der erstellten Bohrungen an.
-* **Krümmungsposition**: 0-1\
-  Ändern Sie den zu ändernden Krümmungsbereich.
-* **Kurvenglättung**: 0-1\
-  Glätten der Krümmungskarte.
+* **Position der Krümmung**: 0-1\
+  Ändern Sie den zu ändernden Krümmung-Bereich.
+* **Krümmung glatt**: 0-1\
+  Krümmungs-Map glätten.
 * **Schadensentfernung**: 0-1\
   Steuern Sie den Schadensradius in den korrodierten Bereichen.
 * **Schadensintensität**: 0-1\
   Passen Sie die Schadenshöhe in den betroffenen Bereichen an.
 * **Height-Intensität**: 0-1\
-  Kontrollieren Sie die Auswirkungen der Beschädigung auf die Karte des Heights.
+  Steuern Sie die Auswirkungen der Beschädigung der Höhen-Map.
 * **Position** extrudieren: Knebel\
-  Ändern Sie die Schadensrichtung auf der Karte des Heights. Bei deaktivierter Funktion frisst sich der Schaden in die Oberfläche. Wenn diese Option aktiviert ist, baut sich der Schaden von der Oberfläche nach außen auf.
+  Ändern Sie die Schadensrichtung auf dem Höhen-Map. Bei deaktivierter Funktion frisst sich der Schaden in die Oberfläche. Wenn diese Option aktiviert ist, baut sich der Schaden von der Oberfläche nach außen auf.
 
 **Maske**
 
@@ -75,21 +75,21 @@ Der Korrosionsfilter ahmt den Effekt von Säure nach, die sich an Ihrem Material
 
 **Erweiterte Parameter**
 
-Einige der erweiterten Parameter wirken sich auf das gesamte Material aus, nicht nur auf die von diesem Filter geänderten Bereiche.
+Einige der erweiterten Parameter wirken sich auf das gesamte Material aus, nicht nur auf die Bereiche, die mit diesem Filter verändert wurden.
 
 * **Luminanz**: 0-1\
-  Passe Luminanz oder Helligkeit an, um das gesamte Material zu erhalten.
+  Passe Luminanz oder Helligkeit an, um das gesamte Material zu erfassen.
 * **Kontrast**: -1 bis 1\
-  Passe den Kontrast der Albedo für das gesamte Material an.
+  Passe den Albedo-Kontrast für das gesamte Material an.
 * **Farbtonverschiebung**: 0-1\
   Versatz des Farbtonwerts der Farben im gesamten Material.
 * **Sättigung**: 0-1\
   Passe die Sättigung für das gesamte Material an.
 * **Normalintensität**: 0-1\
-  Passen Sie die Intensität der normalen Karte an, auf die sie durch den **Korrosionsfilter** eingewirkt wurde.
+  Passen Sie die Intensität der Normalen-Map an, wenn sie durch den **Korrosionsfilter** beeinträchtigt wurde.
 * **Height-Bereich**: 0-1\
-  Erhöhen Sie den Wertebereich in der Materialkarte für das gesamte Height.
+  Erhöhen Sie den Wertebereich auf der Höhen-Map für das gesamte Material.
 * **Height-Position**: 0-1\
   Versatz das Height des gesamten Materials.
-* **Umgebungsintensität der Verdeckung**: 0-1\
-  Passen Sie die Stärke des AO-Effekts aufgrund des **Korrosionsfilters** an.
+* **Ambient occlusion-Intensität**: 0-1\
+  Passen Sie die Stärke der AO-Auswirkung aufgrund des **Korrosionsfilters** an.

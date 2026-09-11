@@ -27,7 +27,7 @@ Hinzugefügt:
 * [Filter] Durch Drücken der Leertaste können Sie schnell auf Ihre Filter zugreifen
 * [Filter] Neues spezielles Bedienfeld zum Verwalten, Durchsuchen und Importieren Ihrer Filter
 * [Metadaten] Klicken Sie mit der rechten Maustaste auf ein Material, um die Metadaten anzuzeigen.
-* [Metadaten] Klicken Sie mit der rechten Maustaste auf ein Material, um seinen Speicherort auf Ihrer Festplatte anzuzeigen.
+* [Metadaten] Klicken Sie mit der rechten Maustaste auf ein Material, um seinen Speicherort auf der Festplatte anzuzeigen.
 * [Regler] Animieren Sie die Regler, wenn Sie mit der Maus darauf zeigen, indem Sie Strg drücken
 * [Schieberegler] Halten Sie die Animation der Schieberegler an und starten Sie sie neu, indem Sie P drücken.
 * [Exportieren] SBSAR-Export folgt den Richtlinien für die Substance Source
@@ -36,9 +36,9 @@ Hinzugefügt:
 * [UX] Dialogfeld &quot;Ordner&quot; speichert den zuletzt ausgewählten Ordnerpfad
 * [UI] Benutzeroberfläche des Bedienfelds &quot;Ressourcen aktualisieren&quot;
 * [UI] Benutzeroberfläche für die Suchleiste aktualisieren
-* [UI] Symbol &quot;Neues Material erstellen&quot; wurde aktualisiert
+* [UI] Symbol &quot;Neues Material erstellen&quot; wird aktualisiert
 * [Help] URLs werden auf die Domäne [substance3d.com](http://substance3d.com) aktualisiert.
-* [Mesh] Ein Tuchgeflecht ist jetzt verfügbar.
+* [Mesh] Ein Tuch-Mesh ist jetzt verfügbar.
 * [Inhalt] Neuer Korrosionsfilter
 * [Inhalt] Neuer Oxydationsfilter
 * [Inhalt] Neuer Moosfilter
