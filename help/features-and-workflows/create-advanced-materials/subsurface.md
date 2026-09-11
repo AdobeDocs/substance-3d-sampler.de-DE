@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Unterflurkanäle eignen sich für undurchsichtige, aber durchscheinende Materialien, die den Effekt der Lichtstreuung unter der Oberfläche des Materials nachahmen. Dieser Effekt tritt häufig bei Materialien wie Haut, Blättern und vielen Kunststoffen auf. Sehen Sie sich das folgende Video an, um mehr über die Untergrundparameter zu erfahren und sie zu verwenden, um ein Harz-Material zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483521)
+>[!VIDEO](https://video.tv.adobe.com/v/3483552?captions=ger)

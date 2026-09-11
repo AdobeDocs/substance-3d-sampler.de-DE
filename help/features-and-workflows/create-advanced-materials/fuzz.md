@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Mit Fuzz-Channels erzeugst du mehr Realismus in Materials wie Wildleder und anderen Stoffen. Sehen Sie sich das folgende Video an, um zu erfahren, wie Sie Fuzz-Kanäle in Sampler am besten verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483519)
+>[!VIDEO](https://video.tv.adobe.com/v/3483530?captions=ger)
