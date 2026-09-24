@@ -6,19 +6,28 @@ helpx_description: Sampler > Release Notes > All Changes
 title: Alle Änderungen
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '24940'
+source-wordcount: '24964'
 ht-degree: 0%
-
 ---
-
 
 # Alle Änderungen
 
 Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenommen wurden, zusammengefasst, von neuen Funktionen bis hin zu Fehlerbehebungen.
 
 ## Version 6
+
+### **6.0.4**
+
+*(Freigegeben: 24. September 2026)*
+
+**Geändert**
+[Engine] Aktualisieren des Substance Engine auf 9.6.1
+
+**Fest**
+[Ebenen]-Absturz beim Hinzufügen eines Bildes zur Relief-Maske
+[Sicherheits] - Allgemeine Korrekturen
 
 ### **6.0.3**
 
@@ -34,15 +43,15 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Hinzugefügt:**
 
-* &lbrack;Assets&rbrack; Überprüfen Sie die sbsar-Version und warnen Sie Benutzer ist die Engine zu alt, um sie zu lesen
+* &lbrack;Assets&rbrack; Überprüfen Sie die SBSAR-Version und warnen Sie Benutzer, wenn das Engine zu alt ist, um es zu lesen
 * &lbrack;Captis&rbrack; Option &quot;Zurück&quot; hinzufügen, um die Kapitelphotometrie in den Voreinstellungen zu speichern
 
 **Fest:**
 
-* &lbrack;2D Ansicht&rbrack; Nicht mit physischem Verhältnis anzeigen, wenn Physische Größe deaktiviert ist
+* &lbrack;2D-Ansicht&rbrack; Nicht mit physischem Verhältnis anzeigen, wenn Physische Größe deaktiviert ist
 * &lbrack;Analyse&rbrack; Fehlende Analyseereignisse
-* &lbrack;Analyse&rbrack; Verhindern Sie Abstürze, um einen Absturz auf vk-Geräten zu meldenListe
-* &lbrack;Anwendung&rbrack; Zerstören Sie keine vkdevices beim Beenden, um einen Absturz des nvidia-Treibers zu vermeiden
+* &lbrack;Analyse&rbrack; Verhindern von Absturzbildern, um einen Absturz auf vk-Geräten zu meldenListe
+* &lbrack;Anwendung&rbrack; Zerstören Sie keine vkdevices am Ausgang, um einen Absturz im nvidia-Treiber zu vermeiden
 * &lbrack;Anwendung&rbrack; Verknüpfte Sammlungs-Watcher-Ausgang + Kanal-Manager reparieren
 * &lbrack;Anwendung&rbrack; Absturz beim Beenden verhindern
 * &lbrack;Inhalt&rbrack; Filter &quot;Metal-Finish&quot; wirkt sich nicht auf die Metallisierung aus
@@ -64,17 +73,17 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Hinzugefügt:**
 
-* &lbrack;Anwendung&rbrack; Benutzer beim Öffnen eines Projekts mit 3D-Objekten oder Umgebungslichtern warnen
+* &lbrack;Anwendung&rbrack; Benutzer beim Öffnen eines Projekts mit 3D-Objekten oder -Umgebungslichtern warnen
 * &lbrack;Captis&rbrack; Anpassen der Benutzeroberfläche an kleine Bildschirme
 * &lbrack;Captis&rbrack; Captis-Benutzeroberfläche aktualisieren
 * &lbrack;Kanaleinstellungen&rbrack; Automatisches Aktivieren von SSS bei Verwendung des SSS-Kanals in ASM
-* &lbrack;Motor&rbrack; Substance Engine auf Version 9.4.3 aktualisieren
+* &lbrack;Engine&rbrack; Substance Engine auf Version 9.4.3 aktualisieren
 * &lbrack;Vorgabe&rbrack; Option &quot;Vorgabewerte für Miniaturansichten anwenden&quot; standardmäßig aktiviert
 * &lbrack;Resources&rbrack; Standardmäßig &quot;alle Bibliotheken&quot; anstelle von &quot;Starter-Assets&quot; im Ressourcenbedienfeld anzeigen
 * &lbrack;Skripterstellung&rbrack; Hinzufügen von Python-Funktionen zum Verwalten von &quot;Angewendet auf&quot; einer Ebene
 * &lbrack;UI&rbrack; Die Elementliste reagiert jetzt: Größe des Assets passt sich an den Container an
-* &lbrack;UI&rbrack; 3D-/2D-Ansicht standardmäßig anzeigen
-* &lbrack;UI&rbrack; Popup-Fenster zur Materialoptimierung beim Ablegen eines Materials aus dem Explorer anzeigen
+* &lbrack;UI&rbrack; 3D/2D-Ansicht standardmäßig anzeigen
+* &lbrack;UI&rbrack; Popup-Fenster &quot;Material-Optimierung&quot; beim Ablegen eines Materials vom Explorer anzeigen
 * &lbrack;UI&rbrack; Kippen von Gerätestangenschaltflächen aktivieren - QuickInfo
 
 **Fest:**
@@ -83,25 +92,25 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Anwendung&rbrack; Anpassen der Einstellungen
 * &lbrack;Anwendung&rbrack; Scankanäle aktivieren, wenn sie auf &quot;Automatisch&quot; eingestellt sind
 * &lbrack;Anwendung&rbrack; Die Schaltfläche &quot;Neues Projekt&quot; auf dem Startbildschirm löscht nicht mehr das vorherige Projekt mit demselben Namen
-* &lbrack;Anwendung&rbrack; Absturz beim Beenden von macOS verhindern
+* &lbrack;Anwendung&rbrack; Absturz beim Beenden auf dem macOS verhindern
 * &lbrack;Anwendung&rbrack; Zugriff auf Assets mit ungültigen Asset-Referenzen verhindern
-* &lbrack;Anwendung&rbrack; Absturz beim Zugriff auf die Oberfläche aus VersionedImage in einer Optimierung verhindern
-* &lbrack;Anwendung&rbrack; Absturz beim Löschen einer Bühne verhindern, wenn keine vorhanden ist
+* &lbrack;Anwendung&rbrack; Absturz beim Zugriff auf die Oberfläche von VersionedImage in einer Optimierung verhindern
+* &lbrack;Anwendung&rbrack; Verhindern von Absturz beim Löschen einer Bühne, wenn keine vorhanden ist
 * &lbrack;Captis&rbrack; Stellen Sie sicher, dass Captis getrennt ist, bevor Sie Sampler schließen.
 * &lbrack;Captis&rbrack; Doppelte Anzeige der USB-2-Warnung verhindern
 * &lbrack;Kanaleinstellungen&rbrack; OpenPBR-Kanalnamen korrigieren
 * &lbrack;Kanaleinstellungen&rbrack; Aktualisieren langer Beschriftungen für OpenPBR-Kanäle
-* &lbrack;Inhalt&rbrack; Alle Gittereinheiten von Meter auf Zentimeter für SSS-Werte aktualisieren
+* &lbrack;Inhalt&rbrack; Alle Mesh-Einheiten von Metern auf Zentimeter für SSS-Werte aktualisieren
 * &lbrack;Export&rbrack; Sicherstellen, dass Standardwerte an dynamische Filter angeschlossen sind
 * &lbrack;Export&rbrack; Bilder werden jetzt in einem Arbeitsthread gespeichert, um die Leistung zu verbessern
-* &lbrack;Filter&rbrack; Inhaltsbasierte Füllung stürzt ab, wenn die Skalierung aktiviert wird
+* &lbrack;Filter&rbrack; Abstürze für inhaltsbasiertes Füllen beim Aktivieren der Skalierung
 * &lbrack;Filter&rbrack; Der Speicherort eines dynamischen Filters konnte nicht aus dem Bedienfeld &quot;Elemente&quot; geöffnet werden.
 * &lbrack;Filter&rbrack; Fixieren Sie alle im AutoTiling-Anpassungsschritt zurücksetzen
 * &lbrack;Filter&rbrack; Wiederherstellen Deaktivieren der Verarbeitung der Verwendung bei der Erstellung von Baumstrukturen
 * &lbrack;Filter&rbrack; Festlegen des richtigen Standardwerts für den Parameter &quot;upscale&quot;
-* &lbrack;Filter&rbrack; Generatoren aktualisieren, auch wenn sie sich in einer Füllebene befinden
+* &lbrack;Filter&rbrack; Generatoren aktualisieren, selbst wenn sie sich in einer Füllebene befinden
 * &lbrack;Layers&rbrack; Umbenennen der Kopfzeile einer Eingabeebene oder der Platzhalterebenen ist untersagt
-* &lbrack;Layers&rbrack; Absturz beim Einfügen von Ebenen durch baumelnde Zeiger verhindern
+* &lbrack;Layers&rbrack; Verhindern von Absturz beim Einfügen von Ebenen aufgrund eines baumelnden Zeigers
 * &lbrack;Layers&rbrack; Falsche Anzahl von Bildern im flachen Ebenennamen
 * &lbrack;Lokalisierung&rbrack; Stellen Sie sicher, dass Vorgabennamen beim Wechseln der Sprachen aktualisiert werden.
 * &lbrack;Lokalisierung&rbrack; Mehrere Übersetzungsprobleme im Ressourcenbereich
@@ -131,7 +140,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;UI&rbrack; Reset-Taste für Schalteroptimierung beheben
 * &lbrack;UI&rbrack; Ausblenden der Dropdown-Liste &quot;Materialmodell&quot;, wenn eine benutzerdefinierte Exportvorgabe ausgewählt ist
 * &lbrack;UI&rbrack; Auflösung in der Kanalliste des Export-Popup entfernen
-* &lbrack;UI&rbrack; Auf Standardlayout zurücksetzen behält die Projektionsanzeige bei
+* &lbrack;UI&rbrack; Auf Standardlayout zurücksetzen behält die Projektion-Viewer-Einstellungen bei
 * &lbrack;UI&rbrack; Menüelemente &quot;In Photoshop bearbeiten&quot; und &quot;In Illustrator bearbeiten&quot; wiederherstellen
 
 **Entfernt:**
@@ -154,7 +163,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Captis&rbrack; Abbrechen während einer Aufnahme kann zu Fehlern führen
 * &lbrack;Captis&rbrack; Das Herunterladen der Ergebnisse am Ende einer Aufnahme beansprucht zu viel RAM
 * &lbrack;Captis&rbrack; Das Ausführen eines Autofokus direkt nach einer Autointensität kann zu Fehlern führen
-* &lbrack;Captis&rbrack; Die Anzeige von HDR-Ergebnissen im Bedienfeld &quot;Zusammenfassung&quot;
+* &lbrack;Captis&rbrack; Die Anzeige von HDR.-Ergebnissen im Zusammenfassungsfenster
 * &lbrack;UI&rbrack; In einigen Fällen wählt das Ordnerdialogfeld auf MacOS nicht den richtigen Ordner aus
 
 ### **5.1.2 ÎLE FLOTTANTE**
@@ -172,7 +181,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Fest:**
 
-* &lbrack;Anwendung&rbrack; Das Einfügen eines Materials in den Ebenenstapel kann in macOS zu einem Absturz führen
+* &lbrack;Anwendung&rbrack; Das Einfügen eines Materials in den Ebenenstapel kann zu einem Absturz in macOS führen
 * &lbrack;Anwendung&rbrack; Möglicher Absturz bei hoher Belastung auf macOS
 * &lbrack;Anwendung&rbrack; Möglicher Absturz beim Hinzufügen von Ebenen, wenn der Videospeicher voll ist
 * &lbrack;Anwendung&rbrack; Möglicher Absturz beim Öffnen eines Projekts
@@ -206,24 +215,24 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Hinzugefügt:**
 
-* &lbrack;2D Ansicht&rbrack; Vergrößern der 2D-Ansicht für hochauflösende Texturen
+* &lbrack;2D-Ansicht&rbrack; Vergrößern der 2D-Ansicht für hochauflösende Texturen
 * &lbrack;Captis&rbrack; Benutzer über Probleme beim Kopieren von Dateien warnen
 * &lbrack;Layers&rbrack; Verwenden Sie beim Duplizieren einer Ebene eine inkrementelle Nummer im Namen der neuen Ebene
 
 **Fest:**
 
-* &lbrack;2D Ansicht&rbrack; Beim Malen von Konturen nach dem Zurücksetzen aller Eigenschaften des Klon-Stempels werden zuvor erstellte Konturen wieder angezeigt
+* &lbrack;2D-Ansicht&rbrack; Beim Malen von Konturen nach dem Zurücksetzen aller Eigenschaften des Klon-Stempels werden zuvor erstellte Konturen wieder angezeigt
 * &lbrack;Anwendung&rbrack; Aktuelles Projekt speichern? popup verwendet falschen Projektnamen
-* &lbrack;Anwendung&rbrack; Absturz beim Beenden
+* &lbrack;Anwendung&rbrack; Absturz beim Ausstieg
 * &lbrack;Anwendung&rbrack; Potenzieller Absturz
 * &lbrack;Anwendung&rbrack; Manchmal wird eine Miniaturansicht mit einem falschen Material generiert
-* &lbrack;Captis&rbrack; Auf einigen Geräten wird beim Scannen in hoher Auflösung das Height schwarz angezeigt
+* &lbrack;Captis&rbrack; Auf einigen Geräten ist der Höhen-Map schwarz, wenn ein Scan mit hoher Auflösung durchgeführt wird
 * &lbrack;Captis&rbrack; Die Schaltfläche &quot;Aufnahme starten&quot; ist nicht mehr deaktiviert, wenn kein Aufnahmename festgelegt ist und wenn eine Kalibrierung ausgeführt wird
 * &lbrack;Export&rbrack; Beim Exportieren einer .sbsar-Datei-Datei kann der Export fehlschlagen, ohne dass der Anwender benachrichtigt wird.
 * &lbrack;Filter&rbrack; Bildschirm &quot;Erweiterte Parameter&quot; für den Filter &quot;Automatische Kachelung&quot; flackert manchmal, wenn Parameter angepasst werden
 * &lbrack;Filter&rbrack; Standardparameter für den Filter &quot;Kachelung&quot; erzeugen graue Artefakte in der Ausgabe
 * &lbrack;Filter&rbrack; Bei hochauflösenden Eingängen zeigt der erweiterte Filter &quot;Automatische Kachelung&quot; manchmal nicht die individuellen Musterpunkte an
-* &lbrack;Filter&rbrack; Die Mustergröße für den Parameter &quot;Automatische Kachelung&quot; der benutzerdefinierten Größe hat einen falschen Standardwert.
+* &lbrack;Filter&rbrack; Die Mustergröße für den Parameter &quot;Automatische Kachelung benutzerdefinierter Größe&quot; hat einen falschen Standardwert.
 * &lbrack;Layers&rbrack; Gelegentliches Farbproblem mit dem Filter &quot;Automatische Kachelung&quot;, das hauptsächlich auf roten Materialien sichtbar ist
 * &lbrack;Layers&rbrack; Manchmal werden durch das Hinzufügen von Ebenen einige Änderungen auf ihren Standardwert zurückgesetzt
 * &lbrack;Physische Größe&rbrack; Miniaturansicht von Elementen mit einer Physische Größe haben eine falsche Height-Skala
@@ -242,7 +251,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Hinzugefügt:**
 
-* &lbrack;2D Ansicht&rbrack; Die Pinselgröße passt sich jetzt der aktuellen Textur an.
+* &lbrack;2D-Ansicht&rbrack; Die Pinselgröße passt sich jetzt der aktuellen Textur an.
 * &lbrack;3D-Ansicht&rbrack; Native Anzeigeskalierung für 3D-Rendering in den Voreinstellungen aktivieren/deaktivieren
 * &lbrack;Anwendung&rbrack; Render-Engine-Update
 * &lbrack;Captis&rbrack; Hinzufügen der Option &quot;Quadrat erstellen&quot; während der Vorschau
@@ -273,7 +282,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Fest:**
 
-* &lbrack;2D Ansicht&rbrack; Die Auswahl von &quot;Anzeige mit physischem Verhältnis&quot; funktioniert möglicherweise nicht, wenn Substance-Filter verwendet werden
+* &lbrack;2D-Ansicht&rbrack; Die Auswahl von &quot;Anzeige mit physischem Verhältnis&quot; funktioniert möglicherweise nicht, wenn Substance-Filter verwendet werden
 * &lbrack;3D-Erfassung&rbrack; SVG-Dateien werden in der Dateiauswahl aufgeführt, aber nicht unterstützt.
 * &lbrack;3D-Ansicht&rbrack; Der Emissionsintensitätsparameter in den Shader-Einstellungen funktioniert nicht
 * &lbrack;3D-Ansicht&rbrack; Manchmal ist die Position des Meshs beim Erstellen eines neuen Assets falsch
@@ -379,14 +388,14 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Fest:**
 
-* &lbrack;2D-Ansicht&rbrack; Der Belichtungsregler hat keine Wirkung, wenn die sphärische Projektion deaktiviert ist
-* &lbrack;2D-Ansicht&rbrack; Durch Malen außerhalb der Textur wird ein eingestellter Strich erstellt
-* &lbrack;2D-Ansicht&rbrack; Die Belichtungstaste hat keine QuickInfo.
-* &lbrack;2D-Ansicht&rbrack; Das Zoomen auf der Seite eines nicht quadratischen Bildes folgt nicht der Maus
+* &lbrack;2D Ansicht&rbrack; Der Belichtungsregler hat keine Wirkung, wenn die sphärische Projektion deaktiviert ist
+* &lbrack;2D Ansicht&rbrack; Durch Malen außerhalb der Textur wird ein eingestellter Strich erstellt
+* &lbrack;2D Ansicht&rbrack; Die Belichtungstaste hat keine QuickInfo.
+* &lbrack;2D Ansicht&rbrack; Das Zoomen auf der Seite eines nicht quadratischen Bildes folgt nicht der Maus
 * &lbrack;3D-Erfassung&rbrack; 3D-Erfassung funktioniert nicht unter Windows 11 24H2
 * &lbrack;3D-Erfassung&rbrack; Absturz, wenn wir Sampler während des Mesh-Wiederherstellungsschritts beenden
 * &lbrack;3D-Ansicht&rbrack; Die Rechenzeit wird manchmal als 0ms angezeigt
-* &lbrack;3D-Ansicht&rbrack; Wenn Sie die Projektion von orthografisch in Perspektive ändern, wird der Viewport grau.
+* &lbrack;3D-Ansicht&rbrack; Wenn Sie die Projektion von orthografisch in perspektivisch ändern, wird das Viewport grau.
 * &lbrack;Anwendung&rbrack; Absturz beim Start beim Überprüfen der GPU-Funktionen
 * &lbrack;Anwendung&rbrack; Absturz während der Installation
 * &lbrack;Anwendung&rbrack; Absturz beim Beenden nach Rechtsklick auf ein Metadatenfeld
@@ -445,7 +454,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 **Fest:**
 
 * &lbrack;3D-Erfassung&rbrack; Absturz, wenn die Objekterfassung in macOS nicht gestartet werden kann
-* &lbrack;Anwendung&rbrack; Absturz beim Beenden
+* &lbrack;Anwendung&rbrack; Absturz beim Ausstieg
 * &lbrack;Anwendung&rbrack; Hängenbleiben beim Hinzufügen von Elementen zum Projektfenster
 * &lbrack;Anwendung&rbrack; Das Umbenennen eines Projektelements funktioniert nur, wenn Sie die Eingabetaste drücken
 * &lbrack;Anwendung&rbrack; Menüeinträge zum Rückgängigmachen und Wiederholen sind nicht deaktiviert, wenn sie
@@ -535,7 +544,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Inhalt&rbrack; Textur-Generatoren haben unscharfe Miniaturen
 * &lbrack;Export&rbrack; Aus einem importierten Bild generierter Deckkraftkanal bricht beim Exportieren von .sbs/.sbsar ab
 * &lbrack;Filter&rbrack; Hochskalieren kann je nach Eingabeebene zu Abstürzen führen
-* &lbrack;Generative KI&rbrack; Mögliche Absturz beim Empfangen unerwarteter Ergebnisse vom Dienst
+* &lbrack;Generative KI&rbrack; Mögliche Abstürze beim Empfangen unerwarteter Ergebnisse vom Dienst
 * &lbrack;Skripterstellung&rbrack; Absturz beim automatischen Laden eines Plug-ins aus der Umgebungsvariablen
 * &lbrack;Skripterstellung&rbrack; Möglicher Absturz beim Zuweisen der Ausgabenutzung mit der API
 
@@ -606,16 +615,16 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Inhalt&rbrack; Neuer Stilisierungsfilter
 * &lbrack;Inhalt&rbrack; Füllmethode beim Füllfilter
 * &lbrack;Inhalt&rbrack; Aktualisierter Stickereifilter
-* &lbrack;Inhalt&rbrack; Aktualisierter Farbumflussfilter
-* &lbrack;Inhalt&rbrack; Alle Filter wurden aktualisiert, um Texturgeneratoren zu unterstützen
-* &lbrack;Layers&rbrack; Möglichkeit, einen Texturgenerator-Ausgabekanal auszuwählen, wenn er dem Ebenenstapel hinzugefügt wird
-* &lbrack;Layers&rbrack; Möglichkeit, Vorgaben auf Texturgeneratoren einfach aufzulisten und anzuwenden
-* &lbrack;Layers&rbrack; Anzeigen einer Vorschau des Texturgenerators in den Bildwählern
-* &lbrack;Layers&rbrack; Texturgenerator-Parameter können angezeigt und exportiert werden
-* &lbrack;Layers&rbrack; Weisen Sie beim Importieren eines einzelnen Bildes mit der Texturimport-Erstellungsvorlage die Grundfarbverwendung zu.
+* &lbrack;Inhalt&rbrack; Aktualisierter Malen-Umbruchfilter
+* &lbrack;Inhalt&rbrack; Alle Filter wurden aktualisiert, um Textur-Generatoren zu unterstützen
+* &lbrack;Layers&rbrack; Möglichkeit, einen Ausgabekanal des Textur-Generators auszuwählen, wenn er dem Ebenenstapel hinzugefügt wird
+* &lbrack;Layers&rbrack; Möglichkeit, Vorgaben auf Textur Generatoren einfach aufzulisten und anzuwenden
+* &lbrack;Layers&rbrack; Anzeigen einer Vorschau des Textur-Generators in den Bildwählern
+* &lbrack;Layers&rbrack; Textur Generator-Parameter können gelegt und exportiert werden
+* &lbrack;Layers&rbrack; Weisen Sie die Bildnutzung beim Importieren eines einzelnen Grundfarbe mit der Textur &quot;Erstellungsvorlage importieren&quot; zu.
 * &lbrack;Layers&rbrack; Feedback beim Versuch, inkompatible Dateien per Drag &amp; Drop in die Bildauswahl im Eigenschaftenfenster zu ziehen
-* &lbrack;Layers&rbrack; Generieren eines Deckkraftkanals aus dem Alphakanal eines importierten Bildes
-* &lbrack;Layers&rbrack; &quot;Bild zu Material&quot; (AI) ist beim Ändern der Kategorie schneller zu berechnen
+* &lbrack;Layers&rbrack; Erzeugen eines Deckkraftkanals aus dem Alphakanal eines importierten Bildes
+* &lbrack;Layers&rbrack; &quot;Bild zu Material&quot; (AI) lässt sich bei Kategorieänderungen schneller berechnen
 * &lbrack;Layers&rbrack; Wählen Sie die relevanteste Ebene nach Verwendung einer Erstellungsvorlage aus.
 * &lbrack;Layers&rbrack; Die Positions-Widgets können jetzt mit einem Schieberegler in der Gruppe &quot;Erweiterte Parameter&quot; angepasst werden.
 * &lbrack;Export&rbrack; Zeigt einen Prozentsatz in der Warteschlange anstelle von Raw-Zahlen an.
@@ -696,7 +705,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Layers&rbrack; Bilder können in den Bildimportebenen hinzugefügt werden.
 * &lbrack;Layers&rbrack; Bilder können in den Bildimportebenen entfernt werden.
 * &lbrack;Layers&rbrack; Ungültige Ebenen können jetzt gelöscht werden.
-* &lbrack;2D-Ansicht&rbrack; Umschalt+C Tastaturbefehl zum Zurückblättern der Kanäle
+* &lbrack;2D Ansicht&rbrack; Umschalt+C Tastaturbefehl zum Zurückblättern der Kanäle
 * &lbrack;3D-Erfassung&rbrack; Warntoast anzeigen, wenn Benutzer weniger als 20 Bilder importieren
 * &lbrack;Anwendung&rbrack; Neue Voreinstellungen zum Festlegen des Standardwerts für die Kachelung der Material-Textur
 * &lbrack;Onboarding&rbrack; Aktualisierte Tutorial-Benutzeroberfläche für Bild-zu-Material (AI) und Hochskalieren
@@ -709,15 +718,15 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Layers&rbrack; Absturz beim Hinzufügen oder Anpassen des Freistellungsfilters
 * &lbrack;Layers&rbrack; Wenn der Zuschneidebereich quadratisch ist, führt dies zu einer falschen Auflösung der Material-Ausgabe
 * &lbrack;Layers&rbrack; Die Ausgaben verschwinden manchmal, wenn mehrere Ebenen deaktiviert sind
-* &lbrack;Layers&rbrack; Der Render-Cache wird möglicherweise mit den Filtern &quot;Bild zu Material&quot; (AI) und &quot;Hochskalieren&quot; nicht ordnungsgemäß ungültig
+* &lbrack;Layers&rbrack; Der Render-Cache wird mit den Filtern &quot;Bild zu Material&quot; (AI) und &quot;Hochskalieren&quot; möglicherweise nicht ordnungsgemäß ungültig
 * &lbrack;Layers&rbrack; Hochskalierungsfilter kann nicht hinzugefügt werden, wenn Sie im Warnpopup &quot;Diese Meldung nicht mehr anzeigen&quot; auswählen
 * &lbrack;Layers&rbrack; Das Bild kann nach der Änderung nicht im Stickereifilter wiederhergestellt werden
 * &lbrack;Export&rbrack; Die exportierte Normalen-Map-Auflösung ändert sich, wenn das normale Format geändert wird
 * &lbrack;Export&rbrack; Entfernen Sie das Dateinamensuffix &quot;\_environment&quot; beim Exportieren einer Umgebung
 * &lbrack;Export&rbrack; Eine .sbsar-Datei kann nicht exportiert werden, wenn sich eine Verkrümmungsebene im Ebenenstapel befindet und Transformieren wird
-* &lbrack;2D-Ansicht&rbrack; &quot;An Bildschirm anpassen&quot; funktioniert nicht, wenn sich die Auflösung ändert
+* &lbrack;2D Ansicht&rbrack; &quot;An Bildschirm anpassen&quot; funktioniert nicht, wenn sich die Auflösung ändert
 * &lbrack;Anwendung&rbrack; Nachdem das Anwendungsfenster während der Berechnung geschlossen wurde, kann der Anwendungsprozess noch ausgeführt werden
-* &lbrack;Anwendung&rbrack; Absturz beim Ausstieg
+* &lbrack;Anwendung&rbrack; Absturz beim Beenden
 * &lbrack;Anwendung&rbrack; Render-Cache beim Umschalten GPU-beschleunigter neuronaler Netzwerke ungültig
 * &lbrack;Skripterstellung&rbrack; Das Benennen eines Plug-ins als vorhandener Bedienfeldname führt zu unerwarteten Verhalten
 * &lbrack;UI&rbrack; Wenn Sie auf ein Element mit einer QuickInfo klicken, wird die QuickInfo bis zum Neustart ausgeblendet
@@ -759,7 +768,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Skripterstellung&rbrack; Der Bild-Import-API wurden die Optionen &quot;Zuschneiden&quot;, &quot;Hochskalieren&quot; und &quot;Dokumentgröße&quot; hinzugefügt
 * &lbrack;Onboarding&rbrack; Neue Tutorials
 * &lbrack;Onboarding&rbrack; Aktualisieren des Begrüßungsbildschirms und des Inhalts der neuen Bildschirme
-* &lbrack;Engine&rbrack; Substance Engine auf Version 9.0.1 aktualisieren
+* &lbrack;Motor&rbrack; Substance Engine auf Version 9.0.1 aktualisieren
 
 **Fest:**
 
@@ -768,7 +777,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Anwendung&rbrack; Absturz beim Duplizieren eines Elements im Projektfenster
 * &lbrack;Anwendung&rbrack; Absturz beim Wechseln von Elementen im Projektfenster
 * &lbrack;Inhalt&rbrack; Das Malen einer benutzerdefinierten Maske für den Snow-Filter funktioniert nicht richtig
-* &lbrack;Freigelegte Parameter&rbrack; Änderungen an freigelegten Parametern können beim Wechseln von Materialien verloren gehen
+* &lbrack;Verfügbare Parameter&rbrack; Änderungen an freigelegten Parametern können beim Wechseln von Materialien verloren gehen
 * &lbrack;Interoperabilität&rbrack; Das Senden eines Materials aus dem Exportbedienfeld kann zu einem Absturz führen
 * &lbrack;Layers&rbrack; Inhaltsbasierte Füllung wird nicht mehr berechnet, wenn von einem einzelnen Bildeingang zu einem Material-Eingang gewechselt wird
 * &lbrack;Layers&rbrack; Absturz nach dem Duplizieren eines Umgebungslichts, das ein Material enthält
@@ -915,7 +924,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Anwendung&rbrack; Verhindern Sie Absturz beim Abbrechen des Meshs Berechnung nach der Verarbeitung während des Bakings
 * &lbrack;Anwendung&rbrack; Beim erneuten Öffnen des aktuellen Projekts werden die Änderungen nicht verworfen
 * &lbrack;Anwendung&rbrack; Generieren von Miniaturen für 3D-Objekte anhalten
-* &lbrack;2D-Ansicht&rbrack; Absturz bei Verwendung des Pinselwerkzeugs
+* &lbrack;2D Ansicht&rbrack; Absturz bei Verwendung des Pinselwerkzeugs
 * &lbrack;Inhalt&rbrack; Inhaltsbasierte Füllung - Berechnung bleibt möglicherweise hängen
 * &lbrack;Inhalt&rbrack; Der Atlas-Erstellungsfilter verkleinert den Deckkraftkanal
 * &lbrack;Export&rbrack; Korrektur der Exportwarteschlange für fehlgeschlagene Exporte
@@ -1047,11 +1056,11 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Export&rbrack; Der Parameter &quot;Normales Format&quot; wird in .sbs/.sbsar-Dateien nicht korrekt gelegt
 * &lbrack;Export&rbrack; SBS/SBSAR-Export eines Ebenenstapels, der auf eine .svg-Datei verweist, ist fehlgeschlagen
 * &lbrack;Export&rbrack; Transformieren Ebene wird nicht ordnungsgemäß exportiert/Enscape aktualisiert - Exportvorgabe überprüfen
-* &lbrack;Freigelegte Parameter&rbrack; Absturz beim Löschen einer Ebene, die einen freigelegte Parameter enthält
-* &lbrack;Freigelegte Parameter&rbrack; Das Aktualisieren einer veralteten Ebene im Ebenenstapel kann zu einer beschädigten Liste von freigelegten Parametern führen
-* &lbrack;Freigelegte Parameter&rbrack; Parameter, die nicht exportiert werden sollen, werden sowieso exportiert
-* &lbrack;Freigelegte Parameter&rbrack; Durch das Entfernen eines Angleichungsfilters beim Löschen einer Ebene werden seine Parameter nicht wieder aufgehoben
-* &lbrack;Freigelegte Parameter&rbrack; Textparameter beschädigen .sbs/.sbsar-Exporte
+* &lbrack;Verfügbare Parameter&rbrack; Absturz beim Löschen einer Ebene, die einen freigelegte Parameter enthält
+* &lbrack;Verfügbare Parameter&rbrack; Das Aktualisieren einer veralteten Ebene im Ebenenstapel kann zu einer beschädigten Liste von freigelegten Parametern führen
+* &lbrack;Verfügbare Parameter&rbrack; Parameter, die nicht exportiert werden sollen, werden sowieso exportiert
+* &lbrack;Verfügbare Parameter&rbrack; Durch das Entfernen eines Angleichungsfilters beim Löschen einer Ebene werden seine Parameter nicht wieder aufgehoben
+* &lbrack;Verfügbare Parameter&rbrack; Textparameter beschädigen .sbs/.sbsar-Exporte
 * &lbrack;Layers&rbrack; Absturz beim Ablegen eines Ebenenstapels in einem anderen Ebenenstapel
 * &lbrack;Layers&rbrack; Absturz beim Nichtladen eines Filters
 * &lbrack;Layers&rbrack; Das vorherige Bild kann beim Zurücksetzen des Bildfelds nicht neu geladen werden
@@ -1064,7 +1073,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Layers&rbrack; Gelöschte Ebenen können weiterhin im Eigenschaftenfenster angezeigt werden
 * &lbrack;Layers&rbrack; Die Berechnung von Ebenen kann beim Wechseln zwischen Projektelementen blockiert werden
 * &lbrack;Projekt&rbrack; Manchmal kann Sampler ein Projekt nicht von der Festplatte öffnen
-* &lbrack;2D-Ansicht&rbrack; Die 2D-Ansicht wird standardmäßig immer auf Material-Ausgabe zurückgesetzt.
+* &lbrack;2D Ansicht&rbrack; Die 2D-Ansicht wird standardmäßig immer auf Material-Ausgabe zurückgesetzt.
 
 **Bekannte Probleme:**
 
@@ -1242,7 +1251,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 * &Klammer;Farbwähler&Klammer; Das Auswählen einer Farbe auf einem zweiten Monitor mit einer anderen Auflösung funktioniert möglicherweise nicht
 * &lbrack;Inhalt&rbrack; Das Shape-Licht-Widget funktioniert nicht im sphärische Projektion-Modus
-* &lbrack;Interoperabilität&rbrack; Material mit Versatz, der an Stager gesendet wird, verliert die Versatz-Steuerelemente
+* &lbrack;Interoperabilität&rbrack; Für Material, dessen Versatz an Stager gesendet wurde, verlieren die Versatz-Steuerelemente
 
 ### 3.2.1 Jakitori
 
@@ -1435,8 +1444,8 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Bekannte Probleme:**
 
-* &lbrack;Realtime Engine 2021&rbrack; Starke Berechnung kann Absturz in der Anwendung verursachen
-* &lbrack;Realtime Engine 2021&rbrack; Realtime Engine 2021 wird auf einem Windows-Computer mit sowohl AMD-CPU als auch Nvidia-GPU Absturz
+* &lbrack;Realtime Engine 2021&rbrack; Starke Berechnungen können die Anwendung abstürzen lassen
+* &lbrack;Realtime Engine 2021&rbrack; Realtime Engine 2021 stürzt auf einem Windows-Computer ab, auf dem sowohl AMD-CPU als auch Nvidia-GPU installiert sind.
 * &Klammer;Farbwähler&Klammer; Das Auswählen einer Farbe auf einem zweiten Monitor mit einer anderen Auflösung funktioniert möglicherweise nicht
 
 ### 3.1.0 Xocoatl
@@ -1463,19 +1472,19 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Anwendung&rbrack; In der 2D-Ansicht wird die Normale entsprechend dem in den Voreinstellungen festgelegten Normalformat angezeigt
 * &lbrack;Anwendung&rbrack; Die Normale wird in das in den Voreinstellungen festgelegte normale Format exportiert
 * &lbrack;Export&rbrack; Hinzufügen von Normalformatparametern zu SBS und Sbsar-Datei-Exporten
-* &lbrack;Export&rbrack; Shader-Einstellungen zu SBS- und SBSAR-Dateiexporten hinzufügen
+* &lbrack;Export&rbrack; Shader-Einstellungen zu SBS und Sbsar-Dateien hinzufügen
 * &lbrack;Export&rbrack; Standardauflösung für exportierte SBS Graf festlegen
 * &lbrack;Zusammengesetzte Filter&rbrack; SSA-Filter mit 7z verpacken
 * &lbrack;Zusammengesetzte Filter&rbrack; Kategoriemetadaten in zusammengesetzten Filtern hinzufügen
 * &lbrack;Zusammengesetzte Filter&rbrack; Verknüpfte Filter können eine eingebettete Miniaturansicht haben
 * &lbrack;Zusammengesetzte Filter&rbrack; Dem Dateidialogfeld &quot;Inhalt abrufen&quot; wurde die Erweiterung &quot;Zusammengesetzte Filter&quot; (.ssafilter) hinzugefügt.
 * &lbrack;Zusammengesetzte Filter&rbrack; Importieren von zusammengesetzten Filtern (.ssafilter) im Bedienfeld &quot;Elemente&quot;
-* &lbrack;Motor&rbrack; Substance-Engine auf Version 8.2.0 aktualisieren
+* &lbrack;Engine&rbrack; Substance-Engine auf Version 8.2.0 aktualisieren
 
 **Fest:**
 
 * &lbrack;Anwendung&rbrack; Verbundene lokale Ordner können hängen bleiben
-* &lbrack;Anwendung&rbrack; Absturz beim Beenden
+* &lbrack;Anwendung&rbrack; Absturz beim Ausstieg
 * &lbrack;Anwendung&rbrack; Absturz beim Starten von zwei Instanzen von Sampler
 * &lbrack;Inhalt&rbrack; Der Freistellungsfilter verfügt über eine zufällige Anpassung des Startwerts.
 * &lbrack;Inhalt&rbrack; Einige Substance-Material werden manchmal nicht aktualisiert
@@ -1561,11 +1570,11 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Layers&rbrack; Verwenden von Mischebenen kann gestoppt werden
 * &lbrack;Projekt&rbrack; Absturz beim Laden eines älteren Projekts mit fehlenden Abhängigkeitsordnern
 * &lbrack;Projekt&rbrack; Absturz bei Verwendung von Rückgängig/Wiederholen nach dem Speichern
-* &lbrack;Projekt&rbrack; Durch Öffnen einer SBSAR-Datei mit einer Umgebungsbeleuchtung wird ein Materialelement erstellt.
+* &lbrack;Projekt&rbrack; Beim Öffnen einer Sbsar-Datei, die ein Umgebungslicht enthält, wird ein Material-Element erstellt
 * &lbrack;Projekt&rbrack; Das Umbenennen eines Materials kann eine Miniaturgenerierung auslösen
 * &lbrack;Projekt&rbrack; Durch Speichern nach dem Umbenennen eines Materials wird das Projekt als nicht geändert markiert
 * &lbrack;Projekt&rbrack; Einige Änderungen nach dem Umbenennen eines Materials werden nicht gespeichert
-* &lbrack;Rendering&rbrack; Helle Punkte sind in der Umgebung mit der Echtzeit-Engine 2020 sichtbar
+* &lbrack;Rendering&rbrack; Mit dem Echtzeit-Engine 2020 werden in der Umgebung helle Punkte angezeigt
 * &lbrack;Rendering&rbrack; Absturz beim Skalieren mit Real Time Engine 2021
 * &lbrack;Rendering&rbrack; Neuberechnen von Schatten bei Änderungen auf Height-Ebene
 * &lbrack;Assets&rbrack; Verbundene Ordner beenden die Indizierung neuer Assets, wenn eine ungültige Datei hinzugefügt wird
@@ -1583,8 +1592,8 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;UI&rbrack; Der Vollbildmodus ist nicht Vollbildmodus.
 * &lbrack;UI&rbrack; Nicht angedockte Bedienfelder sind immer oben, auch wenn die Anwendung in MacOS nicht aktiv ist
 * &lbrack;UI&rbrack; Bannerbild für Begrüßungsbildschirm aktualisieren
-* &lbrack;Inhalt&rbrack; Der Kachelfilter verarbeitet den Umgebungskanal für die Verdeckung nicht
-* &lbrack;Inhalt&rbrack; Steppstich Problem mit der Kante Zusammenbau Nahtauswahl und Diamantmuster
+* &lbrack;Inhalt&rbrack; Kachelung-Filter verarbeitet den ambient occlusion-Kanal nicht
+* &lbrack;Inhalt&rbrack; Steppstich Problem mit der Kante Montage Naht Auswahl und Diamantmuster
 * &lbrack;Inhalt&rbrack; Relief-Filter funktioniert in 256 px x 256 px
 * &lbrack;Inhalt&rbrack; Problem mit Unterkacheln bei Bodenfliesen beheben, wenn der Versatz größer als 0 ist
 
@@ -1617,7 +1626,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;UI&rbrack; Das Auflösungs-Widget ist jetzt direkt im Viewport verfügbar
 * &lbrack;UI&rbrack; Alle UI-Elemente werden jetzt dynamisch geladen
 * &lbrack;UI&rbrack; Tastaturbefehl - Verwenden Sie &quot;2&quot;, um die Sichtbarkeit der 2D-Ansicht zu ändern.
-* &lbrack;UI&rbrack; Tastaturbefehl - Verwenden Sie &quot;3&quot;, um die Sichtbarkeit der 3D-Ansicht zu ändern.
+* &lbrack;UI&rbrack; Tastaturbefehl: Verwenden Sie &quot;3&quot;, um die Sichtbarkeit der 3D-Ansicht zu ändern.
 * &lbrack;Begrüßungsbildschirm&rbrack; Projekt mit der Schaltfläche &quot;Neu&quot; per Mausklick erstellen
 * &lbrack;Begrüßungsbildschirm&rbrack; Neues Bildmaterial-Banner
 * &lbrack;Projekt&rbrack; Alle Projekte sind jetzt einer eindeutigen Datei zugeordnet
@@ -1625,13 +1634,13 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Projekt&rbrack; Bei &quot;Als Projekt speichern&quot; müssen Sie auswählen, wo das Projekt gespeichert werden soll
 * &lbrack;Projekt&rbrack; Wenn Sie Sampler schließen, werden Sie aufgefordert, Ihr Projekt zu speichern, falls es nicht gespeichert wurde
 * &lbrack;Projekt&rbrack; Wenn Sie Sampler schließen, werden Sie aufgefordert, Ihr Projekt zu speichern, wenn seit dem letzten Speichern Änderungen vorgenommen wurden
-* &lbrack;Projekt&rbrack; Der Name Ihres Projekts wird über dem Viewport angezeigt
+* &lbrack;Projekt&rbrack; Der Name Ihres Projekts wird über dem Viewport angezeigt.
 * &lbrack;Projekt&rbrack; Der Projektname ist kursiv mit einem Stern gekennzeichnet, wenn er nicht gespeichert ist oder wenn er seit dem letzten Speichern Änderungen enthält
-* &lbrack;Projekt&rbrack; Öffnen einer .ssa-Projektdatei direkt über den Betriebssystem-Explorer
-* &lbrack;Projekt&rbrack; Öffnen Sie eine .sbsar-Datei auf Ihrem Betriebssystem-Explorer startet Sampler mit einem neuen Projekt mit dieser .sbsar-Datei, die Sie sofort verwenden können
-* &lbrack;Projekt&rbrack; Öffnen Sie eine .alch-Datei (ältere Substance Alchemist-Datei) in Ihrem Betriebssystem-Explorer
+* &lbrack;Projekt&rbrack; Öffnen Sie eine .ssa-Projektdatei direkt von Ihrem Betriebssystem-Explorer
+* &lbrack;Projekt&rbrack; Öffnen Sie eine .sbsar-Datei auf Ihrem Betriebssystem-Explorer, um Sampler mit einem neuen Projekt mit dieser einsatzbereiten .sbsar-Datei zu starten.
+* &lbrack;Projekt&rbrack; Öffnen Sie eine .alch-Datei (ältere Substance Alchemist-Datei) von Ihrem Betriebssystemserver
 * &lbrack;Projektfenster&rbrack; Neues Bedienfeld, das alle in einem Projekt erstellten Elemente enthält
-* &lbrack;Projektfenster&rbrack; Element (Material- oder Umgebungslicht) mit dem Symbol &quot;+&quot; erstellen
+* &lbrack;Projektfenster&rbrack; Element (Material oder Umgebungslicht) mit dem Symbol &quot;+&quot; erstellen
 * &lbrack;Projektfenster&rbrack; Durch Rechtsklick auf ein Element wird ein Kontextmenü geöffnet
 * &lbrack;Projektfenster&rbrack; Im Kontextmenü können Sie ein Element löschen
 * &lbrack;Projektfenster&rbrack; Über das Kontextmenü können Sie ein Element duplizieren
@@ -1640,8 +1649,8 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &blbrack;Auflösung&blbrack; Sie können jetzt eine nicht quadratische Auflösung für alle Ihre Assets festlegen
 * &blbrack;Auflösung&blbrack; Der Auflösungswert wird von einem Asset innerhalb eines Projekts gespeichert
 * &lbrack;Umgebungslicht&rbrack; Umgebungslicht in Substance 3D Sampler erstellen
-* &lbrack;Umgebungslicht&rbrack; Beim Erstellen einer Umgebungsbeleuchtung wird durch Ziehen und Ablegen von Bildern das Vorlagenfenster für die Erstellung von Umgebungsbeleuchtungen angezeigt
-* &lbrack;Umgebungslicht&rbrack; Wählen Sie in der Vorlage Umgebungslicht erstellen die Option Umgebungsimport aus, um das Bild der Umgebung in der 3D-Ansicht zuzuweisen.
+* &lbrack;Umgebungslicht&rbrack; Beim Erstellen eines Umgebungslichts wird durch Ziehen und Ablegen von Bildern das Vorlagenfenster zum Erstellen von Umgebungslichtern angezeigt
+* &lbrack;Umgebungslicht&rbrack; Wählen Sie in der Bilderstellungsvorlage Umgebungsimport aus, um das Umgebungslicht der Umgebung in der 3D-Ansicht zuzuweisen.
 * &lbrack;Umgebungslicht&rbrack; Wählen Sie in der Vorlage zur Erstellung von Umgebungslicht die Option HDR-Zusammenfügung aus, um ein Umgebungslicht aus mehreren 360-Grad-Bildern mit unterschiedlicher Belichtung zu erstellen
 * &lbrack;Umgebungslicht&rbrack; Wählen Sie in der Vorlage für die Umgebungsbeleuchtung die Option &quot;Als Bitmap verwenden&quot; aus, um Ihre Bilder vor dem Erstellen einer Umgebungsbeleuchtung zu bearbeiten.
 * &lbrack;Umgebungslicht&rbrack; Weisen Sie die Umgebungsnutzung in der Bildimportebene zu, um das Bild direkt der Umgebung in der 3D-Ansicht zuzuweisen.
@@ -1713,13 +1722,13 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Inhalt&rbrack; Filter &quot;Neue Fenster&quot;
 * &lbrack;Inhalt&rbrack; Neuer Verwisch-Filter
 * &lbrack;Inhalt&rbrack; Neuer Webfilter
-* &lbrack;Inhalt&rbrack; Neuer Filter &quot;transformieren Verkrümmung&quot;
+* &lbrack;Inhalt&rbrack; Neuer Verkrümmungstransformationsfilter
 * &lbrack;Inhalt&rbrack; Neuer AO-Filter-Height
 * &lbrack;Inhalt&rbrack; Neuer Filter &quot;Height zu Normal&quot;
-* &lbrack;Inhalt&rbrack; Farbersetzung - Ersetzen in neuen unterstützten Kanälen (Glanz, Beschichtung, Anisotropie, ...)
+* &lbrack;Inhalt&rbrack; Farbersetzung - Ersetzen in neuen unterstützten Kanälen (Glanz, Beschichtung, Anisotropie,...)
 * &lbrack;Inhalt&rbrack; Farbvariation - Manueller Modus, um genau die Farben auszuwählen, die geändert werden sollen
 * &lbrack;Inhalt&rbrack; Kachelung - Option zur Visualisierung der Nähte schneiden
-* &lbrack;Inhalt&rbrack; Kachelung - Option zum Malen der Nähte für eine perfekte Kachelung
+* &lbrack;Inhalt&rbrack; Kachelung - Option, um die Nähte für eine perfekte Kachelung schneiden
 * &lbrack;Inhalt&rbrack; Übereinstimmung - Option zum Hinzufügen eines Materials, um seine Farbe und seine Rauheit abzugleichen
 * &lbrack;Inhalt&rbrack; Anpassen - funktioniert jetzt für Bilder, die der Farbe eines anderen Bildes entsprechen
 * &lbrack;Inhalt&rbrack; Umgebungslicht - Neuer Farbtemperaturfilter
@@ -1815,16 +1824,16 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 * &lbrack;Bild zu Material&rbrack; Unterstützung für die NVIDIA RTX 3000-Serie
 * &lbrack;Bild zu Material&rbrack; Neue Parameter zur Steuerung der Geometriedetails
-* &lbrack;Bild zu Material&rbrack; Neue Parameter zur Steuerung der Raueit
+* &lbrack;Bild zu Material&rbrack; Neue Parameter zur Steuerung der Rauheit
 * &lbrack;Bild zu Material&rbrack; Neue Parameter zur Steuerung der Begeisterungsintensität
 * &Klammer;Miniaturen&Klammer; Neuer Miniaturbildgenerator basierend auf dem PBR-Renderer des Substance Designers
 * &Klammer;Miniaturen&Klammer; Basismaterialien und Atlanten aktualisieren, um ihre Miniaturansicht einzubetten
 * &Klammer;Miniaturen&Klammer; Rufen Sie die Miniaturansicht aus der sbsar-Datei ab, sofern vorhanden.
 * &Klammer;Miniaturen&Klammer; Ändern der Miniaturansichtsqualität in den Voreinstellungen
-* &lbrack;Motor&rbrack; Aktualisiert auf Substance Engine 8
+* &lbrack;Engine&rbrack; Aktualisiert auf Substance Engine 8
 * &lbrack;Lokalisierung&rbrack; Chinesische Lokalisierung
 * &lbrack;UI&rbrack; Experimenteller Volltonfarbenwähler
-* &lbrack;Inhalt&rbrack; Neue Umgebungskarte - Studio 06
+* &lbrack;Inhalt&rbrack; Neue Umgebungs-Map - Studio 06
 * &lbrack;Inhalt&rbrack; Filter &quot;Atlas-Generator hinzufügen&quot;
 * &lbrack;Inhalt&rbrack; Filter &quot;Atlas Splitter hinzufügen&quot;
 * &lbrack;Inhalt&rbrack; Filter &quot;Verworfene Gummen&quot; hinzufügen
@@ -1835,7 +1844,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Inhalt&rbrack; Filter &quot;Umkehren&quot; hinzufügen
 * &lbrack;Inhalt&rbrack; Filter &quot;Färben&quot; hinzufügen
 * &lbrack;Inhalt&rbrack; Filter &quot;Ersetzen-Farbe&quot; hinzufügen
-* &lbrack;Inhalt&rbrack; Transformieren - Fügen Sie die Möglichkeit hinzu, die Transformation für einen bestimmten Kanal zu deaktivieren.
+* &lbrack;Inhalt&rbrack; Transformieren: Fügen Sie die Möglichkeit hinzu, die Transformation für einen bestimmten Kanal zu deaktivieren.
 * &lbrack;Inhalt&rbrack; Transformieren - Drehung hinzufügen, wenn der abgesicherte transformieren aktiviert ist
 * &lbrack;Inhalt&rbrack; Farbvariation - Fügen Sie eine Segmentierungsoption hinzu, um auszuwählen, wie die Farben verteilt werden sollen
 
@@ -1939,14 +1948,14 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;UI&rbrack; Hinzufügen von Schlagschatten für Popups und Menüs
 * &lbrack;UI&rbrack; Neues Farb-Widget mit Rechtsklick-Optionen (Löschen, Kopieren, Einfügen)
 * &lbrack;UI&rbrack; Neue Bild-Widget mit Malwerkzeug-Option
-* &lbrack;UI&rbrack; In einem Bild-Widget über ein importiertes Bild malen können
+* &lbrack;UI&rbrack; Malen über ein importiertes Bild in einem Bild-Widget ermöglichen
 * &lbrack;Rendering&rbrack; Neue Standardposition der Kamera
 * &lbrack;Export&rbrack; Substance-Dateien werden für Substance Designer 2020.1.2 (10.1.2) exportiert
 * &lbrack;Performance&rbrack; Verbesserte Startzeit der Anwendung
 * &lbrack;Performance&rbrack; Verbessern der Handhabung asynchroner Aufgaben
 * &lbrack;Performance&rbrack; Verbessern der Leistung von Ebenenstapeln beim Hinzufügen, Entfernen oder Verschieben von Ebenen
 * &lbrack;Performance&rbrack; &quot;Bild zu Material&quot; (KI-gestützt) läuft auf RTX-GPUs schneller
-* &lbrack;Inhalt&rbrack; Neue Gitter: Weibliches T-Shirt, Männliches T-Shirt, Schuh
+* &lbrack;Inhalt&rbrack; Neue Mesh: Weibliches T-Shirt, Männliches T-Shirt, Schuh
 * &lbrack;Inhalt&rbrack; Neuer Überblendung-Modus - Pro-Kanal-Überblendung
 * &lbrack;Inhalt&rbrack; Korrektur des Heights der Deckkraftüberblendung mit zwei neuen Parametern (Height-Position und Height-Skala)
 * &lbrack;Inhalt&rbrack; Height-Korrekturen im Modus &quot;Height-Überblendung&quot; hinzufügen
@@ -1970,42 +1979,42 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 * &lbrack;Layers&rbrack; Importierte Bilder werden zu oft geladen
 * &lbrack;Layers&rbrack; Absturz beim Erstellen eines Klonpatches am unteren Rand des Stapels
-* &lbrack;Layers&rbrack; Durch Hinzufügen eines Materials am unteren Rand des Stapels wird es instabil
+* &lbrack;Layers&rbrack; Wenn Sie ein Material am unteren Rand des Stapels hinzufügen, wird es instabil
 * &lbrack;Layers&rbrack; Filter nach Bildimport funktioniert nicht ordnungsgemäß
 * &lbrack;Layers&rbrack; Der Wert workflow_type wird nicht aktualisiert, wenn der Workflow zwischen Projekten mit einem benutzerdefinierten Filter gewechselt wird.
 * &lbrack;Layers&rbrack; Schaltfläche &quot;Ebene entfernen&quot; deaktivieren, wenn keine Ebene ausgewählt ist
-* &lbrack;Layers&rbrack; Absturz beim Laden eines Assets, das einen Klonpatch enthält
-* &lbrack;Layers&rbrack; Abstürze des Filters &quot;Normal zu Height&quot; auf MacOS
-* &lbrack;Anwendung&rbrack; Absturz beim Laden von Umgebungskarten
+* &lbrack;Layers&rbrack; Absturz beim Laden eines Assets, das einen Klon-Patch enthält
+* &lbrack;Layers&rbrack; Absturz für Normal-zu-Height-Filter auf MacOS
+* &lbrack;Anwendung&rbrack; Absturz beim Hin- und Herladen von Umgebungs-Map
 * &lbrack;Anwendung&rbrack; Leistungsprobleme, wenn ein Grafiktabletttreiber installiert ist
-* &lbrack;Anwendung&rbrack; Import von EXR 32-Bit-Dateien ist schwarz
-* &lbrack;Anwendung&rbrack; Abstürze beim Laden und Entladen von Elementen
-* &lbrack;Anwendung&rbrack; Absturz beim Wechsel von &quot;Durchsuchen&quot; zum Erstellen
-* &lbrack;Anwendung&rbrack; Zielsammlung beim Speichern eines Materials, das nicht aus dem aktuellen Projekt stammt
+* &lbrack;Anwendung&rbrack; EXR Import von 32-Bit-Dateien ist schwarz
+* &lbrack;Anwendung&rbrack; Absturz beim Laden und Entladen von Assets
+* &lbrack;Anwendung&rbrack; Absturz beim Wechsel von &quot;Erkunden&quot; zu &quot;Erstellen&quot;
+* &lbrack;Anwendung&rbrack; Zielsammlung beim Speichern eines Materials nicht aus dem aktuellen Projekt
 * &lbrack;Anwendung&rbrack; Backup und Neustart beheben
-* &lbrack;Bildimport&rbrack; Graustufenbilder richtig importieren
+* &lbrack;Bildimport&rbrack; Graustufenbilds richtig importieren
 * &lbrack;Inhalt&rbrack; Neue Filter für die Handhabung neuer Matrizen
 * &lbrack;Inhalt&rbrack; Importierte benutzerdefinierte Filter werden in der Schnellzugriffsleiste angezeigt
 * &lbrack;Inhalt&rbrack; Farbverschiebung mit dem erweiterten Filter &quot;Make it tile&quot; korrigieren
 * &lbrack;Performance&rbrack; Das Öffnen eines Farbdialogs ist langsam und berechnet die aktuelle Ebene neu
 * &lbrack;UI&rbrack; Tastaturbefehle funktionieren manchmal nicht
-* &lbrack;2D Ansicht&rbrack; Inhaltsbasierte Füllung erfordert einen nutzlosen ersten Klick
-* &lbrack;Resources&rbrack; Ordner auf lokalen Datenträgern werden nach dem Entfernen immer noch auf Updates überwacht
+* &lbrack;2D-Ansicht&rbrack; Inhaltsbasierte Füllung erfordert einen nutzlosen ersten Klick
+* &lbrack;Resources&rbrack; Ordner in lokale Festplatten werden nach dem Entfernen immer noch auf Updates überwacht
 * &lbrack;Resources&rbrack; Wenn Sie einen verknüpften Ordner aus dem Dateisystem löschen, wird er nicht entfernt
 * &lbrack;Export&rbrack; Benutzerdefinierte Verwendungen in benutzerdefinierten Exportvorgaben werden nicht exportiert
-* &lbrack;Export&rbrack; Fehler beim Exportieren der .sbsar-Datei mit Sonderzeichen im Pfad
+* &lbrack;Export&rbrack; Das Exportieren von .sbsar-Datei mit Sonderzeichen im Pfad schlägt fehl
 
 **Bekannte Probleme:**
 
 * Wiederholte Neuberechnungen von Bild zu Material (KI-gestützt) können einen Absturz auslösen (nicht genügend Arbeitsspeicher).
-* Wiederholte Neuberechnungen des Delighters können einen Absturz auslösen (nicht genügend Arbeitsspeicher).
+* Wiederholte Neuberechnungen des Delighters können einen Absturz auslösen (nicht genügend Arbeitsspeicher)
 * Die Umwandlung von Bildern in Materialien (KI-gestützt) mit hoher Auflösung kann sehr langsam erfolgen
 * Die Verwendung von Bild zu Material (KI aktiviert) auf GPU mit geringer VRAM kann einen Absturz auslösen (nicht genügend Arbeitsspeicher).
-* &quot;Bild zu Material&quot; (KI-gestützt) ist nicht für PBR-Specular/Glanz verfügbar.
-* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
+* Bild-zu-Material (KI-gestützt) ist auf PBR-Specular/Glanz nicht verfügbar
+* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
 * Inhaltsbasierte Füllfilter sind bei hoher Auflösung langsam
 * Koma oder Punkt können ignoriert werden, wenn Sie einen bestimmten Wert in einen Schieberegler eingeben
-* Doppelte Speicherung des gleichen Materialschichtstapels nicht möglich
+* Doppelte Speicherung eines Material-Ebenenstapels ist nicht möglich.
 
 ### 2.1.1 (2020.1.1) Tiramisu
 
@@ -2015,11 +2024,11 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 * &lbrack;Projekt&rbrack; Metadaten exportieren und importieren
 * &lbrack;Anwendung&rbrack; Strg+S speichert jetzt eine Vorgabe in Entdecken
-* &lbrack;Performance&rbrack; Verwenden Sie Render-Cache, anstatt gespeicherte Materialien für Auflösungen von bis zu 2k neu zu berechnen
+* &lbrack;Performance&rbrack; Verwenden Sie den Render-Cache, anstatt gespeicherte Materialien für Auflösungen von bis zu 2k neu zu berechnen
 
 **Fest:**
 
-* &lbrack;UI&rbrack; Anzeige für feste Datenverarbeitung im Darstellungsfenster
+* &lbrack;UI&rbrack; Feste Datenverarbeitungsanzeige im Viewport
 * &lbrack;UI&rbrack; Die Eingabe negativer Werte in Regler ist fest
 * &lbrack;UI&rbrack; Kombinationsfelder: Die Tastaturpfeile und die Bildlaufleiste funktionieren jetzt
 * &lbrack;UI&rbrack; Beim Umschalten zwischen &quot;Material-Ausgängen&quot; und &quot;Ebeneneingängen&quot; in der 2D-Ansicht den ausgewählten Kanal beibehalten
@@ -2046,8 +2055,8 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 **Bekannte Probleme:**
 
 * Inhaltsbasierte Füllfilter sind bei hoher Auflösung langsam
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
-* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
+* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
 * Koma oder Punkt können ignoriert werden, wenn Sie einen bestimmten Wert in einen Schieberegler eingeben
 
 ### 2.1.0 (2020.1.0) Tiramisu
@@ -2099,39 +2108,39 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Projekt&rbrack; Absturz beim mehrmaligen Importieren und Öffnen von Projekten behoben
 * &lbrack;Anwendung&rbrack; Absturz beim Laden eines unbenannten Materials
 * &lbrack;Anwendung&rbrack; Erkennen fehlender Dateien beim erneuten Import
-* &lbrack;Anwendung&rbrack; Beheben eines zufälligen Absturzes beim Herunterfahren
-* &lbrack;Anwendung&rbrack; Seltene Abstürze beim Entladen eines Materials in Create wurden behoben
-* &lbrack;Anwendung&rbrack; Zufälliger Absturz bei Verwendung von UI-Steuerelementen behoben
+* &lbrack;Anwendung&rbrack; Beheben von zufälligem Absturz beim Herunterfahren
+* &lbrack;Anwendung&rbrack; Seltene Absturz beim Entladen eines Materials in Create wurden behoben
+* &lbrack;Anwendung&rbrack; Es wurde ein zufälliger Absturz bei der Verwendung von UI-Steuerelementen behoben
 * &lbrack;Anwendung&rbrack; Der Export von Protokolldateien auf den Desktop unter Windows 10 wurde behoben.
 * &lbrack;UI&rbrack; Das Exportierenbedienfeld hat die falsche Größe, wenn Sie es in Erstellen öffnen
 * &lbrack;UI&rbrack; Projekt mit einem Klick öffnen
 * &lbrack;UI&rbrack; Richtiges Festlegen von minimalen und maximalen Schiebereglerwerten
 * &lbrack;UI&rbrack; Beschriftung der Kanalnutzung anstelle von IDs anzeigen
-* &lbrack;UI&rbrack; Durch Klicken auf ein Material wird das Bedienfeld &quot;Anpassen&quot; immer geöffnet/geschlossen.
+* &lbrack;UI&rbrack; Wenn Sie auf ein Material klicken, wird das Tweak-Bedienfeld immer geöffnet/geschlossen
 * &lbrack;UI&rbrack; Farben von ausgeblendeten Ebenen korrigieren
 * &lbrack;UI&rbrack; Verbesserungen an den Begrüßungsbildschirmschaltflächen
 * &lbrack;Layers&rbrack; Weniger unnötige Neuberechnungen
-* &lbrack;Layers&rbrack; Absturz bei Verwendung des Klonpatches
+* &lbrack;Layers&rbrack; Absturz bei Verwendung von Klon-Patch
 * &lbrack;Layers&rbrack; Wenn Sie eine Bildimportebene auswählen, wird kein Computer mehr ausgelöst.
-* &lbrack;Layers&rbrack; Ebenen &quot;Klonen&quot; und &quot;Inhaltsbasierte Füllung&quot; werden bei Auswahl nicht mehr neu berechnet
+* &lbrack;Layers&rbrack; Klon-Patch und inhaltsbasierte Füllebenen werden bei Auswahl nicht mehr neu berechnet.
 * &lbrack;Kanaleinstellungen&rbrack; Das Aktivieren oder Deaktivieren von Verwendungen löst jetzt ein Rendering aus
-* &lbrack;Resources&rbrack; Einfrieren verhindern, wenn Sie auf einen Stapel in der Bibliothek massenhaft klicken
+* &lbrack;Resources&rbrack; Einfrieren verhindern, wenn Sie auf einen Stapel in der Bibliothek klicken
 * &lbrack;Resources&rbrack; Leistungseinbußen beim erneuten Hinzufügen eines zuvor hinzugefügten verknüpften Ordners
-* &lbrack;Resources&rbrack; Absturz beim Versuch, eine gelöschte .sbsar-Datei zu öffnen, behoben
+* &lbrack;Resources&rbrack; Es wurde ein Absturz beim Versuch behoben, eine gelöschte sbsar-Datei zu öffnen.
 * &lbrack;Performance&rbrack; Vermeiden Sie das Laden von Materialien, um auf deren Parameter zuzugreifen
 * &lbrack;Performance&rbrack; Sichern von Assets nur bei Verwendung in einem Projekt oder in einem erstellten Material
-* &lbrack;Export&rbrack; Fixierte Materialien in der Exportwarteschlange werden manchmal übersprungen oder mit falschen Parametern exportiert
-* &lbrack;2D Ansicht&rbrack; Schwenken und Zoomen wiederhergestellt
-* &lbrack;Inhalt&rbrack; Das Parkettmuster berücksichtigt den Umgebungskanal für die Verdeckung.
+* &lbrack;Export&rbrack; Behobene Material in der Exportwarteschlange werden manchmal übersprungen oder mit falschen Parametern exportiert
+* &lbrack;2D-Ansicht&rbrack; Schwenken und Zoomen wiederhergestellt
+* &lbrack;Inhalt&rbrack; Parquet Pattern berücksichtigt den Ambient occlusion-Kanal
 * &lbrack;Inhalt&rbrack; Malen - Maskeneingabe anzeigen, wenn benutzerdefinierte Maske aktiviert wird
-* &lbrack;Inhalt&rbrack; Stonewall-Muster - Entfernen Sie mögliche Streifeneffekte in der normalen Karte
-* &lbrack;Inhalt&rbrack; Height Modulation - Korrigieren Sie doppelte Grundfarbeinträge in der 2D-Ansicht
+* &lbrack;Inhalt&rbrack; Stonewall-Muster - Entfernen Sie mögliche Streifeneffekte in der Normalen-Map
+* &lbrack;Inhalt&rbrack; Height Modulation - Korrigieren von doppelten Grundfarben in der 2D-Ansicht
 
 **Bekannte Probleme:**
 
 * Inhaltsbasierte Füllfilter sind bei hoher Auflösung langsam
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
-* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
+* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
 * Koma oder Punkt können ignoriert werden, wenn Sie einen bestimmten Wert in einen Schieberegler eingeben
 
 ## Version 1
@@ -2153,10 +2162,10 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 * Substance Alchemist kann durch den Import vieler Ressourcen verlangsamt werden
 * Inhaltsbasierte Füllfilter sind bei hoher Auflösung langsam
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
-* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
+* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
 * Koma oder Punkt können ignoriert werden, wenn Sie einen bestimmten Wert in einen Schieberegler eingeben
-* Filter &quot;Normal zu Height&quot; kann auf MacOS abstürzen
+* Filter &quot;Normal zu Height&quot; kann Absturz auf MacOS enthalten
 
 ### 1.1.3 (2019.1.3) Sesam
 
@@ -2195,7 +2204,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Layers&rbrack; Absturz beim Hinzufügen einer Klonpatchebene beheben
 * &lbrack;Layers&rbrack; Beheben von Abstürzen beim Mischen von Ebenen mit Stapel-Materialien in anderen Ebenenstapel-Materialien
 * &lbrack;Export&rbrack; Die Kanalauswahl für den Export wird jetzt berücksichtigt
-* &lbrack;Resources&rbrack; Absturz beim Navigieren im Bedienfeld &quot;Ressourcen&quot; nicht
+* &lbrack;Resources&rbrack; Kein Absturz beim Navigieren im Bedienfeld &quot;Ressourcen&quot;
 * &lbrack;Resources&rbrack; Absturz beim Importieren beschädigter Substance-Dateien beheben
 * &lbrack;Resources&rbrack; Reduzieren Sie die Anzahl der Absturz beim Laden großer Ordner
 * &Klammer;Miniatur&Klammer; Die Miniaturansicht-Berechnung friert die Benutzeroberfläche nicht ein
@@ -2226,7 +2235,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Layers&rbrack; Die Optionen &quot;Speichern&quot; und &quot;Speichern unter&quot; sind über die Benutzeroberfläche in der Symbolleiste des Ebenen-Stapels verfügbar.
 * &lbrack;Resources&rbrack; Klarere Breadcrumbs im Ressourcenfenster zum Navigieren durch Ordner
 * &lbrack;Resources&rbrack; Schaltfläche &quot;Zurück halten&quot; gedrückt, um auf alle oberen Ordner zuzugreifen
-* &lbrack;Resources&rbrack; Option &quot;Importierte Materialien neu laden&quot; hinzufügen, um sie auf die neueste Version zu aktualisieren
+* &lbrack;Resources&rbrack; Option &quot;Importierten Materialien neu laden&quot; hinzufügen, um sie auf die neueste Version zu aktualisieren
 * &lbrack;Layers&rbrack; Möglichkeit, das Bild in der Bildimportebene zu ändern
 * &lbrack;Layers&rbrack; Möglichkeit, ein Bild als Kanal zu definieren (Grundfarbe, Normal, Height,...) in der Bildimportebene
 * &lbrack;Inhalt&rbrack; Neuer Atlas Scatter-Filter zur Streuung neuer Atlaselemente aus Substance Source
@@ -2247,22 +2256,22 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Dateimenü&rbrack; Korrigieren und Umbenennen Speichern und Speichern unter
 * &lbrack;Motor&rbrack; Aktualisieren Sie die Substance-Engine-Version, um einen Absturz einiger SBSAR-Dateien während des Imports zu vermeiden.
 * &lbrack;Inhalt&rbrack; Kachelfilter funktioniert auf dem Umgebungskanal der Verdeckung
-* &lbrack;Inhalt&rbrack; Der Freistellungsfilter arbeitet auf dem Kanal für die umgebende Verdeckung
-* &lbrack;Inhalt&rbrack; Wasserfilter modifiziert die Verstärkung des Heights map
-* &lbrack;Inhalt&rbrack; Korrigieren der Kachelung des oberen Materials im Deckkraft-Mischmodus
+* &lbrack;Inhalt&rbrack; Crop-Filter funktioniert auf dem ambient occlusion-Kanal
+* &lbrack;Inhalt&rbrack; Wasserfilter modifiziert die Verstärkung des Höhen-Map
+* &lbrack;Inhalt&rbrack; Kachelung des oberen Materials im Deckkraft-Mischmodus korrigieren
 * &lbrack;Inhalt&rbrack; Height des oberen Materials wird im Deckkraftüberblendmodus beibehalten
 * &lbrack;Inhalt&rbrack; Es ist möglich, eine benutzerdefinierte Maske, ein benutzerdefiniertes Muster oder eine Skalierungsmaske im Perforationsfilter hinzuzufügen.
-* &lbrack;Inhalt&rbrack; Height Modulation-Filter erzwingt Height- und Normalmaps in 16 bit
-* &lbrack;Inhalt&rbrack; Korrekturfilter erzwingt Height- und Normalmaps in 16 Bit
+* &lbrack;Inhalt&rbrack; Height Modulationsfilter erzwingt Height und Normalen-Map in 16 bit
+* &lbrack;Inhalt&rbrack; Einstellfilter erzwingt Height und Normalen-Map in 16 Bit
 
 **Bekannte Probleme:**
 
 * Substance Alchemist kann durch den Import vieler Ressourcen verlangsamt werden
 * Inhaltsbasierte Füllfilter sind bei hoher Auflösung langsam
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
-* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
+* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
 * Koma oder Punkt können ignoriert werden, wenn Sie einen bestimmten Wert in einen Schieberegler eingeben
-* Filter &quot;Normal zu Height&quot; kann auf MacOS abstürzen
+* Filter &quot;Normal zu Height&quot; kann Absturz auf MacOS enthalten
 
 ### 1.1.1 (2019.1.1) Sesam
 
@@ -2270,16 +2279,16 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Hinzugefügt:**
 
-* &lbrack;Angleichen&rbrack; Neue Füllmethode für Deckkraft
-* &lbrack;Motor&rbrack; Neue Substance Engine-Version
+* &lbrack;Überblendung&rbrack; Neuer Modus für die Überblendung der Deckkraft
+* &lbrack;Engine&rbrack; Neue Substance Engine-Version
 
 **Fest:**
 
-* &lbrack;Layers&rbrack; Beheben von Abstürzen beim Löschen einer Ebene, die noch berechnet wird
+* &lbrack;Layers&rbrack; Beheben Sie den Absturz beim Löschen einer Ebene, die noch berechnet wird.
 * &lbrack;Layers&rbrack; Absturz beim Entfernen der unteren Ebene beheben
-* &lbrack;Layers&rbrack; Absturz beheben, während der Materialname Sonderzeichen enthält
+* &lbrack;Layers&rbrack; Absturz beheben, während der Name des Materials Sonderzeichen enthält
 * &lbrack;Layers&rbrack; Berechnung aller Filter, die ein Widget verwenden, beenden
-* &lbrack;Layers&rbrack; Vermeiden Sie Abstürze bei der Verwendung von Kopierpatch- und inhaltsbasierten Füllfiltern
+* &lbrack;Layers&rbrack; Vermeiden Sie Absturz bei der Verwendung von Klon-Ausbessern und inhaltsbasierten Füllfiltern
 * &lbrack;Layers&rbrack; Beheben von Abstürzen beim Ziehen und Ablegen eines Filters in einem Splätter-Eingabebereich
 * &lbrack;Resources&rbrack; Absturz beim Verknüpfen lokaler Ordner oder Importieren von Ressourcen auf dem Substance Alchemist beheben
 * &lbrack;Sammlung&rbrack; Beheben von Abstürzen beim schnellen Wechsel zwischen Materialien
@@ -2300,10 +2309,10 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Bekannte Probleme:**
 
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
-* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
+* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
 * Koma oder Punkt können ignoriert werden, wenn Sie einen bestimmten Wert in einen Schieberegler eingeben
-* Filter &quot;Normal zu Height&quot; kann Absturz auf MacOS enthalten
+* Filter &quot;Normal zu Height&quot; kann auf MacOS abstürzen
 
 ### 1.1.0 (2019.1.0) Sesam
 
@@ -2321,42 +2330,42 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Begrüßungsbildschirm&rbrack; Zugriff auf die Liste all Ihrer Projekte auf dem Begrüßungsbildschirm
 * &lbrack;Begrüßungsbildschirm&rbrack; Quick-Links zum Zugriff auf die Dokumentation, das Info-Popup und die Lizenzverwaltung
 * &lbrack;Dateimenü&rbrack; Integration eines Dateimenüs
-* &lbrack;Dateimenü&rbrack; Auf die Projektbefehle über die Registerkarte &quot;Datei&quot; und das Speichern des Ebenenstapels zugreifen
+* &lbrack;Dateimenü&rbrack; Zugriff auf die Projektbefehle über die Registerkarte &quot;Datei&quot; und das Speichern des Ebenenstapels
 * &lbrack;Dateimenü&rbrack; Auf die Befehle &quot;Rückgängig&quot; und &quot;Wiederholen&quot; auf der Registerkarte &quot;Bearbeiten&quot; zugreifen
 * &lbrack;Dateimenü&rbrack; Das vorherige Hilfemenü wurde in das Dateimenü auf der Registerkarte Hilfe verschoben.
 * &lbrack;Layers&rbrack; Neue Architektur des Ebenenstapels
 * &lbrack;Layers&rbrack; Neue Benutzeroberfläche des Ebenenstapels
 * &lbrack;Layers&rbrack; Wählen Sie den Mischmodus direkt in der Symbolleiste aus
-* &lbrack;Layers&rbrack; Separater Zugriff auf die Überblendungsparameter und die Materialparameter
-* &lbrack;Layers&rbrack; Fügen Sie Materialien direkt in die dedizierten Eingaben des Splatter-Filters im Ebenenstapel hinzu
+* &lbrack;Layers&rbrack; Greifen Sie separat auf die Überblendungsparameter und die Parameter des Materials zu.
+* &lbrack;Layers&rbrack; Fügen Sie Materials direkt an dedizierten Eingängen des Splatter-Filters im Ebenenstapel hinzu
 * &lbrack;Layers&rbrack; Ändern der Scanreihenfolge direkt in der Bildimportebene
-* &lbrack;Viewport&rbrack; Steuerung des Kamerafelds
-* &lbrack;Viewport&rbrack; Möglichkeit, zwischen orthogonaler oder perspektivischer Kamera zu wechseln
+* &lbrack;Viewport&rbrack; Kontrolle über das Sichtfeld der Kamera
+* &lbrack;Viewport&rbrack; Umschalten zwischen orthografischer und Perspektive-Kamera möglich
 * &lbrack;Viewport&rbrack; Informationen zur Auflösung und Bittiefe für jeden Kanal anzeigen
 * &lbrack;Resources&rbrack; Basismaterialien werden standardmäßig geöffnet
 * &lbrack;Zwischenspeichern&rbrack; Ordner mit Miniaturansichten im Cache
 * &lbrack;Zwischenspeichern&rbrack; Finden Sie Ihren Render-Cache-Ordner
-* &blbrack;Panels&blbrack; Das Bedienfeld &quot;Materialeinstellungen&quot; ist vorübergehend ausgeblendet
-* &lbrack;Workflow&rbrack; Specular/Glanzgrad vorübergehend deaktiviert
+* &blbrack;Panels&blbrack; Bedienfeld &quot;Material-Einstellungen&quot; ist vorübergehend ausgeblendet
+* &lbrack;Workflow&rbrack; Specular/Glanz vorübergehend deaktiviert
 * &lbrack;MacOS&rbrack; Beglaubigung der Catalina OS-Version
 * &lbrack;Inhalt&rbrack; Neue Version des Delighter-Filters
 * &lbrack;Inhalt&rbrack; Neuer Filter &quot;Inhaltsbasierte Füllung&quot;
-* &lbrack;Inhalt&rbrack; Neuer Filter &quot;Inhaltsbasierte Füllung&quot;
-* &lbrack;Inhalt&rbrack; Der Transformationsfilter verfügt über eine sichere Transformationsoption
+* &lbrack;Inhalt&rbrack; Neuer Filter &quot;Inhaltsbasierte Füllung&quot; für Materialien
+* &lbrack;Inhalt&rbrack; Der Filter &quot;transformieren&quot; verfügt über eine Option für sicheren transformieren
 
 **Fest:**
 
 * Alle vorherigen Fehler im Zusammenhang mit Create sind heute mit der neuen Benutzeroberfläche und dem neuen Architekturrelease ungültig.
 * QuickInfos blenden die Symbole in der oberen Leiste nicht aus (3D, 2D, 2D/3D)
-* &lbrack;Inhalt&rbrack; Splatter-Filter akzeptiert Atlas mit vollständiger Height-Map
-* &lbrack;Inhalt&rbrack; Der Transformieren-Filter funktioniert für Bilder (scan1, scan2,...)
+* &lbrack;Inhalt&rbrack; Splatter-Filter akzeptiert Atlas mit vollständigem Höhen-Map
+* &lbrack;Inhalt&rbrack; Transformieren-Filter funktioniert für Bilder (scan1, scan2,...)
 
 **Bekannte Probleme:**
 
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
-* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
+* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
 * Koma oder Punkt können ignoriert werden, wenn Sie einen bestimmten Wert in einen Schieberegler eingeben
-* Filter &quot;Normal zu Height&quot; kann auf MacOS abstürzen
+* Filter &quot;Normal zu Height&quot; kann Absturz auf MacOS enthalten
 
 ## Beta
 
@@ -2403,8 +2412,8 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;Layers&rbrack; Sie können Bildeingaben in der Bildimportebene löschen
 * &lbrack;Layers&rbrack; Automatische Auswahl der neuen hinzugefügten Ebene
 * &lbrack;Layers&rbrack; Automatische Auswahl der Ebene darunter nach dem Löschen einer Ebene
-* &lbrack;UX&rbrack; Sichtbarkeit des linken Bereichs beim Wechsel zu einem anderen Labor beibehalten
-* &lbrack;UX&rbrack; Erstellen Sie keine Basisebene oder öffnen Sie das Popup &quot;Material-Arbeitsablauf&quot; nicht, wenn Sie Bilder in einen nicht leeren Ebenenstapel importieren.
+* &lbrack;UX&rbrack; Sichtbarkeit linker Bereiche beim Wechseln zu einem anderen Labor beibehalten
+* &lbrack;UX&rbrack; Erstellen Sie keine Basisebene, oder öffnen Sie das Popup Bildarbeitsablauf nicht, wenn Sie Materialien in einen Stapel mit nicht leeren Ebenen importieren
 * &lbrack;UI&rbrack; Neuer Textfeldstil
 * &lbrack;UI&rbrack; Neue Suchfeld-Formatvorlage
 * &lbrack;UI&rbrack; Neuer Kopfzeilenstil für Bedienfelder
@@ -2433,7 +2442,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * Schnelle Sichtbarkeit einer Delighter-Phase wird nicht empfohlen.
 * TIF-Bilder werden im Bedienfeld &quot;Eigenschaften&quot; der Bildimportebene nicht angezeigt
 * Koma oder Punkt können ignoriert werden, wenn Sie einen bestimmten Wert in einen Schieberegler eingeben
-* Filter &quot;Normal zu Height&quot; kann Absturz auf MacOS enthalten
+* Filter &quot;Normal zu Height&quot; kann auf MacOS abstürzen
 * Kann beim Beenden von MacOS zufällig Absturz verursachen
 
 ### 0.7.0-beta Pepper
@@ -2495,7 +2504,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 * &lbrack;Motor&rbrack; Substance Engine-Update, um mit der neuesten Substance Designer-Version kompatibel zu sein
 * &lbrack;Lizenz&rbrack; Aktualisieren des Lizenzordners für die erste Installation
-* &lbrack;Layers&rbrack; Sie können den Ebenenstapel jederzeit neu laden, um Ihre benutzerdefinierten Filter zu aktualisieren
+* &lbrack;Layers&rbrack; Sie können Ihren Ebenenstapel jederzeit neu laden, um Ihre benutzerdefinierten Filter zu aktualisieren.
 
 **Fest:**
 
@@ -2503,8 +2512,8 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Bekannte Probleme:**
 
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
-* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
+* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
 * Schnelle Sichtbarkeit einer Delighter-Phase wird nicht empfohlen.
 * Import von benutzerdefinierten Umgebungen kann schwarz werden
 * TIF-Bilder werden im Bedienfeld &quot;Eigenschaften&quot; der Bildimportebene nicht angezeigt
@@ -2516,7 +2525,7 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Hinzugefügt:**
 
-* &lbrack;Metadaten&rbrack; Metadaten in einem speziellen Register anzeigen und ausfüllen
+* &lbrack;Metadaten&rbrack; Anzeigen und Ausfüllen von Materialien-Metadaten auf einer dedizierten Registerkarte
 * &lbrack;Sammlung&rbrack; Erstellen einer Sammlung direkt aus den Suchergebnissen
 * &lbrack;Media Publishing&rbrack; Exportieren eines Dashboards einer Sammlung
 * &lbrack;UX&rbrack; Vorgenommene Änderungen oder Bildimport durch Drücken von Strg+Z rückgängig machen
@@ -2524,30 +2533,30 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 * &lbrack;UI&rbrack; Neue Icons mit neuem Stil
 * &lbrack;Performance&rbrack; Neuer Sitzungs-Manager, der das Wechseln der Registerkarten verbessert
 * &lbrack;Performance&rbrack; Schnelleres Öffnen der Bildimportebene
-* &lbrack;Inhalt&rbrack; Neues Metal-Generikum
-* &lbrack;Inhalt&rbrack; Neues Material für Rost
-* &lbrack;Inhalt&rbrack; Neues Stone-Generikum
+* &lbrack;Inhalt&rbrack; Neues generisches Metal-Material
+* &lbrack;Inhalt&rbrack; Neues Rost-Material
+* &lbrack;Inhalt&rbrack; Neues generisches Stone-Material
 * &lbrack;Inhalt&rbrack; Aktualisierung des Prägefilters
 * &lbrack;Inhalt&rbrack; Stickerei Filter Update
-* &lbrack;Inhalt&rbrack; Aktualisierung des Malfilters
+* &lbrack;Inhalt&rbrack; Malen-Filteraktualisierung
 * &lbrack;Inhalt&rbrack; Delighter-Filteraktualisierung
 
 **Fest:**
 
-* &lbrack;Inhalt&rbrack; Wasserfilter funktioniert im Specular-/Glossiness-Workflow
+* &lbrack;Inhalt&rbrack; Wasserfilter funktioniert im Specular/Glanz-Workflow
 * Das Optionsfeld &quot;Graustufen&quot; im Aktivierungs-Popup reparieren
 * Akzeptieren von Dateien, die Coma-Zeichen enthalten
 * Kleine Schriftprobleme in Popup-Fenstern beheben
 * Beheben von Problemen mit der Transparenz-Benutzeroberfläche aufgrund eines Konflikts mit dem FXAA-Parameter einiger NVIDIA-Karten
 * Entfernen des Fokus des Felds nach dem Festlegen eines Werts in einem Schieberegler
-* Weisen Sie dem Entdecker die Mindestmenge an VRAM zu, um Abstürze zu reduzieren
+* Weisen Sie dem Delighter den Mindestbetrag an VRAM zu, um Absturz zu reduzieren
 * Beheben des Einfrierens von Fenstern beim Ändern der Größe des Anwendungsfensters
-* Es wurde ein Absturz behoben, der auftrat, wenn der Ebenenstapel während der Auswertung gelöscht wurde.
+* Es wurde ein Absturz behoben, durch den der Ebenenstapel während der Auswertung gelöscht wurde.
 
 **Bekannte Probleme:**
 
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
-* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
+* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
 * Schnelle Sichtbarkeit einer Delighter-Phase wird nicht empfohlen.
 * Import von benutzerdefinierten Umgebungen kann schwarz werden
 * TIF-Bilder werden im Bedienfeld &quot;Eigenschaften&quot; der Bildimportebene nicht angezeigt
@@ -2560,14 +2569,14 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 **Fest:**
 
 * &lbrack;Stapel&rbrack; Absturz beim Entfernen einer Spritzschicht
-* &lbrack;Daten&rbrack; Asset-Datenbank wird beschädigt, wenn die Anwendung abstürzt
+* &lbrack;Daten&rbrack; Die Elementdatenbank wird beschädigt, wenn Absturz in der Anwendung auftreten.
 * &lbrack;Daten&rbrack; Substance Alchemist kann nicht gestartet werden, wenn die Elementdatenbank beschädigt ist
-* Zufälliger Absturz beim Importieren von Substance-Materialien
+* Zufälliger Absturz beim Importieren von Substance-Materials
 
 **Bekannte Probleme:**
 
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
-* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
+* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
 * Der schnelle Wechsel der Sichtbarkeit einer Delighter-Bühne wirkt sich auf die Leistung aus
 * Import von benutzerdefinierten Umgebungen kann schwarz werden
 * TIF-Bilder werden im Bedienfeld &quot;Eigenschaften&quot; der Bildimportebene nicht angezeigt
@@ -2580,13 +2589,13 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Hinzugefügt:**
 
-* Suchen Sie im Bedienfeld &quot;Ressourcen&quot; nach dem Materialnamen
+* Suchen nach dem Namen des Materials im Bedienfeld &quot;Ressourcen&quot;
 * &lbrack;UI&rbrack; Klon Tool neue Benutzeroberfläche mit Visualisierung der Pinselgröße
 * &lbrack;UI&rbrack; Ausgeblendete Phasen auswählen und löschen
 * &lbrack;UI&rbrack; Neue Textfeld-Benutzeroberfläche
 * &lbrack;Hilfe&rbrack; Zugriff auf Websites von Substance Source, Substance share und Substance Academy
-* &lbrack;Inhalt&rbrack; Neue Standardmaterialien mit Generatoren und Atlas
-* &lbrack;Inhalt&rbrack; Bitmap zu Materialaktualisierung
+* &lbrack;Inhalt&rbrack; Neue Standard-Material mit Generatoren und Atlas
+* &lbrack;Inhalt&rbrack; Aktualisierung der Bitmap auf das Material
 * &lbrack;Inhalt&rbrack; Dirt-Update
 * &lbrack;Inhalt&rbrack; Rost-Update
 * &lbrack;Inhalt&rbrack; Neuer Prägefilter
@@ -2773,10 +2782,10 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Bekannte Probleme:**
 
-* Materialien, die mit einer früheren Version erstellt wurden, sind in der neuen Version nicht verfügbar.
-* Die Bitmap zu Material verarbeitet den Workflow für Specular/Rauheit nicht
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
-* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
+* Mit einer früheren Version erstellte Materialien sind in der neuen Version nicht verfügbar.
+* Die Bitmap zu Material verarbeitet den Workflow für Specular/Raueit nicht
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
+* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
 * Der schnelle Wechsel der Sichtbarkeit einer Delighter-Bühne wirkt sich auf die Leistung aus
 
 ### 0.2.0-beta Kiwi
@@ -2808,9 +2817,9 @@ Auf dieser Seite werden alle Änderungen, die an Substance 3D Sampler vorgenomme
 
 **Bekannte Probleme:**
 
-* Materialien, die mit einer früheren Version erstellt wurden, sind in der neuen Version nicht verfügbar.
-* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen.
-* Delighter-Absturz mit älteren NVIDIA-Treibern (weniger als 400.x)
+* Mit einer früheren Version erstellte Materialien sind in der neuen Version nicht verfügbar.
+* Die Verwendung mehrerer Delighter in einem Material wird nicht empfohlen
+* Delighter stürzt mit älteren NVIDIA-Treibern ab (weniger als 400.x)
 * Der schnelle Wechsel der Sichtbarkeit einer Delighter-Bühne wirkt sich auf die Leistung aus
 
 ### 0.1.1-beta Jam

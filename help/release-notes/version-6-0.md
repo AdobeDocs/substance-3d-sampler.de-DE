@@ -4,13 +4,11 @@ description: Lesen Sie die Versionshinweise für Substance 3D Sampler 6.0, um me
 title: Version 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '1627'
+source-wordcount: '1651'
 ht-degree: 1%
-
 ---
-
 
 # Version 6.0
 
@@ -18,19 +16,19 @@ Jalapeño
 
 ![Alternativtext](../../help/assets/Sampler_splash_large.jpg)
 
-Dieses Update bietet branchenübliche Unterstützung für OpenPBR, Materialvorgaben zur schnelleren Erstellung erweiterter Materialien und einen neu gestalteten Eigenschaftenbereich für flexibleres Authoring.
+Dieses Update bietet branchenübliche OpenPBR-Unterstützung, Materialvorgaben für die schnellere Erstellung erweiterter Material und einen neu gestalteten Eigenschaftenbereich für flexibleres Authoring.
 
 Die wichtigsten neuen Funktionen sind:
 
 ## OpenPBR im Zentrum des Substance-Ökosystems
 
-Sampler 6.0 übernimmt [OpenPBR](../features-and-workflows/openpbr.md), das einheitliche Materialmodell der Branche. Erstelle Materialien, die nativ im weiteren 3D-Ökosystem verstanden werden: Standardmäßige, unbegrenzte Kompatibilität.Einmal erstellen, sparen Sie Zeit und beschleunigen Sie Ihren Workflow mit einem Modell, das für nahtlose Interoperabilität zwischen Tools entwickelt wurde.
+Sampler 6.0 übernimmt [OpenPBR](../features-and-workflows/openpbr.md), das einheitliche Materialmodell der Branche. Erstelle Materialien, die nativ im 3D-Ökosystem genutzt werden können: Standardmäßige, unbegrenzte Kompatibilität.Einmal erstellen, sparen Sie Zeit und beschleunigen Sie Ihren Workflow mit einem Modell, das für nahtlose Interoperabilität zwischen Tools entwickelt wurde.
 
-![OpenPBR-Materialstandard in Substance 3D Sampler](../../help/assets/OpenPBR_1820x1024.jpg)
+![OpenPBR Material-Standard in Substance 3D Sampler](../../help/assets/OpenPBR_1820x1024.jpg)
 
 ## Komplexe Materialien mit nur einem Klick
 
-Erstelle im Handumdrehen komplexere Materialien. Mithilfe von neuen Vorlagen wie Fuzz, Lichtdurchlässigkeit und Clear Coat kannst du erweiterte physische Effekte hinzufügen, ohne dass die Komplexität darunter leidet. Wähle einfach eine Vorlage aus, und los geht’s!
+Erstellen Sie im Handumdrehen komplexere und vielfältigere Materials. Mit neuen Vorlagen wie Fuzz, translucency und Clear Coat kannst du ohne viel Aufwand professionelle Effekte hinzufügen. Wähle einfach eine Vorlage aus, und los geht’s!
 
 Weitere Informationen *[hier](../interface/tools-and-widgets/material-creation-presets.md)*
 
@@ -38,13 +36,13 @@ Weitere Informationen *[hier](../interface/tools-and-widgets/material-creation-p
 
 ## Entwickelt für die Materialerstellung
 
-Sampler 6.0 verfeinert die gesamte Erfahrung in Bezug auf das, was am wichtigsten ist: hochwertiges digitales Twin-Material. Jedes Update und jede neue Funktion wurde entwickelt, um Reibungsverluste zu vermeiden, Zeit zu sparen und Sie sich auf die Teile Ihres Workflows konzentrieren zu können, die einen echten Mehrwert bieten.
+Sampler 6.0 verfeinert die gesamte Erfahrung in Bezug auf das, was am wichtigsten ist: Erstellung hochwertiger digitaler Twin-Materialien. Jedes Update und jede neue Funktion wurde entwickelt, um Reibungsverluste zu vermeiden, Zeit zu sparen und Sie sich auf die Teile Ihres Workflows konzentrieren zu können, die einen echten Mehrwert bieten.
 
 ![Alternativtext](../../help/assets/Sampler_built_for_material_creation.jpg)
 
 ## Ein neuer Ebenenstapel zur Kontrolle
 
-Übernimm die Verantwortung für deine Materialien. Mit dem neu gestalteten Bedienfeld &quot;Eigenschaften&quot; können Sie Zielfilter für jeden Kanal festlegen, sodass Sie ohne zusätzliche Schritte präzise Bearbeitungen vornehmen können.
+Übernimm die Kontrolle über deine Materials. Mit dem neu gestalteten Bedienfeld &quot;Eigenschaften&quot; können Sie Zielfilter für jeden Kanal festlegen, sodass Sie ohne zusätzliche Schritte präzise Bearbeitungen vornehmen können.
 
 Weitere Informationen *[hier](../interface/panels/properties-panel.md)*
 
@@ -60,6 +58,17 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 
 ## V6.0 - Versionshinweise
 
+### **6.0.4**
+
+*(Freigegeben: 24. September 2026)*
+
+**Geändert**
+[Engine] Aktualisieren des Substance Engine auf 9.6.1
+
+**Fest**
+[Ebenen]-Absturz beim Hinzufügen eines Bildes zur Relief-Maske
+[Sicherheits] - Allgemeine Korrekturen
+
 ### **6.0.3**
 
 *(Freigegeben: 24. August 2026)*
@@ -74,15 +83,15 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 
 **Hinzugefügt:**
 
-* &lbrack;Assets&rbrack; Überprüfen Sie die sbsar-Version und warnen Sie Benutzer ist die Engine zu alt, um sie zu lesen
+* &lbrack;Assets&rbrack; Überprüfen Sie die SBSAR-Version und warnen Sie Benutzer, wenn das Engine zu alt ist, um es zu lesen
 * &lbrack;Captis&rbrack; Option &quot;Zurück&quot; hinzufügen, um die Kapitelphotometrie in den Voreinstellungen zu speichern
 
 **Fest:**
 
-* &lbrack;2D Ansicht&rbrack; Nicht mit physischem Verhältnis anzeigen, wenn Physische Größe deaktiviert ist
+* &lbrack;2D-Ansicht&rbrack; Nicht mit physischem Verhältnis anzeigen, wenn Physische Größe deaktiviert ist
 * &lbrack;Analyse&rbrack; Fehlende Analyseereignisse
-* &lbrack;Analyse&rbrack; Verhindern Sie Abstürze, um einen Absturz auf vk-Geräten zu meldenListe
-* &lbrack;Anwendung&rbrack; Zerstören Sie keine vkdevices beim Beenden, um einen Absturz des nvidia-Treibers zu vermeiden
+* &lbrack;Analyse&rbrack; Verhindern von Absturzbildern, um einen Absturz auf vk-Geräten zu meldenListe
+* &lbrack;Anwendung&rbrack; Zerstören Sie keine vkdevices am Ausgang, um einen Absturz im nvidia-Treiber zu vermeiden
 * &lbrack;Anwendung&rbrack; Verknüpfte Sammlungs-Watcher-Ausgang + Kanal-Manager reparieren
 * &lbrack;Anwendung&rbrack; Absturz beim Beenden verhindern
 * &lbrack;Inhalt&rbrack; Filter &quot;Metal-Finish&quot; wirkt sich nicht auf die Metallisierung aus
@@ -104,8 +113,8 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 
 **Hinzugefügt:**
 
-* [3D-Ansicht] Stellen Standardgitter im USD-Format bereit.
-* [Anwendung] Erkennen von Verwendungen in einem Material, das im aktuellen Materialmodell nicht verfügbar ist
+* [3D-Ansicht] Geben Sie Standard-Mesh im USD an.
+* [Anwendung] Erkennen von Benutzern in einem Material, die im aktuellen Materialmodell nicht verfügbar sind
 * [Anwendung] Materialmodell-Tag aus SBSAR-Dateien lesen
 * [Captis] Drehung des Fokusbereichs und neue 4K-Auflösung zulassen
 * [Captis] Überprüfen Sie die Captis OS-Version und warnen Sie den Benutzer, sie zu aktualisieren, falls relevant.
@@ -116,12 +125,12 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 * [Captis] Verschiedene Verbesserungen der Benutzeroberfläche/UX
 * [Kanaleinstellungen] Umgestaltetes Bedienfeld für Kanaleinstellungen für OpenPBR
 * [Kanaleinstellungen] Unterstützung für den Wechsel zwischen OpenPBR- und ASM-Materialmodellen
-* [Export] Aktivieren Sie den Export von Materialien als USD, USDA oder USDZ.
+* [Exportieren] Aktivieren Sie das Exportieren von Materialien als USD, USDA oder USDZ.
 * [Exportieren] Unterstützt OpenPBR-Kanäle bei der Exportkanalauswahl
 * [Export] Verwenden Sie den Projektpfad als Standardexportpfad.
 * [Filter] Erlaubt das Aktualisieren von statischen zu dynamischen zusammengesetzten Filtern.
 * [Filter] Aktualisieren von statischen zu dynamischen Filtern zulassen
-* [Filter] Dynamic versions of Auto Tiling, Content Aware Fill, Height Blend, Normal Blend
+* [Filter] dynamische Versionen der automatischen Kachelung, inhaltsbasierte Füllung, Height-Überblendung, normale Überblendung
 * [Filter] Ausblenden der statischen Version eines Filters, wenn eine dynamische Version vorhanden ist
 * [Filter] Neues Füllerlebnis
 * [Filter] Neues OpenPBR- und ASM-kompatibles Basismaterial
@@ -132,16 +141,16 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 * [Voreinstellungen] Hinzufügen einer standardmäßigen Materialmodell-Voreinstellung
 * [Vorgabe] Die Standardvorgabe verwendet jetzt OpenPBR Materialmodell
 * [Rendern] Aktivieren des 8K-Renderings
-* [Rendern] Handle OpenPBR Shader in USD-Szene
+* [Rendern] Behandeln von OpenPBR-Shader in USD Szene
 * [Rendern] Rendern von Bildern in Dokumentgröße, wenn sie nicht exportiert werden
 * [Skripterstellung] Handle-Materialmodell für Asset-Erstellung in der Python-API
 * [Skripterstellung] Neue MaterialModel-Eigenschaft für Element
-* [UI] Fügen Sie den Schnellaktionen eine Kategorie hinzu und blenden Sie die Umgebungs-/Gitterfilter aus.
-* [UI] Zeigt das Vorlagenfenster an, wenn der Stapel nur ein Basismaterial enthält
+* [UI] Fügen Sie den Schnellaktionen eine Kategorie hinzu und blenden Sie die Mesh-/Umgebungsfilter aus.
+* [UI] Zeigt ein Vorlagenfenster an, wenn der Stapel nur ein Basismaterial enthält
 * [UI] Implementieren der Fuzzy-Suche im Schnellzugriff
-* [UI] Integrierte Vorlagenauswahl im Dialogfeld zur Materialerstellung
-* [Benutzeroberfläche] Materialerstellung von Schnellstart
-* [Benutzeroberfläche] Arbeitsablauf zum Erstellen von Material mit Vorlagen
+* [Benutzeroberfläche] - Vorlagenauswahl in Dialogfeld zum Erstellen von Materialien integriert
+* [Erstellung von UI]-Materialien vom Schnellstart
+* [Arbeitsablauf zum Erstellen von ]-Materialien mit Vorlagen
 * [UI] Neues Format für überlagerte Aktionsleisten
 * [UI] Benutzer benachrichtigen, wenn ein Material zusätzliche Verwendungen benötigt
 * [UI] Vorschläge für neuen Materialnamen mit erhöhter Anzahl
@@ -193,7 +202,7 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 * [Bildimport] Automatische manuelle Messung für Physische Größe korrigieren
 * [Bildimport] Die richtige SVG-Rastergröße, wenn sie als Tweak verwendet wird
 * [Ebenen] Das Zuweisen einer Verwendung zu einem Bild durch Eingabe funktioniert nicht
-* [Ebenen] Vermeiden Sie Absturz beim Hinzufügen von Ebenen zum Stapel
+* [Ebenen] Vermeiden Sie Abstürze beim Hinzufügen von Ebenen zum Stapel
 * [Freigelegte Parameter der Ebenen ], die nicht aktualisiert werden mussten, wurden entfernt.
 * [Ebenen] Korrektur des Hinzufügens des Kartengenerators als Textur
 * [Ebenen] Flachstellen korrigieren
@@ -226,8 +235,8 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 * [UI] Korrektur des Wortumbruchmodus der einheitlichen Auswahl
 * [UI] Das Hinzufügen von Sonderzeichen im Namensfeld von Metadaten ist verboten
 * Die Anzeige des [UI]-Physische Größe-Measure-Tools ist fehlerhaft.
-* [UI] Absturz beim Öffnen des Bedienfelds &quot;Kanaleinstellungen&quot; verhindern
-* [UI] Absturz bei Verwendung von &quot;Auf Standardlayout zurücksetzen&quot; verhindern
+* [UI] Verhindern von Abstürzen beim Öffnen des Bereichs mit den Kanaleinstellungen
+* [Benutzeroberfläche] Verhindern von Abstürzen bei Verwendung von &quot;Auf Standardlayout zurücksetzen&quot;
 * [UI] Verhindern, dass die Aktualisierungsbenachrichtigung im Strukturbereich nicht mehr angezeigt wird
 * [UI] Priorisieren des dynamischen Filters bei der Suche nach Namen
 * [UI] Scrollen Sie im Eigenschaftenfenster, um Änderungen zu verwenden
