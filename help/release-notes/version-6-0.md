@@ -83,29 +83,29 @@ Weitere Informationen *[hier](../pipeline-and-integrations/hp-z-captis-support/y
 
 **Hinzugefügt:**
 
-* &amp;lbrack;Assets&amp;rbrack; Überprüfen Sie die SBSAR-Version und warnen Sie Benutzer, wenn das Engine zu alt ist, um es zu lesen
-* &amp;lbrack;Captis&amp;rbrack; Option &quot;Zurück&quot; hinzufügen, um die Kapitelphotometrie in den Voreinstellungen zu speichern
+* &lbrack;Assets&rbrack; Überprüfen Sie die SBSAR-Version und warnen Sie Benutzer, wenn das Engine zu alt ist, um es zu lesen
+* &lbrack;Captis&rbrack; Option &quot;Zurück&quot; hinzufügen, um die Kapitelphotometrie in den Voreinstellungen zu speichern
 
 **Fest:**
 
-* &amp;lbrack;2D-Ansicht&amp;rbrack; Nicht mit physischem Verhältnis anzeigen, wenn Physische Größe deaktiviert ist
-* &amp;lbrack;Analyse&amp;rbrack; Fehlende Analyseereignisse
-* &amp;lbrack;Analyse&amp;rbrack; Verhindern von Absturzbildern, um einen Absturz auf vk-Geräten zu meldenListe
-* &amp;lbrack;Anwendung&amp;rbrack; Zerstören Sie keine vkdevices am Ausgang, um einen Absturz im nvidia-Treiber zu vermeiden
-* &amp;lbrack;Anwendung&amp;rbrack; Verknüpfte Sammlungs-Watcher-Ausgang + Kanal-Manager reparieren
-* &amp;lbrack;Anwendung&amp;rbrack; Absturz beim Beenden verhindern
-* &amp;lbrack;Inhalt&amp;rbrack; Filter &quot;Metal-Finish&quot; wirkt sich nicht auf die Metallisierung aus
-* &amp;lbrack;Inhalt&amp;rbrack; Physische Größe zu dynamischen Filtern hinzufügen, wenn sie fehlt
-* &amp;lbrack;Filter&amp;rbrack; Entfernen des inhaltsbasierten Füllens aus der Liste &quot;Ausgeblendete Elemente&quot;
-* &amp;lbrack;Layers&amp;rbrack; Durch Klicken auf &quot;Alle Einstellungen zurücksetzen&quot; wird die Dropdown-Liste &quot;Betrifft&quot; nicht zurückgesetzt
-* &amp;lbrack;Layers&amp;rbrack; Minimale und maximale Anpassung für Positions-Widget
-* &amp;lbrack;Layers&amp;rbrack; Filter richtig aktualisieren
-* &amp;lbrack;Physische Größe&amp;rbrack; Sorgen Sie mit dynamischen Filtern dafür, dass die physische Skalierung überall funktioniert, und machen Sie die physische Größe ok.
-* &amp;lbrack;Projekt&amp;rbrack; Sicherstellen, dass die Standardauflösung für Assets (2K x 2K) beim Erstellen eines neuen Assets festgelegt ist
-* &amp;lbrack;Projekt&amp;rbrack; Aktuelles Projekt, mit dem die vorherige Version geöffnet wurde, erneut öffnen
-* &amp;lbrack;Projekt&amp;rbrack; Sampler bietet nicht mehr an, eine Sicherung beschädigter Projekte wiederherzustellen.
-* &amp;lbrack;Rendering&amp;rbrack; Miniaturansicht des Materials mit einer maximalen Auflösung von 2k rendern
-* &amp;lbrack;UI&amp;rbrack; Defensiver Code zur Vermeidung von Abstürzen, wenn der Benutzer schneller als die Benutzeroberfläche ist
+* &lbrack;2D-Ansicht&rbrack; Nicht mit physischem Verhältnis anzeigen, wenn Physische Größe deaktiviert ist
+* &lbrack;Analyse&rbrack; Fehlende Analyseereignisse
+* &lbrack;Analyse&rbrack; Verhindern von Absturzbildern, um einen Absturz auf vk-Geräten zu meldenListe
+* &lbrack;Anwendung&rbrack; Zerstören Sie keine vkdevices am Ausgang, um einen Absturz im nvidia-Treiber zu vermeiden
+* &lbrack;Anwendung&rbrack; Verknüpfte Sammlungs-Watcher-Ausgang + Kanal-Manager reparieren
+* &lbrack;Anwendung&rbrack; Absturz beim Beenden verhindern
+* &lbrack;Inhalt&rbrack; Filter &quot;Metal-Finish&quot; wirkt sich nicht auf die Metallisierung aus
+* &lbrack;Inhalt&rbrack; Physische Größe zu dynamischen Filtern hinzufügen, wenn sie fehlt
+* &lbrack;Filter&rbrack; Entfernen des inhaltsbasierten Füllens aus der Liste &quot;Ausgeblendete Elemente&quot;
+* &lbrack;Layers&rbrack; Durch Klicken auf &quot;Alle Einstellungen zurücksetzen&quot; wird die Dropdown-Liste &quot;Betrifft&quot; nicht zurückgesetzt
+* &lbrack;Layers&rbrack; Minimale und maximale Anpassung für Positions-Widget
+* &lbrack;Layers&rbrack; Filter richtig aktualisieren
+* &lbrack;Physische Größe&rbrack; Sorgen Sie mit dynamischen Filtern dafür, dass die physische Skalierung überall funktioniert, und machen Sie die physische Größe ok.
+* &lbrack;Projekt&rbrack; Sicherstellen, dass die Standardauflösung für Assets (2K x 2K) beim Erstellen eines neuen Assets festgelegt ist
+* &lbrack;Projekt&rbrack; Aktuelles Projekt, mit dem die vorherige Version geöffnet wurde, erneut öffnen
+* &lbrack;Projekt&rbrack; Sampler bietet nicht mehr an, eine Sicherung beschädigter Projekte wiederherzustellen.
+* &lbrack;Rendering&rbrack; Miniaturansicht des Materials mit einer maximalen Auflösung von 2k rendern
+* &lbrack;UI&rbrack; Defensiver Code zur Vermeidung von Abstürzen, wenn der Benutzer schneller als die Benutzeroberfläche ist
 
 ### **6.0.1**
 
