@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/de/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: Prüfen Sie die Systemanforderungen für Substance 3D Sampler , um sicherzustellen, dass Ihre Hard- und Software den Kompatibilitätsstandards entspricht.
 helpx_creative_field: ''
@@ -10,13 +10,11 @@ helpx_tags: ''
 title: Systemanforderungen
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: cd61972eaf1567863dc8c3549a1c90c84ffee825
+source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '647'
 ht-degree: 1%
-
 ---
-
 
 # Unterstützte Systeme
 
@@ -45,11 +43,15 @@ Im Folgenden finden Sie eine Liste der von der Anwendung unterstützten Hardware
 
 |  | Minimum | Empfohlen | Optimal |
 | --- | --- | --- | --- |
-| **Betriebssystem** | macOS 13 Ventura | macOS 14 Sonoma | macOS 26 Tahoe |
+| **Betriebssystem** | macOS 15 Sequoia | macOS 27 Golden Gate | macOS 27 Golden Gate |
 | **CPU** | Apple M1 | Apple M2 Pro | Apple M4 Pro |
 | **GPU** | Apple M1 | Apple M2 Pro | Apple M4 Pro |
 | **RAM** | 24 GB | 32 GB | 64 GB |
 | **Speicher** | SSD mit 30 GB verfügbarem Speicherplatz | SSD mit 50 GB verfügbarem Speicherplatz | SSD mit 70 GB verfügbarem Speicherplatz |
+
+>[!WARNING]
+>
+> Für Pipelines, die unter Berücksichtigung der [VFX-Referenzplattform](https://vfxplatform.com/) erstellt wurden, kann Substance 3D Sampler weiterhin auf macOS 14 Sonoma installiert werden. Sampler wird jedoch nicht mehr mit Betriebssystemversionen getestet, die unter den Mindestsystemanforderungen liegen, sodass die Stabilität nicht gewährleistet ist. Es wird empfohlen, auf eine neuere Betriebssystemversion zu aktualisieren.
 
 ### Linux
 
@@ -95,7 +97,7 @@ Im Folgenden finden Sie eine Liste der von der Anwendung unterstützten Hardware
 
 Im Folgenden finden Sie eine Liste der erforderlichen Mindestversionen von GPU-Treibern, damit die Anwendung problemlos ausgeführt werden kann. Diese Liste kann sich mit der Veröffentlichung neuer Versionen ändern.
 
-Informationen zum Herunterladen neuer Treiber finden Sie unter: [GPU hat veraltete Treiber](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
+Informationen zum Herunterladen neuer Treiber finden Sie unter: [GPU hat veraltete Treiber](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
 
 | Betriebssystem | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |
