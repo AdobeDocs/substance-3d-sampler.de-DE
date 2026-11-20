@@ -1,22 +1,11 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-sampler/filters/tools/clone-stamp.html"
-breadcrumb-title: ''
 description: Mit dem Klon-Stempel-Werkzeug in Substance 3D Sampler können Sie Texturen klonen und Malen, um Materials nahtlos zu bearbeiten und zu reparieren.
-helpx_creative_field: ""
-helpx_description: Sampler > Filters > Tools > Clone Stamp
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Klon
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
+source-git-commit: 09278e59a21757710d15d1bb447002a4aecb25a7
 workflow-type: tm+mt
-source-wordcount: '655'
-ht-degree: 0%
-
+source-wordcount: '872'
+ht-degree: 1%
 ---
-
 
 # Klon
 
@@ -33,71 +22,113 @@ ht-degree: 0%
 
 ## Beschreibung
 
-Mit dem **Klon-Stempelwerkzeug** können Sie Teile Ihres Materials manuell duplizieren oder ausbessern. Dies ist nützlich, um Nähte zu beheben oder Fehler von Ihrem Material zu entfernen. Der **Klon-Stempelfilter** ist eines der Tools, die in der linken Seitenleiste verfügbar sind.
+Mit dem **Klon Stamp**-Tool können Sie Teile Ihres Materials manuell duplizieren oder ausbessern. Es wird hauptsächlich verwendet, um Nähte zu beheben und Fehler aus gescannten Materialien zu entfernen, z. B. Verschmutzungen, Schatten oder Artefakte. Sie können mehrere Stempelstriche aus verschiedenen Quellbereichen innerhalb einer Stempelebene Malen. Sie können jeden Klon einzeln im **Ebenenbedienfeld** verwalten.
 
 Die folgenden Bilder zeigen den **Schneestempel**, der verwendet wird, um Schutt aus einem Klon-Material zu entfernen.
 
 ![](../../assets/3d-2d-filters-cropped-0049-clone-stamp-in.jpg)
 
-In der obigen Abbildung enthält das Schnee-Material eine Reihe von Zweigen und anderen Trümmern, die um sich verstreut sind.
+Das Snow-Material besteht aus einer Reihe von Zweigen und anderen Trümmern, die um sich verstreut sind.
 
 ![](../../assets/3d-2d-filters-cropped-0048-clone-stamp-out.jpg)
 
-Der **Schneestempel** wird verwendet, um einige Zweige zu entfernen und durch Klon zu ersetzen.
+Nach Verwendung des **Schneestempels** werden die Zweige durch Klon ersetzt.
 
 </td>
 </tr>
 </table>
 
-## Tutorial zu Klon-Stempel
-
 ## Parameter
 
-<b>Basisparameter</b>
+**Basisparameter**
 
-* <b>Maske erweitern</b>: 0-1\
+* **Maske erweitern**: 0-1
+
   Passen Sie an, wie weit um den gemalten Bereich herum der Filter versucht, das darunter liegende Material abzugleichen.
-* <b>Verblassen-Überblendung</b>: 0-1\
-  Reduziere die Kante des geklonten Bereichs, um einen Übergang zum darunter liegenden Material zu schaffen.
-* <b>Weichzeichnungsmaske</b>: 0-1\
-  Passen Sie die Detailgenauigkeit der Kante des Kopierstempels an. Wenn Sie diesen Wert erhöhen, werden die Ränder des geklonten Bereichs blubenartiger.
-* <b>Verhältnis beibehalten</b>: Knebel\
-  Wenn diese Option deaktiviert ist, können Sie die Proportionen des gestempelten Bereichs anpassen.
-  * <b>Horizontal</b>: 0-2
-  * <b>Vertikal</b>: 0-2
-* <b>Drehung</b>: -180 bis 180\
-  Drehen Sie den gestempelten Bereich.
-* <b>Horizontal spiegeln</b>: Knebel\
+
+* **Verblassen-Überblendung**: 0-1
+
+  Richte einen weichen Rand des geklonten Bereichs ein, um einen natürlicheren Übergang zum umgebenden Material zu schaffen.
+
+* **Weichzeichnungsmaske**: 0-1
+
+  Passen Sie die Detailgenauigkeit der Ränder auf dem Kopierstempel an. Höhere Werte führen zu glatteren, fleckenartigeren Kanten.
+
+* **Verhältnis beibehalten**: Knebel
+
+  Wenn diese Option deaktiviert ist, können Sie die horizontalen und vertikalen Proportionen des gestempelten Bereichs unabhängig anpassen.
+
+  * **Horizontal**: 0-2
+  * **Vertikal**: 0-2
+* **Drehung**: -180 bis 180
+
+  Drehen Sie den gestempelten Bereich, um ihn an die Richtung oder Körnung des umliegenden Materials anzupassen.
+
+* **Horizontal spiegeln**: Knebel
+
   Spiegeln Sie den gestempelten Bereich entlang einer horizontalen Achse.
-* <b>Vertikal spiegeln</b>: Knebel\
+
+* **Vertikal spiegeln**: Knebel
+
   Spiegeln Sie den gestempelten Bereich entlang einer senkrechten Achse.
 
-<b>Verblassen-Überblendung</b>
+**Verblassen-Überblendung**
 
-Verwenden Sie die Steuerelemente für die Verblassen-Füllmethode, um die Verblassen-Füllmethode für jeden Kanal in Ihrem Material individuell anzupassen.
+Verwenden Sie die Steuerelemente für die Verblassen-Füllmethode pro Kanal, um die Stärke der Füllmethode für jeden Material-Kanal unabhängig voneinander anzupassen.
 
-<b>Erweitert</b>
+**Erweitert**
 
-* <b>Normale Intensität</b>: 0-2\
-  Passen Sie die Stärke der Normalen im gestempelten Bereich an.
-* <b>Quellposition</b>: \
-  0-1: Passen Sie die horizontale Quellposition an.\
-  0-1: Passen Sie die vertikale Quellposition an.
-* <b>Zielposition</b>:\
-  0-1: Passen Sie die horizontale Zielposition an.\
-  0-1: Passen Sie die vertikale Zielposition an.
-* <b>Kachelung-Modus</b>: Dropdown\
-  Aktivieren oder Deaktivieren der Kachelung.
+* **Normale Intensität**: 0-2
 
-## Benutzerhandbuch
+  Passen Sie die Stärke des Normalen-Map im gestempelten Bereich an, um zu steuern, wie die geklonte Fläche auf die Beleuchtung reagiert.
 
-Klicken Sie auf das **Klon-Stempelwerkzeug**, um eine neue Klon-Stempelfilterebene oben in Ihrem Ebenenstapel zu erstellen. Sie können auch einen Klon-Stempelfilter hinzufügen, indem Sie die **Schaltfläche &quot;Ebene hinzufügen&quot;** im **Ebenenbedienfeld** verwenden.
+* **Quellposition**:
+  * Horizontal: 0-1 — Passen Sie die horizontale Position der Klonquelle an.
+  * Vertikal: 0-1 — Passen Sie die vertikale Position der Klonquelle an.
+* **Zielposition**:
+  * Horizontal: 0-1 — Passen Sie die horizontale Position des Malen-Ziels an.
+  * Vertikal: 0-1 — Passen Sie die vertikale Position des Malen-Ziels an.
+* **Kachelung-Modus**: Dropdown
 
-Beim Erstellen einer Kopierstempel-Filterebene wird automatisch die **2D-Ansicht** im **Viewport** geöffnet. Eine **Symbolleiste** wird oben in der **2D-Ansicht** angezeigt, wenn die Klon-Stempelebene ausgewählt ist.
+  Aktivieren oder deaktivieren Sie die Kachelung beim Klonen in der Nähe von Materialien.
 
-![](../../assets/alchemist-2020-2-clone.gif){width="300px"}
+## Klon-Stempel verwenden
 
-Um mit der Verwendung des Klon-Stempels zu beginnen, klicken Sie auf den problematischen Bereich in der **2D-Ansicht** und ziehen Sie ihn über diesen. Das Material wird automatisch basierend auf der Quelle aktualisiert. Bereiche, in denen Sie das **Klon-Stempelwerkzeug** verwenden, sind hervorgehoben.
+1. Klicken Sie auf der linken Seitenleiste auf **Klon Stamp**, oder fügen Sie ihn über die Schaltfläche **Ebene hinzufügen** im **Ebenenbedienfeld** hinzu. Oben im Ebenenstapel wird eine neue Klon-Stempelebene angezeigt, und die **2D-Ansicht** wird automatisch geöffnet.
+
+1. **Quellpunkt festlegen**: Halten Sie `Ctrl` (`Cmd` in macOS) gedrückt und klicken Sie in der **2D-Ansicht** auf einen sauberen Bereich des Materials. Dadurch wird der zu kopierende Bereich definiert.
+
+   > 📸 SCREENSHOT [ID: clone-stamp-001]
+   > Anzeigen: 2D-Viewport mit einem Quellenpunkt-Fadenkreuz auf einem sauberen Bereich eines Schnee-Materials
+   > Status: Klon-Stempel-Ebene ausgewählt; Strg gedrückt halten; Quellindikator sichtbar
+   > Anmerkung: Quell-Fadenkreuz kennzeichnen
+
+1. **Malen über den Problembereich**: Klicken und ziehen Sie über den Bereich, der korrigiert werden soll. Das Material vom Quellpunkt ersetzt den gemalten Bereich in Echtzeit.
+
+   ![](../../assets/alchemist-2020-2-clone.gif){width="300px"}
+
+1. Passen Sie die **Verblassen-Überblendung** und **Maske erweitern** im **Eigenschaftenfenster** an, um die Überblendung des geklonten Bereichs mit seiner Umgebung zu optimieren.
+
+>[!NOTE]
+>
+> Vermeiden Sie es, den Quellpunkt in der Nähe des Bereichs zu platzieren, den Sie klonen. Wenn die Quelle den Problembereich überlappt, kann das Artefakt zusammen mit dem sauberen Inhalt geklont werden.
+
+## Arbeiten mit mehreren Quellen
+
+Sie können mehrere Quellpunkte innerhalb einer einzelnen Klon-Stempelebene hinzufügen, von denen jeder eine eigene Position, Drehung und Füllmethode besitzt. So kannst du mehrere verschiedene Bereiche reparieren oder aus verschiedenen sauberen Bereichen zeichnen, ohne mehrere Ebenen stapeln zu müssen.
+
+Um eine neue Quelle hinzuzufügen, halten Sie `Ctrl` (`Cmd` in macOS) gedrückt und klicken Sie in der **2D-Ansicht** auf einen neuen Bereich. Unter der Klon-Stempelebene im **Ebenenbedienfeld** wird ein neuer Stempeleintrag angezeigt.
+
+> 📸 SCREENSHOT [ID: clone-stamp-002]
+> Anzeigen: Bedienfeld &quot;Ebenen&quot; mit eingeblendeter Klon-Stempel-Ebene. Darunter sind drei verschiedene Stempeleinträge
+> Status: Klon-Stempelebene erweitert; drei sichtbare Stempel mit unterschiedlichen Quellpositionen
+> Anmerkung: Pfeil, der auf die verschachtelten Stempeleinträge im Ebenenbedienfeld zeigt
+
+Wählen Sie einen beliebigen einzelnen Stempeleintrag im **Ebenenbedienfeld** aus, um seine Parameter unabhängig im **Eigenschaftenbedienfeld** anzupassen, einschließlich der Quellposition, der Drehung und der Füllmethoden-Einstellungen.
+
+>[!TIP]
+>
+> Verwenden Sie die **Pinselvorschau** in der **2D-Ansicht**, um das Stempelergebnis anzuzeigen, bevor Sie einen Strich bestätigen. Auf diese Weise können Sie vor dem Malen überprüfen, ob der Quellbereich mit dem Umgebungsbereich übereinstimmt.
 
 ## Symbolleiste
 
@@ -110,16 +141,15 @@ Um mit der Verwendung des Klon-Stempels zu beginnen, klicken Sie auf den problem
 </td>
 <td width="83.33%" style="border: 0;" valign="top">
 
-Während die Klon-Stempel-Ebene ausgewählt ist, wird in der 2D-Ansicht eine Werkzeugleiste mit zusätzlichen Steuerelementen angezeigt.
+Während eine Klon-Stempelebene ausgewählt ist, wird eine Symbolleiste in der **2D-Ansicht** angezeigt.
 
-* Wählen Sie entweder das <b>Pinselwerkzeug </b> aus, das der Maske hinzugefügt werden soll, oder das <b>Radiergummi-Werkzeug </b>, das aus der Maske entfernt werden soll.
+* Wählen Sie **Pinselwerkzeug** aus, um es der Maske hinzuzufügen.
+* Wählen Sie **Radiergummi-Werkzeug** aus, das aus der Maske entfernt werden soll.
 * Legen Sie die Größe des aktuell ausgewählten Werkzeugs fest.
 * Zugriff auf zusätzliche Steuerelemente:
-  * <b>Pinsel-Kachelung</b>: \
-    X- und Y-Kachelung umschalten.
-  * <b>Überlagerung:</b>\
-    Stellt ein, ob die Überlagerung angezeigt wird, während der Mauszeiger über die 2D-Ansicht bewegt wird.
-* 2D-Ansichten anzeigen.
+  * **Pinsel-Kachelung**: X- und Y-Kachelung umschalten.
+  * **Überlagerung**: Wechsle zwischen Überlagerungssichtbarkeit und 2D-Ansicht.
+* **2D-Ansicht-Steuerelemente anzeigen**.
 
 </td>
 </tr>
@@ -127,20 +157,18 @@ Während die Klon-Stempel-Ebene ausgewählt ist, wird in der 2D-Ansicht eine Wer
 
 >[!NOTE]
 >
-> Wie bei anderen Ansichtsport-Symbolleisten können Sie den oberen Griff der Symbolleiste ziehen, um die Symbolleiste im Ansichtsport neu zu positionieren, auf den Griff doppelklicken, um zwischen dem vertikalen und dem horizontalen Modus zu wechseln, oder die Symbolleiste mit dem Doppelpfeil ein- bzw. ausblenden.
-
-## Quellauswahl
-
-Verwenden Sie Strg + Klicken in die 2D-Ansichten, um eine neue Quelle hinzuzufügen. Durch das Hinzufügen einer neuen Quelle wird ein zusätzlicher Klon unter der Stempelebene im <b>Ebenenbedienfeld</b> erstellt. Sie können jeden Stempel einzeln steuern.
-
->[!NOTE]
->
-> Es empfiehlt sich in der Regel, den Quellpunkt nicht in der Nähe des Bereichs zu haben, über den Sie klonen. Wenn sich der Quellpunkt in der Nähe des problematischen Bereichs befindet, können Sie den problematischen Bereich klonen.
+> Wie bei anderen Viewport-Symbolleisten können Sie den Griff oben in der Symbolleiste ziehen, um ihn neu zu positionieren, doppelklicken Sie auf den Griff, um zwischen dem vertikalen und dem horizontalen Layout zu wechseln, oder den Doppelpfeil verwenden, um ihn auszublenden oder zu erweitern.
 
 ## Tastaturkürzel
 
-| Aktion | Windows + Linux | MacOS |
+| Aktion | Windows + Linux | macOS |
 | --- | --- | --- |
-| Pinselgröße vergrößern | &rbrack; oder Strg + Mausrad | &rbrack; oder Befehl + Mausrad |
-| Pinselgröße verkleinern | &lbrack; oder Strg + Mausrad | &lbrack; oder Befehl + Mausrad |
-| Quelle festlegen. | Strg + Linksklick | Cmd + Linksklick |
+| Pinselgröße vergrößern | `]` oder `Ctrl` + Mausrad | `]` oder `Cmd` + Mausrad |
+| Pinselgröße verringern | `[` oder `Ctrl` + Mausrad | `[` oder `Cmd` + Mausrad |
+| Quelle festlegen. | `Ctrl` + Linksklick | `Cmd` + Linksklick |
+
+## Verwandte
+
+* [Verformen](./warp.md)
+* [Anordnen.](./make-it-tile.md)
+* [Bild zu Material](./image-to-material.md)
