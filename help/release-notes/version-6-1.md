@@ -22,7 +22,7 @@ Die wichtigsten neuen Funktionen sind:
 
 Erleben Sie ein schnelleres, responsiveres Erlebnis mit Sampler. Der neue **Leistungsmodus** vereint alle Einstellungen, die Ihren Arbeitsablauf verlangsamen können: Auflösungsgrenzen, Schatten, Versatz-Qualität und Pfadverfolgung. Deaktivieren Sie Funktionen, die Sie nicht zur Verbesserung der Leistung und Reaktionsfähigkeit benötigen.
 
-Weitere Informationen [*hier*](https://www.adobe.com/go/substance-3d-sampler-6.1-performance-mode)
+Weitere Informationen [*hier*](https://www.adobe.com/go/substance-3d-sampler-6.1-performance-mode_de)
 
 ![](../assets/v6.1/6_1-Performance_Mode.png)
 
@@ -30,7 +30,7 @@ Weitere Informationen [*hier*](https://www.adobe.com/go/substance-3d-sampler-6.1
 
 Wenn Ihre Hardware die [minimale Spezifikation](../getting-started/system-requirements.md) unterschreitet, passt sich Sampler jetzt automatisch an, um die Stabilität zu gewährleisten. Die Funktionen, die die meisten Dinge verlangsamen oder einen Absturz verursachen, werden automatisch deaktiviert.
 
-Weitere Informationen [*hier*](https://www.adobe.com/go/substance-3d-sampler-6.1-low-specs-mode)
+Weitere Informationen [*hier*](https://www.adobe.com/go/substance-3d-sampler-6.1-low-specs-mode_de)
 
 ![](../assets/v6.1/6_1-Checked.png)
 
