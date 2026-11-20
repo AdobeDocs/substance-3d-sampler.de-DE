@@ -2,15 +2,11 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: false
-hold: true
-source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
+source-git-commit: 09278e59a21757710d15d1bb447002a4aecb25a7
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 16%
-
+source-wordcount: '641'
+ht-degree: 15%
 ---
-
 
 # Substance 3D Sampler {#using}
 
@@ -21,7 +17,6 @@ ht-degree: 16%
   + [Systemanforderungen](/help/getting-started/system-requirements.md)
   + [Tastaturkürzel](/help/getting-started/shortcuts.md)
   + [Ressourcen importieren](/help/getting-started/importing-resources.md)
-  + [Programmfehler melden](/help/getting-started/report-a-bug.md)
   + [Projektmanagement](/help/getting-started/project-management.md)
   + Exportieren{#export}
     + [Exportübersicht](/help/getting-started/export/export.md)
@@ -116,6 +111,7 @@ ht-degree: 16%
     + [Generierung von Kanälen](/help/filters/tools/channels-generation.md)
     + [Kanalschalter](/help/filters/tools/channel-switch.md)
     + [Klon](/help/filters/tools/clone-stamp.md)
+    + {hide-from-toc}[Inhaltsbasierte Füllung](/help/filters/tools/content-aware-fill.md)
     + [Freistellungswerkzeug](/help/filters/tools/crop-tool.md)
     + [Delight - KI-gestützt](/help/filters/tools/delight-ai-powered.md)
     + [Height in AO](/help/filters/tools/height-to-ao.md)
@@ -126,9 +122,10 @@ ht-degree: 16%
     + [Mehrwinkel zu Material](/help/filters/tools/multiangle-to-material.md)
     + [Normal zu Height](/help/filters/tools/normal-to-height.md)
     + [PBR-Validierung](/help/filters/tools/pbr-validate.md)
-    + [Perspektivkorrektur](/help/filters/tools/perspective-correction.md)
+    + [Perspektive Transformieren](/help/filters/tools/perspective-correction.md)
     + [Kacheln](/help/filters/tools/tiling.md)
     + [Transformieren](/help/filters/tools/transform.md)
+    + {hide-from-toc}[Malen Warp](/help/filters/tools/paint-warp.md)
     + [Verformen](/help/filters/tools/warp.md)
     + [Transformieren Verkrümmen](/help/filters/tools/warp-transform.md)
     + [Hochskalieren](/help/filters/tools/upscale.md)
@@ -155,6 +152,7 @@ ht-degree: 16%
     + [Dust](/help/filters/wear-and-finish/dust.md)
     + [Erodieren](/help/filters/wear-and-finish/erode.md)
     + [Metallisierung](/help/filters/wear-and-finish/metal-finish.md)
+    + {hide-from-toc}[Holzfertigstellung](/help/filters/wear-and-finish/wood-finish.md)
     + [Moos](/help/filters/wear-and-finish/moss.md)
     + [oxidieren](/help/filters/wear-and-finish/oxidate.md)
     + [Farbe](/help/filters/wear-and-finish/paint.md)
@@ -192,9 +190,12 @@ ht-degree: 16%
     + [Systemanforderungen für die Verwendung des HP Z Captis-Geräts](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
     + [Häufig gestellte Fragen zur Unterstützung von HP Z in Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [Bekannte Probleme und Einschränkungen](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
-  + [Tajima Exporter-Plugin](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
+  + [Tajima Exporter Plugin](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Technischer Support{#technical-support}
   + [Technischer Support - Übersicht](/help/technical-support/technical-support.md)
+  + {hide-from-toc}[Leistungsmodus](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[Modus mit niedriger Spezifikation](/help/technical-support/low-spec-mode.md)
+  + {hide-from-toc}[Fehler melden](/help/getting-started/report-a-bug.md)
   + [Exportieren der Protokolldatei](/help/technical-support/exporting-the-log-file.md)
   + Konfiguration{#configuration}
     + [Konfigurationsübersicht](/help/technical-support/configuration/configuration.md)
@@ -222,7 +223,7 @@ ht-degree: 16%
   + Stabilitätsprobleme{#stability-issues}
     + [Überblick über Stabilitätsprobleme](/help/technical-support/technical-issues/stability-issues/stability-issues.md)
     + [Absturz beim Exportieren eines Materials](/help/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.md)
-    + [Absturz bei Verwendung des Bildes zum Material oder Delighter](/help/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
+    + [Absturz bei Verwendung des Bildes zu Material oder Delighter](/help/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
   + Startprobleme{#startup-issues}
     + [Übersicht über Startprobleme](/help/technical-support/technical-issues/startup-issues/startup-issues.md)
     + [Die Anwendung wird unter Linux nicht gestartet](/help/technical-support/technical-issues/startup-issues/application-doesn-t-start-on-linux.md)
@@ -231,6 +232,7 @@ ht-degree: 16%
   + [Versionshinweise - Übersicht](/help/release-notes/release-notes.md)
   + [Alle Änderungen](/help/release-notes/all-changes.md)
   + [Beta](/help/release-notes/beta-version.md)
+  + {hide-from-toc}[Version 6.1](/help/release-notes/version-6-1.md)
   + [Version 6.0](/help/release-notes/version-6-0.md)
   + [Version 5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [Version 5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)

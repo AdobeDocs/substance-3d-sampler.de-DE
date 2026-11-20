@@ -10,9 +10,10 @@ helpx_tags: ''
 title: Systemanforderungen
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
+hold: true
+source-git-commit: 8b2438eb381e35c19ab379a5fc14c962fd5b9b0a
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '684'
 ht-degree: 1%
 ---
 
@@ -27,6 +28,14 @@ Im Folgenden finden Sie eine Liste der von der Anwendung unterstützten Hardware
 > * 610.47
 >
 > Wir empfehlen, die Verwendung dieser Versionen zu vermeiden. Verwenden Sie idealerweise eine neuere Version oder, wenn keine neuere Version verfügbar ist, die vorherige Version.
+
+>[!NOTE]
+>
+> Wenn Ihre Hardware die Mindestsystemanforderungen nicht erfüllt, wird Sampler automatisch im [Modus mit niedriger Spezifikation](../technical-support/low-spec-mode.md) geöffnet, wodurch einige Funktionen eingeschränkt sind.
+
+>[!TIP]
+>
+> Wenn Sie die Leistung von Sampler verbessern möchten, verwenden Sie den [Leistungsmodus](../technical-support/performance-mode.md), um ressourcenintensive Funktionen zu deaktivieren.
 
 ## Windows
 
