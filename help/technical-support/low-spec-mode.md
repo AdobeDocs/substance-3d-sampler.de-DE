@@ -28,7 +28,7 @@ Darüber hinaus verhindert der Modus mit niedriger Spezifikation Exporte über 2
 
 ![](../assets/low-spec-mode-export-message.png)
 
-*Diese Meldung wird im **Exportfenster**angezeigt, während Sie sich im **Modus mit niedriger Spezifikation**befinden, um zusätzliche Informationen bereitzustellen.*
+*Diese Meldung wird im **Exportfenster**&#x200B;angezeigt, während Sie sich im **Modus mit niedriger Spezifikation**&#x200B;befinden, um zusätzliche Informationen bereitzustellen.*
 
 ## Wie finde ich heraus, ob der Modus für niedrige Spezifikationen aktiviert ist?
 

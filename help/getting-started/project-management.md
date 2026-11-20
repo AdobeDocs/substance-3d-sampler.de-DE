@@ -24,7 +24,7 @@ Um ein neues Projekt zu erstellen, wählen Sie **Neues Projekt erstellen** auf d
 
 Alternativ können Sie die Schaltfläche **Schnellstart** verwenden, um direkt in ein leeres Projekt zu springen. Sie können Elemente und Inhalte weiterhin nach Bedarf manuell importieren.
 
-Nach dem Klicken auf die Schaltfläche &quot;Neu erstellen&quot; wird das Projekt automatisch geöffnet und mit dem Namen &quot;*Unbenanntes Projekt\**&quot; versehen, bis Sie Ihr Projekt speichern. Sie können Elemente zu Ihrem Projekt hinzufügen, indem Sie im **Projektfenster** die **Schaltfläche &quot;Neues Element&quot;** markieren.
+Nach dem Klicken auf die Schaltfläche &quot;Neu erstellen&quot; wird das Projekt automatisch geöffnet und mit dem Namen &quot;*Unbenanntes Projekt\**&quot; versehen, bis Sie Ihr Projekt speichern. Sie können Elemente zu Ihrem Projekt hinzufügen, indem Sie im &#x200B;** Projektfenster **&#x200B; die &#x200B;** Schaltfläche &quot;Neues Element&quot;** markieren.
 
 ![](../assets/Project_CreateNew_1.png){width="600px"}
 
